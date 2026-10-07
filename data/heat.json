@@ -1,0 +1,3591 @@
+{
+ "generatedAt": "2026-10-07",
+ "windowDays": 90,
+ "from": "2026-07-09",
+ "to": "2026-10-07",
+ "sources": [
+  "自由時報站內搜尋的新聞則數",
+  "PTT 各縣市地方板的文章標題與推文數"
+ ],
+ "counties": {
+  "penghu": {
+   "enough": true,
+   "usesPtt": false,
+   "newsTotal": 1240,
+   "ptt": {
+    "boards": [
+     "PH-sea"
+    ],
+    "posts": 3,
+    "classified": 0
+   },
+   "domains": [
+    {
+     "id": "transport",
+     "index": 0.1718,
+     "lift": 0.97,
+     "news": 213,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "交通",
+      "停車"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.1645,
+     "lift": 1.68,
+     "news": 204,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "觀光",
+      "體育"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.1395,
+     "lift": 1.29,
+     "news": 173,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "醫療",
+      "醫院"
+     ]
+    },
+    {
+     "id": "education",
+     "index": 0.1202,
+     "lift": 1.06,
+     "news": 149,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "教育",
+      "托育"
+     ]
+    },
+    {
+     "id": "economy",
+     "index": 0.0831,
+     "lift": 0.68,
+     "news": 103,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "產業",
+      "就業"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.0653,
+     "lift": 0.62,
+     "news": 81,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "預算",
+      "議會"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.0629,
+     "lift": 0.84,
+     "news": 78,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "漁業",
+      "農業"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.0605,
+     "lift": 1.09,
+     "news": 75,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "返鄉"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.0589,
+     "lift": 0.93,
+     "news": 73,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "淹水",
+      "治安"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.0411,
+     "lift": 0.95,
+     "news": 51,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "弱勢",
+      "社福"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.0234,
+     "lift": 1.23,
+     "news": 29,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "垃圾",
+      "空污"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.0089,
+     "lift": 0.47,
+     "news": 11,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "都更",
+      "房價"
+     ]
+    }
+   ]
+  },
+  "taipei": {
+   "enough": true,
+   "usesPtt": true,
+   "newsTotal": 24799,
+   "ptt": {
+    "boards": [
+     "Taipei"
+    ],
+    "posts": 32,
+    "classified": 22
+   },
+   "domains": [
+    {
+     "id": "transport",
+     "index": 0.4174,
+     "lift": 0.7,
+     "news": 3067,
+     "ptt": 16,
+     "pttPushes": 0,
+     "terms": [
+      "交通",
+      "停車",
+      "YouBike"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.1179,
+     "lift": 1.16,
+     "news": 3094,
+     "ptt": 2,
+     "pttPushes": 5,
+     "terms": [
+      "醫療",
+      "醫院",
+      "診所"
+     ]
+    },
+    {
+     "id": "economy",
+     "index": 0.1095,
+     "lift": 1.43,
+     "news": 4329,
+     "ptt": 1,
+     "pttPushes": 0,
+     "terms": [
+      "產業",
+      "就業",
+      "投資"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.0846,
+     "lift": 1.59,
+     "news": 4195,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "預算",
+      "議會"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.066,
+     "lift": 0.99,
+     "news": 1067,
+     "ptt": 2,
+     "pttPushes": 0,
+     "terms": [
+      "弱勢",
+      "社福",
+      "補助"
+     ]
+    },
+    {
+     "id": "education",
+     "index": 0.0644,
+     "lift": 1.13,
+     "news": 3196,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "教育",
+      "營養午餐"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.0536,
+     "lift": 0.64,
+     "news": 1556,
+     "ptt": 1,
+     "pttPushes": 0,
+     "terms": [
+      "觀光",
+      "體育",
+      "夜市"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.023,
+     "lift": 0.73,
+     "news": 1143,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "詐騙",
+      "淹水"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.0229,
+     "lift": 0.83,
+     "news": 1138,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "返鄉"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.0157,
+     "lift": 0.42,
+     "news": 781,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "農業",
+      "農民"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.0151,
+     "lift": 1.59,
+     "news": 750,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "都更",
+      "房價"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.0097,
+     "lift": 1.03,
+     "news": 483,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "垃圾",
+      "光電"
+     ]
+    }
+   ]
+  },
+  "new-taipei": {
+   "enough": true,
+   "usesPtt": true,
+   "newsTotal": 7227,
+   "ptt": {
+    "boards": [
+     "BigBanciao"
+    ],
+    "posts": 286,
+    "classified": 72
+   },
+   "domains": [
+    {
+     "id": "transport",
+     "index": 0.2867,
+     "lift": 1.21,
+     "news": 1549,
+     "ptt": 29,
+     "pttPushes": 49,
+     "terms": [
+      "交通",
+      "停車",
+      "機車"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.1061,
+     "lift": 1.23,
+     "news": 959,
+     "ptt": 7,
+     "pttPushes": 5,
+     "terms": [
+      "醫院",
+      "醫療",
+      "診所"
+     ]
+    },
+    {
+     "id": "education",
+     "index": 0.0861,
+     "lift": 0.92,
+     "news": 755,
+     "ptt": 6,
+     "pttPushes": 4,
+     "terms": [
+      "教育",
+      "托育",
+      "國中"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.0806,
+     "lift": 0.86,
+     "news": 392,
+     "ptt": 10,
+     "pttPushes": 1,
+     "terms": [
+      "詐騙",
+      "淹水",
+      "颱風"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.0762,
+     "lift": 0.99,
+     "news": 757,
+     "ptt": 4,
+     "pttPushes": 5,
+     "terms": [
+      "議會",
+      "預算",
+      "招標"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.0753,
+     "lift": 0.85,
+     "news": 599,
+     "ptt": 6,
+     "pttPushes": 4,
+     "terms": [
+      "觀光",
+      "體育",
+      "運動中心"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.0712,
+     "lift": 2.64,
+     "news": 363,
+     "ptt": 8,
+     "pttPushes": 7,
+     "terms": [
+      "房價",
+      "都更",
+      "租金"
+     ]
+    },
+    {
+     "id": "economy",
+     "index": 0.0687,
+     "lift": 0.95,
+     "news": 840,
+     "ptt": 2,
+     "pttPushes": 0,
+     "terms": [
+      "產業",
+      "就業",
+      "園區"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.065,
+     "lift": 0.83,
+     "news": 113,
+     "ptt": 8,
+     "pttPushes": 28,
+     "terms": [
+      "垃圾",
+      "光電",
+      "公園"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.0425,
+     "lift": 0.96,
+     "news": 300,
+     "ptt": 4,
+     "pttPushes": 1,
+     "terms": [
+      "弱勢",
+      "社福",
+      "社工"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.0273,
+     "lift": 0.99,
+     "news": 395,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "返鄉"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.0142,
+     "lift": 0.38,
+     "news": 205,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "農業",
+      "漁業"
+     ]
+    }
+   ]
+  },
+  "taoyuan": {
+   "enough": true,
+   "usesPtt": true,
+   "newsTotal": 4836,
+   "ptt": {
+    "boards": [
+     "Taoyuan",
+     "ChungLi"
+    ],
+    "posts": 155,
+    "classified": 64
+   },
+   "domains": [
+    {
+     "id": "transport",
+     "index": 0.368,
+     "lift": 1.3,
+     "news": 1115,
+     "ptt": 36,
+     "pttPushes": 107,
+     "terms": [
+      "交通",
+      "停車",
+      "YouBike"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.1522,
+     "lift": 1.1,
+     "news": 577,
+     "ptt": 12,
+     "pttPushes": 51,
+     "terms": [
+      "醫院",
+      "醫療",
+      "診所"
+     ]
+    },
+    {
+     "id": "economy",
+     "index": 0.1383,
+     "lift": 1.13,
+     "news": 668,
+     "ptt": 8,
+     "pttPushes": 48,
+     "terms": [
+      "產業",
+      "就業",
+      "園區"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.094,
+     "lift": 1.1,
+     "news": 522,
+     "ptt": 6,
+     "pttPushes": 14,
+     "terms": [
+      "觀光",
+      "體育",
+      "藝文"
+     ]
+    },
+    {
+     "id": "education",
+     "index": 0.0596,
+     "lift": 0.84,
+     "news": 461,
+     "ptt": 2,
+     "pttPushes": 2,
+     "terms": [
+      "教育",
+      "托育",
+      "高中"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.0475,
+     "lift": 0.89,
+     "news": 459,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "議會",
+      "預算"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.0376,
+     "lift": 0.76,
+     "news": 233,
+     "ptt": 2,
+     "pttPushes": 5,
+     "terms": [
+      "詐騙",
+      "治安",
+      "颱風"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.0295,
+     "lift": 0.57,
+     "news": 207,
+     "ptt": 1,
+     "pttPushes": 5,
+     "terms": [
+      "農業",
+      "農民",
+      "農地"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.024,
+     "lift": 1.84,
+     "news": 169,
+     "ptt": 1,
+     "pttPushes": 2,
+     "terms": [
+      "房價",
+      "社宅",
+      "重劃"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.0209,
+     "lift": 0.72,
+     "news": 150,
+     "ptt": 1,
+     "pttPushes": 0,
+     "terms": [
+      "弱勢",
+      "社福",
+      "補助"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.0206,
+     "lift": 0.74,
+     "news": 199,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "返鄉"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.0079,
+     "lift": 0.83,
+     "news": 76,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "垃圾",
+      "光電"
+     ]
+    }
+   ]
+  },
+  "taichung": {
+   "enough": true,
+   "usesPtt": true,
+   "newsTotal": 7201,
+   "ptt": {
+    "boards": [
+     "TaichungBun"
+    ],
+    "posts": 160,
+    "classified": 49
+   },
+   "domains": [
+    {
+     "id": "transport",
+     "index": 0.3199,
+     "lift": 1.05,
+     "news": 1343,
+     "ptt": 24,
+     "pttPushes": 309,
+     "terms": [
+      "交通",
+      "停車",
+      "YouBike"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.1183,
+     "lift": 1.65,
+     "news": 1258,
+     "ptt": 2,
+     "pttPushes": 55,
+     "terms": [
+      "議會",
+      "預算",
+      "陳情"
+     ]
+    },
+    {
+     "id": "education",
+     "index": 0.0932,
+     "lift": 0.81,
+     "news": 664,
+     "ptt": 5,
+     "pttPushes": 64,
+     "terms": [
+      "教育",
+      "營養午餐",
+      "老師"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.0762,
+     "lift": 0.66,
+     "news": 467,
+     "ptt": 5,
+     "pttPushes": 56,
+     "terms": [
+      "觀光",
+      "體育",
+      "音樂節"
+     ]
+    },
+    {
+     "id": "economy",
+     "index": 0.0753,
+     "lift": 0.97,
+     "news": 853,
+     "ptt": 2,
+     "pttPushes": 19,
+     "terms": [
+      "產業",
+      "就業",
+      "勞工"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.0752,
+     "lift": 1.21,
+     "news": 940,
+     "ptt": 2,
+     "pttPushes": 4,
+     "terms": [
+      "醫院",
+      "醫療",
+      "流感"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.0572,
+     "lift": 0.97,
+     "news": 443,
+     "ptt": 3,
+     "pttPushes": 34,
+     "terms": [
+      "詐騙",
+      "治安",
+      "警察"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.0504,
+     "lift": 0.9,
+     "news": 280,
+     "ptt": 2,
+     "pttPushes": 55,
+     "terms": [
+      "弱勢",
+      "社福",
+      "家暴"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.0475,
+     "lift": 1.35,
+     "news": 184,
+     "ptt": 5,
+     "pttPushes": 34,
+     "terms": [
+      "垃圾",
+      "空污",
+      "噪音"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.0465,
+     "lift": 1.37,
+     "news": 188,
+     "ptt": 2,
+     "pttPushes": 61,
+     "terms": [
+      "房價",
+      "都更",
+      "重劃"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.0213,
+     "lift": 0.57,
+     "news": 307,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "農業",
+      "農民"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.019,
+     "lift": 0.69,
+     "news": 274,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "返鄉"
+     ]
+    }
+   ]
+  },
+  "tainan": {
+   "enough": true,
+   "usesPtt": true,
+   "newsTotal": 5002,
+   "ptt": {
+    "boards": [
+     "Tainan"
+    ],
+    "posts": 324,
+    "classified": 112
+   },
+   "domains": [
+    {
+     "id": "education",
+     "index": 0.1721,
+     "lift": 1.26,
+     "news": 719,
+     "ptt": 24,
+     "pttPushes": 182,
+     "terms": [
+      "教育",
+      "營養午餐",
+      "學生"
+     ]
+    },
+    {
+     "id": "transport",
+     "index": 0.1601,
+     "lift": 0.77,
+     "news": 682,
+     "ptt": 23,
+     "pttPushes": 157,
+     "terms": [
+      "交通",
+      "停車",
+      "通車"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.1097,
+     "lift": 0.99,
+     "news": 482,
+     "ptt": 20,
+     "pttPushes": 59,
+     "terms": [
+      "觀光",
+      "體育",
+      "文化"
+     ]
+    },
+    {
+     "id": "economy",
+     "index": 0.1062,
+     "lift": 1.12,
+     "news": 685,
+     "ptt": 13,
+     "pttPushes": 29,
+     "terms": [
+      "產業",
+      "就業",
+      "園區"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.0976,
+     "lift": 0.8,
+     "news": 423,
+     "ptt": 11,
+     "pttPushes": 123,
+     "terms": [
+      "預算",
+      "議會"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.0866,
+     "lift": 1.12,
+     "news": 607,
+     "ptt": 9,
+     "pttPushes": 19,
+     "terms": [
+      "醫院",
+      "醫療",
+      "登革熱"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.0608,
+     "lift": 1.2,
+     "news": 114,
+     "ptt": 9,
+     "pttPushes": 118,
+     "terms": [
+      "房價",
+      "都更",
+      "重劃"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.0558,
+     "lift": 1.01,
+     "news": 219,
+     "ptt": 6,
+     "pttPushes": 83,
+     "terms": [
+      "弱勢",
+      "社福",
+      "補助"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.0469,
+     "lift": 1.18,
+     "news": 443,
+     "ptt": 1,
+     "pttPushes": 1,
+     "terms": [
+      "農業",
+      "農民",
+      "農產"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.0418,
+     "lift": 1.05,
+     "news": 100,
+     "ptt": 7,
+     "pttPushes": 64,
+     "terms": [
+      "光電",
+      "垃圾",
+      "公園"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.0398,
+     "lift": 0.95,
+     "news": 301,
+     "ptt": 3,
+     "pttPushes": 11,
+     "terms": [
+      "淹水",
+      "詐騙",
+      "消防"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.0227,
+     "lift": 0.82,
+     "news": 227,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "返鄉"
+     ]
+    }
+   ]
+  },
+  "kaohsiung": {
+   "enough": true,
+   "usesPtt": true,
+   "newsTotal": 7148,
+   "ptt": {
+    "boards": [
+     "Kaohsiung"
+    ],
+    "posts": 347,
+    "classified": 114
+   },
+   "domains": [
+    {
+     "id": "transport",
+     "index": 0.2857,
+     "lift": 1.05,
+     "news": 1333,
+     "ptt": 47,
+     "pttPushes": 604,
+     "terms": [
+      "交通",
+      "停車",
+      "YouBike"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.1284,
+     "lift": 1.16,
+     "news": 524,
+     "ptt": 18,
+     "pttPushes": 332,
+     "terms": [
+      "淹水",
+      "詐騙",
+      "治水"
+     ]
+    },
+    {
+     "id": "economy",
+     "index": 0.1015,
+     "lift": 1.19,
+     "news": 1034,
+     "ptt": 9,
+     "pttPushes": 73,
+     "terms": [
+      "產業",
+      "就業",
+      "台積電"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.0878,
+     "lift": 1.0,
+     "news": 773,
+     "ptt": 12,
+     "pttPushes": 68,
+     "terms": [
+      "醫院",
+      "醫療",
+      "診所"
+     ]
+    },
+    {
+     "id": "education",
+     "index": 0.0861,
+     "lift": 0.96,
+     "news": 783,
+     "ptt": 7,
+     "pttPushes": 105,
+     "terms": [
+      "教育",
+      "托育",
+      "國中"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.0849,
+     "lift": 0.97,
+     "news": 737,
+     "ptt": 5,
+     "pttPushes": 136,
+     "terms": [
+      "預算",
+      "議會"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.0762,
+     "lift": 0.79,
+     "news": 554,
+     "ptt": 14,
+     "pttPushes": 69,
+     "terms": [
+      "觀光",
+      "體育",
+      "文化"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.0538,
+     "lift": 0.82,
+     "news": 438,
+     "ptt": 5,
+     "pttPushes": 79,
+     "terms": [
+      "農業",
+      "漁業",
+      "漁港"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.03,
+     "lift": 0.86,
+     "news": 116,
+     "ptt": 4,
+     "pttPushes": 82,
+     "terms": [
+      "垃圾",
+      "光電",
+      "回收"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.0281,
+     "lift": 1.02,
+     "news": 402,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "返鄉"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.0189,
+     "lift": 0.76,
+     "news": 235,
+     "ptt": 1,
+     "pttPushes": 4,
+     "terms": [
+      "弱勢",
+      "社福"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.0185,
+     "lift": 1.61,
+     "news": 219,
+     "ptt": 1,
+     "pttPushes": 8,
+     "terms": [
+      "房價",
+      "都更",
+      "租屋"
+     ]
+    }
+   ]
+  },
+  "keelung": {
+   "enough": true,
+   "usesPtt": false,
+   "newsTotal": 2131,
+   "ptt": {
+    "boards": [
+     "Keelung"
+    ],
+    "posts": 49,
+    "classified": 12
+   },
+   "domains": [
+    {
+     "id": "transport",
+     "index": 0.2534,
+     "lift": 1.43,
+     "news": 540,
+     "ptt": 4,
+     "pttPushes": 30,
+     "terms": [
+      "交通",
+      "停車"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.129,
+     "lift": 1.22,
+     "news": 275,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "預算",
+      "議會"
+     ]
+    },
+    {
+     "id": "education",
+     "index": 0.1098,
+     "lift": 0.96,
+     "news": 234,
+     "ptt": 3,
+     "pttPushes": 13,
+     "terms": [
+      "教育",
+      "營養午餐"
+     ]
+    },
+    {
+     "id": "economy",
+     "index": 0.1061,
+     "lift": 0.87,
+     "news": 226,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "產業",
+      "就業"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.1023,
+     "lift": 0.95,
+     "news": 218,
+     "ptt": 1,
+     "pttPushes": 0,
+     "terms": [
+      "醫院",
+      "醫療"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.0849,
+     "lift": 0.87,
+     "news": 181,
+     "ptt": 1,
+     "pttPushes": 1,
+     "terms": [
+      "觀光",
+      "體育"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.0788,
+     "lift": 1.24,
+     "news": 168,
+     "ptt": 2,
+     "pttPushes": 2,
+     "terms": [
+      "淹水",
+      "詐騙"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.0422,
+     "lift": 0.76,
+     "news": 90,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "返鄉"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.0305,
+     "lift": 0.71,
+     "news": 65,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "弱勢",
+      "社福"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.023,
+     "lift": 0.31,
+     "news": 49,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "農業",
+      "漁業"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.0206,
+     "lift": 1.09,
+     "news": 44,
+     "ptt": 1,
+     "pttPushes": 0,
+     "terms": [
+      "房價",
+      "都更"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.0192,
+     "lift": 1.02,
+     "news": 41,
+     "ptt": 2,
+     "pttPushes": 13,
+     "terms": [
+      "垃圾",
+      "空污"
+     ]
+    }
+   ]
+  },
+  "hsinchu-city": {
+   "enough": true,
+   "usesPtt": true,
+   "newsTotal": 1464,
+   "ptt": {
+    "boards": [
+     "Hsinchu"
+    ],
+    "posts": 203,
+    "classified": 60
+   },
+   "domains": [
+    {
+     "id": "transport",
+     "index": 0.3407,
+     "lift": 1.22,
+     "news": 316,
+     "ptt": 33,
+     "pttPushes": 280,
+     "terms": [
+      "交通",
+      "停車",
+      "高鐵"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.1707,
+     "lift": 0.78,
+     "news": 111,
+     "ptt": 11,
+     "pttPushes": 238,
+     "terms": [
+      "觀光",
+      "藝文",
+      "球場"
+     ]
+    },
+    {
+     "id": "education",
+     "index": 0.1235,
+     "lift": 1.74,
+     "news": 290,
+     "ptt": 5,
+     "pttPushes": 14,
+     "terms": [
+      "教育",
+      "營養午餐",
+      "國小"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.1022,
+     "lift": 1.36,
+     "news": 212,
+     "ptt": 1,
+     "pttPushes": 68,
+     "terms": [
+      "議會",
+      "預算",
+      "負債"
+     ]
+    },
+    {
+     "id": "economy",
+     "index": 0.0718,
+     "lift": 1.12,
+     "news": 199,
+     "ptt": 1,
+     "pttPushes": 0,
+     "terms": [
+      "產業",
+      "就業",
+      "園區"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.0394,
+     "lift": 1.26,
+     "news": 35,
+     "ptt": 3,
+     "pttPushes": 42,
+     "terms": [
+      "房價",
+      "社宅",
+      "房市"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.0334,
+     "lift": 0.45,
+     "news": 71,
+     "ptt": 1,
+     "pttPushes": 14,
+     "terms": [
+      "醫療",
+      "醫院",
+      "診所"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.0278,
+     "lift": 0.92,
+     "news": 58,
+     "ptt": 2,
+     "pttPushes": 1,
+     "terms": [
+      "社福",
+      "津貼",
+      "毛小孩"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.025,
+     "lift": 0.57,
+     "news": 53,
+     "ptt": 1,
+     "pttPushes": 8,
+     "terms": [
+      "淹水",
+      "詐騙",
+      "警察"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.0241,
+     "lift": 0.61,
+     "news": 17,
+     "ptt": 3,
+     "pttPushes": 18,
+     "terms": [
+      "垃圾",
+      "空污",
+      "公園"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.0232,
+     "lift": 0.84,
+     "news": 68,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "青創"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.0181,
+     "lift": 0.31,
+     "news": 34,
+     "ptt": 1,
+     "pttPushes": 7,
+     "terms": [
+      "農業",
+      "農民",
+      "農地"
+     ]
+    }
+   ]
+  },
+  "hsinchu-county": {
+   "enough": true,
+   "usesPtt": true,
+   "newsTotal": 1828,
+   "ptt": {
+    "boards": [
+     "Hsinchu"
+    ],
+    "posts": 203,
+    "classified": 60
+   },
+   "domains": [
+    {
+     "id": "transport",
+     "index": 0.3316,
+     "lift": 1.11,
+     "news": 361,
+     "ptt": 33,
+     "pttPushes": 280,
+     "terms": [
+      "交通",
+      "停車",
+      "高鐵"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.1722,
+     "lift": 0.81,
+     "news": 144,
+     "ptt": 11,
+     "pttPushes": 238,
+     "terms": [
+      "觀光",
+      "體育",
+      "球場"
+     ]
+    },
+    {
+     "id": "education",
+     "index": 0.1027,
+     "lift": 1.37,
+     "news": 286,
+     "ptt": 5,
+     "pttPushes": 14,
+     "terms": [
+      "教育",
+      "托育",
+      "國小"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.0894,
+     "lift": 1.12,
+     "news": 218,
+     "ptt": 1,
+     "pttPushes": 68,
+     "terms": [
+      "預算",
+      "議會",
+      "負債"
+     ]
+    },
+    {
+     "id": "economy",
+     "index": 0.073,
+     "lift": 1.14,
+     "news": 253,
+     "ptt": 1,
+     "pttPushes": 0,
+     "terms": [
+      "產業",
+      "就業",
+      "園區"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.0475,
+     "lift": 0.71,
+     "news": 140,
+     "ptt": 1,
+     "pttPushes": 14,
+     "terms": [
+      "醫療",
+      "醫院",
+      "診所"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.0447,
+     "lift": 1.81,
+     "news": 63,
+     "ptt": 3,
+     "pttPushes": 42,
+     "terms": [
+      "房價",
+      "都更",
+      "房市"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.0317,
+     "lift": 0.67,
+     "news": 92,
+     "ptt": 1,
+     "pttPushes": 7,
+     "terms": [
+      "農業",
+      "農民",
+      "農地"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.0312,
+     "lift": 0.77,
+     "news": 89,
+     "ptt": 1,
+     "pttPushes": 8,
+     "terms": [
+      "淹水",
+      "治安",
+      "警察"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.0284,
+     "lift": 1.07,
+     "news": 37,
+     "ptt": 3,
+     "pttPushes": 18,
+     "terms": [
+      "垃圾",
+      "光電",
+      "公園"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.0261,
+     "lift": 0.83,
+     "news": 66,
+     "ptt": 2,
+     "pttPushes": 1,
+     "terms": [
+      "弱勢",
+      "社福",
+      "毛小孩"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.0216,
+     "lift": 0.78,
+     "news": 79,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "返鄉"
+     ]
+    }
+   ]
+  },
+  "miaoli": {
+   "enough": true,
+   "usesPtt": false,
+   "newsTotal": 2061,
+   "ptt": {
+    "boards": [
+     "Miaoli"
+    ],
+    "posts": 13,
+    "classified": 1
+   },
+   "domains": [
+    {
+     "id": "transport",
+     "index": 0.1737,
+     "lift": 0.98,
+     "news": 358,
+     "ptt": 1,
+     "pttPushes": 0,
+     "terms": [
+      "交通",
+      "停車"
+     ]
+    },
+    {
+     "id": "education",
+     "index": 0.1349,
+     "lift": 1.18,
+     "news": 278,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "教育",
+      "托育"
+     ]
+    },
+    {
+     "id": "economy",
+     "index": 0.1184,
+     "lift": 0.97,
+     "news": 244,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "產業",
+      "就業"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.1179,
+     "lift": 1.09,
+     "news": 243,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "醫療",
+      "醫院"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.0936,
+     "lift": 0.96,
+     "news": 193,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "觀光",
+      "體育"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.0898,
+     "lift": 1.2,
+     "news": 185,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "農業",
+      "農民"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.0791,
+     "lift": 0.74,
+     "news": 163,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "預算",
+      "議會"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.0655,
+     "lift": 1.18,
+     "news": 135,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "返鄉"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.0548,
+     "lift": 0.86,
+     "news": 113,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "淹水",
+      "詐騙"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.0456,
+     "lift": 1.05,
+     "news": 94,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "弱勢",
+      "社福"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.0189,
+     "lift": 1.0,
+     "news": 39,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "垃圾",
+      "光電"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.0078,
+     "lift": 0.41,
+     "news": 16,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "房價",
+      "社宅"
+     ]
+    }
+   ]
+  },
+  "changhua": {
+   "enough": true,
+   "usesPtt": true,
+   "newsTotal": 2540,
+   "ptt": {
+    "boards": [
+     "ChangHua"
+    ],
+    "posts": 77,
+    "classified": 18
+   },
+   "domains": [
+    {
+     "id": "transport",
+     "index": 0.225,
+     "lift": 0.85,
+     "news": 382,
+     "ptt": 8,
+     "pttPushes": 56,
+     "terms": [
+      "交通",
+      "停車",
+      "交流道"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.1792,
+     "lift": 1.09,
+     "news": 295,
+     "ptt": 1,
+     "pttPushes": 100,
+     "terms": [
+      "議會",
+      "預算"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.1218,
+     "lift": 1.69,
+     "news": 272,
+     "ptt": 3,
+     "pttPushes": 32,
+     "terms": [
+      "詐騙",
+      "淹水",
+      "警察"
+     ]
+    },
+    {
+     "id": "economy",
+     "index": 0.099,
+     "lift": 0.96,
+     "news": 296,
+     "ptt": 2,
+     "pttPushes": 17,
+     "terms": [
+      "產業",
+      "就業",
+      "招商"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.0748,
+     "lift": 1.39,
+     "news": 380,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "醫院",
+      "醫療"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.0748,
+     "lift": 0.63,
+     "news": 156,
+     "ptt": 3,
+     "pttPushes": 10,
+     "terms": [
+      "觀光",
+      "體育",
+      "展覽"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.0601,
+     "lift": 0.99,
+     "news": 188,
+     "ptt": 1,
+     "pttPushes": 11,
+     "terms": [
+      "農業",
+      "農民",
+      "漁港"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.0486,
+     "lift": 1.87,
+     "news": 90,
+     "ptt": 2,
+     "pttPushes": 8,
+     "terms": [
+      "垃圾",
+      "光電",
+      "空污"
+     ]
+    },
+    {
+     "id": "education",
+     "index": 0.0421,
+     "lift": 0.74,
+     "news": 214,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "教育",
+      "托育"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.0272,
+     "lift": 0.98,
+     "news": 138,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "返鄉"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.0269,
+     "lift": 0.52,
+     "news": 25,
+     "ptt": 1,
+     "pttPushes": 10,
+     "terms": [
+      "房價",
+      "都更"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.0205,
+     "lift": 0.95,
+     "news": 104,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "弱勢",
+      "社福"
+     ]
+    }
+   ]
+  },
+  "nantou": {
+   "enough": true,
+   "usesPtt": false,
+   "newsTotal": 1504,
+   "ptt": {
+    "boards": [
+     "Nantou"
+    ],
+    "posts": 20,
+    "classified": 7
+   },
+   "domains": [
+    {
+     "id": "transport",
+     "index": 0.1689,
+     "lift": 0.95,
+     "news": 254,
+     "ptt": 2,
+     "pttPushes": 1,
+     "terms": [
+      "交通",
+      "停車"
+     ]
+    },
+    {
+     "id": "economy",
+     "index": 0.1343,
+     "lift": 1.1,
+     "news": 202,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "產業",
+      "就業"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.1217,
+     "lift": 1.13,
+     "news": 183,
+     "ptt": 2,
+     "pttPushes": 0,
+     "terms": [
+      "醫院",
+      "醫療"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.109,
+     "lift": 1.12,
+     "news": 164,
+     "ptt": 2,
+     "pttPushes": 5,
+     "terms": [
+      "觀光",
+      "藝文"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.0997,
+     "lift": 1.33,
+     "news": 150,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "農業",
+      "農民"
+     ]
+    },
+    {
+     "id": "education",
+     "index": 0.0858,
+     "lift": 0.75,
+     "news": 129,
+     "ptt": 2,
+     "pttPushes": 0,
+     "terms": [
+      "教育",
+      "托育"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.0811,
+     "lift": 0.76,
+     "news": 122,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "議會",
+      "預算"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.0552,
+     "lift": 0.87,
+     "news": 83,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "淹水",
+      "詐騙"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.0505,
+     "lift": 0.91,
+     "news": 76,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "返鄉"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.0445,
+     "lift": 1.03,
+     "news": 67,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "弱勢",
+      "社福"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.0332,
+     "lift": 1.75,
+     "news": 50,
+     "ptt": 1,
+     "pttPushes": 0,
+     "terms": [
+      "垃圾",
+      "空污"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.016,
+     "lift": 0.84,
+     "news": 24,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "社宅",
+      "房價"
+     ]
+    }
+   ]
+  },
+  "yunlin": {
+   "enough": true,
+   "usesPtt": false,
+   "newsTotal": 1830,
+   "ptt": {
+    "boards": [
+     "Yunlin"
+    ],
+    "posts": 35,
+    "classified": 8
+   },
+   "domains": [
+    {
+     "id": "economy",
+     "index": 0.1503,
+     "lift": 1.23,
+     "news": 275,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "產業",
+      "就業"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.1448,
+     "lift": 1.94,
+     "news": 265,
+     "ptt": 1,
+     "pttPushes": 4,
+     "terms": [
+      "農業",
+      "農民"
+     ]
+    },
+    {
+     "id": "education",
+     "index": 0.1158,
+     "lift": 1.02,
+     "news": 212,
+     "ptt": 3,
+     "pttPushes": 3,
+     "terms": [
+      "教育",
+      "營養午餐"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.1093,
+     "lift": 1.01,
+     "news": 200,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "醫院",
+      "醫療"
+     ]
+    },
+    {
+     "id": "transport",
+     "index": 0.0967,
+     "lift": 0.54,
+     "news": 177,
+     "ptt": 2,
+     "pttPushes": 5,
+     "terms": [
+      "交通",
+      "停車"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.0831,
+     "lift": 0.85,
+     "news": 152,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "觀光",
+      "體育"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.0831,
+     "lift": 0.78,
+     "news": 152,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "預算",
+      "議會"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.076,
+     "lift": 1.76,
+     "news": 139,
+     "ptt": 2,
+     "pttPushes": 0,
+     "terms": [
+      "弱勢",
+      "社福"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.071,
+     "lift": 1.28,
+     "news": 130,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "返鄉"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.0459,
+     "lift": 0.72,
+     "news": 84,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "淹水",
+      "詐騙"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.0142,
+     "lift": 0.75,
+     "news": 26,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "垃圾",
+      "光電"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.0098,
+     "lift": 0.52,
+     "news": 18,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "房價",
+      "社宅"
+     ]
+    }
+   ]
+  },
+  "chiayi-city": {
+   "enough": true,
+   "usesPtt": true,
+   "newsTotal": 756,
+   "ptt": {
+    "boards": [
+     "Chiayi"
+    ],
+    "posts": 85,
+    "classified": 31
+   },
+   "domains": [
+    {
+     "id": "transport",
+     "index": 0.374,
+     "lift": 1.03,
+     "news": 138,
+     "ptt": 19,
+     "pttPushes": 69,
+     "terms": [
+      "交通",
+      "停車",
+      "YouBike"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.096,
+     "lift": 1.2,
+     "news": 89,
+     "ptt": 3,
+     "pttPushes": 4,
+     "terms": [
+      "觀光",
+      "藝文",
+      "球場"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.0935,
+     "lift": 0.94,
+     "news": 77,
+     "ptt": 2,
+     "pttPushes": 19,
+     "terms": [
+      "醫院",
+      "醫療",
+      "健保"
+     ]
+    },
+    {
+     "id": "education",
+     "index": 0.0853,
+     "lift": 1.11,
+     "news": 96,
+     "ptt": 2,
+     "pttPushes": 0,
+     "terms": [
+      "教育",
+      "托育",
+      "老師"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.0713,
+     "lift": 1.15,
+     "news": 55,
+     "ptt": 2,
+     "pttPushes": 12,
+     "terms": [
+      "淹水",
+      "詐騙",
+      "豪雨"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.0697,
+     "lift": 1.25,
+     "news": 41,
+     "ptt": 2,
+     "pttPushes": 19,
+     "terms": [
+      "弱勢",
+      "社福",
+      "補助"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.0635,
+     "lift": 1.2,
+     "news": 96,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "議會",
+      "預算"
+     ]
+    },
+    {
+     "id": "economy",
+     "index": 0.0574,
+     "lift": 0.73,
+     "news": 67,
+     "ptt": 1,
+     "pttPushes": 2,
+     "terms": [
+      "產業",
+      "就業",
+      "工廠"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.0324,
+     "lift": 0.77,
+     "news": 11,
+     "ptt": 1,
+     "pttPushes": 13,
+     "terms": [
+      "垃圾",
+      "光電",
+      "公園"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.0278,
+     "lift": 1.0,
+     "news": 42,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "返鄉"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.0192,
+     "lift": 0.51,
+     "news": 29,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "農業",
+      "農民"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.0099,
+     "lift": 1.04,
+     "news": 15,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "房價",
+      "社宅"
+     ]
+    }
+   ]
+  },
+  "chiayi-county": {
+   "enough": true,
+   "usesPtt": true,
+   "newsTotal": 1466,
+   "ptt": {
+    "boards": [
+     "Chiayi"
+    ],
+    "posts": 85,
+    "classified": 31
+   },
+   "domains": [
+    {
+     "id": "transport",
+     "index": 0.3325,
+     "lift": 0.56,
+     "news": 146,
+     "ptt": 19,
+     "pttPushes": 69,
+     "terms": [
+      "交通",
+      "停車",
+      "YouBike"
+     ]
+    },
+    {
+     "id": "economy",
+     "index": 0.0997,
+     "lift": 1.42,
+     "news": 254,
+     "ptt": 1,
+     "pttPushes": 2,
+     "terms": [
+      "產業",
+      "就業",
+      "工廠"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.0975,
+     "lift": 1.24,
+     "news": 177,
+     "ptt": 3,
+     "pttPushes": 4,
+     "terms": [
+      "觀光",
+      "藝文",
+      "球場"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.09,
+     "lift": 0.88,
+     "news": 139,
+     "ptt": 2,
+     "pttPushes": 19,
+     "terms": [
+      "醫療",
+      "醫院",
+      "健保"
+     ]
+    },
+    {
+     "id": "education",
+     "index": 0.0805,
+     "lift": 1.03,
+     "news": 172,
+     "ptt": 2,
+     "pttPushes": 0,
+     "terms": [
+      "教育",
+      "托育",
+      "老師"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.0685,
+     "lift": 1.2,
+     "news": 76,
+     "ptt": 2,
+     "pttPushes": 19,
+     "terms": [
+      "弱勢",
+      "社福",
+      "補助"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.0658,
+     "lift": 1.76,
+     "news": 193,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "農業",
+      "農民"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.0636,
+     "lift": 0.9,
+     "news": 84,
+     "ptt": 2,
+     "pttPushes": 12,
+     "terms": [
+      "淹水",
+      "詐騙",
+      "豪雨"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.0355,
+     "lift": 1.28,
+     "news": 104,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "返鄉"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.0306,
+     "lift": 0.58,
+     "news": 16,
+     "ptt": 1,
+     "pttPushes": 13,
+     "terms": [
+      "垃圾",
+      "光電",
+      "公園"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.0304,
+     "lift": 0.57,
+     "news": 89,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "預算",
+      "議會"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.0055,
+     "lift": 0.57,
+     "news": 16,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "房價",
+      "社宅"
+     ]
+    }
+   ]
+  },
+  "yilan": {
+   "enough": true,
+   "usesPtt": false,
+   "newsTotal": 2114,
+   "ptt": {
+    "boards": [
+     "I-Lan"
+    ],
+    "posts": 28,
+    "classified": 5
+   },
+   "domains": [
+    {
+     "id": "transport",
+     "index": 0.1977,
+     "lift": 1.11,
+     "news": 418,
+     "ptt": 4,
+     "pttPushes": 69,
+     "terms": [
+      "交通",
+      "停車"
+     ]
+    },
+    {
+     "id": "economy",
+     "index": 0.1244,
+     "lift": 1.02,
+     "news": 263,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "產業",
+      "就業"
+     ]
+    },
+    {
+     "id": "education",
+     "index": 0.1017,
+     "lift": 0.89,
+     "news": 215,
+     "ptt": 1,
+     "pttPushes": 8,
+     "terms": [
+      "教育",
+      "托育"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.0979,
+     "lift": 0.92,
+     "news": 207,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "預算",
+      "議會"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.0937,
+     "lift": 0.96,
+     "news": 198,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "觀光",
+      "體育"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.088,
+     "lift": 1.18,
+     "news": 186,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "農業",
+      "農民"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.0828,
+     "lift": 0.77,
+     "news": 175,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "醫療",
+      "醫院"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.062,
+     "lift": 1.12,
+     "news": 131,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "返鄉"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.0601,
+     "lift": 0.95,
+     "news": 127,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "淹水",
+      "詐騙"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.0596,
+     "lift": 1.38,
+     "news": 126,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "弱勢",
+      "社福"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.017,
+     "lift": 0.9,
+     "news": 36,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "垃圾",
+      "光電"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.0151,
+     "lift": 0.8,
+     "news": 32,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "房價",
+      "都更"
+     ]
+    }
+   ]
+  },
+  "hualien": {
+   "enough": true,
+   "usesPtt": false,
+   "newsTotal": 1883,
+   "ptt": {
+    "boards": [
+     "Hualien"
+    ],
+    "posts": 35,
+    "classified": 8
+   },
+   "domains": [
+    {
+     "id": "transport",
+     "index": 0.1625,
+     "lift": 0.92,
+     "news": 306,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "交通",
+      "停車"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.1333,
+     "lift": 1.78,
+     "news": 251,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "農業",
+      "農民"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.1269,
+     "lift": 1.2,
+     "news": 239,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "預算",
+      "議會"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.111,
+     "lift": 1.03,
+     "news": 209,
+     "ptt": 2,
+     "pttPushes": 3,
+     "terms": [
+      "醫院",
+      "醫療"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.1004,
+     "lift": 1.03,
+     "news": 189,
+     "ptt": 1,
+     "pttPushes": 0,
+     "terms": [
+      "觀光",
+      "體育"
+     ]
+    },
+    {
+     "id": "economy",
+     "index": 0.0903,
+     "lift": 0.74,
+     "news": 170,
+     "ptt": 3,
+     "pttPushes": 34,
+     "terms": [
+      "產業",
+      "就業"
+     ]
+    },
+    {
+     "id": "education",
+     "index": 0.0844,
+     "lift": 0.74,
+     "news": 159,
+     "ptt": 1,
+     "pttPushes": 0,
+     "terms": [
+      "教育",
+      "營養午餐"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.0568,
+     "lift": 1.31,
+     "news": 107,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "弱勢",
+      "社福"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.0552,
+     "lift": 1.0,
+     "news": 104,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "返鄉"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.0489,
+     "lift": 0.77,
+     "news": 92,
+     "ptt": 1,
+     "pttPushes": 1,
+     "terms": [
+      "淹水",
+      "詐騙"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.0212,
+     "lift": 1.12,
+     "news": 40,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "垃圾",
+      "光電"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.009,
+     "lift": 0.48,
+     "news": 17,
+     "ptt": 1,
+     "pttPushes": 0,
+     "terms": [
+      "房價",
+      "都更"
+     ]
+    }
+   ]
+  },
+  "taitung": {
+   "enough": true,
+   "usesPtt": false,
+   "newsTotal": 1536,
+   "ptt": {
+    "boards": [
+     "Taitung"
+    ],
+    "posts": 13,
+    "classified": 5
+   },
+   "domains": [
+    {
+     "id": "transport",
+     "index": 0.1602,
+     "lift": 0.9,
+     "news": 246,
+     "ptt": 1,
+     "pttPushes": 0,
+     "terms": [
+      "交通",
+      "停車"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.1562,
+     "lift": 2.09,
+     "news": 240,
+     "ptt": 1,
+     "pttPushes": 3,
+     "terms": [
+      "農業",
+      "農民"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.1283,
+     "lift": 1.31,
+     "news": 197,
+     "ptt": 3,
+     "pttPushes": 0,
+     "terms": [
+      "觀光",
+      "體育"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.1204,
+     "lift": 1.13,
+     "news": 185,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "預算",
+      "議會"
+     ]
+    },
+    {
+     "id": "economy",
+     "index": 0.0898,
+     "lift": 0.74,
+     "news": 138,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "產業",
+      "就業"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.082,
+     "lift": 0.76,
+     "news": 126,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "醫療",
+      "醫院"
+     ]
+    },
+    {
+     "id": "education",
+     "index": 0.0768,
+     "lift": 0.67,
+     "news": 118,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "教育",
+      "營養午餐"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.0658,
+     "lift": 1.19,
+     "news": 101,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "返鄉"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.0508,
+     "lift": 0.8,
+     "news": 78,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "淹水",
+      "治安"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.0384,
+     "lift": 0.89,
+     "news": 59,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "弱勢",
+      "社福"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.0241,
+     "lift": 1.27,
+     "news": 37,
+     "ptt": 1,
+     "pttPushes": 3,
+     "terms": [
+      "垃圾",
+      "光電"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.0072,
+     "lift": 0.38,
+     "news": 11,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "房價",
+      "都更"
+     ]
+    }
+   ]
+  },
+  "kinmen": {
+   "enough": true,
+   "usesPtt": false,
+   "newsTotal": 633,
+   "ptt": {
+    "boards": [
+     "Kinmen"
+    ],
+    "posts": 0,
+    "classified": 0
+   },
+   "domains": [
+    {
+     "id": "transport",
+     "index": 0.207,
+     "lift": 1.17,
+     "news": 131,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "交通",
+      "公車"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.1153,
+     "lift": 1.09,
+     "news": 73,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "預算",
+      "議會"
+     ]
+    },
+    {
+     "id": "economy",
+     "index": 0.1122,
+     "lift": 0.92,
+     "news": 71,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "產業",
+      "就業"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.1122,
+     "lift": 1.15,
+     "news": 71,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "觀光",
+      "體育"
+     ]
+    },
+    {
+     "id": "education",
+     "index": 0.0995,
+     "lift": 0.87,
+     "news": 63,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "教育",
+      "托育"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.0995,
+     "lift": 0.92,
+     "news": 63,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "醫療",
+      "醫院"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.0679,
+     "lift": 1.23,
+     "news": 43,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "返鄉"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.0648,
+     "lift": 0.87,
+     "news": 41,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "農業",
+      "漁業"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.0569,
+     "lift": 0.9,
+     "news": 36,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "淹水",
+      "詐騙"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.0427,
+     "lift": 0.99,
+     "news": 27,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "弱勢",
+      "社福"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.0158,
+     "lift": 0.83,
+     "news": 10,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "房價",
+      "社宅"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.0063,
+     "lift": 0.33,
+     "news": 4,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "光電",
+      "垃圾"
+     ]
+    }
+   ]
+  },
+  "lienchiang": {
+   "enough": true,
+   "usesPtt": false,
+   "newsTotal": 333,
+   "ptt": {
+    "boards": [
+     "Matsu"
+    ],
+    "posts": 1,
+    "classified": 0
+   },
+   "domains": [
+    {
+     "id": "transport",
+     "index": 0.2402,
+     "lift": 1.35,
+     "news": 80,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "交通",
+      "公車"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.1441,
+     "lift": 2.27,
+     "news": 48,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "淹水",
+      "詐騙"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.1321,
+     "lift": 1.35,
+     "news": 44,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "觀光",
+      "藝文"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.1051,
+     "lift": 0.97,
+     "news": 35,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "醫療",
+      "醫院"
+     ]
+    },
+    {
+     "id": "education",
+     "index": 0.1021,
+     "lift": 0.9,
+     "news": 34,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "教育",
+      "托育"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.0691,
+     "lift": 0.65,
+     "news": 23,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "預算",
+      "議會"
+     ]
+    },
+    {
+     "id": "economy",
+     "index": 0.0661,
+     "lift": 0.54,
+     "news": 22,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "產業",
+      "就業"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.0571,
+     "lift": 1.03,
+     "news": 19,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "返鄉"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.048,
+     "lift": 0.64,
+     "news": 16,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "農業",
+      "漁業"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.015,
+     "lift": 0.79,
+     "news": 5,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "垃圾"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.015,
+     "lift": 0.35,
+     "news": 5,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "社福",
+      "弱勢"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.006,
+     "lift": 0.32,
+     "news": 2,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "房價",
+      "社宅"
+     ]
+    }
+   ]
+  },
+  "pingtung": {
+   "enough": true,
+   "usesPtt": true,
+   "newsTotal": 2811,
+   "ptt": {
+    "boards": [
+     "PingTung"
+    ],
+    "posts": 90,
+    "classified": 27
+   },
+   "domains": [
+    {
+     "id": "transport",
+     "index": 0.2242,
+     "lift": 0.85,
+     "news": 424,
+     "ptt": 10,
+     "pttPushes": 11,
+     "terms": [
+      "交通",
+      "停車",
+      "YouBike"
+     ]
+    },
+    {
+     "id": "health",
+     "index": 0.1462,
+     "lift": 0.9,
+     "news": 272,
+     "ptt": 5,
+     "pttPushes": 23,
+     "terms": [
+      "醫院",
+      "醫療"
+     ]
+    },
+    {
+     "id": "culture",
+     "index": 0.1095,
+     "lift": 1.03,
+     "news": 284,
+     "ptt": 3,
+     "pttPushes": 14,
+     "terms": [
+      "觀光",
+      "體育",
+      "球場"
+     ]
+    },
+    {
+     "id": "economy",
+     "index": 0.1031,
+     "lift": 1.01,
+     "news": 346,
+     "ptt": 2,
+     "pttPushes": 11,
+     "terms": [
+      "產業",
+      "就業",
+      "投資"
+     ]
+    },
+    {
+     "id": "safety",
+     "index": 0.0915,
+     "lift": 1.19,
+     "news": 213,
+     "ptt": 3,
+     "pttPushes": 10,
+     "terms": [
+      "淹水",
+      "詐騙",
+      "毒品"
+     ]
+    },
+    {
+     "id": "environment",
+     "index": 0.0751,
+     "lift": 0.99,
+     "news": 53,
+     "ptt": 3,
+     "pttPushes": 19,
+     "terms": [
+      "垃圾",
+      "光電",
+      "公園"
+     ]
+    },
+    {
+     "id": "agriculture",
+     "index": 0.0612,
+     "lift": 1.64,
+     "news": 344,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "農業",
+      "農民"
+     ]
+    },
+    {
+     "id": "education",
+     "index": 0.0587,
+     "lift": 1.03,
+     "news": 330,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "教育",
+      "營養午餐"
+     ]
+    },
+    {
+     "id": "welfare",
+     "index": 0.0573,
+     "lift": 1.1,
+     "news": 134,
+     "ptt": 2,
+     "pttPushes": 5,
+     "terms": [
+      "弱勢",
+      "社福",
+      "敬老"
+     ]
+    },
+    {
+     "id": "governance",
+     "index": 0.0347,
+     "lift": 0.65,
+     "news": 195,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "預算",
+      "議會"
+     ]
+    },
+    {
+     "id": "youth",
+     "index": 0.0345,
+     "lift": 1.25,
+     "news": 194,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "青年",
+      "返鄉"
+     ]
+    },
+    {
+     "id": "housing",
+     "index": 0.0039,
+     "lift": 0.41,
+     "news": 22,
+     "ptt": 0,
+     "pttPushes": 0,
+     "terms": [
+      "都更",
+      "房價"
+     ]
+    }
+   ]
+  }
+ }
+}

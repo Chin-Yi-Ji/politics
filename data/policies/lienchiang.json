@@ -1,0 +1,57 @@
+{
+  "countyId": "lienchiang",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "lienchiang-01-transport",
+      "candidateId": "lienchiang-01",
+      "domainId": "transport",
+      "points": [
+        "爭取高雄到馬祖定期航線增為每週 3 班"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "並爭取高雄-馬祖定期航線朝每週3班的目標邁進",
+          "sourceUrl": "https://news.ltn.com.tw/news/life/breakingnews/5491065",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "lienchiang-01-governance",
+      "candidateId": "lienchiang-01",
+      "domainId": "governance",
+      "points": [
+        "持續推動交通升級、人才扎根、產業轉型與永續治理"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "交通升級、人才扎根、產業轉型及永續治理等工作仍待持續推動",
+          "sourceUrl": "https://udn.com/news/story/124652/9644940",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "lienchiang-02-governance",
+      "candidateId": "lienchiang-02",
+      "domainId": "governance",
+      "points": [
+        "讓施政回應民意、資源公平共享"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "讓權力回歸人民，讓施政回應民意，讓資源公平共享，讓成果歸屬全體縣民",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5472403",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

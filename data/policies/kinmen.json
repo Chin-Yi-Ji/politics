@@ -1,0 +1,467 @@
+{
+  "countyId": "kinmen",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "kinmen-01-health",
+      "candidateId": "kinmen-01",
+      "domainId": "health",
+      "points": [
+        "縣府全額出資，免費提供長者智慧手環：跌倒偵測、心率異常警示、一鍵求救",
+        "補助安裝一鍵視訊大螢幕，讓在臺子女與父母視訊",
+        "整合手環異常數據與居服員，關懷訪視從獨居老人擴大到獨居的年邁雙親"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "第一項是免費提供「智慧健康照護手環」",
+          "sourceUrl": "https://udn.com/news/story/124652/9686943",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "手環可具備跌倒偵測、異常心率警示及一鍵SOS緊急求救等功能",
+          "sourceUrl": "https://udn.com/news/story/124652/9686943",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "規劃由縣府補助安裝操作簡單的一鍵視訊大螢幕",
+          "sourceUrl": "https://udn.com/news/story/124652/9686943",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將現有關懷機制從獨居老人進一步延伸到「獨居年邁雙親」",
+          "sourceUrl": "https://udn.com/news/story/124652/9686943",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kinmen-01-transport",
+      "candidateId": "kinmen-01",
+      "domainId": "transport",
+      "points": [
+        "短期由縣府大量包機，優先給有急迫需求的鄉親",
+        "長期打造往返臺灣的備援交通船或客輪",
+        "商港旅客服務費上限由 160 元調到 460 元，本地籍不調漲",
+        "調高的服務費用於港埠建設，或轉成消費點數"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "短期可由縣府挹注資源進行「大幅度包機」",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5527280",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "航港局支持打造1艘往返台金的備援交通船",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5527280",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將商港旅客服務費上限從現有160元提高到460元，金門籍不提高費用",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5527280",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提高的商港旅客服務費可用在港埠設施建設，或變成類似購物消費的點數",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5527280",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kinmen-01-culture",
+      "candidateId": "kinmen-01",
+      "domainId": "culture",
+      "points": [
+        "推動跨國藝人常態來金表演",
+        "打造沉浸式戰地舞台",
+        "與業者協調、運用政府資源讓電影院恢復營運，並活化所在園區",
+        "向中央爭取部分對岸電影在本地優先放映，以電影帶動觀光"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動「跨國星光藝人常態來金表演」",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5473437",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "打造「全球唯一沉浸式戰地舞台」",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5473437",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將與相關業者溝通，研議透過政府資源協助",
+          "sourceUrl": "https://udn.com/news/story/124652/9756314",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "希望充分利用整個園區",
+          "sourceUrl": "https://udn.com/news/story/124652/9756314",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "討論部分中國大陸電影是否有機會優先在金門放映",
+          "sourceUrl": "https://udn.com/news/story/124652/9756314",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kinmen-01-education",
+      "candidateId": "kinmen-01",
+      "domainId": "education",
+      "points": [
+        "提出 8 項教育政見：教師減負與專業支持、在地文化、國際學習、AI 素養、適性共融等",
+        "推動小班精緻教育，逐年提出行動方案與資源規劃"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "包括教師減負與專業支持、扎根在地、接軌國際、智慧學習與AI素養、適性共融、永續實踐、健康樂學及安心幼教",
+          "sourceUrl": "https://udn.com/news/story/124652/9781350",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "金門具備推動小班精緻教育的條件",
+          "sourceUrl": "https://udn.com/news/story/124652/9781350",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "逐年提出行動方案、資源規劃與推動目標",
+          "sourceUrl": "https://udn.com/news/story/124652/9781350",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kinmen-01-economy",
+      "candidateId": "kinmen-01",
+      "domainId": "economy",
+      "points": [
+        "協助協調讓證照回訓與職業訓練在本地辦理，不必飛臺灣"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "陳玉珍則承諾協助中央、地方協調，尋求解決方案",
+          "sourceUrl": "https://udn.com/news/story/7327/9717560",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kinmen-03-transport",
+      "candidateId": "kinmen-03",
+      "domainId": "transport",
+      "points": [
+        "爭取提高臺金航線大型機比例，增加尖峰運能",
+        "透過兩岸協商增加直航航線與航點",
+        "打造往返臺灣的客輪，作為濃霧時的交通備援，兼具觀光、貨運與車輛運輸"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "他主張短期積極向中央及航空公司爭取提高台金航線大型機比例，增加尖峰時段運能",
+          "sourceUrl": "https://udn.com/news/story/124652/9729989",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "爭取增加兩岸直航航線，並推動廈門、上海、北京等航點",
+          "sourceUrl": "https://udn.com/news/story/124652/9729989",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "規畫以兩艘船舶建立海上運輸量能",
+          "sourceUrl": "https://udn.com/news/story/124652/9729989",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "台金輪也可作為濃霧等天候不佳時的重要交通備援",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5527280",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kinmen-03-health",
+      "candidateId": "kinmen-03",
+      "domainId": "health",
+      "points": [
+        "設社區健康運動角，整合長照、醫療、運動與預防醫學",
+        "針對高齡者肌少症、失智症等問題，把健康促進與風險管理提前帶入社區"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "提出「社區健康運動角」，整合長照、醫療、運動及預防醫學資源",
+          "sourceUrl": "https://udn.com/news/story/124652/9729989",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將健康促進與風險管理提前帶入社區",
+          "sourceUrl": "https://udn.com/news/story/124652/9729989",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kinmen-03-education",
+      "candidateId": "kinmen-03",
+      "domainId": "education",
+      "points": [
+        "推動幼兒園到高中的公辦民營完全學校，引進創新教育與國際課程"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "提出推動K-12公辦民營完全學校，引進創新教育與國際課程",
+          "sourceUrl": "https://udn.com/news/story/124652/9729989",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kinmen-04-safety",
+      "candidateId": "kinmen-04",
+      "domainId": "safety",
+      "points": [
+        "主張兩岸談判金廈雙向撤軍與永久終戰",
+        "立即停止金廈水域針對性的軍事行動與演訓",
+        "正規軍撤離後，由海巡、民防與民事安全機制維持秩序",
+        "涉及金門的協議須經議會或公投同意"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "優先研議金廈雙向撤軍及永久終戰，並停止金廈水域針對性軍事行動與演訓",
+          "sourceUrl": "https://udn.com/news/story/124652/9788148",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "包括正規軍事力量撤離，由海巡、民防及民事安全機制維持常態秩序",
+          "sourceUrl": "https://udn.com/news/story/124652/9788148",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "涉及金門的協議須經金門議會或公投同意",
+          "sourceUrl": "https://udn.com/news/story/124652/9632504",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kinmen-04-governance",
+      "candidateId": "kinmen-04",
+      "domainId": "governance",
+      "points": [
+        "主張恢復設於金門的福建省政府運作，由兩岸的省政府談判停戰協議",
+        "公開縣政白皮書徵求意見，最終版選前公布"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "主張恢復設於金門的福建省政府運作，由兩岸福建省政府獲授權談判並簽署福建永久停戰協議",
+          "sourceUrl": "https://udn.com/news/story/124652/9632504",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "白皮書公開在個人網站上供大眾閱覽並徵求意見至21日",
+          "sourceUrl": "https://udn.com/news/story/124652/9788329",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kinmen-04-culture",
+      "candidateId": "kinmen-04",
+      "domainId": "culture",
+      "points": [
+        "爭取登錄世界遺產，打造國際觀光熱點"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "包括爭取世界遺產、打造國際觀光熱點、發展國際品牌、深耕教育及傳承金門歷史文化",
+          "sourceUrl": "https://udn.com/news/story/124652/9732965",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kinmen-04-economy",
+      "candidateId": "kinmen-04",
+      "domainId": "economy",
+      "points": [
+        "發展觀光與輕工業",
+        "解除軍事對峙後吸引國際資金、專業人才與旅外鄉親返鄉"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "發展觀光與輕工業",
+          "sourceUrl": "https://udn.com/news/story/124652/9732965",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "吸引國際資金、專業人才及旅外鄉親返鄉發展",
+          "sourceUrl": "https://udn.com/news/story/124652/9632504",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kinmen-04-education",
+      "candidateId": "kinmen-04",
+      "domainId": "education",
+      "points": [
+        "推動混級教育"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "內政上則推動混級教育",
+          "sourceUrl": "https://udn.com/news/story/124652/9732965",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kinmen-05-governance",
+      "candidateId": "kinmen-05",
+      "domainId": "governance",
+      "points": [
+        "建立完整的傾聽與回應機制，處理鄉親反映的個案與公共議題"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "建立更完整的傾聽與回應機制",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5558278",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kinmen-06-governance",
+      "candidateId": "kinmen-06",
+      "domainId": "governance",
+      "points": [
+        "重大建設、預算與政策形成過程公開：為什麼做、花多少錢、誰執行、有什麼效益"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "主張重大建設、預算配置及政策形成過程，都應讓民眾清楚知道「為什麼做、花多少錢、誰執行、產生什麼效益」",
+          "sourceUrl": "https://udn.com/news/story/124652/9730288",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kinmen-06-culture",
+      "candidateId": "kinmen-06",
+      "domainId": "culture",
+      "points": [
+        "道路、公共空間、聚落保存與公共建築納入美學與整體環境規劃"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "應融入更多美學、文化、生活與公共建設的整體規畫",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5567049",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kinmen-07-economy",
+      "candidateId": "kinmen-07",
+      "domainId": "economy",
+      "points": [
+        "活化閒置營區，推動產業升級",
+        "創造青年返鄉舞台，串聯海外僑鄉人才與資源"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動產業升級、閒置營區活化、創造青年返鄉舞台，並串聯全球金僑人才及資源",
+          "sourceUrl": "https://udn.com/news/story/124652/9730288",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kinmen-07-governance",
+      "candidateId": "kinmen-07",
+      "domainId": "governance",
+      "points": [
+        "主張府會和諧、凝聚共識"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "政治上主張府會和諧、凝聚共識",
+          "sourceUrl": "https://udn.com/news/story/124652/9730288",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kinmen-07-culture",
+      "candidateId": "kinmen-07",
+      "domainId": "culture",
+      "points": [
+        "以戰地、閩南、僑鄉、酒香等在地文化行銷國際"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "文化方面則強調戰地、閩南、僑鄉、酒香及鄒魯五大文化",
+          "sourceUrl": "https://udn.com/news/story/124652/9730288",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

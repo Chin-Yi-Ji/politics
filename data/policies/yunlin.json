@@ -1,0 +1,509 @@
+{
+  "countyId": "yunlin",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "yunlin-01-welfare",
+      "candidateId": "yunlin-01",
+      "domainId": "welfare",
+      "points": [
+        "0 到 6 歲兒童每月 1,000 元育兒成長津貼，一年 1 萬 2,000 元",
+        "65 歲以上長者免健保費",
+        "財政穩健前提下，研議提高長青食堂每餐 30 元的補助；目標一村里一長青食堂"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "只要是設籍雲林的0至6歲兒童，每位每月可領取1000元的育兒成長津貼，一年可領取1萬2000元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5552520",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "她也提出65歲以上長者免健保費等政策，並主張完善長照據點、長青食堂及社區照顧服務",
+          "sourceUrl": "https://udn.com/news/story/124652/9750709",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "研議提高現行每餐30元的補助",
+          "sourceUrl": "https://udn.com/news/story/124652/9794060",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "下一步除了朝「一村里一長青食堂」目標邁進",
+          "sourceUrl": "https://udn.com/news/story/124652/9794060",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yunlin-01-health",
+      "candidateId": "yunlin-01",
+      "domainId": "health",
+      "points": [
+        "串聯智慧醫療、長照與社區照護，支持在宅醫療",
+        "醫療團隊進校園，建學童健康存摺記錄個人健康成長"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "她支持縣府推動在宅醫療，未來將串聯智慧醫療、長照2.0及社區照護體系",
+          "sourceUrl": "https://udn.com/news/story/124652/9750709",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "會結合各醫療院所及團隊走進校園，也將建置「學童健康存摺」，建立個人化健康成長紀錄",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5487568",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yunlin-01-education",
+      "candidateId": "yunlin-01",
+      "domainId": "education",
+      "points": [
+        "會考 5A6+ 以上且留在縣內升學，發 6 萬至 12 萬元獎學金；學測、統測滿級分再發 20 萬元",
+        "石榴國中增設高中部，成為科技實驗完全中學",
+        "小一起導入雙語課程，增設雙語實驗小學，並補助各校國際交流",
+        "學校設專職行政助理，減輕教師行政工作"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "國中會考成績達5A6+以上且作文5級分以上者，可獲6萬元獎學金",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5487568",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "則可獲最高12萬元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5487568",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來若以縣內學生身分參加學測、統測取得滿級分，再加發20萬元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5487568",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來她將推動石榴國中增設高中部，成為科技實驗完全中學",
+          "sourceUrl": "https://udn.com/news/story/124652/9768193",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "更規劃從小一導入雙語課程、增設雙語實驗小學",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1749049",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "會編列專案經費補助各校推動國際交流",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5487568",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "她認為應設置專職行政助理，減輕學校老師行政量能",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1749049",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yunlin-01-economy",
+      "candidateId": "yunlin-01",
+      "domainId": "economy",
+      "points": [
+        "加速推動 241 公頃斗六智慧電動車產業園區，預估 4,100 個就業機會、年產值 150 億元",
+        "在虎尾設無人機測試、考照與競技場域，串聯兩所科技大學做培訓與產學合作",
+        "爭取封測廠二期與高科技產業進駐",
+        "以在地農產發展寵物食品品牌"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動二四一公頃斗六智慧電動車創新產業園區，預計可創造四一〇〇個就業機會，帶來年產值一五〇億元",
+          "sourceUrl": "https://news.ltn.com.tw/news/life/paper/1771655",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "張嘉郡規畫在虎尾鎮打造無人機測試、考照與競技場域",
+          "sourceUrl": "https://udn.com/news/story/124652/9785962",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並串聯台灣福爾摩沙無人飛行器協會、虎尾科技大學及雲林科技大學，從競賽延伸至培訓、考照及產學合作",
+          "sourceUrl": "https://udn.com/news/story/124652/9785962",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來也會持續爭取矽品二期及高科技產業進駐",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1772594",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "打造專屬毛孩的「雲林寵物良品」",
+          "sourceUrl": "https://udn.com/news/story/124652/9689683",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yunlin-01-culture",
+      "candidateId": "yunlin-01",
+      "domainId": "culture",
+      "points": [
+        "在斗六興建可辦賽事、演唱會、展覽的多功能小巨蛋，上任即啟動用地評估與先期規劃",
+        "縣立美術館落腳斗六，採國際競圖，結合公園設計",
+        "一鄉鎮一匹克球場；興建大西螺國民運動中心，設恆溫泳池與室內球場",
+        "修復崙背鄉立游泳池、設崙背親子館"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "上任馬上啟動用地評估及先期規畫作業",
+          "sourceUrl": "https://udn.com/news/story/124652/9495244",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將採國際競圖規格，並導入「美術館公園」概念",
+          "sourceUrl": "https://udn.com/news/story/124652/9703747",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "盼打造一鄉鎮一匹克球場",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5396099",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "因此盼興建「大西螺國民運動中心」，除規劃恆溫游泳池、智慧健身房、銀髮族復健運動區、親子體適能空間",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5396099",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "包括「親子崙背」打造崙背親子館、「活力崙背」修復崙背鄉立游泳池",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5596319",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yunlin-01-agriculture",
+      "candidateId": "yunlin-01",
+      "domainId": "agriculture",
+      "points": [
+        "以 AI 做農業防災與病蟲害預警",
+        "協助在地農產開發加工品、拓展多元銷售通路"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "也將導入AI技術提升農業防災、病蟲害預警及政策精準投放能力",
+          "sourceUrl": "https://udn.com/news/story/124652/9662743",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "農民除了把東西種好，也需要有更多元的銷售方式，才能拓寬銷路",
+          "sourceUrl": "https://udn.com/news/story/7326/9773344",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "她相信在地農產只要找到合適的加工方式，就能創造新的市場可能",
+          "sourceUrl": "https://udn.com/news/story/7326/9773344",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yunlin-01-governance",
+      "candidateId": "yunlin-01",
+      "domainId": "governance",
+      "points": [
+        "把已啟動的 30 項重大建設接續完成",
+        "推出可查詢資訊與申辦服務的單一 App，建 AI 城市大腦與決策儀表板"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "持續推動30項重大建設",
+          "sourceUrl": "https://udn.com/news/story/124652/9703747",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "民眾只需透過單一平台，即可查詢政府資訊及申辦服務",
+          "sourceUrl": "https://udn.com/news/story/124652/9662743",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "包括AI城市大腦、AI智慧政府、雲林Super APP、AI全民防詐、AI智慧農業、智慧健康雲、AI城市感知、智慧決策儀表板",
+          "sourceUrl": "https://udn.com/news/story/124652/9662743",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yunlin-02-welfare",
+      "candidateId": "yunlin-02",
+      "domainId": "welfare",
+      "points": [
+        "65 歲以上免繳健保費",
+        "敬老愛心卡每年加碼 1 萬 2,000 點",
+        "重陽敬老金最低 3,000 元、最高 1 萬 8,000 元",
+        "長輩免費裝假牙、免費接種帶狀皰疹疫苗",
+        "長者與國中小學生每週 2 天供應鮮奶或豆奶"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "65歲以上免繳健保費、敬老愛心卡每年加碼1萬2000點，重陽敬老金「369＋18」最低3000元最高1萬8000元、長輩兩天也喝鮮奶或豆奶、免費裝假牙及帶狀疱疹疫苗接種",
+          "sourceUrl": "https://udn.com/news/story/124652/9704017",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "因此提出「65歲以上長輩、國中小學生週週2瓶鮮乳或豆奶」政策構想",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5572385",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yunlin-02-health",
+      "candidateId": "yunlin-02",
+      "domainId": "health",
+      "points": [
+        "0 至 6 歲兒童門診、住院部分負擔與腸病毒 A71 型疫苗免費",
+        "串聯醫院擴建與長照大樓設醫療照護產業園區，引進醫療器材、智慧照護業者",
+        "設安老托幼幸福中心",
+        "一年內把高齡醫學研究中心的服務普及到全縣長照據點、老人會與社區"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "0至6歲兒童門診、住院部分負擔及腸病毒A71型疫苗也將免費",
+          "sourceUrl": "https://udn.com/news/story/124652/9704017",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "整合醫療、照護、科技、產業建立「醫療照護產業園區」，吸引醫療器材、智慧照護及長照科技進駐，設置安老托幼幸福中心",
+          "sourceUrl": "https://udn.com/news/story/124652/9704017",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "如當選勢必在一年內普及全縣長照據點、老人會、社區協會等",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5387531",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yunlin-02-education",
+      "candidateId": "yunlin-02",
+      "domainId": "education",
+      "points": [
+        "營養午餐提高餐費並由政府全額負擔，增加營養師；私校採用中央廚房餐點也免費",
+        "設校園營養食安中心，食品技師與營養師雙重把關",
+        "教師行政工作 4 年減半，導入 AI 協助備課與整理教材",
+        "國小課後照顧、國中課後陪伴開放申請，弱勢與特殊需求家庭免費"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "兒童方面提出營養午餐2.0，提高餐費由政府全額負擔，增加營養師人力",
+          "sourceUrl": "https://udn.com/news/story/124652/9704017",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "私立學校若願意響應採用中央廚房餐點，也可享免費優惠，同時建立校園營養食安中心，開國內先河導入食品技師與營養師",
+          "sourceUrl": "https://udn.com/news/story/124652/9798196",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "因此將推出「教師行政4年減半」、「AI教師神隊友」，協助教育者備課、教材整理等",
+          "sourceUrl": "https://udn.com/news/story/124652/9798196",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "對經濟弱勢、特殊需求家庭將提供完整的免費支持",
+          "sourceUrl": "https://udn.com/news/story/124652/9798196",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yunlin-02-safety",
+      "candidateId": "yunlin-02",
+      "domainId": "safety",
+      "points": [
+        "設校園安全專家支援中心，由縣長指揮，整合警政、法律、醫療、心理、社工",
+        "盤點校園安全死角，建智慧防護與警政聯防系統"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將建立校園安全一站式專家支援中心，由縣長擔任指揮官，整合教育、警政、法律、醫療、心理、社工等專業力量",
+          "sourceUrl": "https://udn.com/news/story/124652/9798196",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "盤點校安死角，建構智慧防護及警政聯防系統",
+          "sourceUrl": "https://udn.com/news/story/124652/9798196",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yunlin-02-youth",
+      "candidateId": "yunlin-02",
+      "domainId": "youth",
+      "points": [
+        "在縣內就業並租屋的青年每月補助 3,000 元，最長 3 年",
+        "與長者同住並分擔唯一自用住宅房貸的青年每月補助 3,000 元，最長 3 年",
+        "初次返鄉穩定就業青年每月補助 5,000 元，最高 6 萬元",
+        "18 至 39 歲每年 1 萬 2,000 點生活點數，可用於學習、健身、電影"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "包括「租屋有補貼」針對雲林就業並租屋青年、「住家有補貼」針對與長者同住並分擔家裡唯一自用住宅房貸的青年，皆每月補助三千元，最長三年",
+          "sourceUrl": "https://udn.com/news/story/124652/9774076",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "針對初次返鄉穩定就業的青年，每月補助五千元，最高六萬元",
+          "sourceUrl": "https://udn.com/news/story/124652/9774076",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "十八至卅九歲符合資格者每年有一萬兩千點生活點數，可用在學習、健身、電影等支出",
+          "sourceUrl": "https://udn.com/news/story/124652/9774076",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yunlin-02-housing",
+      "candidateId": "yunlin-02",
+      "domainId": "housing",
+      "points": [
+        "青年首次在縣內購買自用住宅，3 年共 3 萬元修繕與綠能家電補助",
+        "在縣內就業並租屋的青年每月租金補貼 3,000 元，最長 3 年"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "提供三年共三萬元的修繕及綠能家電補助",
+          "sourceUrl": "https://udn.com/news/story/124652/9774076",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "皆每月補助三千元，最長三年",
+          "sourceUrl": "https://udn.com/news/story/124652/9774076",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yunlin-02-economy",
+      "candidateId": "yunlin-02",
+      "domainId": "economy",
+      "points": [
+        "設 AI 無人機新創產業園區，提供研發、測試驗證與創業育成，與嘉義串成無人機產業廊帶",
+        "每個區域設一處 AI 青創基地，活化閒置空間，協助青年取得第一張訂單",
+        "推動半導體廊帶延伸到雲林、納入褒忠產業園區"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "「AI無人機新創產業園區」將結合虎尾科技大學、雲林科技大學及在地產業能量，發展無人機研發、測試、人才培育及完整產業鏈，與嘉義共同打造雲嘉無人機產業廊帶",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5530665",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "「一區域、一AI青創基地」將活化閒置空間",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5530665",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "協助青年創業、取得第一張訂單",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5530665",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "如果當選會持續推動褒忠園區發展",
+          "sourceUrl": "https://udn.com/news/story/124652/9594257",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yunlin-02-agriculture",
+      "candidateId": "yunlin-02",
+      "domainId": "agriculture",
+      "points": [
+        "設 AI 農業園區，導入智慧農機、冷鏈、加工、品牌與外銷",
+        "提高農產加工、品牌與行銷能力，增加農民收益"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "打造「AI農業雙技園區」，結合科技與生技，導入AI、智慧農機、冷鏈、加工、品牌及外銷",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5530665",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "透過科技導入，提高加工、品牌及行銷能力，才能真正增加農民收益",
+          "sourceUrl": "https://udn.com/news/story/124652/9594257",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

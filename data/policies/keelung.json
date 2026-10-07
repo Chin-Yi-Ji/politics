@@ -1,0 +1,625 @@
+{
+  "countyId": "keelung",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "keelung-02-transport",
+      "candidateId": "keelung-02",
+      "domainId": "transport",
+      "points": [
+        "捷運先做兩條主線：八堵到市中心、沿麥金路到大武崙",
+        "公車分幹線、支線、小黃公車三級路網，車輛汰換為電動與低地板車",
+        "提升公車司機薪資福利，補齊缺額",
+        "國道客運增加始發區間車、尖峰增班；平面路廊由 4 車道拓寬為 6 車道，改善五堵、大華、汐止交流道",
+        "共享電輔自行車與電動機車，由車站擴展到學校、商圈、社區"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "市區主線：八堵串聯基隆市中心",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "大武崙主線：沿麥金路直達大武崙生活圈",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "新路網：幹線、支線、小黃公車，三級路網深入生活",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "新車隊：汰舊換新，優先採購電動公車與低地板無障礙公車",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "新待遇：提升司機薪資福利，補齊缺額充實班次",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "增加始發區間車，後段乘客有座位",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "平面路廊拓寬，4車道→6車道",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "改善五堵、大華、汐止交流道，解決壅塞",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "多元共享運具：以車站為核心，擴展至學校、商圈、社區",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "keelung-02-education",
+      "candidateId": "keelung-02",
+      "domainId": "education",
+      "points": [
+        "小班教學，目標每班 25 人",
+        "各校配置教學助理員，校園工程改由市府專責處理",
+        "教師每年 9 天備課假、3 天身心調適假；教師節禮金由 1,000 元提高到 2,000 元",
+        "一國中學區一公托，延長托育時段並擴大夜間托育",
+        "國小、國中、高中新生入學禮金 1 萬元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動小班教學，目標每班25人",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "各校配置教學助理員",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "校園工程由市府專責處理",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每年提供9天備課假、3天身心調適假",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "教師節敬師禮金：1,000→2,000元",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動一國中學區一公托",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "延長托育時段，擴大夜間與延托量能",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "國小國中高中新生入學禮金10,000元",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "keelung-02-health",
+      "candidateId": "keelung-02",
+      "domainId": "health",
+      "points": [
+        "推動部立基隆醫院擴建，擴充急診與加護病房，引進兒童次專科",
+        "尖峰時段開醫療公車巡迴直達醫院；升級復康巴士與無障礙計程車",
+        "補助爬梯機",
+        "0 至 3 歲免費輪狀病毒疫苗；30 至 39 歲女性納入免費乳癌篩檢",
+        "補助 50 歲以上市民接種帶狀疱疹疫苗"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動部立基隆醫院擴建",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "擴充急診與ICU量能",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "引進兒童次專科",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "規劃醫療公車，尖峰時段巡迴直達醫院",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "升級復康巴士與無障礙計程車",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "補助爬梯機，讓行動不便市民出得了門",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "0至3歲幼兒免費輪狀病毒疫苗",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "30至39歲女性納入免費乳癌篩檢",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "補助50歲以上市民接種帶狀疱疹疫苗",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "keelung-02-welfare",
+      "candidateId": "keelung-02",
+      "domainId": "welfare",
+      "points": [
+        "敬老三節慰問金由 9,000 元加倍到 18,000 元，重陽敬老金由 1,000 元加到 2,000 元",
+        "新生兒補助 16 萬元起",
+        "0 至 3 歲每月 1,000 元育兒消費券",
+        "身心障礙慰問金最高 9,000 元，簡化補助申辦與核銷",
+        "取消敬老金的最後設籍日規定"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "敬老三節加倍：9,000→18,000",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "重陽敬老加倍：1,000→2,000",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "基隆新生兒補助16萬起，全台最高",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "0至3歲，每月1,000 元育兒消費券補助",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "關懷加倍：慰問金最高領9,000元",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "夥伴共好：簡化補助申辦與核銷流程",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "刪除最後設籍日規定",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "keelung-02-culture",
+      "candidateId": "keelung-02",
+      "domainId": "culture",
+      "points": [
+        "每區一座風雨球場；安樂區增建運動中心",
+        "評估古蹟夜間開放，發展港邊酒吧區、Live House 與夜間展演空間",
+        "崁仔頂深夜導覽常態化；港區發展夜宿遊艇與特色住宿",
+        "活化虎仔山轉型青年旅館，中長期引進精品飯店"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "一區一風雨球場：完善遮雨照明，打造全天候多功能場地",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "增建運動中心：安樂區增建，整合打造森林運動公園",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "評估古蹟夜間開放，結合文化活動",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "發展港邊酒吧區、Live House 與夜間展演空間",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "崁仔頂深夜導覽常態化",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "港區發展夜宿遊艇與特色住宿",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "活化虎仔山，轉型青年旅館",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "中長期引進精品飯店",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "keelung-02-youth",
+      "candidateId": "keelung-02",
+      "domainId": "youth",
+      "points": [
+        "和平島設職訓基地；尚智國小轉型勞工大學，開技術升級班",
+        "尋職津貼等額加碼，最高 3.6 萬元",
+        "穩定就業獎勵金等額加碼，最高 7.2 萬元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "和平島職訓基地，培訓關鍵產業即戰力",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "尚智國小轉型勞工大學，開設技術升級班",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "尋職津貼等額加碼，最高領3.6萬",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "穩定就業獎勵金等額加碼，最高領7.2萬",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "keelung-02-housing",
+      "candidateId": "keelung-02",
+      "domainId": "housing",
+      "points": [
+        "暖暖區規劃青年住宅、公托與共享空間",
+        "社會住宅保留一定比例給原住民族青年與青年家庭"
+      ],
+      "strictPoints": [
+        "暖暖區規劃青年住宅、公托與共享空間"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "暖暖區：青年住宅、公托與共享空間，讓年輕人安心成家",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "在社會住宅中提供一定比例保障原住民族青年及青年家庭",
+          "sourceUrl": "https://udn.com/news/story/124652/9721567",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "keelung-02-environment",
+      "candidateId": "keelung-02",
+      "domainId": "environment",
+      "points": [
+        "每區一座寵物友善公園",
+        "七堵規劃基隆河岸綠帶與人寵共融公園",
+        "信義區水岸改造"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "放電有公園：打造每區一座寵物友善公園",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "七堵區：國民運動中心、基隆河岸綠帶、人寵共融公園",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "信義區：水岸改造打造城市風景，推動六合停車場改造",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "keelung-02-governance",
+      "candidateId": "keelung-02",
+      "domainId": "governance",
+      "points": [
+        "興建現代化市政大樓，提供一站式便民服務",
+        "成立專責運動處",
+        "成立族群關係處，整合原住民族與多元文化業務",
+        "社工階梯式留任獎金：年資每增一年就加碼，每滿三年再跳一級"
+      ],
+      "strictPoints": [
+        "興建現代化市政大樓，提供一站式便民服務",
+        "成立專責運動處"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "仁愛區：現代化市政大樓，打造一站式智慧便民服務",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "成立專責運動處：整合資源、完整政策，擴大補助單項協會",
+          "sourceUrl": "https://t-ziwei.com/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "希望成立「族群關係處」，整合原住民族及多元文化業務",
+          "sourceUrl": "https://udn.com/news/story/124652/9721567",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "透過「階梯式留任獎金」，年資增加一年獎金就加碼，每滿三年再跳一級",
+          "sourceUrl": "https://udn.com/news/story/124652/9405300",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "keelung-01-transport",
+      "candidateId": "keelung-01",
+      "domainId": "transport",
+      "points": [
+        "明年編追加預算，延續電動機車補助",
+        "3 年內完成公車與公車站系統升級，持續換成電動與低底盤公車",
+        "規劃水陸兩棲運具"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "明年追加預算會再編列預算，好好地將政策延續",
+          "sourceUrl": "https://udn.com/news/story/124652/9759333",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來3年內全面完成公車與公車站系統升級",
+          "sourceUrl": "https://udn.com/news/story/124652/9772536",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並進一步規畫水陸兩棲運具等創新應用",
+          "sourceUrl": "https://udn.com/news/story/7328/9729656",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "keelung-01-economy",
+      "candidateId": "keelung-01",
+      "domainId": "economy",
+      "points": [
+        "推動 50 萬坪樓地板的智慧科技園區，目標 8 萬個就業機會，配合捷運辦理都市計畫變更",
+        "評估引進 AI 運算中心",
+        "發展郵輪、遊艇與海洋相關產業"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "園區具50萬坪樓地板面積，創造8萬職缺並非不可能，市府正積極朝此方向推動",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5593000",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並配合捷運建設同步進行都市計畫變更",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5593000",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "正評估未來引進AI運算中心的可行性",
+          "sourceUrl": "https://udn.com/news/story/7328/9558555",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "市府持續推動港灣再造，發展郵輪、遊艇及海洋相關產業",
+          "sourceUrl": "https://udn.com/news/story/7328/9729656",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "keelung-01-welfare",
+      "candidateId": "keelung-01",
+      "domainId": "welfare",
+      "points": [
+        "籌建第二座身心障礙福利機構，新增 74 床",
+        "增加原住民業務經費"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "預計未來將新增74床照顧量能",
+          "sourceUrl": "https://udn.com/news/story/124652/9772536",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將增加原住民業務相關經費，建設基隆成為原民第二故鄉",
+          "sourceUrl": "https://udn.com/news/story/124652/9722258",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "keelung-01-housing",
+      "candidateId": "keelung-01",
+      "domainId": "housing",
+      "points": [
+        "推動新市政大樓公辦都更與東岸商場、威海營區舊址開發，設社區都更工作站"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "市府推動東岸商場、亞果遊艇商場及威海營區舊址開發案，並成立社區都更工作站",
+          "sourceUrl": "https://udn.com/news/story/7328/9498235",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "新市政大樓公辦都更案也已進入說明會階段",
+          "sourceUrl": "https://udn.com/news/story/7328/9498235",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "keelung-01-culture",
+      "candidateId": "keelung-01",
+      "domainId": "culture",
+      "points": [
+        "打造書法之都，規劃協助藝文團體的展演空間與據點",
+        "百福公園規劃增設戶外水上樂園"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將打造基隆為「書法之都」",
+          "sourceUrl": "https://udn.com/news/story/124652/9784901",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "會努力規畫協助各藝文團體，依活動性質提供不同支持",
+          "sourceUrl": "https://udn.com/news/story/124652/9784901",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "百福公園也正規畫增設戶外水上樂園",
+          "sourceUrl": "https://udn.com/news/story/7328/9498235",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "keelung-01-governance",
+      "candidateId": "keelung-01",
+      "domainId": "governance",
+      "points": [
+        "繼續推動基北北桃聯合治理平台"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "繼續推動基北北桃聯合治理平台是最重要的",
+          "sourceUrl": "https://udn.com/news/story/124652/9737383",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #f1eff3;
+  --card: #ffffff;
+  --ink: #262231;
+  --muted: #6c6680;
+  --line: #d8d4de;
+  --stamp: #d0252b;
+  --stamp-soft: #fbe9e9;
+  --mark: #f3e3a6;
+  color-scheme: light;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-card: var(--card);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-stamp: var(--stamp);
+  --color-stamp-soft: var(--stamp-soft);
+  --color-mark: var(--mark);
+  --font-sans: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+  --font-serif: "Noto Serif TC", "Songti TC", "PMingLiU", serif;
+}
+
+html {
+  background: var(--paper);
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  line-height: 1.75;
+  -webkit-text-size-adjust: 100%;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-serif);
+  font-weight: 900;
+  line-height: 1.3;
+  letter-spacing: 0.01em;
+}
+
+a {
+  text-underline-offset: 0.2em;
+}
+
+:focus-visible {
+  outline: 3px solid var(--ink);
+  outline-offset: 3px;
+}
+
+/* 內文連結 */
+.link {
+  text-decoration: underline;
+  text-decoration-color: var(--muted);
+}
+.link:hover {
+  text-decoration-color: var(--stamp);
+  color: var(--stamp);
+}
+
+/* 主要按鈕與次要按鈕 */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 3rem;
+  padding: 0.6rem 1.4rem;
+  border: 2px solid var(--ink);
+  border-radius: 999px;
+  background: var(--ink);
+  color: #fff;
+  font-weight: 700;
+  cursor: pointer;
+}
+.btn:hover {
+  background: #000;
+}
+.btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+.btn-quiet {
+  background: transparent;
+  color: var(--ink);
+}
+.btn-quiet:hover {
+  background: var(--card);
+}
+
+/* 螢光筆：標出命中使用者期待的領域 */
+.marked {
+  background: linear-gradient(transparent 55%, var(--mark) 55%);
+  padding: 0 0.15em;
+}
+
+/* 圈選章蓋下去的動作，只在使用者選卡時出現 */
+@keyframes stamp-press {
+  0% {
+    opacity: 0;
+    transform: rotate(-14deg) scale(2.2);
+  }
+  60% {
+    opacity: 1;
+    transform: rotate(-14deg) scale(0.92);
+  }
+  100% {
+    opacity: 1;
+    transform: rotate(-14deg) scale(1);
+  }
+}
+.stamp-on {
+  transform: rotate(-14deg);
+  animation: stamp-press 260ms cubic-bezier(0.2, 0.9, 0.3, 1.2);
+}
+@media (prefers-reduced-motion: reduce) {
+  .stamp-on {
+    animation: none;
+  }
+}
+
+.prose-page p,
+.prose-page ul,
+.prose-page ol {
+  margin-top: 0.9rem;
+}
+.prose-page h2 {
+  margin-top: 2.5rem;
+  font-size: 1.35rem;
+}
+.prose-page ul {
+  list-style: disc;
+  padding-left: 1.4rem;
+}
+.prose-page ol {
+  list-style: decimal;
+  padding-left: 1.4rem;
+}

@@ -1,0 +1,567 @@
+{
+  "countyId": "nantou",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "nantou-02-health",
+      "candidateId": "nantou-02",
+      "domainId": "health",
+      "points": [
+        "行動醫療車配備 X 光、超音波、心電圖開進偏鄉，搭配遠距看診與無人機送慢性病藥",
+        "肺癌篩檢全面免費",
+        "非山非市地區醫護人員每月專案津貼 3,000 至 5,000 元",
+        "偏鄉牙科巡迴車開進部落",
+        "推動中部縣市食安聯防平台，增加食安預算與抽驗頻率"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "地面，有智慧行動醫療車隊，配備數位X光、超音波、心電圖，把檢查與診療，直接開進偏鄉社區",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/health-8km-care-network/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "我要把肺癌篩檢全面免費",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/health-8km-care-network/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "非山非市區域的醫護人員，每月專案津貼三千到五千元",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/health-8km-care-network/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "我要安排偏鄉牙科巡迴車，把牙科診療直接送到部落",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/elderly-dignity-care/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "我要推動中部縣市食安聯防治理平台，建立單一窗口通報機制",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/health-8km-care-network/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "nantou-02-welfare",
+      "candidateId": "nantou-02",
+      "domainId": "welfare",
+      "points": [
+        "65 歲以上、設籍滿 1 年，全口假牙補助最高 8 萬元並附 5 年保固",
+        "敬老卡每月 1,800 點，可累計，用於搭車、看診與日常消費",
+        "首胎生育獎勵金由 1 萬元加到 2 萬元；每胎坐月子補助 3 萬元",
+        "0 到 5 歲每年加發 1 萬元育兒津貼，0 到 2 歲每月再加 1,000 元",
+        "補助長者帶狀皰疹疫苗"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "只要設籍南投滿一年、年滿六十五歲的鄉親，就能申請",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/elderly-dignity-care/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "八萬元補助，還附五年保固",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/elderly-dignity-care/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "敬老卡每月提高到 1,800 元，點數可累計，並擴大使用範圍，讓長輩搭車、看診、日常生活都更方便",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/happy-nantou-888/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "我主張首胎生育獎勵金，從一萬元翻倍加碼到兩萬元",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/childcare-family-support/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每一胎生產，補助三萬元坐月子費用",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/childcare-family-support/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "零到五歲的孩子，每年加發一萬元育兒津貼",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/childcare-family-support/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "零到兩歲的育兒津貼，每個月再加發一千元",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/childcare-family-support/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動皮蛇疫苗補助，降低長輩帶狀疱疹風險",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/happy-nantou-888/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "nantou-02-education",
+      "candidateId": "nantou-02",
+      "domainId": "education",
+      "points": [
+        "兩年內公托數量加倍，目標一鄉鎮一公托",
+        "強化技職教育與在地產業連結，推動就業輔導與媒合",
+        "每個鄉鎮設一間閱讀空間"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "我承諾兩年內，公共托育的數量翻倍，目標是實現「一鄉鎮一公托」",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/childcare-family-support/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "我強化技職教育與在地產業的連結，讓學校教的，跟產業需要的接得上",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/youth-return-home/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "我承諾，讓每個鄉鎮都有可以坐下來讀書的地方",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/youth-return-home/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "nantou-02-youth",
+      "candidateId": "nantou-02",
+      "domainId": "youth",
+      "points": [
+        "青年創業最高補助 30 萬元，並配創業導師",
+        "8 萬元成家基金，另有修繕與租屋補助",
+        "成立青年發展局，創業貸款、成家補助、托育等由單一窗口辦理",
+        "發展數位產業與遠距工作"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "我推出青年創業政策，最高補助三十萬元，同時建立創業導師陪伴制度",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/youth-return-home/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動 8 萬元成家基金、修繕與租屋補助，減輕青年成家負擔",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/happy-nantou-888/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "成立青年發展局，整合創業貸款、成家補助、托育、青年返鄉與勞工補助",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/happy-nantou-888/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "我發展數位產業與遠距工作",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/youth-return-home/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "nantou-02-economy",
+      "candidateId": "nantou-02",
+      "domainId": "economy",
+      "points": [
+        "盤點土地、水、電、交通與人才條件，爭取高科技、低污染產業進駐"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "爭取高科技、低污染產業進駐南投，盤點土地、水、電、交通與人才條件",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/happy-nantou-888/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "nantou-02-transport",
+      "candidateId": "nantou-02",
+      "domainId": "transport",
+      "points": [
+        "高鐵接駁班次加倍，新增 8 條直達台中高鐵站的路線，平日尖峰班距 8 分鐘",
+        "草屯、南投、名間、埔里、竹山、水里、集集、國姓設轉乘節點",
+        "推動田中支線讓集集線接上高鐵彰化站；接續推動台中捷運延伸草屯、南投、名間、竹山",
+        "標線型人行道改為實體人行道，國小周邊設通學區",
+        "串聯集集、埔里、竹山、草屯自行車路網，沿線增設電輔車"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "我要把高鐵接駁班次加倍，新增8條接駁路線，直達台中高鐵站。平日尖峰，班距縮短到8分鐘",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/nantou-888-transport-network/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "在草屯、南投、名間、埔里、竹山、水里、集集、國姓等地建立轉乘節點，增加高鐵接駁班次",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/happy-nantou-888/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "同時持續推動田中支線，讓高鐵彰化站與集集線接軌",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/nantou-888-transport-network/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並接棒推動台中捷運延伸草屯、中興新村、南投、名間、竹山",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/happy-nantou-888/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "標線型人行道要轉型成實體人行道，路口要有實質通學區",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/nantou-888-transport-network/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "串起集集、埔里、竹山、草屯的觀光廊道。也在沿線增設電輔車（E-bike）",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/nantou-888-transport-network/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "nantou-02-culture",
+      "candidateId": "nantou-02",
+      "domainId": "culture",
+      "points": [
+        "不蓋 5.5 億元景觀塔，經費改用於通往各景點的道路、接駁與指標",
+        "以集集線鐵道串聯沿線景點，一站一主題",
+        "輔導茶園轉型為體驗式觀光",
+        "把國姓、埔里、日月潭、集集、溪頭串成縱向旅遊帶，發展多日遊"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "縣府打算斥資5.5億元，在名間蓋一座「松嶺之星」景觀塔。我反對這樣的單點地標式建設",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/nantou-tourism-plan/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "把原本要蓋塔的錢，拿來改善通往各景點的道路、接駁與指標",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/nantou-tourism-plan/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "把集集線鐵道跟沿線各景點一路串聯起來",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/nantou-tourism-plan/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "我主張輔導茶園轉型為體驗式觀光",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/nantou-tourism-plan/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "轉型為國姓、埔里、日月潭、集集、溪頭、杉林溪等景點串連的「縱向旅遊帶」",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/happy-nantou-888/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "nantou-02-environment",
+      "candidateId": "nantou-02",
+      "domainId": "environment",
+      "points": [
+        "反對在名間興建每日 500 噸的焚化爐",
+        "每日約 259 噸垃圾：回收減 75 噸、廚餘處理 50 噸、既有設施處理 75 噸，其餘製成再生燃料",
+        "設空氣與水質數據公開平台",
+        "以最高標準審視焚化爐預定地，守護石虎棲地與生態廊道"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "拒絕在名間強推 500 噸焚化爐",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/waste-cocktail-solution/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "可透過資源回收減少 75 噸、廚餘處理 50 噸、優化既有焚化爐處理 75 噸，剩餘約 59 噸再透過 SRF 燃料棒處理",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/happy-nantou-888/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "設立數據公開平台，把空氣品質與水質健康的數據公開透明，接受全民監督",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/nantou-green-environment/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "用最高標準審視名間焚化爐預定地，守住石虎棲地與生態廊道",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/nantou-green-environment/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "nantou-02-agriculture",
+      "candidateId": "nantou-02",
+      "domainId": "agriculture",
+      "points": [
+        "農業災損 8 小時內勘災、8 天內完成認定",
+        "成立 8 億元農業韌性基金，補助價格崩跌、加碼農損救助與復耕",
+        "滴灌系統每公頃最高補助 20 萬元、智慧農業設施最高 23 萬元",
+        "茶葉滯銷由政府協助收購，設農業人力支援平台紓解缺工"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "災損發生，八小時內啟動勘災，八天內完成農損認定。我要成立八億元的農業韌性基金，補助價格崩跌、加碼農損救助、支持復耕",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/agriculture-income-plan/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "穿孔管灌溉每公頃最高六萬兩千元，滴灌系統最高二十萬元",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/agriculture-income-plan/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每公頃最高二十三萬元",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/agriculture-income-plan/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "茶葉滯銷由政府協助收購，加碼農業保險補助，設立農業人力支援平台減輕缺工",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/agriculture-income-plan/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "nantou-02-governance",
+      "candidateId": "nantou-02",
+      "domainId": "governance",
+      "points": [
+        "公開完整垃圾處理數據：每日產量、堆置地點與處理成本",
+        "重大公共設施從選址、環評到營運監督全程公開並納入地方意見",
+        "爭取財政收支劃分法納入城鄉差距與高齡化"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "當選後將公開完整的垃圾處理數據，讓鄉親知道每天到底產生多少垃圾、堆置在哪裡、處理成本是多少",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/waste-cocktail-solution/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "任何重大公共設施，從選址、環評到營運監督，全程公開、納入地方意見",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/policies/waste-cocktail-solution/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "爭取財劃法納入城鄉差距與高齡化",
+          "sourceUrl": "https://wen-shih-cheng.com.tw/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "nantou-01-education",
+      "candidateId": "nantou-01",
+      "domainId": "education",
+      "points": [
+        "明年 2 月起營養午餐每餐加碼 10 元：公辦公營補助 65 元、公辦民營與桶餐 70 元，每年增 6,600 萬元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "民國116年2月起，全面調高營養午餐經費，每名學生每餐加碼補助10元",
+          "sourceUrl": "https://udn.com/news/story/124652/9724747",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "達到公辦公營學校每人每餐補助65元、公辦民營學校及外訂桶餐學校每人每餐補助70元，預計每年增加6600萬元經費支出",
+          "sourceUrl": "https://udn.com/news/story/124652/9724747",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "nantou-01-health",
+      "candidateId": "nantou-01",
+      "domainId": "health",
+      "points": [
+        "目標全縣 32 個國中學區都設日照中心"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "縣府目標在全縣32個國中學區皆設立日照中心",
+          "sourceUrl": "https://udn.com/news/story/7325/9298898",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "nantou-01-welfare",
+      "candidateId": "nantou-01",
+      "domainId": "welfare",
+      "points": [
+        "研議另設長輩多元福利卡，原有每月 1,000 元乘車福利保留，並考慮兩卡整合",
+        "社區活動中心再增設 3 處電梯"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來可研議另設多元福利卡，原有乘車福利也不會因此取消",
+          "sourceUrl": "https://udn.com/news/story/7325/9788131",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "原本每人每月一千元的乘車福利仍會保留，未來甚至可思考兩種卡片整合",
+          "sourceUrl": "https://udn.com/news/story/7325/9788131",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "目前全縣已設10處，未來還會增加3處",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5532153",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "nantou-01-transport",
+      "candidateId": "nantou-01",
+      "domainId": "transport",
+      "points": [
+        "向臺中爭取捷運橘線由霧峰延伸到草屯",
+        "以南投市、集集、埔里等轉運站串聯縣內大眾運輸",
+        "檢討幸福巴士開放未預約搭乘"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來也希望能夠同意把橘線延伸到南投",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5595433",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "長期目標是從草屯接上台中捷運橘線終點霧峰",
+          "sourceUrl": "https://udn.com/news/story/7325/9088283",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "中期規劃將以轉運站串聯縣內大眾運輸網為主，包括南投市、集集及埔里",
+          "sourceUrl": "https://udn.com/news/story/7325/9088283",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "下一階段還會檢討未預約是否也能搭乘等問題",
+          "sourceUrl": "https://udn.com/news/story/7325/9788131",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "nantou-01-agriculture",
+      "candidateId": "nantou-01",
+      "domainId": "agriculture",
+      "points": [
+        "縣府補助茶商端的農藥檢測費，讓茶農拿到每台斤 3 元的完整補助",
+        "與農會協調擴大茶葉行銷與採購，並補助農會辦活動"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "由縣府補助茶商端的農藥檢測等費用，藉此讓茶農能獲得完整3元補助",
+          "sourceUrl": "https://udn.com/news/story/124652/9795932",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "縣府將與農會協調擴大行銷及採購，也會補助農會辦理活動",
+          "sourceUrl": "https://udn.com/news/story/124652/9795932",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "nantou-01-environment",
+      "candidateId": "nantou-01",
+      "domainId": "environment",
+      "points": [
+        "支持興建焚化爐處理縣內垃圾"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "有8成多的縣民支持縣府蓋焚化爐",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5403325",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "nantou-01-governance",
+      "candidateId": "nantou-01",
+      "domainId": "governance",
+      "points": [
+        "縣府資源公平投入各鄉鎮市，以區域合作推動建設"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "縣府未來四年將緊密連結各鄉鎮市發展需求，透過資源整合與區域合作，共同推動縣政建設",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1769202",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

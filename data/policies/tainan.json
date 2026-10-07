@@ -1,0 +1,480 @@
+{
+  "countyId": "tainan",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "tainan-01-welfare",
+      "candidateId": "tainan-01",
+      "domainId": "welfare",
+      "points": [
+        "0 至 3 歲幼兒尿布全額免費",
+        "0 至 15 歲育兒津貼每人每月 5,000 元",
+        "育兒津貼一年約需 123 億元，以統籌分配款新增額度的 75% 支應",
+        "敬老卡每月加 1,000 元；重陽敬老金由 1,500 元提高到 3,000 元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "0至3歲幼兒尿布全額免費",
+          "sourceUrl": "https://news.ltn.com.tw/news/Tainan/breakingnews/5590984",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "育兒津貼規劃0至15歲每人每月5000元",
+          "sourceUrl": "https://news.ltn.com.tw/news/Tainan/breakingnews/5590984",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "這項補助支出一年約123億元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5348509",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "財源將利用財劃法分配給台南市每年163億的75％",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5348509",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "長者福利則主張敬老卡每月加1000元、重陽敬老金由1500元提高至3000元",
+          "sourceUrl": "https://news.ltn.com.tw/news/Tainan/breakingnews/5590984",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "tainan-01-health",
+      "candidateId": "tainan-01",
+      "domainId": "health",
+      "points": [
+        "0 至 6 歲幼兒健保費由市府補助",
+        "65 歲以上長者健保費取消排富，由市府全額負擔"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "0至6歲幼兒健保費由市府補助",
+          "sourceUrl": "https://news.ltn.com.tw/news/Tainan/breakingnews/5590984",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "65歲以上長者健保費取消排富，由市府全額負擔",
+          "sourceUrl": "https://news.ltn.com.tw/news/Tainan/breakingnews/5590984",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "tainan-01-housing",
+      "candidateId": "tainan-01",
+      "domainId": "housing",
+      "points": [
+        "依生育數提供住宅：生 1 胎 25 坪、2 胎 35 坪、3 胎 45 坪",
+        "以每坪 15 萬元成本價出售，免自備款，由市府擔保協助貸款",
+        "蓋在公有土地上，限制交易、只能由子女繼承",
+        "婚育社宅比率由 20% 增至 40%，生 3 胎者優先入住",
+        "社宅期間所繳租金，日後購屋可全額抵用"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "生1胎25坪、2房，生2胎35坪、3房，生3胎45坪、4房住宅",
+          "sourceUrl": "https://news.ltn.com.tw/news/Tainan/breakingnews/5590984",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "房屋以每坪15萬元成本價出售，免自備款，並由市府擔保協助向銀行貸款",
+          "sourceUrl": "https://news.ltn.com.tw/news/Tainan/breakingnews/5590984",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "用地公有就能做得到，但要推動必須限制交易，只能由子女繼承",
+          "sourceUrl": "https://udn.com/news/story/124652/9799020",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "謝龍介也提出婚育宅比率由20％增至40％，生3胎者有優先入住權",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5348509",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "期間所繳租金，未來如果有能力購屋，將可全部抵用購屋金",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5348509",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "tainan-01-transport",
+      "candidateId": "tainan-01",
+      "domainId": "transport",
+      "points": [
+        "推動捷運藍線如期完工，並加速綠線規劃，形成十字路網",
+        "力促北外環道路全線通車，打通南科往返市區",
+        "檢視交通執法與罰單合理性，改善標線不清、號誌不合理的路段"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "上任後將全力推動如期完工，並加速綠線規畫",
+          "sourceUrl": "https://tw.news.yahoo.com/%E8%97%8D%E5%B0%84%E4%BA%A4%E9%80%9A%E4%B8%89%E7%AE%AD-%E7%B6%A0%E6%8E%A8%E4%B8%83%E5%BD%A9%E8%A1%8C-%E9%BE%8D%E4%BB%8B-%E4%BA%AD%E5%A6%83%E6%94%BF%E8%A6%8B%E5%A4%A7%E8%BB%8A%E6%8B%9A-201000093.html",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "另會力促北外環早日全線通車",
+          "sourceUrl": "https://tw.news.yahoo.com/%E8%97%8D%E5%B0%84%E4%BA%A4%E9%80%9A%E4%B8%89%E7%AE%AD-%E7%B6%A0%E6%8E%A8%E4%B8%83%E5%BD%A9%E8%A1%8C-%E9%BE%8D%E4%BB%8B-%E4%BA%AD%E5%A6%83%E6%94%BF%E8%A6%8B%E5%A4%A7%E8%BB%8A%E6%8B%9A-201000093.html",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將檢視交通執法與罰單合理性，主動改善易誤闖、標線不清、號誌設計不合理的路段",
+          "sourceUrl": "https://tw.news.yahoo.com/%E8%97%8D%E5%B0%84%E4%BA%A4%E9%80%9A%E4%B8%89%E7%AE%AD-%E7%B6%A0%E6%8E%A8%E4%B8%83%E5%BD%A9%E8%A1%8C-%E9%BE%8D%E4%BB%8B-%E4%BA%AD%E5%A6%83%E6%94%BF%E8%A6%8B%E5%A4%A7%E8%BB%8A%E6%8B%9A-201000093.html",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "tainan-01-safety",
+      "candidateId": "tainan-01",
+      "domainId": "safety",
+      "points": [
+        "嚴辦酒駕與毒駕",
+        "從源頭處理危險路口與錯誤號誌"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "並從源頭處理危險路口、錯誤號誌，更要嚴辦酒駕、毒駕",
+          "sourceUrl": "https://tw.news.yahoo.com/%E8%97%8D%E5%B0%84%E4%BA%A4%E9%80%9A%E4%B8%89%E7%AE%AD-%E7%B6%A0%E6%8E%A8%E4%B8%83%E5%BD%A9%E8%A1%8C-%E9%BE%8D%E4%BB%8B-%E4%BA%AD%E5%A6%83%E6%94%BF%E8%A6%8B%E5%A4%A7%E8%BB%8A%E6%8B%9A-201000093.html",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "tainan-02-transport",
+      "candidateId": "tainan-02",
+      "domainId": "transport",
+      "points": [
+        "以四橫三縱快速道路串聯國道 1 號、3 號與西濱快速道路",
+        "加速鐵路立體化延伸永康、新市",
+        "加速捷運藍線延伸、深綠線與紅線，形成半環狀路網",
+        "溪北地區先用糖鐵五分車、觀光輕軌與自行車道串聯"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "以四橫三縱快速道路作為交通骨架，串聯國道1號、國道3號及台61西濱快速道路",
+          "sourceUrl": "https://www.storm.mg/article/11166904",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "會加速推動鐵路立體化延伸永康、新市",
+          "sourceUrl": "https://udn.com/news/story/124652/9771604",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "也要加速推動藍線延伸、深綠線及紅線等重要路網規劃",
+          "sourceUrl": "https://www.storm.mg/article/11166904",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "大眾交通相對弱勢的溪北地區",
+          "sourceUrl": "https://udn.com/news/story/124652/9771604",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "tainan-02-welfare",
+      "candidateId": "tainan-02",
+      "domainId": "welfare",
+      "points": [
+        "上任後以六都社福標準全面盤點，落後的項目一次補足",
+        "65 歲以上長者健保費全面免繳，取消排富",
+        "檢討重陽禮金與敬老卡使用彈性"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將立即以2026年六都社福標準為比較基準，從幼兒、青年、婦女、勞工到長輩全面盤點，只要台南落後，就一次補足",
+          "sourceUrl": "https://news.nextapple.com/politics/20260106/0D2978E63523B130B1CB5DC3718DD73F",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "同時也將推動65歲以上長者健保費全面免繳（取消排富）",
+          "sourceUrl": "https://news.nextapple.com/politics/20260106/0D2978E63523B130B1CB5DC3718DD73F",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "台南在重陽禮金、敬老卡使用彈性",
+          "sourceUrl": "https://news.ltn.com.tw/news/Tainan/breakingnews/5566845",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "tainan-02-education",
+      "candidateId": "tainan-02",
+      "domainId": "education",
+      "points": [
+        "國中小營養午餐若尚未免費，上任後補足",
+        "爭取約 3 億 3,500 萬元興建 K-12 舞蹈教育基地，含 400 人以上演藝廳"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來國中小營養午餐若在台南未跟進，她一定會負責補足、立即跟上",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5303870",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "因此明確爭取以約3億3500萬元的完整方案推動",
+          "sourceUrl": "https://udn.com/news/story/7326/9724315",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "實驗劇場及400人以上規模的演藝廳",
+          "sourceUrl": "https://udn.com/news/story/7326/9724315",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "tainan-02-health",
+      "candidateId": "tainan-02",
+      "domainId": "health",
+      "points": [
+        "AI 智慧醫療導入社區與基層照護，建立市民健康共照雲",
+        "推動智慧醫院：智慧病房、數位病歷、遠距醫療與 AI 輔助診療",
+        "補強長者帶狀疱疹疫苗補助"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "運用AI影像與數據分析，並逐步完整建立",
+          "sourceUrl": "https://udn.com/news/story/124652/9684131",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "導入智慧病房、數位病歷、遠距醫療及AI輔助診療等應用",
+          "sourceUrl": "https://udn.com/news/story/124652/9684131",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "以及長者帶狀疱疹疫苗補助等制度，仍有補強空間",
+          "sourceUrl": "https://news.ltn.com.tw/news/life/paper/1769952",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "tainan-02-economy",
+      "candidateId": "tainan-02",
+      "domainId": "economy",
+      "points": [
+        "後壁花卉產業園區結合智慧溫室、生技育種與 AI 管理",
+        "南科四期延伸到沙崙，跨入綠能、AI 與資安",
+        "柳營科技工業區三期發展智慧機器人與無人機產業",
+        "發展醫療科技、AI 醫材與精準健康產業"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來應進一步結合智慧溫室、生技育種、智慧農業、AI 管理與精準生產",
+          "sourceUrl": "https://udn.com/news/story/124652/9684131",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來南科四期將延伸到沙崙，讓台南科技產業從半導體進一步跨入綠能、AI智慧化與資安",
+          "sourceUrl": "https://udn.com/news/story/124652/9684131",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "智慧機器人與無人機產業將落腳成為重要發展基地",
+          "sourceUrl": "https://udn.com/news/story/124652/9684131",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "另外發展醫療科技、生醫科技、AI醫材與精準健康產業",
+          "sourceUrl": "https://udn.com/news/story/124652/9684131",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "tainan-02-safety",
+      "candidateId": "tainan-02",
+      "domainId": "safety",
+      "points": [
+        "偏遠地區布建微電網，確保獨立供電",
+        "建立民間防救災資源的數位資料庫",
+        "抽水機依淹水熱點部署並簽支援契約；清除河道瓶頸段",
+        "市長每 3 個月主持跨局處防毒會議，訂校園毒品減量目標",
+        "誤觸毒品的學生提供心理諮商、醫療與社福支持"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "佈建關鍵微電網，確保偏遠地區獨立供電",
+          "sourceUrl": "https://udn.com/news/story/124652/9535014",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "結合民間力量，建立數位化防救災資源資料庫",
+          "sourceUrl": "https://udn.com/news/story/124652/9535014",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "抽水機精準熱點部署，簽訂支援契約",
+          "sourceUrl": "https://udn.com/news/story/124652/9535014",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "中央地方聯手體檢排水，加速清除河道瓶頸段",
+          "sourceUrl": "https://udn.com/news/story/124652/9535014",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將由市長每3個月親自主持一次跨局處防毒會議，定期檢討校園毒品防制成效，訂定具體減少校園毒品事件的目標",
+          "sourceUrl": "https://udn.com/news/story/124967/9656365",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "市府應提供教育、心理諮商、醫療及社福等完整支持",
+          "sourceUrl": "https://udn.com/news/story/124967/9656365",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "tainan-02-youth",
+      "candidateId": "tainan-02",
+      "domainId": "youth",
+      "points": [
+        "成立具實權的青年局，整合就業、創業輔導、租屋、職涯與國際交流"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "專責機關，整合就業、創輔、租屋、職涯，還有國際交流等資源",
+          "sourceUrl": "https://news.ltn.com.tw/news/Tainan/breakingnews/5566845",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "tainan-02-culture",
+      "candidateId": "tainan-02",
+      "domainId": "culture",
+      "points": [
+        "規劃大新營、曾文南科、濱海藍帶、大目降、府城新豐五條觀光軸",
+        "不新蓋景點，把既有資源依各區特色串成多日遊程",
+        "同步改善公共空間、交通接駁與步行環境",
+        "後壁花卉產業園區辦常態性花卉市集，結合烏樹林、關子嶺"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "等5條觀光軸線",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5559649",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "不是要在台南再蓋多少個新景點，而是要把台南原本就有的珍貴資產，重新串起來",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5559649",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來也要同步改善公共空間、交通接駁、步行環境與地方生活品質",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5559649",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將推動後壁花卉產業園區常態性花卉市集，結合烏樹林、關子嶺等景點",
+          "sourceUrl": "https://udn.com/news/story/124652/9653886",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "tainan-02-agriculture",
+      "candidateId": "tainan-02",
+      "domainId": "agriculture",
+      "points": [
+        "建立農漁業資訊平台，整合氣候、產量、價格與通路即時資訊",
+        "強化災損通報流程，加快災情掌握與補助",
+        "完善冷鏈與加工，串聯傳統市場、量販零售與電商通路",
+        "有系統推動稻米等農產外銷日本"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "她主張建立完整的農漁業資訊平台，整合氣候、產量、價格、通路等即時資訊",
+          "sourceUrl": "https://news.nextapple.com/politics/20260106/0D2978E63523B130B1CB5DC3718DD73F",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "強化災損通報SOP，加速災情掌握與補助",
+          "sourceUrl": "https://udn.com/news/story/124652/9698622",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "同時串聯觀光、傳統市場、量販零售及電商，完善冷鏈、加工與品牌行銷",
+          "sourceUrl": "https://udn.com/news/story/124652/9698622",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "如何有系統地推動台灣優質稻米外銷日本，將是農業升級的重要契機",
+          "sourceUrl": "https://news.nextapple.com/politics/20260106/0D2978E63523B130B1CB5DC3718DD73F",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

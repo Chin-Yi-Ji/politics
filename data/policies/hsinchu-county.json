@@ -1,0 +1,656 @@
+{
+  "countyId": "hsinchu-county",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "hsinchu-county-01-welfare",
+      "candidateId": "hsinchu-county-01",
+      "domainId": "welfare",
+      "points": [
+        "65 歲以上長者健保費由縣府代繳，每人一年約省 1 萬元，不排富",
+        "生育禮包每胎上限 10 萬元，涵蓋懷孕禮金、營養補助與生育獎勵金",
+        "新生兒父母每胎 6 次免費心理諮商",
+        "加碼家暴被害人緊急生活津貼，高風險個案快速核發",
+        "發給 65 歲以上長者 AI 健康手環"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "免除縣內65歲以上長輩的健保費，改由縣政府統一代繳",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5582455",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "這樣長輩們1年可以省下將近1萬塊錢",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5582455",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "若當選將推動65歲以上長者免繳健保費，且敬老福利不排富",
+          "sourceUrl": "https://udn.com/news/story/124652/9790286",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "十萬元額度涵蓋懷孕慶賀禮金、懷孕期間營養補助、生育獎勵金，以及產婦、新生兒營養補助等",
+          "sourceUrl": "https://udn.com/news/story/124652/9778122",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每胎將提供6次免費心理諮商",
+          "sourceUrl": "https://udn.com/news/story/124652/9777313",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "除了加碼緊急生活津貼，更建立高風險個案快速核發機制",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5584718",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "另規畫發放65歲以上長者AI智慧健康手環",
+          "sourceUrl": "https://udn.com/news/story/124652/9790286",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-county-01-health",
+      "candidateId": "hsinchu-county-01",
+      "domainId": "health",
+      "points": [
+        "50 歲以上接種帶狀皰疹疫苗補助 5,000 元",
+        "女性一站式免費健檢（骨密度、乳房超音波、甲狀腺、貧血），巡迴醫療車進尖石、五峰、峨眉",
+        "孕前健檢補助提高到 3,000 元",
+        "一里一個照護聯絡點，建長照資源查詢平台",
+        "擴大長者與弱勢假牙補助名額，納入口腔篩檢與後續維修"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "新竹縣50歲以上民眾接種帶狀皰疹疫苗補助5000元",
+          "sourceUrl": "https://udn.com/news/story/124652/9790286",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "整合骨密度、乳房超音波、甲狀腺及貧血等常見風險",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5584718",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "同時搭配巡迴醫療車深入尖石、五峰、峨眉等偏鄉",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5584718",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "把女性孕前健檢補助提高至3000元",
+          "sourceUrl": "https://udn.com/news/story/124652/9777313",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並推動「一里一個照護聯絡點」",
+          "sourceUrl": "https://udn.com/news/story/124652/9790286",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "規畫建立「新竹縣長照資源整合查詢平台」",
+          "sourceUrl": "https://udn.com/news/story/124652/9790286",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "徐欣瑩提出擴大現有長者假牙及弱勢假牙補助名額與服務量能",
+          "sourceUrl": "https://udn.com/news/story/124652/9790286",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-county-01-education",
+      "candidateId": "hsinchu-county-01",
+      "domainId": "education",
+      "points": [
+        "增設夜間與假日臨時托育",
+        "增加托嬰、幼兒園名額與 2 歲專班，優先在竹北、新豐、湖口、竹東",
+        "推出整合臨托預約、保母媒合、早療資源的育兒 App",
+        "打造室內兒童樂園"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "加強增設夜間、假日的臨時托育系統",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5587426",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "徐欣瑩還主張增加托嬰托育與幼兒園名額以及2歲專班，鎖定竹北、新豐、湖口、竹東等人口與住宅持續發展區",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5587426",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "這個APP將整合臨托預約、托育媒合入口、幼兒健康存摺、早療資源與申辦與追蹤、兒童醫療資訊及院所等",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5587426",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來將積極推動打造室內兒童樂園",
+          "sourceUrl": "https://udn.com/news/story/124652/9792542",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-county-01-economy",
+      "candidateId": "hsinchu-county-01",
+      "domainId": "economy",
+      "points": [
+        "有 12 歲以下子女的員工每日減少工時 1 小時不減薪，縣府分擔企業薪資成本",
+        "二度就業婦女最高 5 萬元創業啟動金",
+        "成立 AI 產業學院，提供勞工 AI 工具補助與職能訓練",
+        "加速推進竹科三期"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "針對有12歲以下子女、因接送等需要調整工時的受僱者",
+          "sourceUrl": "https://udn.com/news/story/124652/9793959",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "鼓勵企業提供每日減少工時1小時，縣府將協助分擔減少工時所產生的薪資成本",
+          "sourceUrl": "https://udn.com/news/story/124652/9793959",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提供最高5萬元創業啟動金",
+          "sourceUrl": "https://udn.com/news/story/124652/9793959",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "也將成立新竹縣AI產業學院",
+          "sourceUrl": "https://udn.com/news/story/124652/9750650",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提供AI工具補助及職能訓練",
+          "sourceUrl": "https://udn.com/news/story/124652/9793959",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並加速推進竹科3期與國道3號二重交流道建設",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5590807",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-county-01-transport",
+      "candidateId": "hsinchu-county-01",
+      "domainId": "transport",
+      "points": [
+        "導入 AI 動態號誌控制，依即時車流調整秒數",
+        "加速國道 3 號二重交流道，持續推動湖口第二交流道",
+        "交通罰鍰專用於道路安全改善與大眾運輸",
+        "YouBike 前 30 分鐘免費"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "也應導入AI全動態交通流控系統，透過感測器及大數據掌握即時車流，自動調整號誌秒數",
+          "sourceUrl": "https://udn.com/news/story/124652/9750650",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並加速推進竹科3期與國道3號二重交流道建設",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5590807",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "湖口鄉持續推動第二交流道",
+          "sourceUrl": "https://udn.com/news/story/124652/9701708",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "要把罰鍰專用在交通道路改善及大眾運輸方面，她是贊同的",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5581177",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "徐欣瑩先前提出YouBike前30分鐘免費政策",
+          "sourceUrl": "https://udn.com/news/story/124652/9795141",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-county-01-housing",
+      "candidateId": "hsinchu-county-01",
+      "domainId": "housing",
+      "points": [
+        "盤點國有、縣有土地，結合公辦都更、聯合開發與包租代管推動社會住宅"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將盤點國有、縣有及公有土地，結合公辦都更、TOD、聯合開發及包租代管，全力推動社會住宅",
+          "sourceUrl": "https://udn.com/news/story/7314/9679913",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-county-01-safety",
+      "candidateId": "hsinchu-county-01",
+      "domainId": "safety",
+      "points": [
+        "建智慧防災戰情平台，推動 72 小時自主防災標準",
+        "尖石、五峰優先預置衛星備援通訊、緊急發電與醫療物資",
+        "一里一防災核心，建立災時優先關懷名冊",
+        "演習後 30 天公布缺失、90 天公布改善進度"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "建立「智慧防災戰情平台」、推動「72小時自主韌性標準」",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5581002",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "尖石與五峰列為優先預置衛星備援通訊、緊急發電與醫療物資區",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5581002",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動「一里一防災核心」並建立災時優先關懷名冊",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5581002",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "以及建立演習後30天公布缺失、90天公布改善進度的管考制度",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5581002",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-county-01-culture",
+      "candidateId": "hsinchu-county-01",
+      "domainId": "culture",
+      "points": [
+        "縣府、戶政、長照、醫療與公共交通第一線提供客語服務",
+        "推動家庭每日十句客語、青年客語創作計畫，並以 AI 做客語語音辨識與發音陪練"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將客語服務推廣至縣府、戶政、長照、醫療與公共交通等第一線服務場域",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5566445",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "透過「一日十句客語」、親子與祖孫共學",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5566445",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "導入語音辨識、自動字幕與發音陪練",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5566445",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-county-01-governance",
+      "candidateId": "hsinchu-county-01",
+      "domainId": "governance",
+      "points": [
+        "公共建設不署名、不落款",
+        "家人不干政、不碰採購",
+        "成立縣政顧問團，讓專家與縣民共同監督",
+        "推動竹東鎮升格為市"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "公共建設不署名、不落款，讓建設歸功全體縣民",
+          "sourceUrl": "https://udn.com/news/story/124652/9795141",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "家人不干政、不碰採購，落實公私分明",
+          "sourceUrl": "https://udn.com/news/story/124652/9795141",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "讓專家與縣民共同參與、共同監督",
+          "sourceUrl": "https://udn.com/news/story/124652/9795141",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "她承諾上任後將推動「竹東鎮升格為竹東市」",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5590807",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-county-02-transport",
+      "candidateId": "hsinchu-county-02",
+      "domainId": "transport",
+      "points": [
+        "盤點 13 鄉鎮市通勤通學需求，串聯火車站與高鐵站規劃接駁路線",
+        "13 鄉鎮市設 YouBike，前 30 分鐘免費，並盤點自行車道危險斷點",
+        "盤點改善各鄉鎮市地下道與涵洞，高淹水風險路段排定工期",
+        "評估埔東隧道可行性，爭取台 1 線替代道路第二階段與湖口第二交流道",
+        "全縣老舊路燈換成 LED，優先改善校園、公園、通學路線的照明死角"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "他將針對十三鄉鎮市進行完整交通需求盤點",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1768430",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推出「YouBike前三十分鐘免費」",
+          "sourceUrl": "https://news.ltn.com.tw/news/life/paper/1771784",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "他承諾將全面盤點全縣自行車道的危險斷點",
+          "sourceUrl": "https://news.ltn.com.tw/news/life/paper/1771784",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "全面盤點各鄉鎮市的涵洞與地下道",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5583781",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並對高淹水風險路段明確排定工期",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5583781",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "進行埔東隧道可行性評估，串聯高鐵新竹站特定區及118線交通樞紐；另持續爭取台1線替代道路第二階段，並希望加速湖口第二交流道行政程序",
+          "sourceUrl": "https://udn.com/news/story/124652/9693513",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "逐步推動老舊燈具LED化",
+          "sourceUrl": "https://udn.com/news/story/7324/9775635",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "盤點校園、公園、停車場、通學路線等公共場域，優先改善照明死角",
+          "sourceUrl": "https://udn.com/news/story/7324/9775635",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-county-02-education",
+      "candidateId": "hsinchu-county-02",
+      "domainId": "education",
+      "points": [
+        "研議增設 2 所完全中學",
+        "教育現場行政減量、評鑑簡化",
+        "早療孩童的教室助理員補助由每日 4 小時朝全天改善",
+        "在尖石興建部落圖書館，改善原鄉校舍與師資"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "也主張縣府研議增加2所完全中學；教育現場則將推動行政減量、評鑑簡化，並研議將早療孩童教室助理員補助由目前每日4小時，朝配合孩子全天作息方向改善",
+          "sourceUrl": "https://udn.com/news/story/124652/9693513",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將打造屬於部落的「山林系圖書館」",
+          "sourceUrl": "https://udn.com/news/story/124652/9760482",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "鄭朝方也當場允諾將全力提升教育資源，包含師資資源與校舍改善",
+          "sourceUrl": "https://udn.com/news/story/124652/9760482",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-county-02-environment",
+      "candidateId": "hsinchu-county-02",
+      "domainId": "environment",
+      "points": [
+        "4 年推動生活樹蔭路線與涼蔭據點示範計畫",
+        "建立全縣樹木修枝與長期養護制度，由樹醫生、樹藝師執行",
+        "關西牛欄河、竹北豆子埔溪等水岸改以生態工法做成親水空間",
+        "盤點並整建全縣公園、市場、景點的老舊公廁",
+        "縣府補助各公所改善清潔車輛、工作裝備與職業安全制度"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "以4年推動生活樹蔭路線及涼蔭據點示範計畫，建立全縣樹木修枝管理與長期養護制度，由樹醫生、樹藝師共同執行",
+          "sourceUrl": "https://udn.com/news/story/124652/9789935",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "他將以「減法美學、生態工法」，在全縣打造兼具安全、生態與品質的親水廊道",
+          "sourceUrl": "https://udn.com/news/story/124652/9756639",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "關西牛欄河、新埔鳳山溪與霄裡溪、竹東中興河道，以及竹北豆子埔溪、東興圳等，都是具發展潛力的水岸資源",
+          "sourceUrl": "https://udn.com/news/story/124652/9756639",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來將全面盤點新竹縣13鄉鎮市的公園、市場、圖書館、觀光景點及重要交通節點的公廁，針對老舊、髒亂的設施進行全面整建",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5555301",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "補助各公所改善清潔車輛、工作裝備及作業環境，並協助建立完整職業安全制度",
+          "sourceUrl": "https://news.ltn.com.tw/news/life/paper/1768049",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-county-02-safety",
+      "candidateId": "hsinchu-county-02",
+      "domainId": "safety",
+      "points": [
+        "滾動檢討老舊雨水下水道系統規劃",
+        "建立易淹水熱區改善列管機制，比對歷史淹水點與排水設施找出瓶頸",
+        "防汛清淤提早盤點設計與採購，建立異常預警"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "應啟動老舊雨水下水道系統規劃滾動檢討",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5565944",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "同時建立「易淹水熱區改善列管機制」，交叉比對歷史積淹水點與各類排水設施",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5565944",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提早盤點設計與採購，建立異常預警以防工程流標延宕",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5565944",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-county-02-culture",
+      "candidateId": "hsinchu-county-02",
+      "domainId": "culture",
+      "points": [
+        "以北埔老街、膨風茶為核心串聯峨眉、寶山，整合接駁、停車資訊與數位導覽",
+        "發展一鄉鎮一文化品牌",
+        "提升藝文場館承接國際級展演的能力；老建築活化為展演舞台"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "以北埔老街、古蹟、膨風茶及客家文化為核心，向外串聯峨眉、寶山的湖泊、農村、自行車及特色產業，整合交通接駁、停車資訊、數位導覽、特色商圈及地方創生",
+          "sourceUrl": "https://udn.com/news/story/124652/9778623",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "一鄉鎮一文化品牌",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5596033",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "使其具備承接國際級藝術團隊與大型跨域展演的能力",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5596033",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "透過「老建築、新舞台」的概念",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5596033",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-county-02-youth",
+      "candidateId": "hsinchu-county-02",
+      "domainId": "youth",
+      "points": [
+        "青年首次創業支持計畫，整合創業諮詢、品牌與行銷資源",
+        "活化公有空間作青年創業基地",
+        "頭前溪高灘地設照明與安全設施，做成不同時段都能用的運動廊道"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "整合創業諮詢、品牌與行銷資源",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5558010",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並活化公有空間打造青年創業基地",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5558010",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "導入友善照明、安全設施與休憩場域",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5558010",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-county-03-housing",
+      "candidateId": "hsinchu-county-03",
+      "domainId": "housing",
+      "points": [
+        "全面對私有地辦理區段徵收，配回 40% 建地給地主",
+        "保留 60% 土地只租不賣或無償出租",
+        "育兒縣民在一定年限內可免費用地蓋房，外加一個免費車位"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將全面對私地辦理區段徵收，配回40%建地給地主，保留60%土地只租不賣、或給無償租地",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5564007",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "在一定年限內享有免費土地蓋房子、外加1個免費車位",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5564007",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-county-03-youth",
+      "candidateId": "hsinchu-county-03",
+      "domainId": "youth",
+      "points": [
+        "釋出土地給回鄉創業青年與企業免費使用"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "由縣府釋出專用以獎勵回鄉創業青年和企業免費使用",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5564007",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1268 @@
+{
+  "countyId": "penghu",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "penghu-01-health",
+      "candidateId": "penghu-01",
+      "domainId": "health",
+      "points": [
+        "編列預算增聘專科醫師駐診，增加週末、假日與夜間門診",
+        "簡化直升機後送程序；直升機無法執勤時立即啟動備援船舶",
+        "建立備援航空器機制，強化二級離島駐地救援量能",
+        "爭取本島醫學中心增設屋頂停機坪，後送病患降落即可就醫"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "增聘專科醫師駐診，增加週末、假日及夜間門診",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5555903",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "直升機無法執勤時，立即啟動備援船舶",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5555903",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建立備援航空器機制",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5555903",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並強化七美、望安等離島駐地救援量能",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5555903",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "也要爭取醫學中心增設屋頂停機坪",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5555903",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-01-welfare",
+      "candidateId": "penghu-01",
+      "domainId": "welfare",
+      "points": [
+        "依法聘僱外籍看護的家庭，每戶每月補助 1 萬元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "凡澎湖縣依法聘僱外籍看護工之家庭，每戶每月補助1萬元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5488334",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-01-transport",
+      "candidateId": "penghu-01",
+      "domainId": "transport",
+      "points": [
+        "延伸二級離島機場跑道，讓中型客機起降",
+        "爭取離島機票補貼提高到五成，建立常態加班機與居民優先訂位、候補機制",
+        "檢視各村里需求，調整公車路線與班次",
+        "整合市區地下停車場資訊，建置即時停車 App",
+        "整合各單位道路工程減少重複開挖，加強回填品質"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "因此主張延伸跑道，讓中型客機起降",
+          "sourceUrl": "https://udn.com/news/story/124652/9747401",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "他將向中央爭取離島機票補貼提高至五成，並建立常態化加班機與在地居民優先預約、候補機制",
+          "sourceUrl": "https://udn.com/news/story/124652/9747401",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "優化公車路網，全面檢視各村里實際需求，調整路線與班次",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5545646",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建置即時停車資訊App",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5545646",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "整合各單位道路工程，減少重複開挖",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5545646",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-01-education",
+      "candidateId": "penghu-01",
+      "domainId": "education",
+      "points": [
+        "全縣幼兒園餐食免費",
+        "增設托嬰中心，考慮把廢棄學校轉型為托嬰中心",
+        "活化閒置公共空間設親子館，增設共融公園與公共哺乳室",
+        "成立學校工程專責小組"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "提出推動全縣幼兒園餐食免費，並擴大增設托嬰中心，以及活化縣內閒置公共空間，建置優質親子館",
+          "sourceUrl": "https://udn.com/news/story/124652/9644177",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "考慮廢棄學校轉型托嬰中心",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5479937",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "還要增設共融公園與公共哺乳室",
+          "sourceUrl": "https://udn.com/news/story/124652/9644177",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "成立學校工程專責小組",
+          "sourceUrl": "https://udn.com/news/story/124652/9747401",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-01-environment",
+      "candidateId": "penghu-01",
+      "domainId": "environment",
+      "points": [
+        "風電與光電開發沒有地方共識不推動，落實地方同意權與景觀規劃",
+        "與漁民合作推動海洋保育，讓海域有休養、繁衍的機會",
+        "培育適合當地海域的種苗；受影響海域做棲地修復與補償",
+        "依海域、物種與時節做計畫性放流，並追蹤成效"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "拒絕黑箱，沒有共識絕不貿然推動",
+          "sourceUrl": "https://udn.com/news/story/124652/9747401",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將嚴格檢視程序合法性，落實地方同意權與景觀規畫",
+          "sourceUrl": "https://udn.com/news/story/124652/9747401",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "與漁民攜手守護環境，讓海洋有休養、繁衍的機會",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5597654",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "種苗復育，培育適合澎湖海域的物種",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5597654",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動棲地修復與補償",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5597654",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並追蹤放流成效",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5597654",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-01-culture",
+      "candidateId": "penghu-01",
+      "domainId": "culture",
+      "points": [
+        "推動寺廟修復保存，紀錄祭典與宗教文化",
+        "活化閒置場域作微型文化空間，讓展覽、閱讀與藝文活動走進社區",
+        "街道、公共設施與社區空間納入設計與美感"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動寺廟修復保存、紀錄祭典與宗教文化",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5570745",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "打造微型文化空間活化合適的閒置場域",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5570745",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "讓展覽、閱讀與藝文活動走進社區",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5570745",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "從街道、公共設施到社區空間，把設計與美感融入日常",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5570745",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-02-health",
+      "candidateId": "penghu-02",
+      "domainId": "health",
+      "points": [
+        "每年投入 1 億元提升在地醫療",
+        "高薪聘請專科醫師長駐",
+        "提高第一線醫護人員福利，添購救命儀器"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "就是要將這筆經費轉作每年挹注一億元提升地方醫療，以高薪聘請專科醫師長駐澎湖、加強第一線醫護人員的福利，購買救命儀器",
+          "sourceUrl": "https://udn.com/news/story/124652/9572562",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-02-transport",
+      "candidateId": "penghu-02",
+      "domainId": "transport",
+      "points": [
+        "爭取第三家航空公司投入離島航線",
+        "向中央爭取把緊急保留機位制度化",
+        "兒童機票 3.5 折優惠從 12 歲延長到 18 歲"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來不論是爭取更多業者投入離島航線，或促成新的國籍航空公司加入",
+          "sourceUrl": "https://udn.com/news/story/6656/9722830",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "緊急保留機位制度化",
+          "sourceUrl": "https://udn.com/news/story/6656/9722830",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "從目前的12歲，全面展延至18歲",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5524112",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-02-welfare",
+      "candidateId": "penghu-02",
+      "domainId": "welfare",
+      "points": [
+        "長者三節禮金各加碼 1,000 元",
+        "敬老縣民卡每月增加 1,000 元，可用於計程車、藝文與購物",
+        "合計長者每年有 3 萬元額度可用"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "提出長者3節禮金各加碼1000元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5536785",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "另外增加敬老縣民卡每月1000元，與中央攜手規劃運用於計程車、藝文購物等服務",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5536785",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "長者每年有3萬元額度可運用",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5536785",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-02-education",
+      "candidateId": "penghu-02",
+      "domainId": "education",
+      "points": [
+        "教師節敬師禮券從 600 元提高到 2,000 元，代理教師也適用",
+        "教師健檢補助從每 2 年最高 7,000 元提高到 1 萬元",
+        "縣長與教師定期召開教育圓桌會議",
+        "興建不怕風吹日曬的室內全齡生活館"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "從現行600元提高為2000元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5587948",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "健檢補助從現行每2年最高7000元提高為每2年1萬元，敬師禮，也適用於代理教師",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5587948",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並允諾開啟縣長與教師定期對話的教育圓桌會議",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5587948",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來將推動全齡生活館",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5543729",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-02-economy",
+      "candidateId": "penghu-02",
+      "domainId": "economy",
+      "points": [
+        "爭取無人機、無人船產業落地，盤整土地建一到數個產業基地",
+        "設無人載具訓練與測試基地，培訓科技人才",
+        "舉辦無人機、無人船國際競賽"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將力爭無人載具產業落地澎湖",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5496893",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "盤整土地利用，以產業聚落形式打造一到數個基地",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5496893",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "設置無人載具訓練與測試基地",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5536785",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來也可舉辦無人機無人船國際競賽",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5496893",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-02-culture",
+      "candidateId": "penghu-02",
+      "domainId": "culture",
+      "points": [
+        "主張買國際機票送離島國內機票，降低外籍旅客轉機成本",
+        "整合國際運動賽事、地方文化活動與四季無人機競賽，不只靠花火節旺季"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "買國際機票送澎湖國內機票",
+          "sourceUrl": "https://udn.com/news/story/6656/9722830",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來可進一步整合國際運動賽事、地方文化活動，甚至是四季無人機競賽等構想",
+          "sourceUrl": "https://udn.com/news/story/6656/9722830",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-02-environment",
+      "candidateId": "penghu-02",
+      "domainId": "environment",
+      "points": [
+        "未來 4 年種下 100 萬棵樹",
+        "爭取中央專案經費與人力養護樹木",
+        "尋找耐強風、抗病害的樹種，導入科學灌溉並減少過度修剪"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "宣示未來4年將推動為澎湖「種下1百萬棵樹」的綠色願景",
+          "sourceUrl": "https://news.ltn.com.tw/news/life/breakingnews/5538995",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "爭取中央針對澎湖特殊環境提供專案經費與人力支持",
+          "sourceUrl": "https://news.ltn.com.tw/news/life/breakingnews/5538995",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "盼中央協助尋找耐強風、抗病害且具遮蔭效果的適生樹種，並導入科學灌溉與維護技術",
+          "sourceUrl": "https://news.ltn.com.tw/news/life/breakingnews/5538995",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-03-culture",
+      "candidateId": "penghu-03",
+      "domainId": "culture",
+      "points": [
+        "擴大復育珊瑚礁，發展潛水觀光",
+        "以天后宮等景點辦文化走讀，秋冬辦文史講座與海鮮慢食美食祭",
+        "搭配淡季機票與旅宿折扣",
+        "重建紅毛城，活化清領到二戰時期的砲台堡壘與地下坑道"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "擴大復育珊瑚礁促進潛水觀光",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5547690",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "以天后宮、觀音亭等景點進行「文化走讀」",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5547690",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "搭配淡季機票與旅宿折扣",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5547690",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "重建蛇頭山紅毛城並活化清領至二戰時期留下的砲台堡壘與地下坑道",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5547690",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-03-agriculture",
+      "candidateId": "penghu-03",
+      "domainId": "agriculture",
+      "points": [
+        "重要傳統漁場提高海巡巡弋與科技監控，對越界漁船強力執法",
+        "外籍漁工零付費的新增成本不應全由小型船東負擔",
+        "娛樂漁業與商業捕魚分流管理，把規則說清楚"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "提高海巡巡弋與科技監控能量，對中國越界漁船強力執法",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5535610",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "不能把新增成本全部丟給澎湖的小型船東",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5535610",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "漁業、娛樂漁業分流管理",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5535610",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-04-transport",
+      "candidateId": "penghu-04",
+      "domainId": "transport",
+      "points": [
+        "市區主要單行道分階段改回雙向通行，縮減車道並優化停車格與人行空間",
+        "地下停車場月票全縣通用，5 座停車場可跨場停放",
+        "縣長主持路平專案：管線工程提早整合排程、避開旅遊旺季，完工一週內初驗",
+        "長期在離島服務的軍警公教，交通船比照離島居民票價，不必遷戶籍"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "重新轉型為雙向通行",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5394418",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "適度縮減車道寬度，優化停車格與人行空間",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5394418",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "月票全縣通用",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5366609",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來會要求提早整合、公開排程、避開旅遊尖峰與重要活動期間",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5481306",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "一週內完成初驗",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5481306",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來若當選縣長，將實施比照離島居民票價",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5573679",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-04-education",
+      "candidateId": "penghu-04",
+      "domainId": "education",
+      "points": [
+        "100 萬元以上的學校工程改由縣府專責團隊發包、監造與驗收",
+        "編列學生赴臺參賽專案預算，依比賽層級與人數補助",
+        "建立校園事件前端協調與分流機制，減少不必要的校事會議",
+        "補助教師會成立校園法律支援中心",
+        "興建室內海洋探索親子館"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "凡學校工程經費超過新台幣100萬元以上案件，統一由澎湖縣政府新聘工程專業人員",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5417630",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "學生赴台參賽專案預算",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5444739",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "前端協調與分流機制",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5456416",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "校園法律支援中心",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5456416",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "澎湖海洋探索親子館",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5517401",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-04-environment",
+      "candidateId": "penghu-04",
+      "domainId": "environment",
+      "points": [
+        "縣府編配合款加速污水接管，優先補助公寓大樓與集合住宅",
+        "成立銀合歡剷除小組，添購機具、開花結籽前剷除，覆蓋黑網抑制再生",
+        "分階段清除沿岸堆積的砂砱，訂自治條例並設專款基金回饋海洋復育",
+        "分期清淤各水庫並改善集水區，提高蓄水量"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將優先補助公寓大樓、集合住宅及社區型建築進行接管",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5537360",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並於開花結籽前完成剷除",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5425657",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "土地覆蓋黑網抑制再生",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5425657",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將推動制定砂砱清疏與再利用的自治條例",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5408722",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並設立專款基金",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5408722",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "分期辦理清淤，並同步改善集水區環境",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5427419",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-04-agriculture",
+      "candidateId": "penghu-04",
+      "domainId": "agriculture",
+      "points": [
+        "在潮間帶設中間育成場，蟹苗、蝦苗長大後再放流",
+        "使用率低的漁港轉型為育成與示範基地",
+        "推動在地沙蟹、沙蝦品牌化",
+        "船艇多的漁港分階段試辦浮動碼頭，降低潮差造成的上下船風險"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "在潮間帶或適合的海域設置育成場域，讓蟹苗與蝦苗先適應環境、穩定成長到一定程度再放流",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5389386",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將部分場域轉型為中間育成與示範基地",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5389386",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "加強推動澎湖沙蟹與澎湖沙蝦的品牌化",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5389386",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "分階段試辦設置浮動碼頭",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5446645",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-04-economy",
+      "candidateId": "penghu-04",
+      "domainId": "economy",
+      "points": [
+        "在漁業休閒專用區建現代化觀光魚市場：一樓交易展售、二樓海鮮餐廳",
+        "技術士考照與訓練費補助：丙級 3,000、乙級 8,000、甲級 1.5 萬元",
+        "勞工急難低利貸款最高 20 萬元，縣府補貼前 6 個月利息",
+        "推動技職學徒培育制度"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "打造現代化觀光魚市場",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5523841",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "2樓規劃海鮮餐廳",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5523841",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "丙級最高補助3000元、乙級最高補助8000元、甲級最高補助1萬5000元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5466145",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提供最高20萬元低利急難貸款協助，並由縣府補貼前6個月貸款利息",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5466145",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動技職學徒培育制度",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5466145",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-04-welfare",
+      "candidateId": "penghu-04",
+      "domainId": "welfare",
+      "points": [
+        "支持社區據點長者共餐：改善廚房設備、補助餐費、培訓志工",
+        "人少或沒廚房的社區由學校中央廚房供餐，寒暑假另建供餐機制",
+        "獨居、失能長者送餐到府並定期訪視",
+        "舊城區利用停車場基地興建 4 層樓、9 個里共用的市民服務中心"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "協助改善廚房設備、補助餐食經費、培訓志工及強化食品安全管理",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5505180",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並善用學校中央廚房供餐量能",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5505180",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建立寒暑假供餐機制",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5505180",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將持續提供送餐到府及定期關懷訪視",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5505180",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "興建1棟4層樓的「媽宮城9里市民服務中心」",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5540892",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-04-safety",
+      "candidateId": "penghu-04",
+      "domainId": "safety",
+      "points": [
+        "檢討警察協辦業務：流浪犬、垃圾、噪音等回歸各主管機關",
+        "大型活動由主辦單位自主管理，增加保全、義交與志工協勤"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "流浪犬由動保單位處理、垃圾違規由環保單位取締",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5459380",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "應建立主辦單位自主管理機制，增加專業保全、義交、民防及志工協勤力量",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5459380",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-04-culture",
+      "candidateId": "penghu-04",
+      "domainId": "culture",
+      "points": [
+        "增設運動防護員，優先配置體育班與重點學校",
+        "成立全縣運動防護機動支援團隊，赴臺比賽有隨隊防護",
+        "建立寵物友善店家認證制度，發展寵物觀光",
+        "市區商圈整體亮化，改善路燈與招牌燈光"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "逐步增設運動防護員，優先配置於體育班及重點發展學校",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5474261",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "也將整合成立全縣性的運動防護機動支援團隊",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5474261",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來也將建立隨隊防護支援機制",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5474261",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建立寵物友善認證制度",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5471242",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並針對市區周邊商圈進行整體亮化",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5394418",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-04-governance",
+      "candidateId": "penghu-04",
+      "domainId": "governance",
+      "points": [
+        "主張廢止離島建設條例，改為各離島各自立法",
+        "制定專屬的永續發展條例，並設專屬的永續發展基金"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "廢止現行《離島建設條例》，改採「一島一法、因地制宜」",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5439147",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並設立澎湖專屬永續發展基金",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5439147",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-06-welfare",
+      "candidateId": "penghu-06",
+      "domainId": "welfare",
+      "points": [
+        "明年訂為經濟年，符合資格縣民每人普發 1 萬元",
+        "敬老禮金由一年 3 節增為 4 節，每節 5,000 元",
+        "身心障礙慰問金提高到每年 2 萬元",
+        "提高生育補助，增加公共托育",
+        "長者供餐補助改依各村人口與實際供餐量配置"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "規劃普發符合資格縣民每人1萬元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5498467",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "讓敬老禮金由1年3節提升為1年4節，每節日5000元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5507377",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提出身心障礙慰問金提高至每年新台幣2萬元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5516110",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提出要提高生育補助，直接減輕新生兒家庭的初期經濟負擔，增加公共托育資源與服務",
+          "sourceUrl": "https://udn.com/news/story/124652/9644177",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "依各地人口規模、長者人數、實際服務量及供餐需求合理配置資源",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5549498",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-06-health",
+      "candidateId": "penghu-06",
+      "domainId": "health",
+      "points": [
+        "與本島大型醫學中心結盟，擴大專科醫師定期駐診",
+        "建置遠距醫療平台",
+        "建立急重症空中轉診綠色通道",
+        "提高癌症慰問金與罕病補助，建立赴臺複診交通與陪病支持",
+        "加速設置偏遠地區救護站，盤點離島醫療資源"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "與台灣大型醫學中心合作，擴大專科醫師定期駐診制度",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5488317",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建置遠距醫療服務平台",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5488317",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建立急重症空中醫療綠色通道",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5488317",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提高癌症慰問金、罕見疾病補助，並建立重大疾病複診交通及陪病支持制度",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5488317",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "加速設置外垵救護站，並盤點七美、望安、白沙等地區醫療資源",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5488317",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-06-transport",
+      "candidateId": "penghu-06",
+      "domainId": "transport",
+      "points": [
+        "爭取機場升級，完善海關出入境設施",
+        "爭取日、韓、東南亞與港澳的定期或包機航線",
+        "爭取開辦與對岸的小三通直航",
+        "二級離島交通船雙向對開、增加班次，做到早出晚歸",
+        "檢討北海離島交通船載客量；航道評估防砂工程並延伸到深水區"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "完善旅客服務空間及海關出入境設施",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5505718",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "爭取日、韓、東南亞及港澳等地定期或包機航線",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5505718",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "全力爭取推動澎湖小三通",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5505718",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "包括推動七美、望安交通船雙向對開、增加固定航班密度",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5484459",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來將重新檢討交通船規格與載客容量",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5530968",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "評估設置導流、防砂等工程設施，並研議延伸航道至深水區",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5530968",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-06-environment",
+      "candidateId": "penghu-06",
+      "domainId": "environment",
+      "points": [
+        "反對設立風力發電機",
+        "任內完成設置焚化爐",
+        "推動多元綠能與儲能，但重大能源建設須資訊公開、地方充分參與",
+        "更新離島海底供水管線，檢討備援與儲水設施"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "全力反對風車的設立，並強調若選上會在任內完成設置焚化爐",
+          "sourceUrl": "https://udn.com/news/story/124652/9734336",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來將推動多元化綠能及儲能系統",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5500376",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "都應建立在人民信任、資訊公開、程序透明及地方充分參與的基礎上",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5500376",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "主張全面更新供水系統，提升海底管線耐用性與穩定性",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5530968",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-06-youth",
+      "candidateId": "penghu-06",
+      "domainId": "youth",
+      "points": [
+        "設青年安家基金，提供租屋補貼與首購利息補貼，加速社會住宅",
+        "建立青年創業基金與返鄉就業媒合平台",
+        "與科技大學、企業合作培育 AI 人才，設遠距工作基地"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "包括設立青年安家基金、提供租屋補貼及首購利息補貼，加速推動社會住宅",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5495404",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建立青年創業基金、返鄉就業媒合平台及地方產業合作機制",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5495404",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動AI人才培育、數位工作平台及遠距工作基地",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5495404",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-06-culture",
+      "candidateId": "penghu-06",
+      "domainId": "culture",
+      "points": [
+        "觀光從夏季活動轉為四季旅遊品牌：聚落、漁村、石滬、海釣與慢旅行",
+        "重新規劃第三漁港為國際觀光漁市場，先改善排水、污水、廁所與動線",
+        "規劃 10 個街頭藝人展演特區，辦街頭藝術節並成立創作者平台",
+        "活化媽祖文化園區，串聯海堤步道與文創市集",
+        "規劃串聯沙灘與聚落的海岸觀光廊帶"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動四季旅遊品牌",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5491635",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "打造國際觀光漁市場，優先改善市場環境、排水、污水、廁所、攤位空間及遊客動線",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5491635",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "10大街藝展演特區",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5485940",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來也將成立「菊島創作者平台」",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5485940",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "活化重光媽祖文化觀光園區",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5491635",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "海岸觀光廊帶",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5549498",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-06-agriculture",
+      "candidateId": "penghu-06",
+      "domainId": "agriculture",
+      "points": [
+        "完善冷鏈中心與物流，減少水產品運輸損耗",
+        "升級在地水產品牌",
+        "導入智慧養殖與智慧漁業，推動海洋人才培育與產學合作"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來應完善冷鏈中心及物流體系",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5536079",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "品牌升級列為重點",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5536079",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "導入智慧養殖、海洋科技及智慧漁業應用",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5536079",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "主張推動海洋人才培育及產學合作",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5536079",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-06-economy",
+      "candidateId": "penghu-06",
+      "domainId": "economy",
+      "points": [
+        "推動主要商港整體發展與國際郵輪靠泊環境升級",
+        "推動第三漁港升級與地方港區優化"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來將推動馬公港整體發展計畫",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5528351",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "持續推動國際郵輪靠泊環境升級",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5528351",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並推動第三漁港升級計畫及山水港優化工程",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5528351",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-06-education",
+      "candidateId": "penghu-06",
+      "domainId": "education",
+      "points": [
+        "簽署學校午餐升級承諾：保障用餐時間、提高在地食材比例、增加營養師",
+        "建立在地農漁產品與校園午餐的媒合機制"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "5大承諾包括保障學生充足用餐時間及供餐資訊透明、提高學校午餐採購在地農產品比例",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5573679",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "應積極建立澎湖在地優質農漁產品與校園午餐的媒合機制",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5573679",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-05-governance",
+      "candidateId": "penghu-05",
+      "domainId": "governance",
+      "points": [
+        "成立治縣委員會，廣邀人才參與縣政",
+        "縣長薪資與津貼全數捐作委員會運作基金"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "廣招賢能志士治理縣政，並將縣長薪資及一切津貼全數捐出做為委員會運作基金",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5298832",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "penghu-05-environment",
+      "candidateId": "penghu-05",
+      "domainId": "environment",
+      "points": [
+        "銀合歡全面資源化開發",
+        "活化土地發展耐鹽特色農業並綠美化"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "活化土地創造鹹水煙特色農業、綠美化田園風光，相佐觀光產值，銀合歡全面性資源化開發",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5298832",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

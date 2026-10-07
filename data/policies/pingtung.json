@@ -1,0 +1,266 @@
+{
+  "countyId": "pingtung",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "pingtung-01-welfare",
+      "candidateId": "pingtung-01",
+      "domainId": "welfare",
+      "points": [
+        "由縣府編預算，替 65 歲以上長輩負擔健保費",
+        "研議敬老卡可到超商兌換麵包、牛奶等商品"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "蘇清泉提出當選後由縣府編列預算替65歲以上長輩及6歲以下幼兒負擔健保費",
+          "sourceUrl": "https://udn.com/news/story/124652/9680476",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "他若當選研議開放至超商兌換麵包、牛奶等商品",
+          "sourceUrl": "https://udn.com/news/story/124652/9794372",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "pingtung-01-health",
+      "candidateId": "pingtung-01",
+      "domainId": "health",
+      "points": [
+        "6 歲以下幼兒的健保費由縣府負擔"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "蘇清泉提出當選後由縣府編列預算替65歲以上長輩及6歲以下幼兒負擔健保費",
+          "sourceUrl": "https://udn.com/news/story/124652/9680476",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "pingtung-01-education",
+      "candidateId": "pingtung-01",
+      "domainId": "education",
+      "points": [
+        "營養午餐餐費比照雙北，提高到每餐 90 元以上"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "營養午餐將比照雙北提高至九十元以上",
+          "sourceUrl": "https://udn.com/news/story/124652/9730798",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "pingtung-01-transport",
+      "candidateId": "pingtung-01",
+      "domainId": "transport",
+      "points": [
+        "與高雄共同規劃捷運延伸，建立高屏大眾運輸路網",
+        "推動屏南快速道路儘速動工（已進入第二階段環評）",
+        "督促重大交通建設期程，縮短建設進度"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "共同規畫捷運延伸，逐步建立高屏完整大眾運輸路網",
+          "sourceUrl": "https://udn.com/news/story/124652/9735962",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "今年2月也已通過第一階段環評，現正進入二階環評，他在立法院努力推動，務必要在最快速度動工",
+          "sourceUrl": "https://udn.com/news/story/124652/9778004",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "他未來督促重大交通建設期程，縮短建設進度",
+          "sourceUrl": "https://udn.com/news/story/124652/9794372",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "pingtung-01-agriculture",
+      "candidateId": "pingtung-01",
+      "domainId": "agriculture",
+      "points": [
+        "農漁產品結合 AI 與生醫健康產業，做成高附加價值產品，吸引青年返鄉"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "並提出將農漁產品結合人工智慧（AI）與生醫大健康產業，轉化為高附加價值產品吸引青年返鄉",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5579498",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "pingtung-01-governance",
+      "candidateId": "pingtung-01",
+      "domainId": "governance",
+      "points": [
+        "籌組約 50 人的縣政顧問團"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "他將籌縣政顧問團，成員約50人",
+          "sourceUrl": "https://udn.com/news/story/124652/9729660",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "pingtung-01-safety",
+      "candidateId": "pingtung-01",
+      "domainId": "safety",
+      "points": [
+        "治水與鄰近的高雄跨縣市合作"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "水患不分縣市，高屏應跨域合作",
+          "sourceUrl": "https://udn.com/news/story/124652/9735962",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "pingtung-02-welfare",
+      "candidateId": "pingtung-02",
+      "domainId": "welfare",
+      "points": [
+        "2027 年 1 月起 65 歲以上（原住民 55 歲以上）健保費每月最高補助 826 元",
+        "健保費補助不設排富條款，縣府負擔約 15.5 億元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "每個月最高補助826元健保費，沒有排富條款",
+          "sourceUrl": "https://udn.com/news/story/7327/9770220",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "明年1月1日起全面補助65歲以上長者健保費用，縣府負擔15.5億元",
+          "sourceUrl": "https://udn.com/news/story/7327/9771126",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "pingtung-02-youth",
+      "candidateId": "pingtung-02",
+      "domainId": "youth",
+      "points": [
+        "興建潮州青年圖書館與內埔客家青年基地"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來將興建潮州青年圖書館、內埔客家青年基地，強化培育青年人才",
+          "sourceUrl": "https://udn.com/news/story/7327/9771126",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "pingtung-02-safety",
+      "candidateId": "pingtung-02",
+      "domainId": "safety",
+      "points": [
+        "南州、新園、東港、林邊、枋寮等沿海鄉鎮推動局部治水計畫",
+        "麟洛大湖排水、麟洛大排等重點工程訂短中長期計畫",
+        "2027 年起編專款補助並考評公所的水溝清淤",
+        "武洛溪排水與牛稠溪排水完成最後階段工程"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "針對南州、新園、東港、林邊、枋寮等沿海鄉鎮，推動局部治水計畫",
+          "sourceUrl": "https://udn.com/news/story/7327/9771126",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "規劃短中長計畫",
+          "sourceUrl": "https://udn.com/news/story/7327/9771126",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "明年起編列專款專案補助，考評公所水溝清理機制，確保落實清淤清溝",
+          "sourceUrl": "https://udn.com/news/story/7327/9771126",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "也將迎來最後一哩路",
+          "sourceUrl": "https://udn.com/news/story/7327/9771126",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "pingtung-02-economy",
+      "candidateId": "pingtung-02",
+      "domainId": "economy",
+      "points": [
+        "持續開闢產業腹地，推進六塊厝、熱帶農業、新園等產業園區",
+        "確保科學園區水電充足，完善周邊生活機能"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "持續開闢產業腹地，加上六塊厝、熱帶農業、新園等產業園區布局成形",
+          "sourceUrl": "https://udn.com/news/story/7327/9771126",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "縣府確保水電充足、完善周邊生活機能",
+          "sourceUrl": "https://udn.com/news/story/7327/9771126",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "pingtung-02-agriculture",
+      "candidateId": "pingtung-02",
+      "domainId": "agriculture",
+      "points": [
+        "與鄰近縣市合推南部農漁產共同品牌"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "希望未來合推南高屏共同品牌，嘉惠南部農、漁民",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5567999",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

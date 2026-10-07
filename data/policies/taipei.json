@@ -1,0 +1,781 @@
+{
+  "countyId": "taipei",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "taipei-01-transport",
+      "candidateId": "taipei-01",
+      "domainId": "transport",
+      "points": [
+        "2027 年上半年在北士科設無人自駕示範區，先從載貨、灑水車開始",
+        "2027 年 10 月在北士科與信義路公車專用道投入 4 輛自駕公車實測",
+        "2028 年初投入 12 輛自駕公車，目標推展到 15 條公車專用道",
+        "已編列約 11 億元連續性預算，用於自駕系統、車聯網與後台監控"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "先從不載人的載貨、灑水車開始，再到下一步開始載人的接駁",
+          "sourceUrl": "https://udn.com/news/story/124652/9579959",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "明年10月先在北士科及信義路公車專用道投入4輛自駕公車實測",
+          "sourceUrl": "https://udn.com/news/story/7323/9719821",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "第3階段預計民國117年初投入12輛自駕公車",
+          "sourceUrl": "https://udn.com/news/story/7323/9719821",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "預計在台北市15條公車專用道，推動無人自駕公車",
+          "sourceUrl": "https://udn.com/news/story/124652/9579959",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "針對建置自駕公車已編列新台幣11億元連續性預算，預算將運用在開發自駕系統、車聯網設施、圖資測繪、後台監控等軟硬體建設",
+          "sourceUrl": "https://udn.com/news/story/7323/9719821",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taipei-01-education",
+      "candidateId": "taipei-01",
+      "domainId": "education",
+      "points": [
+        "未來四年投入 92 億元推動 AI 教育",
+        "在北士科設 AI 教育中心，2027 年規劃、2028 年成立",
+        "四年內逐步為每位教師配備 AI 電腦，並升級學生數位載具",
+        "協助學校建置有 GPU 算力的 AI 實驗室，開機器人、無人機等課程"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來四年將挹注九十二億元推動，打造首都ＡＩ教育城市",
+          "sourceUrl": "https://udn.com/news/story/7323/9605903",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "預計明年規畫、後年成立",
+          "sourceUrl": "https://udn.com/news/story/7323/9605903",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來四年逐步為每位教師配備ＡＩ電腦，並升級學生數位載具",
+          "sourceUrl": "https://udn.com/news/story/7323/9605903",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "還會推機器人、無人機等跨域創新課程",
+          "sourceUrl": "https://udn.com/news/story/7323/9605903",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taipei-01-housing",
+      "candidateId": "taipei-01",
+      "domainId": "housing",
+      "points": [
+        "社宅保留 20% 婚育配額，未來提供 1 萬戶給新婚 2 年內或育有未成年子女的家庭",
+        "新婚與育兒家庭的住宅，地價稅與房屋稅以減至 0 元為目標",
+        "育兒家庭續租社宅時放寬就學條件，不限原社宅所屬學區",
+        "持續盤點潛力基地興建社會住宅"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來全市將可提供1萬戶居住資源給新婚2年內或育有未成年子女之家庭",
+          "sourceUrl": "https://udn.com/news/story/124652/9700561",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提出婚育住宅地價稅及房屋稅減免政策方向，以地價稅及房屋稅減至0元為政策目標",
+          "sourceUrl": "https://udn.com/news/story/124652/9700561",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "放寬申請續租時的就學條件，不再以承租社宅所屬或分發學區學校為限",
+          "sourceUrl": "https://udn.com/news/story/124652/9700561",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "市府將持續盤點潛力基地，讓市民有多元、可負擔社宅選擇",
+          "sourceUrl": "https://udn.com/news/story/124652/9799155",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taipei-01-welfare",
+      "candidateId": "taipei-01",
+      "domainId": "welfare",
+      "points": [
+        "敬老卡點數 2027 年起可在超商、超市、農會、藥局購買生活必需品",
+        "敬老卡點數沒用完可以累積繼續使用",
+        "2027 年推出產後膳食費補助，每胎 3 萬元、不排富"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "明年可以到超商、超市、農會、藥局去採購生活的必需品",
+          "sourceUrl": "https://udn.com/news/story/124652/9792637",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來點數沒用完，可以累積繼續使用",
+          "sourceUrl": "https://udn.com/news/story/124652/9792637",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每位產婦不排富，每胎補助 3萬元",
+          "sourceUrl": "https://udn.com/news/story/124652/9700561",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taipei-01-health",
+      "candidateId": "taipei-01",
+      "domainId": "health",
+      "points": [
+        "2027 年 1 月起醫療性凍卵補助擴及 25 至 40 歲、因疾病或治療影響生育能力的女性",
+        "凍卵補助上限由 3 萬 2,000 元提高到 7 萬 2,000 元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來補助範圍將擴及25至40歲",
+          "sourceUrl": "https://udn.com/news/story/124652/9700561",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "補助金額也將由最高3萬2000元提高至7萬2000元",
+          "sourceUrl": "https://udn.com/news/story/124652/9700561",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "預計116年1月實施",
+          "sourceUrl": "https://udn.com/news/story/124652/9700561",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taipei-01-economy",
+      "candidateId": "taipei-01",
+      "domainId": "economy",
+      "points": [
+        "育兒家庭減工時不減薪計畫 2027 年擴大辦理，並彙整企業意見給中央"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "明年一定擴大，也會彙整意見給中央參考",
+          "sourceUrl": "https://udn.com/news/story/124652/9749499",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taipei-02-transport",
+      "candidateId": "taipei-02",
+      "domainId": "transport",
+      "points": [
+        "8 年內完成全市 150 多所國小通學區改善，學校周邊 150 公尺採統一工程規格",
+        "直接補貼公車駕駛薪資，補貼由按里程改為按服務可靠度與勞動條件",
+        "興建跨基隆河自行車專用橋，連接民生社區與內湖科技園區",
+        "電輔公共自行車尖峰時段前 30 分鐘免費",
+        "共享電動機車納入 TPASS，每日前 10 分鐘免費，先試辦 3 個月"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "承諾於八年內完成全市一百五十多所國小通學區改善並落實全市統一工程規格",
+          "sourceUrl": "https://puma.taipei/policies/%E4%BA%A4%E9%80%9A%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "範圍與規格：以學校四周 150 公尺為原則",
+          "sourceUrl": "https://puma.taipei/policies/%E4%BA%A4%E9%80%9A%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "直接補貼駕駛薪資",
+          "sourceUrl": "https://puma.taipei/policies/%E4%BA%A4%E9%80%9A%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "跨基隆河自行車專用橋，直接銜接民生社區與內湖科技園區。",
+          "sourceUrl": "https://puma.taipei/policies/%E4%BA%A4%E9%80%9A%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "尖峰時段（08:00-10:00 / 17:00-19:00）前 30 分鐘免費",
+          "sourceUrl": "https://puma.taipei/policies/%E4%BA%A4%E9%80%9A%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "持記名 TPASS 市民享每日前 10 分鐘免費（市府出資試辦 3 個月，後續與中央協商常態化）",
+          "sourceUrl": "https://puma.taipei/policies/%E4%BA%A4%E9%80%9A%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taipei-02-education",
+      "candidateId": "taipei-02",
+      "domainId": "education",
+      "points": [
+        "117 學年度國小每班 24 人、國中 25 人，幼幼班 10 人、幼兒園 24 人",
+        "試辦國小雙導師與導師行政助理，公立幼兒園設專任主任",
+        "建立親師衝突的第三方機制，擴大教師心理支持與諮商資源",
+        "餐費隨物價與成本調整；全校加價提升午餐品質時，市府替弱勢生補價差",
+        "補助市立高中、國中、國小採購教育版 AI 工具"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "規劃於117學年度達成國小每班24人、國中25人的目標",
+          "sourceUrl": "https://puma.taipei/policies/%E6%95%99%E8%82%B2%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "117學年度目標將幼幼班降至每班10人、幼兒園24人",
+          "sourceUrl": "https://puma.taipei/policies/%E6%95%99%E8%82%B2%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "行政面則試辦國小雙導師、導師行政助理",
+          "sourceUrl": "https://puma.taipei/policies/%E6%95%99%E8%82%B2%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動專任主任制度及教保人員行政減壓",
+          "sourceUrl": "https://puma.taipei/policies/%E6%95%99%E8%82%B2%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "應建立第三方機制與師生調和程序",
+          "sourceUrl": "https://puma.taipei/policies/%E6%95%99%E8%82%B2%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "應建立餐費隨物價、天然災害與市場成本合理調整的機制",
+          "sourceUrl": "https://puma.taipei/policies/%E6%95%99%E8%82%B2%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "或全校決定加價提升品質，則由市府替弱勢學生補足價差",
+          "sourceUrl": "https://puma.taipei/policies/%E7%87%9F%E9%A4%8A%E5%8D%88%E9%A4%90",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "補助市立高中、國中與國小依資訊科技與AI教學規劃採購教育版AI工具",
+          "sourceUrl": "https://puma.taipei/policies/%E6%95%99%E8%82%B2%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taipei-02-health",
+      "candidateId": "taipei-02",
+      "domainId": "health",
+      "points": [
+        "50 歲以上市民補助一劑皮蛇疫苗",
+        "0 至 6 歲幼兒免費接種腸病毒疫苗",
+        "15 至 65 歲免費心理諮商，產後媽媽另外加碼",
+        "用都更與退場學校用地增設住宿型長照機構，引入鐘點移工補夜間人力",
+        "推動在宅醫療；補助罕病患者家用不斷電系統"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "擴大提供50歲以上市民皮蛇疫苗一劑補助",
+          "sourceUrl": "https://puma.taipei/policies/%E7%A4%BE%E7%A6%8F%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推行0至6歲幼兒免費腸病毒疫苗接種",
+          "sourceUrl": "https://puma.taipei/policies/%E7%A4%BE%E7%A6%8F%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推行涵蓋15至65歲的免費心理諮商計畫（包含產後媽媽額外加碼）",
+          "sourceUrl": "https://puma.taipei/policies/%E7%A4%BE%E7%A6%8F%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "藉由都更與退場學校用地增加住宿型機構空間",
+          "sourceUrl": "https://puma.taipei/policies/%E7%A4%BE%E7%A6%8F%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "填補夜間照護人力",
+          "sourceUrl": "https://puma.taipei/policies/%E7%A4%BE%E7%A6%8F%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "針對罕病患者補助家用不斷電系統以保障醫療維生安全",
+          "sourceUrl": "https://puma.taipei/policies/%E7%A4%BE%E7%A6%8F%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taipei-02-economy",
+      "candidateId": "taipei-02",
+      "domainId": "economy",
+      "points": [
+        "45 歲以上以職務再設計擴大媒合與訓練，並提供創業利息補貼",
+        "青年創業提供諮詢、培訓、場地與創業基金",
+        "AI 使用補助第二期擴及 45 歲以下市民，支援創業、求職、轉職"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "擴大媒合和訓練資源，也提供創業利息補貼。",
+          "sourceUrl": "https://puma.taipei/policies/%E7%A4%BE%E7%A6%8F%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "創業支持：提供諮詢、培訓、場地與創業基金",
+          "sourceUrl": "https://puma.taipei/policies/%E9%9D%92%E5%B9%B4%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "擴大對象：第二期延伸至 45 歲以下市民，強化創業、求職、轉職條件",
+          "sourceUrl": "https://puma.taipei/policies/%E9%9D%92%E5%B9%B4%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taipei-02-environment",
+      "candidateId": "taipei-02",
+      "domainId": "environment",
+      "points": [
+        "制定都市林自治條例，由副市長層級的委員會統籌跨局處",
+        "設都市森林維運基金，規模 10 億元、年營運 5 億元",
+        "運用閒置土地規劃 200 座口袋公園",
+        "長期目標：樹木覆蓋率 20%、綠覆率 30%，300 公尺內走得到有綠蔭的公園",
+        "公開路樹風險等級與修剪紀錄，分三年整理；成立廢木料銀行"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "成立由副市長層級統籌的都市森林委員會",
+          "sourceUrl": "https://puma.taipei/policies/%E9%83%BD%E5%B8%82%E5%BE%AE%E6%A3%AE%E6%9E%97",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "規劃 10 億元基金規模、年營運 5 億元",
+          "sourceUrl": "https://puma.taipei/policies/%E9%83%BD%E5%B8%82%E5%BE%AE%E6%A3%AE%E6%9E%97",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "運用閒置土地規劃 200 座口袋公園",
+          "sourceUrl": "https://puma.taipei/policies/%E9%83%BD%E5%B8%82%E5%BE%AE%E6%A3%AE%E6%9E%97",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "全市樹木覆蓋率達 20%、綠覆率達 30%，每位市民在 300 公尺內都能走到有綠蔭的公園",
+          "sourceUrl": "https://puma.taipei/policies/%E9%83%BD%E5%B8%82%E5%BE%AE%E6%A3%AE%E6%9E%97",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "公開風險等級、修剪紀錄與傾斜資訊",
+          "sourceUrl": "https://puma.taipei/policies/%E9%83%BD%E5%B8%82%E5%BE%AE%E6%A3%AE%E6%9E%97",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "分三年整理現有路樹問題",
+          "sourceUrl": "https://puma.taipei/policies/%E9%83%BD%E5%B8%82%E5%BE%AE%E6%A3%AE%E6%9E%97",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "成立廢木料銀行",
+          "sourceUrl": "https://puma.taipei/policies/%E9%83%BD%E5%B8%82%E5%BE%AE%E6%A3%AE%E6%9E%97",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taipei-02-safety",
+      "candidateId": "taipei-02",
+      "domainId": "safety",
+      "points": [
+        "成立跨局處兒少安全治理中心，整合教育、社政、警政數據做事故回溯",
+        "加強校園周邊毒品販售熱點與電子煙查緝，反毒宣導改為生活技能教育",
+        "結合醫療與毒防資源做篩檢、轉介治療，讓孩子優先進入治療輔導",
+        "推動女性安全審計，由下而上檢視公共空間"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "整合教育、社政與警政數據以進行重大事故回溯與高風險預防",
+          "sourceUrl": "https://puma.taipei/policies/%E7%A4%BE%E7%A6%8F%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "加強校園周邊販售熱點與電子煙載具查緝，把反毒宣導升級為生活技能教育",
+          "sourceUrl": "https://puma.taipei/policies/%E6%95%99%E8%82%B2%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並結合醫療與毒防資源進行篩檢、簡短處遇及轉介治療（SBIRT），讓需要協助的孩子優先進入治療與輔導體系",
+          "sourceUrl": "https://puma.taipei/policies/%E6%95%99%E8%82%B2%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "檢視公共空間",
+          "sourceUrl": "https://puma.taipei/policies/%E7%A4%BE%E7%A6%8F%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taipei-02-culture",
+      "candidateId": "taipei-02",
+      "domainId": "culture",
+      "points": [
+        "在劍潭、象山、貓空設三座登山觀光中心，提供裝備租借與四語導覽",
+        "以城市歷史、現代台北、產業遺跡、多元族群四大主題串成文化路徑",
+        "規劃關渡國際足球場與花博旗艦運動中心",
+        "盤點公有閒置空間增設特色運動據點，捷運站旁與登山口設運動驛站",
+        "社區運動小巴開進社區，提供運動指導與營養諮詢"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "在北劍潭、東象山、南貓空建立整合服務據點",
+          "sourceUrl": "https://puma.taipei/policies/%E5%8F%B0%E5%8C%97%E6%96%87%E5%8C%96%E5%BE%91%C3%97%E5%B1%B1%E6%9E%97%E5%BE%91",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "三座中心將提供登山杖、雨具、頭燈、輕量背包等裝備租借",
+          "sourceUrl": "https://puma.taipei/policies/%E5%8F%B0%E5%8C%97%E6%96%87%E5%8C%96%E5%BE%91%C3%97%E5%B1%B1%E6%9E%97%E5%BE%91",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並導入中英日韓四語導覽",
+          "sourceUrl": "https://puma.taipei/policies/%E5%8F%B0%E5%8C%97%E6%96%87%E5%8C%96%E5%BE%91%C3%97%E5%B1%B1%E6%9E%97%E5%BE%91",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "四大主題包含城市歷史記憶、現代台北、產業文化遺跡與多元族群",
+          "sourceUrl": "https://puma.taipei/policies/%E5%8F%B0%E5%8C%97%E6%96%87%E5%8C%96%E5%BE%91%C3%97%E5%B1%B1%E6%9E%97%E5%BE%91",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "及「花博旗艦運動中心」補足大眾運動需求",
+          "sourceUrl": "https://puma.taipei/policies/%E9%81%8B%E5%8B%95%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "更要在重點捷運站旁、登山口設置運動驛站",
+          "sourceUrl": "https://puma.taipei/policies/%E9%81%8B%E5%8B%95%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並且提供專業運動指導，加入營養諮詢",
+          "sourceUrl": "https://puma.taipei/policies/%E9%81%8B%E5%8B%95%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taipei-02-welfare",
+      "candidateId": "taipei-02",
+      "domainId": "welfare",
+      "points": [
+        "設籍的 0 至 18 歲每人每月 600 點，可用於藝文、運動與閱讀",
+        "滿 6 個月至 6 歲孩子每週固定時數免費臨托；增設夜間托育據點",
+        "產後 12 個月內家長心理諮商加碼 3 次；未滿 2 歲到宅育兒指導增為 6 次",
+        "朝每區設家庭支持服務站，整合育兒專線為單一入口",
+        "推出臨時托老券；敬老卡擴大可用於藝文活動、健身房"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "每人每月 600 點",
+          "sourceUrl": "https://puma.taipei/policies/%E8%A6%AA%E5%AD%90%E5%90%8C%E8%A1%8C%E5%8D%A1",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每週固定時數免費臨時托育",
+          "sourceUrl": "https://puma.taipei/policies/%E5%AE%B6%E5%BA%AD%E4%B8%80%E7%AB%99%E9%80%9A",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "規劃在夜市、百貨公司等夜間工作場所附近設置托育據點",
+          "sourceUrl": "https://puma.taipei/policies/%E5%AE%B6%E5%BA%AD%E4%B8%80%E7%AB%99%E9%80%9A",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "再加碼 3 次",
+          "sourceUrl": "https://puma.taipei/policies/%E5%AE%B6%E5%BA%AD%E4%B8%80%E7%AB%99%E9%80%9A",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "另將未滿2歲兒童家庭的免費到宅育兒指導擴充至 6 次",
+          "sourceUrl": "https://puma.taipei/policies/%E5%AE%B6%E5%BA%AD%E4%B8%80%E7%AB%99%E9%80%9A",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "朝每區都有據點推進",
+          "sourceUrl": "https://puma.taipei/policies/%E5%AE%B6%E5%BA%AD%E4%B8%80%E7%AB%99%E9%80%9A",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "擴大適用場館、地點及使用範疇（藝文活動、健身房等等）",
+          "sourceUrl": "https://puma.taipei/policies/%E7%A4%BE%E7%A6%8F%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taipei-02-housing",
+      "candidateId": "taipei-02",
+      "domainId": "housing",
+      "points": [
+        "借鏡國外經驗，在都市更新初期就納入可負擔住宅",
+        "推動婚育宅與青年宅",
+        "與中央合作推老宅延壽，成立行動服務團到宅協助無電梯老公寓",
+        "推動老人租屋友善、到宅修繕，擴大爬梯機服務"
+      ],
+      "strictPoints": [
+        "借鏡國外經驗，在都市更新初期就納入可負擔住宅"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "借鏡都市更新初期納入可負擔住宅的經驗，兼顧開發與在地居民的安居需求",
+          "sourceUrl": "https://puma.taipei/policies/%E5%9F%8E%E5%B8%82%E5%A4%96%E4%BA%A4",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動婚育宅和青年宅等",
+          "sourceUrl": "https://udn.com/news/story/124652/9683613",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "成立行動服務團到宅服務",
+          "sourceUrl": "https://udn.com/news/story/124652/9683613",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並推動老人租屋友善、到宅修繕、擴大爬梯機服務",
+          "sourceUrl": "https://udn.com/news/story/124652/9749043",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taipei-02-governance",
+      "candidateId": "taipei-02",
+      "domainId": "governance",
+      "points": [
+        "以行政法人成立市政研究院，支援都市設計、交通、長照等長期規劃",
+        "AI 技術團隊進駐各局處，把表單、數據整理等重複行政自動化",
+        "擴大公務員彈性上下班；員工協助方案改為點數自選",
+        "基層公務員與國際城市做長達半年的互換交流",
+        "設立設計長與夜間市長，並擴大永續長職能"
+      ],
+      "strictPoints": [
+        "以行政法人成立市政研究院，支援都市設計、交通、長照等長期規劃",
+        "AI 技術團隊進駐各局處，把表單、數據整理等重複行政自動化",
+        "擴大公務員彈性上下班；員工協助方案改為點數自選",
+        "基層公務員與國際城市做長達半年的互換交流"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "參考首爾經驗，提出以行政法人形式成立「台北研究院」",
+          "sourceUrl": "https://puma.taipei/policies/%E5%9F%8E%E5%B8%82%E5%A4%96%E4%BA%A4",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將重複性高的表單填寫、數據整理與基礎行政流程自動化",
+          "sourceUrl": "https://puma.taipei/policies/%E5%85%AC%E5%8B%99%E5%93%A1%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "擴大彈性上下班適用的範圍與時段",
+          "sourceUrl": "https://puma.taipei/policies/%E5%85%AC%E5%8B%99%E5%93%A1%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將員工協助方案（EAP）全面升級為「點數自選制度」",
+          "sourceUrl": "https://puma.taipei/policies/%E5%85%AC%E5%8B%99%E5%93%A1%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "執行層面的基層公務員也能進行「長達半年的互換交流」",
+          "sourceUrl": "https://puma.taipei/policies/%E5%9F%8E%E5%B8%82%E5%A4%96%E4%BA%A4",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "因此規劃擴大「永續長」職能，並為台北設立「設計長」和「夜間市長」",
+          "sourceUrl": "https://udn.com/news/story/124652/9683613",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taipei-02-youth",
+      "candidateId": "taipei-02",
+      "domainId": "youth",
+      "points": [
+        "18 至 22 歲青年市府每月提撥 1,500 元並鼓勵同額自存，弱勢每月 3,000 元",
+        "18 至 25 歲學生每月 300 元 AI 工具額度，專業課程 500 至 1,000 元",
+        "8 年 20 億元支持青年海外學習、市政實習與創業",
+        "青年儲蓄方案每年約 18 至 19 億元，約 10 萬名青年適用"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "市府提撥：每月 1,500 元，鼓勵自存1,500",
+          "sourceUrl": "https://puma.taipei/policies/%E9%9D%92%E5%B9%B4%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "弱勢加碼：每月 3,000 元",
+          "sourceUrl": "https://puma.taipei/policies/%E9%9D%92%E5%B9%B4%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "基本額度：18 至 25 歲學生每月 300 元",
+          "sourceUrl": "https://puma.taipei/policies/%E9%9D%92%E5%B9%B4%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "進階額度：專業課程 500 至 1,000 元",
+          "sourceUrl": "https://puma.taipei/policies/%E9%9D%92%E5%B9%B4%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "8 年共 20 億元，串聯海外學習、市政實作與創業支持",
+          "sourceUrl": "https://puma.taipei/policies/%E9%9D%92%E5%B9%B4%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "城市青年基金每年約 18 至 19 億元，支持約 10 萬名青年累積第一筆資產",
+          "sourceUrl": "https://puma.taipei/policies/%E9%9D%92%E5%B9%B4%E6%94%BF%E7%AD%96",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taipei-02-agriculture",
+      "candidateId": "taipei-02",
+      "domainId": "agriculture",
+      "points": [
+        "借鏡東京經驗，建立在地小農與校園午餐的合作機制",
+        "把午餐與課程連結，協助學校發展飲食素養教材"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "借鏡東京經驗，導入適合的合作與經營機制，讓在地優質食材更穩定進入校園",
+          "sourceUrl": "https://puma.taipei/policies/%E7%87%9F%E9%A4%8A%E5%8D%88%E9%A4%90",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "協助學校發展飲食素養教材",
+          "sourceUrl": "https://puma.taipei/policies/%E7%87%9F%E9%A4%8A%E5%8D%88%E9%A4%90",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

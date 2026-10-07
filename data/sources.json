@@ -1,0 +1,396 @@
+{
+  "changhua-01": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "changhua-02": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "changhua-03": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "changhua-04": {
+    "official": [],
+    "note": "截至資料截止日，找到的報導只寫到這位候選人的參選理由，沒有具體政見。"
+  },
+  "chiayi-city-01": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "chiayi-city-02": {
+    "official": [
+      {
+        "label": "台灣民眾黨官網候選人頁（政黨官方）",
+        "url": "https://www.tpp.org.tw/election2026/candidatedetail.php?cid=216"
+      }
+    ],
+    "note": "未找到個人競選官網的政見專區。政見取自提名政黨官網的候選人頁；金額與做法取自新聞報導，並標示「新聞報導」。"
+  },
+  "chiayi-city-03": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "chiayi-city-04": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "chiayi-city-05": {
+    "official": [],
+    "note": "截至資料截止日，找到的報導只寫到這位候選人「希望幫助需要幫助的人」，沒有具體政見。"
+  },
+  "chiayi-county-01": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "chiayi-county-02": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "hsinchu-city-01": {
+    "official": [
+      {
+        "label": "官方募款頁（含參選聲明，沒有逐項政見）",
+        "url": "https://drann.oen.tw/"
+      }
+    ],
+    "note": "現任首長，未找到競選官網的政見專區。只收新聞報導中「接下來要做」的承諾，不收政績。"
+  },
+  "hsinchu-city-02": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "hsinchu-city-03": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "hsinchu-county-01": {
+    "official": [
+      {
+        "label": "個人網站（以過去政績為主）",
+        "url": "https://www.shesinging.tw/"
+      }
+    ],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "hsinchu-county-02": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "hsinchu-county-03": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "hualien-01": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "hualien-02": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "hualien-03": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "hualien-04": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "kaohsiung-01": {
+    "official": [
+      {
+        "label": "中國國民黨高雄市選舉資訊網（政黨官方）",
+        "url": "https://2026.kmtks.org.tw/mayor"
+      }
+    ],
+    "note": "候選人競選官網 kochihen2026.tw 設有防護，無法自動讀取，政見取自提名政黨的官方選舉網站。"
+  },
+  "kaohsiung-02": {
+    "official": [
+      {
+        "label": "競選官網政見主張",
+        "url": "https://www.zenolai.tw/policy"
+      }
+    ],
+    "note": ""
+  },
+  "kaohsiung-03": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "kaohsiung-04": {
+    "official": [],
+    "note": "截至資料截止日，未找到這位候選人的官方政見來源，也未找到報導其具體政見的新聞。"
+  },
+  "kaohsiung-05": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "keelung-01": {
+    "official": [],
+    "note": "現任首長，未找到競選官網的政見專區。只收新聞報導中「接下來要做」的承諾，不收政績。"
+  },
+  "keelung-02": {
+    "official": [
+      {
+        "label": "競選官網領域政見",
+        "url": "https://t-ziwei.com/"
+      }
+    ],
+    "note": "官網沒列的少數主張取自新聞報導，並標示「新聞報導」。"
+  },
+  "keelung-03": {
+    "official": [],
+    "note": "截至資料截止日，未找到這位候選人的官方政見來源，也未找到報導其具體政見的新聞。"
+  },
+  "kinmen-01": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "kinmen-02": {
+    "official": [],
+    "note": "截至資料截止日，未找到這位候選人的官方政見來源，也未找到報導其具體政見的新聞。"
+  },
+  "kinmen-03": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "kinmen-04": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "kinmen-05": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "kinmen-06": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "kinmen-07": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "lienchiang-01": {
+    "official": [],
+    "note": "截至資料截止日，新聞報導中只找到方向性的主張，沒有具體政見。"
+  },
+  "lienchiang-02": {
+    "official": [],
+    "note": "截至資料截止日，新聞報導中只找到方向性的主張，沒有具體政見。"
+  },
+  "miaoli-01": {
+    "official": [],
+    "note": "現任首長，未找到競選官網的政見專區。只收新聞報導中「接下來要做」的承諾，不收政績。"
+  },
+  "miaoli-02": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "nantou-01": {
+    "official": [],
+    "note": "現任首長，未找到競選官網的政見專區。只收新聞報導中「接下來要做」的承諾，不收政績。"
+  },
+  "nantou-02": {
+    "official": [
+      {
+        "label": "競選官網政策主張",
+        "url": "https://wen-shih-cheng.com.tw/policies/"
+      }
+    ],
+    "note": ""
+  },
+  "new-taipei-01": {
+    "official": [
+      {
+        "label": "政見平台「川送門」",
+        "url": "https://portaly.cc/hammerlee"
+      }
+    ],
+    "note": ""
+  },
+  "new-taipei-02": {
+    "official": [
+      {
+        "label": "競選官網政見主張",
+        "url": "https://chiao.tw/policies"
+      }
+    ],
+    "note": ""
+  },
+  "new-taipei-03": {
+    "official": [],
+    "note": "未找到官方政見來源，政見取自登記參選時的新聞報導。"
+  },
+  "penghu-01": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "penghu-02": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "penghu-03": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "penghu-04": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "penghu-05": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "penghu-06": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "pingtung-01": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "pingtung-02": {
+    "official": [],
+    "note": "現任首長，未找到競選官網的政見專區。只收新聞報導中「接下來要做」的承諾，不收政績。"
+  },
+  "taichung-01": {
+    "official": [
+      {
+        "label": "競選官網「臺中未來」政見",
+        "url": "https://taichungway.tw/future"
+      }
+    ],
+    "note": ""
+  },
+  "taichung-02": {
+    "official": [
+      {
+        "label": "競選官網未來政策",
+        "url": "https://a-chun.tw/future"
+      }
+    ],
+    "note": ""
+  },
+  "taichung-03": {
+    "official": [],
+    "note": "截至資料截止日，未找到這位候選人的官方政見來源，也未找到報導其具體政見的新聞。"
+  },
+  "tainan-01": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "tainan-02": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "tainan-03": {
+    "official": [],
+    "note": "截至資料截止日，未找到這位候選人的官方政見來源，也未找到報導其具體政見的新聞。"
+  },
+  "tainan-04": {
+    "official": [],
+    "note": "截至資料截止日，未找到這位候選人的官方政見來源，也未找到報導其具體政見的新聞。"
+  },
+  "taipei-01": {
+    "official": [],
+    "note": "現任首長，未找到競選官網的政見專區。只收新聞報導中「接下來要做」的承諾，不收政績。"
+  },
+  "taipei-02": {
+    "official": [
+      {
+        "label": "競選官網政見",
+        "url": "https://puma.taipei/policies"
+      }
+    ],
+    "note": ""
+  },
+  "taipei-03": {
+    "official": [],
+    "note": "截至資料截止日，未找到這位候選人的官方政見來源，也未找到報導其具體政見的新聞。"
+  },
+  "taipei-04": {
+    "official": [],
+    "note": "截至資料截止日，未找到這位候選人的官方政見來源，也未找到報導其具體政見的新聞。"
+  },
+  "taipei-05": {
+    "official": [],
+    "note": "截至資料截止日，未找到這位候選人的官方政見來源，也未找到報導其具體政見的新聞。"
+  },
+  "taipei-06": {
+    "official": [],
+    "note": "截至資料截止日，未找到這位候選人的官方政見來源，也未找到報導其具體政見的新聞。"
+  },
+  "taitung-01": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "taitung-02": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "taitung-03": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "taitung-04": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "taoyuan-01": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。現任市長，只收「接下來要做」的承諾，不收已完成的政績。"
+  },
+  "taoyuan-02": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "yilan-01": {
+    "official": [
+      {
+        "label": "競選官網政見",
+        "url": "https://www.yilan2026.tw/"
+      }
+    ],
+    "note": "官網只列出四項政見；其餘領域與金額取自新聞報導，並標示「新聞報導」。"
+  },
+  "yilan-02": {
+    "official": [
+      {
+        "label": "競選官網政見主張",
+        "url": "https://2026openchang.tw/"
+      }
+    ],
+    "note": "官網的政見多為一行標題；金額、期程與做法取自新聞報導，並標示「新聞報導」。"
+  },
+  "yilan-03": {
+    "official": [],
+    "note": "據自由時報 2026-08-31 報導，這位候選人登記時勾選政見「不同意公開」；待選舉公報公布後再確認。"
+  },
+  "yilan-04": {
+    "official": [],
+    "note": "截至資料截止日，未找到這位候選人的官方政見來源，也未找到報導其具體政見的新聞。"
+  },
+  "yilan-05": {
+    "official": [],
+    "note": "截至資料截止日，未找到這位候選人的官方政見來源，也未找到報導其具體政見的新聞。"
+  },
+  "yunlin-01": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "yunlin-02": {
+    "official": [],
+    "note": "未找到競選官網的政見專區，政見取自新聞報導。"
+  },
+  "yunlin-03": {
+    "official": [],
+    "note": "截至資料截止日，未找到這位候選人的官方政見來源，也未找到報導其具體政見的新聞。"
+  },
+  "yunlin-04": {
+    "official": [],
+    "note": "截至資料截止日，未找到這位候選人的官方政見來源，也未找到報導其具體政見的新聞。"
+  }
+}

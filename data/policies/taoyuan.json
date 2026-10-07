@@ -1,0 +1,677 @@
+{
+  "countyId": "taoyuan",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "taoyuan-01-transport",
+      "candidateId": "taoyuan-01",
+      "domainId": "transport",
+      "points": [
+        "捷運綠線延伸中壢，在台鐵中壢站做到三鐵共構",
+        "增設國道 1 號中豐交流道，拓寬中壢吉林路、月桃路",
+        "鐵路地下化後騰出的路面規劃成綠園道，預計 2032 年完工",
+        "復興區道路改善經費 2027 年增至 9,000 萬元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "市府全力推動捷運綠線延伸中壢段，未來將於台鐵中壢車站（A23站）實現三鐵共構",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5537783",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "除增設國道1號中豐交流道，也同步推動吉林路、月桃路拓寬",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5537783",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "鐵路地下化後讓出的道路空間，都發局、交通局規畫「綠園道」，預計二○三二年完工",
+          "sourceUrl": "https://udn.com/news/story/124652/9542026",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "明年預計再增至9000萬元",
+          "sourceUrl": "https://udn.com/news/story/7324/9699404",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taoyuan-01-housing",
+      "candidateId": "taoyuan-01",
+      "domainId": "housing",
+      "points": [
+        "推出讓年輕人能以不到千萬元購屋的住宅",
+        "首波選在機場捷運 A20、A21 站周邊，對象是符合資格的年輕婚育家庭"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "盼年輕人能以不到千萬的價格購屋，自治條例已三讀通過",
+          "sourceUrl": "https://udn.com/news/story/124652/9542025",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "首波即選址於中壢機捷A20、A21站周邊，讓符合資格的年輕婚育家庭能在桃園安居",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5537783",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taoyuan-01-economy",
+      "candidateId": "taoyuan-01",
+      "domainId": "economy",
+      "points": [
+        "在龍潭科學園區外另闢產業園區，供半導體協力廠商進駐",
+        "楊梅幼獅工業區擴大二期提供逾 50 公頃產業專用區，招商留給上下游協力廠商"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "正規畫在園區外闢建產業園區，供台積電協力廠商進駐",
+          "sourceUrl": "https://udn.com/news/story/124652/9542025",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "幼獅擴大二期案完成後，預計將提供逾五十公頃產業專用區",
+          "sourceUrl": "https://udn.com/news/story/7324/9711626",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "期待幼獅擴大二期招商時，都能將用地留給相關上下游協力廠商",
+          "sourceUrl": "https://udn.com/news/story/7324/9711626",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taoyuan-01-education",
+      "candidateId": "taoyuan-01",
+      "domainId": "education",
+      "points": [
+        "興建市立科學教育博物館，已啟動委託規劃",
+        "續辦暑期夏令營，主題含科技、人文、品德與社會情緒學習",
+        "強化校園 AI 學習，鼓勵高中取得 Google 示範學校國際認證",
+        "不排除設置巡迴式或地區性的校園食安官"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "張善政近日拍板要蓋桃園市立科學教育博物館",
+          "sourceUrl": "https://udn.com/news/story/124652/9542026",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "現已啟動委託規畫案",
+          "sourceUrl": "https://udn.com/news/story/124652/9542026",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "第二任將持續推動暑期夏令營",
+          "sourceUrl": "https://udn.com/news/story/124652/9542026",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "鼓勵高中取得Google Reference School認證",
+          "sourceUrl": "https://udn.com/news/story/124652/9542026",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "對於設置巡迴式或地區性校園食安官不排除規劃",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5576213",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taoyuan-01-health",
+      "candidateId": "taoyuan-01",
+      "domainId": "health",
+      "points": [
+        "推動興建市立醫院，並向中央爭取支持",
+        "市立醫院復興分院已有初步前期規劃"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "例如第二行政園區、市立醫院和捷運路網，都是攸關桃園未來20、30年發展的建設，希望未來4年能持續打好基礎",
+          "sourceUrl": "https://udn.com/news/story/124652/9783342",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "桃園市立醫院復興分院也已有初步前期規劃",
+          "sourceUrl": "https://udn.com/news/story/7324/9699404",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taoyuan-01-safety",
+      "candidateId": "taoyuan-01",
+      "domainId": "safety",
+      "points": [
+        "未來 5 年推動 14 項水利工程，投入近 31 億元",
+        "整治老街溪、新街溪，優化龍山滯洪池",
+        "投入約 7.5 億元改善埔心溪 6 公里河段，防洪標準提高到 100 年重現期"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "市府未來5年將逐步推動14項水利工程、投入近31億元，包含老街溪、新街溪整治、龍山滯洪池優化及埔心溪治理",
+          "sourceUrl": "https://udn.com/news/story/7324/9599752",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "市府將投入約7.5億元改善埔心溪6公里河段，把防洪保護標準提升至100年重現期",
+          "sourceUrl": "https://udn.com/news/story/7324/9599752",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taoyuan-01-culture",
+      "candidateId": "taoyuan-01",
+      "domainId": "culture",
+      "points": [
+        "爭取成立北橫國家風景區",
+        "爭取拉拉山取得國際暗空勝地認證",
+        "中壢體育園區以 BOT 興建至少 2 萬 1,000 席的室內多功能體育館",
+        "支持籌設勞工博物館，協助找地、規劃與興建"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將持續爭取成立北橫國家風景區及拉拉山國際暗空勝地",
+          "sourceUrl": "https://udn.com/news/story/7324/9699404",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "除規劃一座至少可容納2萬1000席的大型室內多功能體育館外",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5537783",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "後續將積極於用地尋覓、規劃及興建等階段提供全面協助",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5591292",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taoyuan-01-welfare",
+      "candidateId": "taoyuan-01",
+      "domainId": "welfare",
+      "points": [
+        "敬老愛心卡新增醫療補助、銀髮肌力課程、預立醫療諮商、農會消費等用途",
+        "愛心計程車補助提高到每趟 90 點",
+        "敬老愛心卡點數維持按月使用，不開放跨月累積"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "此次敬老愛心卡新增醫療補助、銀髮肌力課程、愛心計程車補助提高至每趟90點、預立醫療照護諮商及農會消費等5大項目",
+          "sourceUrl": "https://udn.com/news/story/7324/9671701",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "因此點數不能跨月累積",
+          "sourceUrl": "https://udn.com/news/story/7324/9671701",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taoyuan-01-governance",
+      "candidateId": "taoyuan-01",
+      "domainId": "governance",
+      "points": [
+        "向中央爭取第二行政園區，未來 4 年先打好基礎"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "例如第二行政園區、市立醫院和捷運路網，都是攸關桃園未來20、30年發展的建設，希望未來4年能持續打好基礎",
+          "sourceUrl": "https://udn.com/news/story/124652/9783342",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taoyuan-02-transport",
+      "candidateId": "taoyuan-02",
+      "domainId": "transport",
+      "points": [
+        "公車改為幹線、生活圈、接駁三級路網，發展貫穿型與環狀路線",
+        "重建公車即時資訊系統；長期脫班業者加強管理，必要時市府直接營運",
+        "捷運橘線延伸到楊梅、觀音、新屋；綠線延伸中壢加速推動",
+        "重大捷運工程進度由市長層級直接管理",
+        "與新北加速板龍快速道路、三鶯線延伸八德，設跨市交通共同規劃平台"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "更要重新打造「幹線＋生活圈＋接駁」三級公車路網，發展貫穿型、環狀型路線",
+          "sourceUrl": "https://udn.com/news/story/124652/9773359",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並重建公車即時資訊系統",
+          "sourceUrl": "https://udn.com/news/story/124652/9773359",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "強化對長期脫班、服務品質不佳業者的管理，必要時不排除由市府直接營運",
+          "sourceUrl": "https://udn.com/news/story/124652/9653215",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將推動捷運橘線，並規劃延伸至楊梅、觀音、新屋",
+          "sourceUrl": "https://udn.com/news/story/124652/9792945",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "捷運綠線延伸中壢規劃設置中原站，攸關地方未來發展，應加速推動",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5543209",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "除了由市長層級直接管理重大捷運工程進度",
+          "sourceUrl": "https://udn.com/news/story/124652/9773359",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來桃園與新北要加速推動板龍快速道路",
+          "sourceUrl": "https://udn.com/news/story/124652/9794429",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並協調加速三鶯線延伸八德",
+          "sourceUrl": "https://udn.com/news/story/124652/9794429",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taoyuan-02-education",
+      "candidateId": "taoyuan-02",
+      "domainId": "education",
+      "points": [
+        "盤點閒置公有空間，擴增公共托育名額",
+        "建一站式托育地圖，整合公托、準公托、私托、保母、夜間與臨時托育資訊",
+        "鼓勵企業設托育中心，市府成立輔導團隊協助法規與營運",
+        "建立跨局處托育安全平台，加強高風險預警與稽查",
+        "校園遊戲空間升級，增加攀爬、平衡、探索與自然體驗設計"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來將全面盤點閒置公有空間擴增公共托育量能",
+          "sourceUrl": "https://www.ettoday.net/news/20260727/3208523.htm",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建置一站式透明托育地圖，整合公托、準公共托育、私托、保母、夜間及臨時托育等資訊",
+          "sourceUrl": "https://www.ettoday.net/news/20260727/3208523.htm",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並鼓勵企業設置托育中心，由市府成立專責輔導團隊協助處理法規及營運問題",
+          "sourceUrl": "https://udn.com/news/story/124652/9653215",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "同時建立跨局處托育安全平台，加強高風險預警與稽查機制",
+          "sourceUrl": "https://udn.com/news/story/124652/9653215",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來將推動校園遊戲空間升級，增加攀爬、平衡、探索及自然體驗等多元設計",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5550560",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taoyuan-02-health",
+      "candidateId": "taoyuan-02",
+      "domainId": "health",
+      "points": [
+        "依各區需求發展癌症、兒童、高齡特色醫療院所，市府協助設備與留才",
+        "提前從土地、交通、人才配置著手，布局第二座醫學中心",
+        "設兒童早期療育快速通道，縮短評估與療育等待時間",
+        "推動醫養合一，串聯醫療、長照與家庭支持資源",
+        "醫護享社宅保留名額、租屋與通勤補助，子女幼兒園優先序位"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "依癌症、兒童、高齡等需求，推動特色醫療院所及專業分工，由市府協助充實設備、延攬及留任人才",
+          "sourceUrl": "https://udn.com/news/story/124652/9754243",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提前從土地、交通、區域醫療需求及人才配置著手",
+          "sourceUrl": "https://udn.com/news/story/124652/9754243",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "設置兒童早期療育快速通道，縮短評估及療育等待時間",
+          "sourceUrl": "https://udn.com/news/story/124652/9754243",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "串聯醫療、長照及家庭支持資源，減輕家庭照顧壓力",
+          "sourceUrl": "https://udn.com/news/story/124652/9754243",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "規畫社會住宅提供醫護專案保留額，加碼租屋、大眾運輸通勤補助，並提供醫護子女幼兒園優先序位",
+          "sourceUrl": "https://udn.com/news/story/124652/9754243",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taoyuan-02-welfare",
+      "candidateId": "taoyuan-02",
+      "domainId": "welfare",
+      "points": [
+        "全額補助 12 歲以下幼童與 65 歲以上長者的健保費",
+        "敬老愛心卡每月提高到 1,200 點，當月沒用完可累積到年底",
+        "敬老愛心卡逐步可用於超商、超市、農漁會產銷中心、特約醫院與健保藥局"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將推動0至12歲幼童及65歲以上長者健保費全面補助",
+          "sourceUrl": "https://www.ettoday.net/news/20260727/3208523.htm",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "第一是將敬老愛心卡每月點數提高到1200點，第二是點數改為彈性使用、當月未使用完不歸零而可累積使用到年底",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5485281",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "第三是擴大使用範圍逐步納入超商、超市、農會與漁會產銷中心、特約醫院與健保藥局等據點",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5485281",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taoyuan-02-economy",
+      "candidateId": "taoyuan-02",
+      "domainId": "economy",
+      "points": [
+        "完善龍潭科學園區三期周邊交通與生活機能，續設產業園區吸引供應鏈",
+        "整合無人機與航太國防供應鏈，推動設立在地測試驗證中心",
+        "航空城落實先建後遷，引進高價值產業",
+        "改善產業園區道路、排水、水電、管線，協助中小企業導入 AI 智慧製造",
+        "推動新梅龍、板龍快速道路與五楊高架延伸頭份，串聯產業聚落"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "必須完善龍科三期周邊交通與生活機能，推動新梅龍、板龍快、五楊高架延伸頭份",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1772332",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "持續籌設產業園區，吸引相關供應鏈投資進駐",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1772332",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "除整合無人機、航太國防供應鏈，以形成產業聚落",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1772332",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並推動在地測試驗證中心設立",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1772332",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "應落實先建後遷，中央與地方攜手加速整體發展",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1772332",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "則須改善產業園區的道路、排水、水電、管線等條件",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1772332",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "以協助中小企業導入AI智慧製造",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1772332",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taoyuan-02-environment",
+      "candidateId": "taoyuan-02",
+      "domainId": "environment",
+      "points": [
+        "未充分溝通取得共識前，不強制推動垃圾費隨袋徵收",
+        "優先做垃圾源頭減量、資源回收教育與相關配套",
+        "盤點 13 區遊戲空間，以步行 10 分鐘可到為目標增設或改善遊戲場",
+        "遊戲場增加喬木、遮陽設施、透水鋪面與戲水空間來降溫"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "他主張在未充分溝通、未取得市民共識前，不應強制推動隨袋徵收，而是應優先做好垃圾源頭減量、資源回收教育及相關配套措施",
+          "sourceUrl": "https://www.ettoday.net/news/20260727/3208523.htm",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "以「步行十分鐘可及」為目標，全面盤點13個行政區的遊戲空間，找出資源不足的生活圈，優先增加或改善遊戲場域",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5550560",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "增加喬木、自然遮蔭、遮陽設施、透水鋪面及適合夏季使用的戲水空間",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5550560",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taoyuan-02-governance",
+      "candidateId": "taoyuan-02",
+      "domainId": "governance",
+      "points": [
+        "科技執法的設置標準公開透明，建立完整的公告與勸導機制",
+        "交通治理回歸道路設計、人本交通與事故預防，不只靠開罰"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來將推動科技執法合理化，要求設置標準公開透明，建立完整的公告及勸導機制",
+          "sourceUrl": "https://www.ettoday.net/news/20260727/3208523.htm",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "回歸道路設計、人本交通及事故預防的治理本質",
+          "sourceUrl": "https://www.ettoday.net/news/20260727/3208523.htm",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taoyuan-02-culture",
+      "candidateId": "taoyuan-02",
+      "domainId": "culture",
+      "points": [
+        "夜市升級，與大廟、藝文特區等景點、商圈及文化活動串聯",
+        "與新北合辦大漢溪沿線的雙年展或跨市大型地景藝術節",
+        "擴增戶外運動空間、辦全民運動季，設適應運動中心",
+        "選定潛力運動項目，結合觀光與轉播打造國際運動品牌",
+        "整合桃林鐵路自行車道與跨市自行車路網"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "要以桃園觀光夜市為重要節點，跟藝文特區、大廟等特色景點、商圈及文化活動串聯",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5557534",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "共同舉辦雙年展或跨市大型地景藝術節",
+          "sourceUrl": "https://udn.com/news/story/124652/9794429",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "針對全民運動將擴增戶外運動空間、推動「桃園全民運動季」，更要建立專屬的適應運動中心，讓長者、身障者與慢性病友都能安心運動",
+          "sourceUrl": "https://news.ltn.com.tw/news/life/breakingnews/5527030",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "要選定具潛力的項目，結合觀光與轉播",
+          "sourceUrl": "https://news.ltn.com.tw/news/life/breakingnews/5527030",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "跨市整合桃林鐵路自行車道與新北、桃園自行車路網",
+          "sourceUrl": "https://udn.com/news/story/124652/9794429",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taoyuan-02-youth",
+      "candidateId": "taoyuan-02",
+      "domainId": "youth",
+      "points": [
+        "整合青年初入職場可用的資源，做成一份入職禮包",
+        "在地產業實習接軌就業，就職滿 3 個月、6 個月給階段性獎勵",
+        "青年心理諮商在中央補助 3 次之外，再加 3 次",
+        "依各區需求規劃滑板、攀岩、極限運動等青少年活動空間"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "整合青年初入職場可使用的資源",
+          "sourceUrl": "https://udn.com/news/story/124652/9773359",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並推動在地產業實習與就業接軌，青年就職滿3個月、6個月提供階段性獎勵",
+          "sourceUrl": "https://udn.com/news/story/124652/9773359",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "在中央補助3次之外再增加3次",
+          "sourceUrl": "https://udn.com/news/story/124652/9773359",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "依各區需求規劃滑板、攀岩、極限運動、體能挑戰及交流空間",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5550560",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taoyuan-02-agriculture",
+      "candidateId": "taoyuan-02",
+      "domainId": "agriculture",
+      "points": [
+        "建立農民高溫安全與氣候調適制度",
+        "補助個人穿戴式防熱裝備、移動式大型水冷扇、溫網室防熱設施三項",
+        "永安漁港結合觀光，翻新周邊觀光設施與漁會市場",
+        "加速永安漁港南岸整治與漁港周邊觀光基礎設施"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "規畫個人穿戴式防熱裝備補助、移動式大型水冷扇補助，以及溫網室設施防熱與環境調適補助三項措施",
+          "sourceUrl": "https://udn.com/news/story/124652/9670749",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "周邊觀光設施與漁會市場等都可以進行翻新",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5488662",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "漁港周邊觀光基礎設施、永安漁港南岸整治",
+          "sourceUrl": "https://udn.com/news/story/124652/9699111",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

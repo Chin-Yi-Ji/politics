@@ -1,0 +1,602 @@
+{
+  "countyId": "hsinchu-city",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "hsinchu-city-01-education",
+      "candidateId": "hsinchu-city-01",
+      "domainId": "education",
+      "points": [
+        "未來 4 年投入 600 億元教育預算",
+        "設幼兒園到高中一貫的科技雙語示範學校，已初選校址、辦理用地取得",
+        "2028 年前分年做到國小三年級到高中三年級學生每人一台學習載具",
+        "全市 51 所國小、國中、高中導入半導體科普與無人機課程"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "下一個4年市府要投入總共600億的教育預算",
+          "sourceUrl": "https://udn.com/news/story/7324/9794153",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "規畫從幼兒園至高中建構一貫的科技、雙語學習環境，目前已初步選定潛力校址，並積極辦理用地取得中",
+          "sourceUrl": "https://udn.com/news/story/6885/9713490",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "預計於今至2028年間分年推動全市1比1智慧學習環境，讓國小三年級至高中三年級學生皆具備個人學習載具",
+          "sourceUrl": "https://udn.com/news/story/6885/9713490",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "讓全市的51所國小、國中、高中，配備半導體的科普課程",
+          "sourceUrl": "https://udn.com/news/story/7324/9794153",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-city-01-welfare",
+      "candidateId": "hsinchu-city-01",
+      "domainId": "welfare",
+      "points": [
+        "向議會爭取每位符合資格市民普發現金 6,000 元，預計 116 年第一季發放",
+        "65 歲以上長者與 55 歲以上原住民每月最高補助健保費 826 元",
+        "2027 年起生育津貼提高到每胎 6 萬元，臨時托育降到每小時 100 元",
+        "到 2030 年新增 10 處公共托育中心"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "規畫辦理每位符合資格市民普發現金6000元",
+          "sourceUrl": "https://udn.com/news/story/6656/9785011",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "預計於116年度第一季發放",
+          "sourceUrl": "https://udn.com/news/story/6656/9785011",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "後續符合資格的65歲以上長者及55歲以上原住民，每月最高可獲新台幣826元健保費補助",
+          "sourceUrl": "https://udn.com/news/story/124652/9757979",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "市府規畫2027年起將生育津貼提高至每胎6萬元，臨時托育降至每小時100元，至2030年新增10處公共托育中心",
+          "sourceUrl": "https://udn.com/news/story/124652/9778893",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-city-01-transport",
+      "candidateId": "hsinchu-city-01",
+      "domainId": "transport",
+      "points": [
+        "推動台 1 線替代道路（118 縣道至台 68 線）增設匝道",
+        "輕軌紅、藍線整合可行性研究，2027 年上半年提出期中報告",
+        "電動公車占比提高到 5 成以上"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動台1線替代道路（118縣道至台68線）增設匝道工程",
+          "sourceUrl": "https://udn.com/news/story/6656/9785011",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "大新竹輕軌紅、藍線整合可行性研究工作計畫今年6月核定，預計2027年上半年提出期中報告",
+          "sourceUrl": "https://udn.com/news/story/124652/9778893",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "電動公車占比預計提升至5成以上",
+          "sourceUrl": "https://udn.com/news/story/124652/9778893",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-city-01-youth",
+      "candidateId": "hsinchu-city-01",
+      "domainId": "youth",
+      "points": [
+        "2027 年青年租屋補助加碼到每年 1 萬元",
+        "青年提案補助每案 5 萬至 50 萬元；AI 數位工具補助總經費提高到 600 萬元",
+        "擴充創業業師團提供一對一輔導，支持新創團隊出國參展",
+        "東區設青年與青少年空間，提供攝影棚、直播與共享空間",
+        "擴大青年事務委員會的參與式提案與預算機制"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "市府將進一步加碼青年租屋補助至每年1萬元",
+          "sourceUrl": "https://udn.com/news/story/7324/9753759",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每案補助5萬元至50萬元",
+          "sourceUrl": "https://udn.com/news/story/7324/9753759",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "AI領航青年數位工具補助總經費將加碼至600萬元",
+          "sourceUrl": "https://udn.com/news/story/7324/9753759",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "明年將擴充青創輔導業師團",
+          "sourceUrl": "https://udn.com/news/story/7324/9753759",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並支持青年新創團隊出國參展拓展國際市場",
+          "sourceUrl": "https://udn.com/news/story/7324/9753759",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "市府也預計於東區世紀鑫城10至12樓打造青年暨青少年空間，提供直播、攝影棚、共享空間及相關設備",
+          "sourceUrl": "https://udn.com/news/story/7324/9753759",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "同時擴大青年事務委員會參與式提案及預算機制",
+          "sourceUrl": "https://udn.com/news/story/7324/9753759",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-city-02-transport",
+      "candidateId": "hsinchu-city-02",
+      "domainId": "transport",
+      "points": [
+        "捷運 2 至 3 年內完成綜合規劃與核定，第 4 年動工，路網納入香山、南寮",
+        "重新盤點通勤、就醫、採買路線改善公車路網，並開校園通學巡迴巴士",
+        "公車司機薪資加給、免費培訓、久任獎金並改善工時，補足司機缺額",
+        "以智慧號誌改善尖峰車流；關埔 YouBike 站點全覆蓋"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "目標在2、3年內完成綜合規劃與核定，第4年進入動工階段",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5575884",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "交通方面將改善公車路網，重新盤點通勤、就醫及採買等路線，捷運規劃也應納入香山、南寮等地區",
+          "sourceUrl": "https://udn.com/news/story/124652/9757979",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "內容包括：一、薪資加給，提升駕駛整體待遇",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5565902",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "二、免費培訓",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5565902",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "三、久任獎金",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5565902",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "莊競程提出智慧交通號控改善尖峰車流，並以捷運進關埔為核心，搭配縣市共營公車及YouBike站點全覆蓋",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5595855",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-city-02-education",
+      "candidateId": "hsinchu-city-02",
+      "domainId": "education",
+      "points": [
+        "初任教師前 3 年每月 5,000 元租屋津貼；久任獎金每 5 年發一次，滿 5 年 5 萬元到滿 30 年 30 萬元",
+        "成立一所獨立運作的完全中學；關埔增設中小學",
+        "設教育行政支援中心與 AI 行政平台，資料一次填報、多處使用",
+        "教師心理諮商每年基本 6 次，經評估可再加 6 次",
+        "盤點班級人數，優先降低人口快速成長學區的班級人數"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "針對初任教師前三年，每月補助5000元租屋津貼",
+          "sourceUrl": "https://udn.com/news/story/7324/9684330",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "教師在新竹市服務滿5年發給5萬元、滿10年發給10萬元、滿15年發給15萬元，每5年逐級發放，最高至30年30萬元",
+          "sourceUrl": "https://udn.com/news/story/7324/9684330",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "莊競程承諾成立一所具特色、獨立運作的完全中學",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5595855",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "重新盤點都市計畫用地，增加國中、國小量能",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5595855",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "莊競程提出成立「教育行政支援中心」",
+          "sourceUrl": "https://udn.com/news/story/124652/9711062",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "落實「一次填報、多處使用」",
+          "sourceUrl": "https://udn.com/news/story/124652/9711062",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "基本提供6次，經專業評估仍有需求者，再提供最多6次延伸支持，全年最高12次",
+          "sourceUrl": "https://udn.com/news/story/124652/9711062",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來將全面盤點國中小實際班級人數，優先改善人口快速成長學區及高負荷學校",
+          "sourceUrl": "https://udn.com/news/story/124652/9711062",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-city-02-welfare",
+      "candidateId": "hsinchu-city-02",
+      "domainId": "welfare",
+      "points": [
+        "每位市民普發 1 萬元，前提是不舉債、不排擠教育社福與重大建設",
+        "生育津貼第一胎 5 萬、第二胎 10 萬、第三胎 15 萬元，雙胞胎一次 20 萬元",
+        "敬老卡每月 1,200 點，未用完可在 1 年內累積使用",
+        "建兒童輔具媒合平台；檢討社福採購流程，經費參考市場行情",
+        "關埔興建整合公托、臨托、夜托、親子館與長青學苑的全齡生活館"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "而是清楚提出三項原則：不舉債、不破壞財政紀律、不排擠教育、社福與重大建設",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5542858",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "他會落實普發1萬元的承諾",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5542858",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "莊競程主張第一胎生育津貼提高至5萬元、第二胎10萬元、第三胎15萬元，雙胞胎則一次補助20萬元",
+          "sourceUrl": "https://udn.com/news/story/124652/9512484",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "敬老愛心卡則從現行每月800點提高至1200點，且未用完點數可累積1年內使用",
+          "sourceUrl": "https://udn.com/news/story/124652/9512484",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建立「兒童輔具媒合平台」，協助早療家庭更容易取得合適的輔具",
+          "sourceUrl": "https://udn.com/news/story/124652/9674213",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "相關經列編費也要參考市場實際行情",
+          "sourceUrl": "https://udn.com/news/story/124652/9674213",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "整合公托、臨托、夜托、親子館及長青學苑",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5595855",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-city-02-health",
+      "candidateId": "hsinchu-city-02",
+      "domainId": "health",
+      "points": [
+        "65 歲以上長輩健保免費",
+        "增設日照中心，減輕同時要顧長輩和小孩的家庭負擔"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "包括普發1萬元、65歲以上長輩健保免費、敬老愛心卡加碼、生育津貼提高等",
+          "sourceUrl": "https://udn.com/news/story/124652/9512484",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "因此他也倡議要增設「日照中心」",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5543712",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-city-02-economy",
+      "candidateId": "hsinchu-city-02",
+      "domainId": "economy",
+      "points": [
+        "設生醫產業發展特區，結合竹科、工研院、大學與醫療體系，推動智慧醫療與臨床驗證場域",
+        "東門市場升級，結合文創、夜間經濟與觀光動線",
+        "支持藝文展演、特色市集與商圈活動，發展夜間經濟"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "包括打造「生醫產業發展特區」，結合竹科、工研院、大學與醫療體系，推動AI智慧醫療、生醫新創及臨床驗證場域",
+          "sourceUrl": "https://udn.com/news/story/124652/9512484",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "他主張推動東門市場全面升級，結合文創、夜經濟與觀光動線",
+          "sourceUrl": "https://udn.com/news/story/124652/9512484",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將大力支持藝文展演、特色市集及商圈活動，發展「夜經濟」",
+          "sourceUrl": "https://udn.com/news/story/7324/9755353",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-city-02-agriculture",
+      "candidateId": "hsinchu-city-02",
+      "domainId": "agriculture",
+      "points": [
+        "打造在地農產品牌，協助納入竹科企業採購、節慶禮盒與國際交流贈禮",
+        "補助農民參加外縣市農產市集",
+        "學校午餐提高在地農產採購比例"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "協助在地農漁產品納入企業採購、節慶禮盒及國際交流贈禮",
+          "sourceUrl": "https://udn.com/news/story/124652/9603210",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "補助參與外縣市農產市集",
+          "sourceUrl": "https://udn.com/news/story/124652/9603210",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "充實營養專業量能，提高在地農產品採購比例，增加有機及友善食材供餐頻次",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5576897",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-city-02-environment",
+      "candidateId": "hsinchu-city-02",
+      "domainId": "environment",
+      "points": [
+        "改善犬貓舍、醫療隔離與認養空間，建立動物健康、救援與認養追蹤機制",
+        "盤點各行政區寵物活動空間，推友善動物店家標章"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "改善犬舍、貓舍、醫療隔離及認養展示空間，並建立動物健康、救援及認養追蹤機制",
+          "sourceUrl": "https://udn.com/news/story/124652/9737645",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將盤點全市寵物活動及友善空間需求",
+          "sourceUrl": "https://udn.com/news/story/124652/9737645",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動友善動物標章2.0",
+          "sourceUrl": "https://udn.com/news/story/124652/9737645",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-city-02-housing",
+      "candidateId": "hsinchu-city-02",
+      "domainId": "housing",
+      "points": [
+        "重啟大車站計畫，串連前後站、復甦舊城區，並評估鐵路立體化"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "若當選市長盼重啟大車站計畫，但也會評估立體化可行性",
+          "sourceUrl": "https://udn.com/news/story/124652/9771651",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-city-02-culture",
+      "candidateId": "hsinchu-city-02",
+      "domainId": "culture",
+      "points": [
+        "成立客家事務處，推動校園客語課程與家庭客語支持",
+        "爭取職棒球隊重回新竹",
+        "引進國際級藝文活動，讓藝文走進社區"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將成立「客家事務處」，建立客家文化政策專責治理平台",
+          "sourceUrl": "https://udn.com/news/story/124652/9651723",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "從校園客語課程、客家文化體驗，到家庭客語支持及青年客家培力",
+          "sourceUrl": "https://udn.com/news/story/124652/9651723",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "積極爭取職棒重回新竹",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5594277",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "同時導入國際級藝文活動，讓優質藝文走進社區、融入市民日常",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5595855",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-city-03-governance",
+      "candidateId": "hsinchu-city-03",
+      "domainId": "governance",
+      "points": [
+        "利益迴避法制化：市長、局處首長、民代親屬的承攬關係全部上網公開",
+        "1,000 萬元以上標案邀檢調、政風提前參與程序審查",
+        "工程進度、預算執行與標案公文即時公開；每年開放公民審議預算",
+        "廢除酬庸，由專業文官主持局處"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "市長、局處首長、民代親屬承攬關係全部公開上網",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5583593",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "1000萬以上標案，邀請檢調、政風提前參與程序審查",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5583593",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "所有工程進度、預算執行、標案公文，即時公開在「陽光市政儀表板」",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5583593",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每年開放公民審議預算",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5583593",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "再來是廢除酬庸政治，把市府還給文官",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5583593",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-city-03-welfare",
+      "candidateId": "hsinchu-city-03",
+      "domainId": "welfare",
+      "points": [
+        "每位設籍市民每年 16,800 元生活支持金，連發 4 年",
+        "以電子支付或市民卡發放，限市內超商、傳統市場與在地店家使用"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "每位設籍新竹市民每年可領16800元，連續發放4年，限在新竹市內消費",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5590732",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "透過電子支付或市民卡儲值，只能在新竹市內的四大超商、傳統市場和在地店家使用",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5590732",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-city-03-transport",
+      "candidateId": "hsinchu-city-03",
+      "domainId": "transport",
+      "points": [
+        "主張市區鐵路立體化，串聯前後站步行空間，興建新轉運站",
+        "考慮對尖峰時段由新竹縣進入竹科的通勤車輛收通行費，並增加免費接駁"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "主張新竹市區鐵路「立體化」（地下化／高架化）、串聯新竹前後站步行空間、興建新型新竹轉運站",
+          "sourceUrl": "https://udn.com/news/story/7324/9137650",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "同時可考慮針對上班尖峰時間由新竹縣進入新竹市竹科通勤車輛收取通行費，並增加免費接駁交通工具",
+          "sourceUrl": "https://udn.com/news/story/7324/9137650",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

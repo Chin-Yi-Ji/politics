@@ -1,0 +1,560 @@
+{
+  "countyId": "chiayi-city",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "chiayi-city-01-housing",
+      "candidateId": "chiayi-city-01",
+      "domainId": "housing",
+      "points": [
+        "盤點市有土地，由市府自建首座社會婚育住宅，供青年、小家庭與有居住需求者承租"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將主動盤點市有土地，評估由市府興建首座社會婚育住宅，提供青年、小家庭及有居住需求的市民更多選擇",
+          "sourceUrl": "https://udn.com/news/story/124652/9786271",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-city-01-health",
+      "candidateId": "chiayi-city-01",
+      "domainId": "health",
+      "points": [
+        "長者不限身心障礙或失能身分，都可依需求申請防滑設備、扶手等居家安全改善補助",
+        "推動部立嘉義醫院興建長照大樓，設護理之家、失智與日間照顧據點，總經費約 18 億元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "申請居家安全改善補助，包括防滑設備、扶手等",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5596070",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "不再只以身心障礙、失能等身分作為申請條件，而是依長者實際需求，補助防滑設備、扶手等居家安全設施",
+          "sourceUrl": "https://udn.com/news/story/7326/9795731",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "爭取推動總經費約18億元長照大樓",
+          "sourceUrl": "https://udn.com/news/story/7326/9795731",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "設置護理之家、培訓中心、失智及日間照顧據點",
+          "sourceUrl": "https://udn.com/news/story/7326/9795731",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-city-01-welfare",
+      "candidateId": "chiayi-city-01",
+      "domainId": "welfare",
+      "points": [
+        "長輩健保費與假牙補助依市府財政評估後逐步放寬",
+        "建立全齡照顧體系"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "長輩健保費及假牙補助，未來將依市府財政狀況完整評估，朝逐步放寬方向推動",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1769220",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "包括建立完整全齡照顧體系",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1769220",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-city-01-education",
+      "candidateId": "chiayi-city-01",
+      "domainId": "education",
+      "points": [
+        "加碼補助營養午餐經費",
+        "建置兒童圖書館與社區運動據點"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "加碼補助營養午餐經費，支持青年出國參賽、展演及交流，建置兒童圖書館、社區運動據點",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1769220",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-city-01-youth",
+      "candidateId": "chiayi-city-01",
+      "domainId": "youth",
+      "points": [
+        "支持青年出國參賽、展演與交流"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "支持青年出國參賽、展演及交流",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1769220",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-city-01-transport",
+      "candidateId": "chiayi-city-01",
+      "domainId": "transport",
+      "points": [
+        "高鐵站到市區的聯外軌道與鄰縣合作評估替代方案，參考台鐵支線模式，以地方低負擔為目標",
+        "鐵路高架化 38 億元自籌款向中央爭取減輕；走不通就改爭取等值建設經費"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "會參考台南台鐵沙崙支線等方式，規畫替代的方案，目標是達成地方低負擔、運量與效益更佳",
+          "sourceUrl": "https://udn.com/news/story/124652/9535804",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "嘉市鐵路高架化工程需要自籌卅八億元",
+          "sourceUrl": "https://udn.com/news/story/124652/9535804",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "希望盡可能減輕市府財政負擔，如果此方式真走不通，會改為向中央爭取其他等值的建設經費來補償",
+          "sourceUrl": "https://udn.com/news/story/124652/9535804",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-city-01-environment",
+      "candidateId": "chiayi-city-01",
+      "domainId": "environment",
+      "points": [
+        "爭取 1,800 萬元做維新支線第二期水質改善",
+        "整建水岸步道，串連文化、歷史景點成藍綠廊帶"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "爭取第2期工程經費1800萬元",
+          "sourceUrl": "https://udn.com/news/story/7326/9770891",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "可進一步建置完善步道規劃，串聯周邊文化、歷史與景點，形塑嘉義市藍綠廊帶",
+          "sourceUrl": "https://udn.com/news/story/7326/9770891",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-city-01-safety",
+      "candidateId": "chiayi-city-01",
+      "domainId": "safety",
+      "points": [
+        "治水不只靠移動式抽水機：增加抽水站、改善下水道"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "嘉義市治水不能再只靠移動式抽水機應急，向中央爭取2.6億元防水防災工程經費，增加抽水站及改善下水道",
+          "sourceUrl": "https://udn.com/news/story/7326/9770891",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-city-01-economy",
+      "candidateId": "chiayi-city-01",
+      "domainId": "economy",
+      "points": [
+        "把握晶圓大廠進駐鄰縣的產業效益，與鄰縣共同發展"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "並把握台積電進駐帶來的產業效益，與嘉縣共榮發展",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1769220",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-city-02-education",
+      "candidateId": "chiayi-city-02",
+      "domainId": "education",
+      "points": [
+        "國中小營養午餐免費"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "國中小營養午餐免費，守護食安與營養",
+          "sourceUrl": "https://www.tpp.org.tw/election2026/candidatedetail.php?cid=216",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-city-02-health",
+      "candidateId": "chiayi-city-02",
+      "domainId": "health",
+      "points": [
+        "65 歲以上長者健保費由政府全額負擔，不排富",
+        "整合工務、社政、衛政做老宅無障礙改善：評估加裝電梯、扶手防滑、浴廁改造，並簡化補助流程"
+      ],
+      "strictPoints": [
+        "65 歲以上長者健保免費",
+        "完善長照"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動健保補助、完善長照，打造全齡友善城市",
+          "sourceUrl": "https://www.tpp.org.tw/election2026/candidatedetail.php?cid=216",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動65歲以上長者，健保免費",
+          "sourceUrl": "https://www.tpp.org.tw/election2026/candidatedetail.php?cid=216",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "全額、不排富補助六十五歲以上長輩健保費",
+          "sourceUrl": "https://udn.com/news/story/124652/9525052",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動更精準老宅改善與無障礙升級，包括電梯增設評估、樓梯扶手與防滑工程、浴廁安全改造及居家緊急通報設備，簡化補助流程",
+          "sourceUrl": "https://udn.com/news/story/124652/9265332",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-city-02-welfare",
+      "candidateId": "chiayi-city-02",
+      "domainId": "welfare",
+      "points": [
+        "生育獎勵金第一胎 5 萬、第二胎 10 萬、第三胎 20 萬元",
+        "0 至 6 歲生日禮金每年 2 萬元，每個孩子最高 14 萬元",
+        "孩子出生即由政府存入 5 萬元到未來帳戶，之後每年遞增",
+        "敬老卡每月 1,200 點擴大用於計程車、掛號費、超商與農會；計程車單趟補助上限提高到 100 點"
+      ],
+      "strictPoints": [
+        "生育補助第一胎 5 萬、第二胎 10 萬、第三胎 20 萬元",
+        "0 至 6 歲生日禮金每年 2 萬元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "生第一胎5萬、第二胎10萬、第三胎20萬",
+          "sourceUrl": "https://www.tpp.org.tw/election2026/candidatedetail.php?cid=216",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "還有0-6歲生日禮金每年2萬",
+          "sourceUrl": "https://www.tpp.org.tw/election2026/candidatedetail.php?cid=216",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "出生0到6歲，每位孩子最高可獲得14萬元生日禮金",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5477754",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "小孩出生即由政府存入五萬元，並每年遞增",
+          "sourceUrl": "https://udn.com/news/story/124652/9525052",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "擴大敬老卡使用範圍，包括搭乘計程車、抵用醫療掛號費，以及在超商、超市、農會消費等",
+          "sourceUrl": "https://udn.com/news/story/124652/9672700",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提高嘉義市愛心敬老卡搭乘計程車單趟補助上限，比照台中市提高至100點",
+          "sourceUrl": "https://udn.com/news/story/124652/9796123",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-city-02-youth",
+      "candidateId": "chiayi-city-02",
+      "domainId": "youth",
+      "points": [
+        "推動青年住宅與未來帳戶",
+        "支持青年創業與就業"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動青年住宅、未來帳戶、創業與就業，讓青年留嘉、返嘉",
+          "sourceUrl": "https://www.tpp.org.tw/election2026/candidatedetail.php?cid=216",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-city-02-housing",
+      "candidateId": "chiayi-city-02",
+      "domainId": "housing",
+      "points": [
+        "興建更多可負擔住宅，優先提供新婚與育兒家庭"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "他也承諾興建更多可負擔住宅，優先提供新婚及育兒家庭",
+          "sourceUrl": "https://udn.com/news/story/124652/9525052",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-city-02-economy",
+      "candidateId": "chiayi-city-02",
+      "domainId": "economy",
+      "points": [
+        "加速北港路兩側開發，設結合高科技、物流與智慧醫療的產業園區",
+        "在既有 2 個商圈之外再增設 4 個特色商圈，振興市場與夜市"
+      ],
+      "strictPoints": [
+        "打造產業廊帶，創造就業與財源",
+        "振興商圈、市場與夜市"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "打造北港路產業廊帶，創造就業、增加財源",
+          "sourceUrl": "https://www.tpp.org.tw/election2026/candidatedetail.php?cid=216",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "振興商圈、市場與夜市，帶動觀光與消費",
+          "sourceUrl": "https://www.tpp.org.tw/election2026/candidatedetail.php?cid=216",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "加速北港路兩側的開發，打造為結合高科技、物流與智慧醫療的綜合產業園區",
+          "sourceUrl": "https://udn.com/news/story/124652/9525052",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "以原有的文化路與二路商圈，再增設四個特色商圈",
+          "sourceUrl": "https://udn.com/news/story/124652/9525052",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-city-02-transport",
+      "candidateId": "chiayi-city-02",
+      "domainId": "transport",
+      "points": [
+        "主張高鐵聯外軌道由中央全額負擔興建，進市區路段採高架",
+        "興建市區北邊快速道路與東區聯絡道",
+        "推動鐵路高架化與完整路網"
+      ],
+      "strictPoints": [
+        "推動輕軌、鐵路高架化與完整路網"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動輕軌、鐵路高架化及完整路網建設",
+          "sourceUrl": "https://www.tpp.org.tw/election2026/candidatedetail.php?cid=216",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "張啓楷主張中央應全額負擔「嘉義輕軌」的建設費用，並興建市區北邊快速道路、東區聯絡道以紓解車流",
+          "sourceUrl": "https://udn.com/news/story/124652/9525052",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "首先無論輕軌或台鐵支線，進入嘉義市區都是高架路段",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5477754",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-city-02-governance",
+      "candidateId": "chiayi-city-02",
+      "domainId": "governance",
+      "points": [
+        "公開財政資訊，設重大建設進度儀表板，讓新增財源的運用受檢驗",
+        "導入 AI 與數位治理，提升市政效率",
+        "善用新增財源，維持財政穩健"
+      ],
+      "strictPoints": [
+        "導入 AI 與數位治理，提升市政效率",
+        "善用新增財源，維持財政穩健"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "導入AI與數位治理，提升市政服務效率",
+          "sourceUrl": "https://www.tpp.org.tw/election2026/candidatedetail.php?cid=216",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "善用新增財源，讓福利、建設與產業發展都能長久推動",
+          "sourceUrl": "https://www.tpp.org.tw/election2026/candidatedetail.php?cid=216",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將推動「透明陽光財政」及重大建設儀表板，讓新增財源運用接受市民檢驗",
+          "sourceUrl": "https://udn.com/news/story/124652/9744240",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-city-02-environment",
+      "candidateId": "chiayi-city-02",
+      "domainId": "environment",
+      "points": [
+        "守護水庫水源，減煤、減空污"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "守護蘭潭、減煤減空污，打造健康永續城市",
+          "sourceUrl": "https://www.tpp.org.tw/election2026/candidatedetail.php?cid=216",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-city-04-governance",
+      "candidateId": "chiayi-city-04",
+      "domainId": "governance",
+      "points": [
+        "建數位孿生城市系統，整合交通、公共建設、社福與人口資料，輔助市政決策"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "他希望運用數位孿生技術，將城市各項資訊整合，協助政府精準掌握交通、公共建設、社會福利及人口等需求",
+          "sourceUrl": "https://udn.com/news/story/124652/9726784",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-city-04-economy",
+      "candidateId": "chiayi-city-04",
+      "domainId": "economy",
+      "points": [
+        "提出以步行、公園、木業文化、低底盤運具、垃圾資源化等帶動經濟的十項主張",
+        "發展美學產業與知識經濟，善用高齡人才創造就業"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "包括「數位孿生救嘉義」、「走路經濟學」、「跨宗教經濟學」、「公園經濟學」、「木都經濟學」",
+          "sourceUrl": "https://udn.com/news/story/124652/9703532",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "「超低底盤運輸載具經濟學」及「垃圾資源經濟學」",
+          "sourceUrl": "https://udn.com/news/story/124652/9703532",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來透過發展美學產業與知識經濟，創造更多就業機會，吸引年輕人返鄉發展",
+          "sourceUrl": "https://udn.com/news/story/124652/9569246",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-city-04-education",
+      "candidateId": "chiayi-city-04",
+      "domainId": "education",
+      "points": [
+        "學校教育除了知識傳授，要提供更多元的學習與人格啟發"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "學校教育不能只有知識傳授，還應該提供更多元學習與人格啟發",
+          "sourceUrl": "https://udn.com/news/story/124652/9726784",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-city-03-governance",
+      "candidateId": "chiayi-city-03",
+      "domainId": "governance",
+      "points": [
+        "選舉補助款加倍捐出",
+        "市長薪資只留最低工資，其餘用於公益"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "包括選舉補助款將加倍捐出，市長薪資僅保留最低工資，其餘全數用於公益",
+          "sourceUrl": "https://udn.com/news/story/124652/9445200",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

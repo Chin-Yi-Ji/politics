@@ -1,0 +1,1231 @@
+{
+  "countyId": "kaohsiung",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "kaohsiung-01-transport",
+      "candidateId": "kaohsiung-01",
+      "domainId": "transport",
+      "points": [
+        "全面檢討機車兩段式左轉，強制待轉路口降到全市 5% 以下",
+        "2030 年前 12 米道路的人行道覆蓋率提升到 65%",
+        "四年內新增或改造 1 萬個機車友善停車位，開放重機停一般機車格",
+        "恢復公共自行車前 30 分鐘免費，2030 年前增到 1,800 站",
+        "2030 年前號誌聯網率提升到 60%；推動捷運青線直達鳳山車站"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "把強制待轉路口降到全市5%以下",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "把都市計畫區12米道路的人行道覆蓋率提升到65%",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "四年內新增或改造10,000個",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "開放紅黃牌重機依規範停放一般機車格",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "恢復YouBike前30分鐘免費",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "在2030年前把YouBike站點增加到1,800站",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "2030年前把交通號誌聯網率提升到60%",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "強力推動捷運青線直達鳳山車站",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-01-housing",
+      "candidateId": "kaohsiung-01",
+      "domainId": "housing",
+      "points": [
+        "推出可負擔住宅：可繼承，也能以固定價格賣回市府",
+        "首波對象：設籍滿一年、育有未成年子女、無自有住宅的 25 至 44 歲市民",
+        "婚育社宅比例加碼到 40%，預計 2032 年達 1,000 戶",
+        "子女在學區內國小就讀的家庭，社宅租期可延長到 12 年",
+        "老屋補強與危老重建補助最高 500 萬元，加碼方案最高 800 萬元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "房子不僅可繼承，未來若因生涯規劃想換屋或無居住需求，還能以固定價格賣回給市府住都中心",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "首波申購資格：設籍滿一年、育（孕）有未成年子女的 25 至 44 歲市民，且家庭成員無自有住宅者。",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "我們承諾逐步將婚育社宅比例加碼至 40%（預計 2032 年達 1,000 戶）",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "只要子女於學區內國小就讀，同樣也能延長租期至 12 年",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "最高補助達 500萬元",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "最高補助高達 800萬元",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-01-education",
+      "candidateId": "kaohsiung-01",
+      "domainId": "education",
+      "points": [
+        "提供免費且高品質的營養午餐",
+        "教科文支出占比由 34% 提升到 38%",
+        "砍掉 30% 非必要報表；設直通市長室的校園保護機制",
+        "加速重建老舊校舍，翻新校園廁所與跑道，改善教室照明",
+        "6 到 18 歲提供免費 AI 教育資源；偏鄉導入線上外師的數位雙語學伴"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "我們承諾提供「免費且高品質」的營養午餐",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將教科文支出占比從目前的 34% 提升至 38%",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "砍掉 30% 非必要報表",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將另建立直通市長室的校園保護機制",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並全面翻新校園廁所與PU跑道",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "我們將提供免費 AI 教育資源，在校園導入 AI 學習助理，縮短城鄉落差。",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "利用豐富的線上外師資源彌補實體師資不足",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-01-health",
+      "candidateId": "kaohsiung-01",
+      "domainId": "health",
+      "points": [
+        "重度失能者編列 1 億元補助爬梯機",
+        "雙老或一老一殘家庭，免費或補助設置 AI 輔具",
+        "擴大補貼長者疫苗施打",
+        "增加長照、醫療、社區三合一老人住宅，提高機構安置量能",
+        "提升桃源、那瑪夏、茂林衛生所量能，增加眼科、牙科、復健巡迴醫療"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "針對重度失能者編列 1 億元預算補助爬梯機",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "針對雙老或一老一殘家庭，提供免費或補助設置 AI 輔具應用",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "擴大補貼長者疫苗施打，守護長輩健康。",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "三合一老人住宅供給量，並提高機構安置服務量能。",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提升桃源、那瑪夏、茂林等衛生所醫療量能，建立災時在宅急性照護機制，增加眼科、牙科、復健、心理健康等巡迴醫療服務",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-01-economy",
+      "candidateId": "kaohsiung-01",
+      "domainId": "economy",
+      "points": [
+        "育嬰假薪資由市府補足剩餘 2 成，領到投保級距的 100%",
+        "擴大勞工權益基金，納入外送員、約聘、派遣等非典型勞工",
+        "制定職場霸凌防治自治條例；強化高溫防護與工安制度",
+        "招商與提升薪資掛勾，平均數與中位數都要拉升",
+        "在林園設石化轉型人才媒合專區；爭取中央碳費撥入勞工權益基金"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "由市府補足現行制度剩餘的2成薪",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "擴大勞工權益基金，接住高雄外送員、約聘、派遣等非典型勞工",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "強化高溫防護與工安制度，讓安全不再只是運氣，而是標準。",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "法律必須成為你的後盾，讓職場正義不再讓你忍氣吞聲。",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "堅持招商要與提升薪資掛勾，不只平均數提升、中位數也要一同拉升",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "我們要在林園設立媒合專區，辦理客製化轉職會",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "全力向中央環境部爭取碳費與",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-01-environment",
+      "candidateId": "kaohsiung-01",
+      "domainId": "environment",
+      "points": [
+        "八年種一百萬棵樹，以原生樹種為主",
+        "基地通風率納入都更獎勵，建立城市風廊",
+        "用騎樓、建築內縮與連續遮廊，打造連續型遮蔭步道",
+        "公園地下的掩埋垃圾深層開挖並徹底清運"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "全盤檢視全市樹種，並以原生樹種為核心，增加韌性行道樹種植",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將基地通風率納入都更獎勵",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "利用騎樓、建築物內縮、穿堂及智慧型遮陽傘、連續遮廊等手法來增加行人道的陰影",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "落實深層開挖與徹底清運",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-01-safety",
+      "candidateId": "kaohsiung-01",
+      "domainId": "safety",
+      "points": [
+        "道路旁布建可遠端監控的智慧消防栓",
+        "建築重要結構安裝安全監測系統，全天候評估耐震能力",
+        "警消繁重勤務與危險加給比照雙北全額發給",
+        "事故熱點優先做工程改善與動線重整；酒駕毒駕嚴格執法",
+        "原鄉建立防災物資前進部署，培訓部落防災搶險隊"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "導入低功耗廣域網路技術進行遠端監控",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "運用 AIoT 聯網技術進行耐震能力評估與全天候把關",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "高雄應該比照雙北，全額發給繁重勤務及危險加給",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "而是優先導入工程優化與動線重整",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "酒駕毒駕零容忍，從源頭斷絕風險",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並建立防災物資前進部署制度，培訓部落在地防災搶險隊",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-01-culture",
+      "candidateId": "kaohsiung-01",
+      "domainId": "culture",
+      "points": [
+        "音樂祭擴大規模，打造跨國界的國際級音樂節慶",
+        "演唱會免場租改為有條件：主辦方推購票實名制才給場租優惠",
+        "活動期間房價超過平日兩倍的旅宿列黑名單，調整補助資格",
+        "發展郵輪經濟：前兩年挑戰 30 億元、四年後 50 億元產值",
+        "引進國際體能賽等運動賽事；規劃 20 條長者旅遊路線"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "不僅要持續辦理，更應擴大規模。",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "若主辦單位願意從源頭推動購票實名制、杜絕非法加價轉售，市府即可提供相對應的場租優惠",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "若大型活動期間房價異常飆升、超過平日兩倍，即納入黑名單並調整其補助資格",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "我們將全力發展郵輪經濟，前兩年挑戰 30億元，四年後更要挑戰高達 50億元 的總產值",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "例如規劃導入近年全球快速成長的HYROX體能賽",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "我們將規劃 20條 專屬的",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-01-welfare",
+      "candidateId": "kaohsiung-01",
+      "domainId": "welfare",
+      "points": [
+        "生育津貼第一胎 3 萬、第二胎 4 萬、第三胎 5 萬",
+        "2030 年前臨托據點由 29 處增到 60 處，並推出喘息券",
+        "0 至 6 歲設籍孩童，市府每年加碼提撥 3,000 元到兒童帳戶",
+        "增加敬老卡點數與使用範圍，可扣點騎公共自行車",
+        "鼓勵企業讓育兒員工每日減 1 小時工時，並補貼代班者"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "我們將生育津貼加碼至第一胎3萬、第二胎4萬、第三胎5萬",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將臨托據點從29處增至60處",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將針對0至6歲設籍高雄的孩童，每年再由地方政府加碼提撥3000元",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "增加敬老卡點數及使用範圍",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來我們將推動開放敬老卡點數折抵YouBike與電輔車騎乘費用",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "我們鼓勵企業縮短育兒員工每日1小時工時，並補貼代班者",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-01-governance",
+      "candidateId": "kaohsiung-01",
+      "domainId": "governance",
+      "points": [
+        "交通違規罰鍰收入優先用於改善交通系統，而非執法設備",
+        "主張港市合一延伸旗津，爭取國有地解編",
+        "設整合式都市原住民族服務中心，整合就業、教育、住宅、社福與長照"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "優先用於改善交通系統，無論是工程改善或安全教育，而不是把資源集中在執法設備上。",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "排除行政阻礙，積極爭取國有地解編，促進地方發展",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "設立整合式都市原住民族服務中心，整合就業、教育、住宅、社福與長照等資源",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-01-youth",
+      "candidateId": "kaohsiung-01",
+      "domainId": "youth",
+      "points": [
+        "非典型工作或待業青年轉正職：輔導津貼加轉正獎金最高 3 萬元",
+        "18 至 29 歲初次尋職青年就業滿 1、3、6 個月，給 5,000、8,000、12,000 元",
+        "役男當兵前免費參加職訓證照班",
+        "4 年扶植 100 組青年創業集資，目標集資 3 億元",
+        "中高階與科技類實習職缺比例再提升 10%"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "最高 3 萬元的實質補助",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "加保滿 1 個月：給予 5,000 元",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "加保滿 6 個月：給予 12,000 元",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "參加職訓證照訓練班",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "4 年內扶植 100 組業者、達成集資 3 億元",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "目標將中高階及科技類實習職缺比例再提升 10%",
+          "sourceUrl": "https://2026.kmtks.org.tw/mayor",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-02-transport",
+      "candidateId": "kaohsiung-02",
+      "domainId": "transport",
+      "points": [
+        "推動捷運岡山路竹延伸線與紫線，搭配高屏二快與台 61 濱海道路",
+        "小港機場新航廈完成後年容量 1,650 萬人次，爭取大型客機與新國際航線",
+        "評估在南星計畫區外海填海造陸，設 24 小時海上機場",
+        "整合捷運、輕軌、單車與觀光船班，推出數位旅遊卡",
+        "建置智慧候車亭；旗津試辦無人載具"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動捷運岡山路竹延伸線與紫線，搭配高屏二快與台 61 南北濱海道路",
+          "sourceUrl": "https://www.zenolai.tw/policy/vision/2",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "年服務容量可提升到 1,650 萬人次",
+          "sourceUrl": "https://www.zenolai.tw/policy/vision/4",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "高雄要持續爭取更多大客機、更多國際航線",
+          "sourceUrl": "https://www.zenolai.tw/policy/vision/4",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "應將南星計畫區外海等可能場址納入專業評估，透過填海造陸方式",
+          "sourceUrl": "https://www.zenolai.tw/policy/vision/4",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "整合捷運、輕軌、單車與觀光船班，推出數位旅遊卡，並建置智慧候車亭、多功能資訊站，推動旗津無人載具試辦等",
+          "sourceUrl": "https://www.zenolai.tw/policy/culture/19",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-02-housing",
+      "candidateId": "kaohsiung-02",
+      "domainId": "housing",
+      "points": [
+        "擴大社會住宅、包租代管與租金補貼",
+        "社宅、托育、青創基地設在捷運與輕軌站步行範圍",
+        "社宅結合托育中心、共融遊戲場與長照據點",
+        "兵工廠原址以綠建築興建智慧住宅社區"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "擴大社會住宅、包租代管、租金補貼與青年友善租屋資訊與通勤支持",
+          "sourceUrl": "https://www.zenolai.tw/policy/youth/10",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "讓捷運、輕軌等大眾運輸與社宅、青創基地、托育資源緊密串聯",
+          "sourceUrl": "https://www.zenolai.tw/policy/youth/10",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "多功能社宅：結合托育中心、共融遊戲場與長照據點，實現世代共融。",
+          "sourceUrl": "https://www.zenolai.tw/policy/vision/3",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "導入AI與綠建築建構智慧住宅社區",
+          "sourceUrl": "https://www.zenolai.tw/policy/vision/1",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-02-education",
+      "candidateId": "kaohsiung-02",
+      "domainId": "education",
+      "points": [
+        "雙語教育預算逐步提高到每年 10 億元",
+        "逐步降低班級人數，幼教優先降師生比",
+        "每校配置資訊專責人力；設校園事件專業支援中心提供法務支援",
+        "補足心理、社工、輔導、特教與校安人力；營養午餐免費並提升品質",
+        "偏鄉擴充外籍師資與教師住宿；國高中優先建立跨國交流夥伴學校"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "雙語教育預算將逐步提高至",
+          "sourceUrl": "https://www.zenolai.tw/policy/education/12",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "我們將推動逐步降低班級人數，提升教學與照顧品質，並從幼教階段優先降師生比",
+          "sourceUrl": "https://www.zenolai.tw/policy/education/18",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "落實一校一資訊專責人力維護數位設備",
+          "sourceUrl": "https://www.zenolai.tw/policy/education/18",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提供校園法務與危機處置的專業支援",
+          "sourceUrl": "https://www.zenolai.tw/policy/education/18",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "補足心理、社工、輔導、特教及校安人力，並讓特教支持直接進到班級",
+          "sourceUrl": "https://www.zenolai.tw/policy/education/18",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "營養午餐不只免費，更要提升食材品質與營養",
+          "sourceUrl": "https://www.zenolai.tw/policy/education/18",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "擴充偏遠地區外籍師資、智慧教學設備及教師住宿條件",
+          "sourceUrl": "https://www.zenolai.tw/policy/education/12",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "優先協助高雄的國高中建立跨國學校交流夥伴關係",
+          "sourceUrl": "https://www.zenolai.tw/policy/education/12",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-02-health",
+      "candidateId": "kaohsiung-02",
+      "domainId": "health",
+      "points": [
+        "提升區域醫院醫療設備與人力，強化在地急重症量能",
+        "行動醫療車與巡迴診療服務偏鄉",
+        "產檢乘車補助提高到每胎最高 50 趟",
+        "擴大孕期醫療照護與心理諮詢",
+        "設置銀髮健身俱樂部；擴大長者共餐、送餐"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "提升區域醫院醫療設備與人力：縮短城鄉醫療差距，強化在地急重症醫療量能。",
+          "sourceUrl": "https://www.zenolai.tw/policy/vision/3",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "行動健康服務深入山區：以行動醫療車與巡迴診療服務偏鄉居民。",
+          "sourceUrl": "https://www.zenolai.tw/policy/vision/3",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將產檢乘車補助提升至每胎最高 50 趟",
+          "sourceUrl": "https://www.zenolai.tw/policy/youth/9",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "擴大孕期中的醫療照護與心理諮詢支持",
+          "sourceUrl": "https://www.zenolai.tw/policy/youth/9",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "設置銀髮健身俱樂部：推廣樂齡運動與健康促進",
+          "sourceUrl": "https://www.zenolai.tw/policy/youth/9",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "擴大共餐、送餐關懷支援：照顧高齡長者與弱勢家庭需求。",
+          "sourceUrl": "https://www.zenolai.tw/policy/vision/3",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-02-economy",
+      "candidateId": "kaohsiung-02",
+      "domainId": "economy",
+      "points": [
+        "成立產業升級基金，協助中小企業導入 AI 與設備改善",
+        "成立先進材料與智慧製造驗證中心",
+        "建產業媒合平台，帶傳產組隊承接半導體、AI、國防航太訂單",
+        "爭取 AI 算力與雲端業者在本市設實體公司；推動重大投資在地採購",
+        "推動 AI 算力暨應用服務中心進駐，作為產業升級的公共底座"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "協助中小企業導入 AI，並擴大在地採購",
+          "sourceUrl": "https://www.zenolai.tw/policy/ai/6",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "協助企業投入設備改善與數位轉型",
+          "sourceUrl": "https://www.zenolai.tw/policy/ai/7",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "成立先進材料與智慧製造驗證中心",
+          "sourceUrl": "https://www.zenolai.tw/policy/ai/7",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "盤點半導體、AI 及國防航太需求，帶領在地傳產從單打獨鬥走向組隊接單",
+          "sourceUrl": "https://www.zenolai.tw/policy/ai/7",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "爭取 AI 算力及雲端服務業者在高雄設立實體公司",
+          "sourceUrl": "https://www.zenolai.tw/policy/ai/6",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動重大投資在地採購",
+          "sourceUrl": "https://www.zenolai.tw/policy/ai/7",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將結合主權 AI 及專屬產業模型庫，成為支撐本地產業升級的公共底座",
+          "sourceUrl": "https://www.zenolai.tw/policy/ai/5",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-02-environment",
+      "candidateId": "kaohsiung-02",
+      "domainId": "environment",
+      "points": [
+        "兵工廠原址保留 15 公頃闢建森林公園",
+        "大林蒲遷村後轉為新材料循環產業園區",
+        "以設置 30 座社區型寵物公園為目標",
+        "廣設特色兒童公園與兒童圖書館；建置無障礙步道與樂齡公園"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "同時預計保留15公頃打造「亞灣森林公園」",
+          "sourceUrl": "https://www.zenolai.tw/policy/vision/1",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "大林蒲遷村後轉型為新材料循環產業園區",
+          "sourceUrl": "https://www.zenolai.tw/policy/vision/1",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "以設置30座社區型寵物公園為目標",
+          "sourceUrl": "https://www.zenolai.tw/policy/youth/17",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "全面廣設特色兒童公園與兒童圖書館",
+          "sourceUrl": "https://www.zenolai.tw/policy/youth/9",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建置無障礙步道與樂齡公園",
+          "sourceUrl": "https://www.zenolai.tw/policy/youth/9",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-02-safety",
+      "candidateId": "kaohsiung-02",
+      "domainId": "safety",
+      "points": [
+        "系統整治河川野溪，強化水源保護",
+        "提升蓄洪能量，以科技監測預警水情",
+        "改善地方避難空間並擴大防災教育",
+        "強化海上漁船緊急醫療諮詢服務"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "確保水資源安全並落實水患治理。",
+          "sourceUrl": "https://www.zenolai.tw/policy/vision/3",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "透過大數據與智慧設備掌握即時水情。",
+          "sourceUrl": "https://www.zenolai.tw/policy/vision/3",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提升社區自救能力與避難設施品質。",
+          "sourceUrl": "https://www.zenolai.tw/policy/vision/3",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "保障討海人的生命安全",
+          "sourceUrl": "https://www.zenolai.tw/policy/ai/8",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-02-culture",
+      "candidateId": "kaohsiung-02",
+      "domainId": "culture",
+      "points": [
+        "成立觀光行銷團隊，以 AI 精準行銷城市品牌",
+        "整合旅宿、景點與飲食，推出盛事套票",
+        "推出串聯歷史、藝陣、客庄、原鄉、農村的過夜旅遊計畫",
+        "布局港區、鳳山、左營、岡山四大文化內容基地",
+        "傳統技藝推動師徒傳習與青年學徒；建置 38 區地方文化資料"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "導入AI精準行銷，整合城市觀光資源",
+          "sourceUrl": "https://www.zenolai.tw/policy/culture/19",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "整合旅宿、景點與飲食，推出",
+          "sourceUrl": "https://www.zenolai.tw/policy/culture/19",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提出串連歷史、藝陣、客庄、原鄉、農村的",
+          "sourceUrl": "https://www.zenolai.tw/policy/culture/19",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "布局港區、鳳山、左營、岡山四大文化內容基地",
+          "sourceUrl": "https://www.zenolai.tw/policy/culture/16",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動師徒傳習、青年學徒及長期培育，並支持傳統藝術跨域合作。",
+          "sourceUrl": "https://www.zenolai.tw/policy/culture/16",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建置 38 區地方文化資料及敘事",
+          "sourceUrl": "https://www.zenolai.tw/policy/culture/16",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-02-welfare",
+      "candidateId": "kaohsiung-02",
+      "domainId": "welfare",
+      "points": [
+        "生育津貼由每胎 3 萬元加碼到 5 萬元",
+        "育兒津貼由每月 5,000 至 7,000 元提高到最高 10,000 元",
+        "0 至 6 歲孩童每月再加碼 1,000 元成長津貼",
+        "敬老卡點數由每年 7,200 點提高到 15,000 點",
+        "增加公托與準公托據點，每年提供 60 小時育兒喘息延托券"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "生育津貼由原本每胎 3 萬元大幅加碼至 5 萬元",
+          "sourceUrl": "https://www.zenolai.tw/policy/youth/9",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提升至最高每月 10,000 元",
+          "sourceUrl": "https://www.zenolai.tw/policy/youth/9",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "歲孩童每月再加碼 1,000 元",
+          "sourceUrl": "https://www.zenolai.tw/policy/youth/9",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "市民敬老卡點數由每年 7,200 點大幅提升至 15,000 點",
+          "sourceUrl": "https://www.zenolai.tw/policy/youth/9",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並提供每年 60 小時育兒喘息支持",
+          "sourceUrl": "https://www.zenolai.tw/policy/youth/9",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-02-governance",
+      "candidateId": "kaohsiung-02",
+      "domainId": "governance",
+      "points": [
+        "設教育承諾儀表板公開政策進度；成立教育合夥人會議",
+        "市民服務專線增設多語服務；市銀行 ATM 增設多語介面",
+        "設新住民市政專責窗口，整合就業輔導、子女教育與通譯"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "公開政策推進進度與指標",
+          "sourceUrl": "https://www.zenolai.tw/policy/education/18",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "在市民服務專線增設多語服務",
+          "sourceUrl": "https://www.zenolai.tw/policy/culture/13",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並推動高雄銀行 ATM 增設多語操作介面",
+          "sourceUrl": "https://www.zenolai.tw/policy/culture/13",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建立明確的市政專責窗口，全面整合生活適應、就業輔導、子女教育、通譯及家庭服務。",
+          "sourceUrl": "https://www.zenolai.tw/policy/culture/13",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-02-youth",
+      "candidateId": "kaohsiung-02",
+      "domainId": "youth",
+      "points": [
+        "青年實習規模加倍；轉正職留任滿 3 個月發 1 萬元，特定產業再加 5,000 元",
+        "依實習距離提供最高 2,000 元交通補助",
+        "海外交流補助擴大到大專院校學生",
+        "青創導師制度：創業諮詢、資金媒合與通路鏈結",
+        "擴大青年心理諮商，市府加碼補助"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "一般產業實習後轉正職留任滿 3 個月發給 1 萬元獎勵金",
+          "sourceUrl": "https://www.zenolai.tw/policy/youth/10",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "再加碼 5,000 元（最高領 1.5 萬元）",
+          "sourceUrl": "https://www.zenolai.tw/policy/youth/10",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "依實習距離提供最高 2,000 元交通補助",
+          "sourceUrl": "https://www.zenolai.tw/policy/youth/10",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將補助對象從高中職生擴大到大專院校學生",
+          "sourceUrl": "https://www.zenolai.tw/policy/youth/10",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提供創業諮詢、商業模式輔導、資金補助媒合與市場通路鏈結",
+          "sourceUrl": "https://www.zenolai.tw/policy/youth/10",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "市府也會額外加碼補助",
+          "sourceUrl": "https://www.zenolai.tw/policy/youth/10",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-02-agriculture",
+      "candidateId": "kaohsiung-02",
+      "domainId": "agriculture",
+      "points": [
+        "完善蔬果產銷冷鏈設備",
+        "養殖與遠洋漁業導入 AI 智慧管理與監控",
+        "獎勵老舊漁船與魚塭設備汰舊換新",
+        "設漁業專業技術輔導團，提供青年創業輔導與資金支持",
+        "前鎮漁港浚深、汙水處理與聯外交通整體規劃"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "完善蔬果產銷冷鏈設備，穩定農產品品質與價格。",
+          "sourceUrl": "https://www.zenolai.tw/policy/vision/3",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "在養殖和遠洋漁業導入 AI 技術",
+          "sourceUrl": "https://www.zenolai.tw/policy/ai/8",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "規劃獎勵老舊漁船及魚塭設備汰舊換新協助轉型",
+          "sourceUrl": "https://www.zenolai.tw/policy/ai/8",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "我們將設立漁業專業技術輔導團，藉由創業輔導、資金支持及專業訓練",
+          "sourceUrl": "https://www.zenolai.tw/policy/ai/8",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "包括漁港浚深、汙水處理、聯外交通以及建構靈活的產銷中心",
+          "sourceUrl": "https://www.zenolai.tw/policy/ai/8",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-03-governance",
+      "candidateId": "kaohsiung-03",
+      "domainId": "governance",
+      "points": [
+        "以司法制度改革為施政核心",
+        "主張推動陪審制度、檢察長民選與司法問責",
+        "檢討檢舉與科技執法的罰單制度，主張取消相關處罰"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "他主張以司法制度改革作為施政核心，並提出推動陪審制度、建立司法退場機制、檢察長民選及強化司法問責等多項改革方向",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5467216",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "張靜提出應檢討檢舉及科技執法所產生的罰單制度，主張取消相關處罰",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5579163",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-03-transport",
+      "candidateId": "kaohsiung-03",
+      "domainId": "transport",
+      "points": [
+        "市府所屬捷運、輕軌、公車、船舶全面免費",
+        "拆除或遷移車站前的舊願景館，打通南北向的中博大道",
+        "鐵路地下化後的路廊改建為東西向市民大道",
+        "輕軌地下化成為捷運環狀線，原路面改為平面道路"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "他的政見主張市府所屬公共運輸全面免費，包括捷運、輕軌、公車及船舶",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5579163",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "一、拆除或遷移高雄火車站擋在馬路中間的舊願景館",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5579163",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "二、將原鐵路地下化後的現有路廊，改建為東西向的高雄市民大道",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5579163",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "三、將高雄輕軌予以地下化成為高雄捷運環狀路線，原輕軌路面改為平面道路",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5579163",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-03-welfare",
+      "candidateId": "kaohsiung-03",
+      "domainId": "welfare",
+      "points": [
+        "向中央爭取污染源工廠貨物稅回饋，每半年發每位市民至少 3,000 元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "構想由市府每半年發放每位市民至少3000元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5579163",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-03-culture",
+      "candidateId": "kaohsiung-03",
+      "domainId": "culture",
+      "points": [
+        "市府所屬景點免收門票"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "市府所屬景點也主張免收門票",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5579163",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-05-governance",
+      "candidateId": "kaohsiung-05",
+      "domainId": "governance",
+      "points": [
+        "主張候選人政見訂量化目標，未達標要受罰"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "全省候選人提出政見時就訂下量化目標，若無法達標就要接受懲罰",
+          "sourceUrl": "https://udn.com/news/story/124652/9734850",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

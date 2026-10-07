@@ -1,0 +1,1200 @@
+{
+  "countyId": "new-taipei",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "new-taipei-01-transport",
+      "candidateId": "new-taipei-01",
+      "domainId": "transport",
+      "points": [
+        "分階段推動樹林鐵路地下化，並延伸到鶯歌",
+        "推動淡北快線：目標 15 分鐘到北士科、30 分鐘進台北核心區",
+        "延伸民生汐止線，推動大漢溪捷運縱貫線串聯三重、新莊、樹林、土城",
+        "蘆社大橋接北士科、中和光復線南北延伸、深坑輕軌延伸石碇",
+        "高風險路段優先改善路口與號誌；打通人行斷點，停車往路外移"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "分階段推動樹林鐵路地下化，並延伸到鶯歌。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/construction",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "目標 15 分鐘到士北科、30 分鐘進台北核心區",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/construction",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "延伸民生汐止線，推動大漢溪捷運縱貫線。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/construction",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "三連通，是蘆社大橋接北士科、中和光復線南北延伸、深坑輕軌延伸石碇。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/construction",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "道路設計、速限、路口、號誌一個一個改，高風險路段先處理",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/construction",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "人行斷點優先打通；停車往路外移",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/construction",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-01-housing",
+      "candidateId": "new-taipei-01",
+      "domainId": "housing",
+      "points": [
+        "蓋完已規劃的 3.9 萬戶社會住宅",
+        "淡海二三期、大柑園、麥仔園規劃 5% 以上土地留給社會住宅",
+        "用容積獎勵取得社宅回饋；與企業合作蓋只租不賣的勞工宅",
+        "兩個孩子以上的家庭，研議延長社宅租期並調降租金",
+        "老公寓加裝電梯：研議給一樓屋主專屬車位或停車津貼，提高配合意願"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "新北 3.9 萬戶社會住宅，我接著蓋完",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/construction",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "淡海二三期、大柑園、麥仔園，規劃 5% 以上土地留給社會住宅。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/construction",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "有開發，就有社宅：利用容積獎勵，取得社宅回饋。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/construction",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "企業一起蓋勞工宅：只租不賣，留人也留才。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/construction",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "兩個孩子以上的家庭，研議把社宅住得更久，租金階梯往下走。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/construction",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "免費提供住家附近公有或私有停車場的專屬車位給一樓屋主",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/healthcare",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "由市府補助停車津貼給屋主。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/healthcare",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-01-education",
+      "candidateId": "new-taipei-01",
+      "domainId": "education",
+      "points": [
+        "清查閒置教室，讓各級學校增設公托或公立幼兒園",
+        "國小每班由 28 人降到 25 人",
+        "AI 先用於教師備課，再陪孩子學習；提高教師免費心理諮商次數",
+        "運動中心試辦親子臨托：每週三下午 2 點到晚上 9 點，2 至 12 歲 2 小時免費",
+        "興建室內大型親子館，含共融遊具與職能體驗"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "讓各級學校都能夠增設公托中心或是公立幼兒園",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/education",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動班班25人",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/education",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "先讓AI進老師的備課桌，再讓AI陪孩子學習。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/education",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提高免費心理諮商次數",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/education",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每週三下午 2 點到晚上 9 點，2 到 12 歲，憑當日消費證明 2 小時免費",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/education",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "興建室內大型親子館，共融遊具、感統探索、親子共學、職能體驗通通放進來",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/education",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-01-health",
+      "candidateId": "new-taipei-01",
+      "domainId": "health",
+      "points": [
+        "興建蘆洲醫院、加速板橋醫療園區、推動淡海新市鎮醫院",
+        "兒童塗氟延伸到小一；國中窩溝封填擴及第二大臼齒",
+        "弱勢長者與 55 歲以上原住民假牙補助最高 5 萬元",
+        "解凍卵補助由 3 萬提高到 6 萬；產前遺傳疾病篩檢加碼最高 3,000 元",
+        "孕婦接送專車補助由產後 6 個月延長到孩子滿 1 歲"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "興建蘆洲醫院，近 20 萬人的蘆洲，該有一間自己的大醫院。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/healthcare",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "加速板橋醫療園區，55 萬人的量能，要補上。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/healthcare",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動淡海新市鎮醫院，長輩的復健照護，就近解決。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/healthcare",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "塗氟延伸到小一：孩子進校園第一年，口腔保健就跟上。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/healthcare",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "國中窩溝封填擴及第二大臼齒",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/healthcare",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "弱勢長者及55歲以上原住民，假牙補助最高5萬元",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/healthcare",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "解凍卵補助，從 3 萬提高到 6 萬。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/education",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "產前遺傳性疾病篩檢加碼補助，最高 3000 元。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/education",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "現在補助到產後 6 個月，我把它延長到孩子滿 1 歲",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/education",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-01-economy",
+      "candidateId": "new-taipei-01",
+      "domainId": "economy",
+      "points": [
+        "推動淡海二、三期與五股交流道周邊開發，產業專區只租不售、政府蓋標準廠房",
+        "興建蘆社大橋，銜接北士科與本市產業聚落，串起台 64、台 65",
+        "職災慰問金由 30 萬提高到 36 萬；擴大補助風扇衣、水冷衣等高溫防護",
+        "30 到 45 歲重返職場者每月 5,000 元，最長 3 個月",
+        "企業發育兒津貼，市府再補助企業最高 6,000 元；設職場托育可減房屋稅"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動淡海二、三期與五股交流道周邊開發，產業專區只租不售，政府蓋標準廠房，讓企業進得來、留得住。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/economy",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "而是銜接北士科與新北產業聚落的整體交通規劃，串起台64、台65",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/economy",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "職災慰問金 30 萬提高到 36 萬，雙北同一個標準；失能、住院同步提高。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/economy",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "高溫防護補助擴大",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/economy",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "30 到 45 歲想回職場的人，每月 5,000 元、最長 3 個月。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/economy",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "企業設職場托育，市府給獎勵、減房屋稅。企業發育兒津貼，市府再補助企業，最高 6,000 元。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/economy",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-01-environment",
+      "candidateId": "new-taipei-01",
+      "domainId": "environment",
+      "points": [
+        "從板橋車站、林口、新莊副都心、淡水老街等商圈開始設負壓吸菸室",
+        "年底的耶誕城活動作為第一個無菸害商圈示範區",
+        "編預算汰換老舊垃圾車；窄巷研擬定點收運垃圾",
+        "清潔隊員每年一次免費健檢，新增早點費 100 元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "包括板橋車站、林口商圈、新莊副都心、淡水老街，人多的商圈，我們一個一個來。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/culture",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "無菸害商圈的第一站，就放在年底的新北耶誕城。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/culture",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "編預算，汰換老舊垃圾車",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/economy",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "窄巷研擬定點收運",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/economy",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每年一次免費健檢",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/economy",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "早點費：新增 100",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/economy",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-01-culture",
+      "candidateId": "new-taipei-01",
+      "domainId": "culture",
+      "points": [
+        "在瑞芳車站旁興建九份觀光纜車；水金九舊坑道台車復駛",
+        "打造深澳到貢寮的濱海自行車專用道，往西串到八里、淡水",
+        "每年 15 萬份文化幣 600 元（抽籤）、15 萬份運動幣 500 元",
+        "加速興建巨蛋，爭取世界棒球經典賽、大聯盟海外賽",
+        "公有空間讓在地表演團隊免費進駐排練；辦國際藝術節"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "瑞芳火車站旁邊興建「九份觀光纜車」，直達九份，不用塞車、不用找車位。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/culture",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "「水金九舊坑道台車」也要讓它重新動起來",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/culture",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "打造濱海自行車道，深澳到貢寮的專用道，往西一路串到八里、淡水。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/culture",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每年規劃15萬份，設籍新北、不限年齡，抽籤發放。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/culture",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "一份 500 元，一年 15 萬份。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/culture",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "然後去爭取世界棒球經典賽、大聯盟海外賽落腳新北",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/culture",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "讓在地團隊免費進駐。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/culture",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-01-welfare",
+      "candidateId": "new-taipei-01",
+      "domainId": "welfare",
+      "points": [
+        "敬老卡每月 600 點中的 300 點可用於超商、超市、藥局、計程車、診所",
+        "新建原住民社會住宅並擴大租金補貼；原住民國內賽事獎金提高到 18 萬",
+        "興建市立動保醫院，認養動物基本照護免費；設公有寵物生命紀念園區",
+        "國民運動中心設身障運動專區，海岸設無障礙木棧道",
+        "客家社團補助每班最高 10 萬元，客家館舍增設到 15 館"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "600 點完全保留，其中 300 點悠遊卡化。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/healthcare",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "便利商店、超市、藥局、計程車、診所，悠遊卡能去的地方，敬老卡都能用。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/healthcare",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "我會新建原住民自己的社會住宅，擴大租金補貼。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/culture",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "國內賽事獎金，我提高到 18 萬",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/culture",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "蓋一間市立動保醫院。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/Sustainability",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "設公有的生命紀念園區。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/Sustainability",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "國民運動中心設置身障運動專區",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/culture",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "設置無障礙木棧道，改善輪椅的通行動線",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/culture",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "社團補助加碼，每班最高 10 萬，跟台北市齊平",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/culture",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-01-youth",
+      "candidateId": "new-taipei-01",
+      "domainId": "youth",
+      "points": [
+        "青年創業貸款上限由 200 萬提高到 500 萬",
+        "放寬資格：負責人或團隊成員之一設籍本市且成年即可申請",
+        "信用保證不只看擔保品，改看創業計畫、市場潛力與商業模式",
+        "創業課程、財務規劃與經營輔導全程陪伴",
+        "爭取在捷運站周邊設第二座電競基地"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "青創貸款最高從 200 萬提高到 500 萬",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/education",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "負責人或團隊成員之一設籍新北、已成年，就可以提出申請。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/education",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "不再只看擔保品和財務報表，更看創業計畫、市場潛力、商業模式。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/education",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "創業課程、商業模式診斷、財務規劃、經營輔導，我們一路陪你走完。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/education",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "爭取第二座新北電競基地",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/healthcare",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-01-governance",
+      "candidateId": "new-taipei-01",
+      "domainId": "governance",
+      "points": [
+        "建立北北基桃四市首長級跨域治理平台，捷運、公車、國道一起規劃",
+        "向中央爭取修法：老公寓加裝電梯改採許可制，不必過半所有權人同意",
+        "建立寵物友善城市指數，逐區盤點設施、店家、認養與醫療"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "一起規劃，捷運、公車、國道一起看",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/construction",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "以許可制取代目前必須取得過半數土地與建築物所有權人同意的規定",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/healthcare",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建立寵物友善城市指數。",
+          "sourceUrl": "https://portaly.cc/hammerlee/page/Sustainability",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-02-transport",
+      "candidateId": "new-taipei-02",
+      "domainId": "transport",
+      "points": [
+        "推動台 62 線延伸金山萬里、三芝輕軌、八里輕軌",
+        "熱門登山口以捷運或台鐵加一段公車可達，熱門時段加密班次",
+        "重要觀光景點道路全面劃設人行道，增加公廁與飲水機",
+        "海岸沿線每 5 公里設簡易休息站；優化快速公車與共享機車站"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動台 62 線延伸金山萬里、三芝輕軌、八里輕軌等計畫。",
+          "sourceUrl": "https://chiao.tw/policies/%e6%96%b0%e7%9a%87%e5%86%a0%e6%b5%b7%e5%b2%b8%e8%a8%88%e7%95%ab",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "針對熱門登山時段加密班次",
+          "sourceUrl": "https://chiao.tw/policies/%e9%91%bd%e7%9f%b3%e5%b1%b1%e5%9f%8e%e8%a8%88%e7%95%ab",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "重要觀光景點道路全面劃設人行道，增加公廁與飲水機。",
+          "sourceUrl": "https://chiao.tw/policies/%e6%96%b0%e7%9a%87%e5%86%a0%e6%b5%b7%e5%b2%b8%e8%a8%88%e7%95%ab",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每 5 公里設置簡易休息站、智慧駐車間等休憩設施。",
+          "sourceUrl": "https://chiao.tw/policies/%e6%96%b0%e7%9a%87%e5%86%a0%e6%b5%b7%e5%b2%b8%e8%a8%88%e7%95%ab",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "全面優化快速公車與共享機車站",
+          "sourceUrl": "https://chiao.tw/policies/%e6%96%b0%e7%9a%87%e5%86%a0%e6%b5%b7%e5%b2%b8%e8%a8%88%e7%95%ab",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-02-housing",
+      "candidateId": "new-taipei-02",
+      "domainId": "housing",
+      "points": [
+        "上任即成立都市更新局，由一級機關主導都更",
+        "導入 AI 簡化都更審查，審議進度透明可查，設快速通關窗口",
+        "車站周邊都更用容積獎勵，鼓勵業者捐贈社宅與公共設施",
+        "試辦租期最長 20 年的青年育兒宅",
+        "補助包租代管優先租給長者；與學校合作推學生包租代管"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "由一級機關主導全市的都更整體規劃",
+          "sourceUrl": "https://chiao.tw/policies/%e9%83%bd%e6%9b%b4%e8%88%87%e4%bd%8f%e5%ae%85%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "讓都更審議進度透明且可查詢",
+          "sourceUrl": "https://chiao.tw/policies/%e9%83%bd%e6%9b%b4%e8%88%87%e4%bd%8f%e5%ae%85%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並設立專業快速通關窗口",
+          "sourceUrl": "https://chiao.tw/policies/%e9%83%bd%e6%9b%b4%e8%88%87%e4%bd%8f%e5%ae%85%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "鼓勵業者積極捐贈社會住宅與公共設施換取更高的容積",
+          "sourceUrl": "https://chiao.tw/policies/%e9%83%bd%e6%9b%b4%e8%88%87%e4%bd%8f%e5%ae%85%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "試辦「青年育兒宅」，讓符合條件的家庭可以長租 20 年",
+          "sourceUrl": "https://chiao.tw/policies/%e9%83%bd%e6%9b%b4%e8%88%87%e4%bd%8f%e5%ae%85%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "鼓勵包租代管業者優先承租給高齡長者",
+          "sourceUrl": "https://chiao.tw/policies/%e9%83%bd%e6%9b%b4%e8%88%87%e4%bd%8f%e5%ae%85%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "由市府、校方及包租代管業者共同在學校周圍尋找適合學生的房源",
+          "sourceUrl": "https://chiao.tw/policies/%e9%83%bd%e6%9b%b4%e8%88%87%e4%bd%8f%e5%ae%85%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-02-education",
+      "candidateId": "new-taipei-02",
+      "domainId": "education",
+      "points": [
+        "公立國中小營養午餐全面免費並提升品質",
+        "開辦夜間托育、擴大臨時托育，設即時查詢平台",
+        "媒合企業合設托育，前三年虧損補助 50%",
+        "教保員、保母等加發夜間、緊急及困難照顧津貼，並補助進修",
+        "補助技職學校學生辦畢業成果展與產學合作發表會"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "公立國中小學童營養午餐全面免費、提升品質。",
+          "sourceUrl": "https://chiao.tw/policies/%e5%85%ad%e5%a4%a7%e9%95%b7%e5%b9%bc%e7%a6%8f%e5%88%a9%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "同時開辦夜托與擴大臨托，設立查詢平台，要用查得到。",
+          "sourceUrl": "https://chiao.tw/policies/%e4%b8%89%e5%a4%a7%e5%ae%b6%e5%ba%ad%e7%85%a7%e9%a1%a7%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "主動媒合企業組隊設置托育，首三年虧損補助 50%",
+          "sourceUrl": "https://chiao.tw/policies/%e4%b8%89%e5%a4%a7%e5%ae%b6%e5%ba%ad%e7%85%a7%e9%a1%a7%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "加發夜間、緊急及困難照顧津貼，直接撥入個人帳戶。",
+          "sourceUrl": "https://chiao.tw/policies/%e4%b8%89%e5%a4%a7%e5%ae%b6%e5%ba%ad%e7%85%a7%e9%a1%a7%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "補助職業照顧者進修與攻讀學位。",
+          "sourceUrl": "https://chiao.tw/policies/%e4%b8%89%e5%a4%a7%e5%ae%b6%e5%ba%ad%e7%85%a7%e9%a1%a7%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "補助學生舉辦畢業成果展或產學合作發表會",
+          "sourceUrl": "https://chiao.tw/policies/%e7%94%a2%e6%a5%ad%e5%8d%87%e7%b4%9a%e5%9b%9b%e5%a4%a7%e6%94%af%e6%9f%b1%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-02-health",
+      "candidateId": "new-taipei-02",
+      "domainId": "health",
+      "points": [
+        "0 到 6 歲孩童看醫生免門診與住院部分負擔",
+        "6 歲以下幼兒免費接種腸病毒、輪狀病毒疫苗",
+        "65 歲以上長輩裝假牙最高補助 5 萬元",
+        "住宿式長照機構補助由每年 18 萬提高到 24 萬元",
+        "擴大新生兒篩檢項目與補助；補助醫事人員進社區做早療"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "0-6 歲孩童看醫生免門診和住院部分負擔。",
+          "sourceUrl": "https://chiao.tw/policies/%e5%85%ad%e5%a4%a7%e9%95%b7%e5%b9%bc%e7%a6%8f%e5%88%a9%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "6 歲以下幼兒免費接種腸病毒、輪狀病毒疫苗。",
+          "sourceUrl": "https://chiao.tw/policies/%e5%85%ad%e5%a4%a7%e9%95%b7%e5%b9%bc%e7%a6%8f%e5%88%a9%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "65 歲以上長輩裝假牙最高補助 5 萬元。",
+          "sourceUrl": "https://chiao.tw/policies/%e5%85%ad%e5%a4%a7%e9%95%b7%e5%b9%bc%e7%a6%8f%e5%88%a9%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "補助應由每年 18 萬提高至 24 萬元",
+          "sourceUrl": "https://chiao.tw/policies/%e4%b8%89%e5%a4%a7%e5%ae%b6%e5%ba%ad%e7%85%a7%e9%a1%a7%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "補助醫事人員進入社區提供早療、就近預約",
+          "sourceUrl": "https://chiao.tw/policies/%e4%b8%89%e5%a4%a7%e5%ae%b6%e5%ba%ad%e7%85%a7%e9%a1%a7%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-02-economy",
+      "candidateId": "new-taipei-02",
+      "domainId": "economy",
+      "points": [
+        "新建國際會展中心，擴大補貼企業參加海內外商展",
+        "開發泰山楓江、樹林大柑園科技園區，輔導未登記工廠合法進駐",
+        "淡海科學城引進綠能、機器人產業與無人載具測試基地",
+        "鼓勵老舊廠房立體化改建為現代化廠辦",
+        "公私協力興建 AI 算力中心，供新創與中小企業使用"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "新建一座具備國際標準的現代化會展中心",
+          "sourceUrl": "https://chiao.tw/policies/%e7%94%a2%e6%a5%ad%e5%8d%87%e7%b4%9a%e5%9b%9b%e5%a4%a7%e6%94%af%e6%9f%b1%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "擴大補貼新北企業參與海內外大型商展",
+          "sourceUrl": "https://chiao.tw/policies/%e7%94%a2%e6%a5%ad%e5%8d%87%e7%b4%9a%e5%9b%9b%e5%a4%a7%e6%94%af%e6%9f%b1%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "整體開發新北市泰山楓江、樹林大柑園科技園區",
+          "sourceUrl": "https://chiao.tw/policies/%e7%94%a2%e6%a5%ad%e5%8d%87%e7%b4%9a%e5%9b%9b%e5%a4%a7%e6%94%af%e6%9f%b1%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "輔導在地未登記工廠合法轉型進駐",
+          "sourceUrl": "https://chiao.tw/policies/%e7%94%a2%e6%a5%ad%e5%8d%87%e7%b4%9a%e5%9b%9b%e5%a4%a7%e6%94%af%e6%9f%b1%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "重點引進綠能、機器人產業、無人載具測試基地",
+          "sourceUrl": "https://chiao.tw/policies/%e7%94%a2%e6%a5%ad%e5%8d%87%e7%b4%9a%e5%9b%9b%e5%a4%a7%e6%94%af%e6%9f%b1%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "鼓勵老舊廠房立體化改建為現代化廠辦",
+          "sourceUrl": "https://chiao.tw/policies/%e7%94%a2%e6%a5%ad%e5%8d%87%e7%b4%9a%e5%9b%9b%e5%a4%a7%e6%94%af%e6%9f%b1%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "公私協力興建高效能 AI 算力中心",
+          "sourceUrl": "https://chiao.tw/policies/%e7%94%a2%e6%a5%ad%e5%8d%87%e7%b4%9a%e5%9b%9b%e5%a4%a7%e6%94%af%e6%9f%b1%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-02-environment",
+      "candidateId": "new-taipei-02",
+      "domainId": "environment",
+      "points": [
+        "整頓行人環境，增加兒童避暑設施，降低部分公共設施高度",
+        "產業聚落升級公共污水與廢棄物處理設施，布建智慧環境偵測與防災系統"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "整頓行人環境，增加兒童避暑設施，降低部分公共設施高度。",
+          "sourceUrl": "https://chiao.tw/policies/%e4%b8%89%e5%a4%a7%e5%ae%b6%e5%ba%ad%e7%85%a7%e9%a1%a7%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "全面升級公共污水與廢棄物處理設施，降低企業排污成本",
+          "sourceUrl": "https://chiao.tw/policies/%e7%94%a2%e6%a5%ad%e5%8d%87%e7%b4%9a%e5%9b%9b%e5%a4%a7%e6%94%af%e6%9f%b1%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "布建智慧化環境偵測與防災系統",
+          "sourceUrl": "https://chiao.tw/policies/%e7%94%a2%e6%a5%ad%e5%8d%87%e7%b4%9a%e5%9b%9b%e5%a4%a7%e6%94%af%e6%9f%b1%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-02-culture",
+      "candidateId": "new-taipei-02",
+      "domainId": "culture",
+      "points": [
+        "核四重件碼頭轉型為遊艇與休閒船艇泊區",
+        "規劃淡水到萬里的觀光鐵路；平溪支線與宜蘭線開發觀光列車",
+        "舊索道改為地面纜車，以台車接駁水湳洞到九份老街",
+        "縫合五大山系步道斷點；串聯淡蘭古道沿線 250 座土地公廟",
+        "發行老街觀光券，每季辦城市級活動；辦國家級茶文化節"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將核四重件碼頭轉型為國際級的遊艇與休閒船艇泊區。",
+          "sourceUrl": "https://chiao.tw/policies/%e6%96%b0%e7%9a%87%e5%86%a0%e6%b5%b7%e5%b2%b8%e8%a8%88%e7%95%ab",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "盡收北海岸風景。",
+          "sourceUrl": "https://chiao.tw/policies/%e6%96%b0%e7%9a%87%e5%86%a0%e6%b5%b7%e5%b2%b8%e8%a8%88%e7%95%ab",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "在台鐵平溪支線及宜蘭線，開發融入礦業與山林元素的觀光列車",
+          "sourceUrl": "https://chiao.tw/policies/%e9%91%bd%e7%9f%b3%e5%b1%b1%e5%9f%8e%e8%a8%88%e7%95%ab",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將舊有的索道轉型為地面纜車，以復刻版台車接駁遊客由水湳洞直達九份老街",
+          "sourceUrl": "https://chiao.tw/policies/%e9%91%bd%e7%9f%b3%e5%b1%b1%e5%9f%8e%e8%a8%88%e7%95%ab",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "的既有斷點，確保路網的完整性與連續性。",
+          "sourceUrl": "https://chiao.tw/policies/%e9%91%bd%e7%9f%b3%e5%b1%b1%e5%9f%8e%e8%a8%88%e7%95%ab",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "串聯沿線 250 座土地公廟",
+          "sourceUrl": "https://chiao.tw/policies/%e9%91%bd%e7%9f%b3%e5%b1%b1%e5%9f%8e%e8%a8%88%e7%95%ab",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "配合市府大型活動及節令主題發放老街觀光券",
+          "sourceUrl": "https://chiao.tw/policies/%e9%91%bd%e7%9f%b3%e5%b1%b1%e5%9f%8e%e8%a8%88%e7%95%ab",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每季推出城市級活動，串聯各商圈特色，形成跨區經濟連動。",
+          "sourceUrl": "https://chiao.tw/policies/%e9%91%bd%e7%9f%b3%e5%b1%b1%e5%9f%8e%e8%a8%88%e7%95%ab",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-02-welfare",
+      "candidateId": "new-taipei-02",
+      "domainId": "welfare",
+      "points": [
+        "敬老卡提高到每月 1,000 點，效期改年度計算，不每月歸零",
+        "早產兒家庭照顧津貼 3 萬元",
+        "擴大補助獨居老人智慧救援裝置與失智症 AI 篩檢",
+        "無自有住宅的原住民族人提供租金補貼；55 歲以上假牙補助最高 5 萬元",
+        "獎勵提供延長產假、顧老假的企業，最高 100 萬元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "敬老卡提高到每月 1,000 點，效期改年度計算，不會每月歸零。",
+          "sourceUrl": "https://chiao.tw/policies/%e5%85%ad%e5%a4%a7%e9%95%b7%e5%b9%bc%e7%a6%8f%e5%88%a9%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "早產兒家庭照顧津貼 3 萬元。",
+          "sourceUrl": "https://chiao.tw/policies/%e5%85%ad%e5%a4%a7%e9%95%b7%e5%b9%bc%e7%a6%8f%e5%88%a9%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "擴大失智症 AI 篩檢，提升臨時住宿及家屬喘息量能。",
+          "sourceUrl": "https://chiao.tw/policies/%e4%b8%89%e5%a4%a7%e5%ae%b6%e5%ba%ad%e7%85%a7%e9%a1%a7%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "針對家庭成員於新北市無自有房屋之原住民族人，提供租金補貼",
+          "sourceUrl": "https://chiao.tw/policies/%e4%b8%89%e5%a4%a7%e5%8e%9f%e4%bd%8f%e6%b0%91%e6%97%8f%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "55 歲以上原住民族，每人最高 5 萬元假牙補助。",
+          "sourceUrl": "https://chiao.tw/policies/%e4%b8%89%e5%a4%a7%e5%8e%9f%e4%bd%8f%e6%b0%91%e6%97%8f%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "獎勵提供延長產假、顧老假等措施的友善家庭企業，最高新台幣 100 萬元",
+          "sourceUrl": "https://chiao.tw/policies/%e4%b8%89%e5%a4%a7%e5%ae%b6%e5%ba%ad%e7%85%a7%e9%a1%a7%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-02-governance",
+      "candidateId": "new-taipei-02",
+      "domainId": "governance",
+      "points": [
+        "訂定行政流程簡化指引，以線上申辦取代紙本臨櫃",
+        "以市府內部電子查驗，取代民眾重複提供戶籍或工商謄本",
+        "開放市有空間、都市計畫、交通流量數據，定期辦青年黑客松",
+        "成立原住民族青年團，定期召開市長與原住民族領袖高峰會議",
+        "AI 用於都市計畫、交通、福利資源投放與災害預警"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "盡可能以線上申辦代替紙本臨櫃、以市府內部電子查驗代替民眾或企業重複提供戶籍或工商謄本等各類資料",
+          "sourceUrl": "https://chiao.tw/policies/%e7%94%a2%e6%a5%ad%e5%8d%87%e7%b4%9a%e5%9b%9b%e5%a4%a7%e6%94%af%e6%9f%b1%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將市有空間資訊、都市計畫、交通流量等數據開放",
+          "sourceUrl": "https://chiao.tw/policies/%e5%9b%9b%e5%a4%a7%e9%9d%92%e5%b9%b4%e6%94%af%e6%8c%81%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "由市府建立常態化機制，讓青年參與市政決策。",
+          "sourceUrl": "https://chiao.tw/policies/%e4%b8%89%e5%a4%a7%e5%8e%9f%e4%bd%8f%e6%b0%91%e6%97%8f%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "落實對傳統領袖的尊重。",
+          "sourceUrl": "https://chiao.tw/policies/%e4%b8%89%e5%a4%a7%e5%8e%9f%e4%bd%8f%e6%b0%91%e6%97%8f%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "透過導入 AI 工具運用在空間治理與都市計畫、交通瓶頸與動態智慧路網、基層福利資源精準投放、精準預警災害防救等四大領域",
+          "sourceUrl": "https://chiao.tw/policies/%e7%94%a2%e6%a5%ad%e5%8d%87%e7%b4%9a%e5%9b%9b%e5%a4%a7%e6%94%af%e6%9f%b1%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-02-youth",
+      "candidateId": "new-taipei-02",
+      "domainId": "youth",
+      "points": [
+        "微型創業加速器：針對咖啡、運動教練、AI 等提供套裝課程與諮詢",
+        "技術士證照獎金加倍：甲級 2 萬、乙級 6,000 元",
+        "免費心理諮商在中央 3 次之外再加 3 次",
+        "補助新創微型企業導入數位工具，如智慧物流、訂位系統",
+        "補助職場添購健身器材與運動課程"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "針對咖啡、運動教練及 AI 產業等熱門項目，提供從品牌定位、成本管理到社群行銷的套裝式完整課程",
+          "sourceUrl": "https://chiao.tw/policies/%e5%9b%9b%e5%a4%a7%e9%9d%92%e5%b9%b4%e6%94%af%e6%8c%81%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "甲級技術士證照獎金由 10,000 提高至 20,000 元、乙級由 3,000 提高至 6,000 元。",
+          "sourceUrl": "https://chiao.tw/policies/%e5%9b%9b%e5%a4%a7%e9%9d%92%e5%b9%b4%e6%94%af%e6%8c%81%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "新北額外加碼 3 次免費心理諮商",
+          "sourceUrl": "https://chiao.tw/policies/%e5%9b%9b%e5%a4%a7%e9%9d%92%e5%b9%b4%e6%94%af%e6%8c%81%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "針對新創微型企業，補助導入數位工具（如智慧物流、訂位系統等）",
+          "sourceUrl": "https://chiao.tw/policies/%e5%9b%9b%e5%a4%a7%e9%9d%92%e5%b9%b4%e6%94%af%e6%8c%81%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "職場健身器材購置與運動課程補助",
+          "sourceUrl": "https://chiao.tw/policies/%e5%9b%9b%e5%a4%a7%e9%9d%92%e5%b9%b4%e6%94%af%e6%8c%81%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-02-agriculture",
+      "candidateId": "new-taipei-02",
+      "domainId": "agriculture",
+      "points": [
+        "青農創業貸款免息額度提高到 500 萬，專業青農 1,000 萬",
+        "設單一窗口協助青農媒合閒置土地與溫網室",
+        "建立農漁民與中小學營養午餐的契作平台，在地農漁產優先供應",
+        "輔導溫室智慧控制、無人機植保、AI 漁場預測等科技農漁業",
+        "28 個漁港設服務站並改善無障礙動線，結合觀光"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "提高一般青農免息額度由 200 萬至 500 萬、專業青農由 500 萬至 1,000 萬。",
+          "sourceUrl": "https://chiao.tw/policies/%e5%9b%9b%e5%a4%a7%e9%9d%92%e5%b9%b4%e6%94%af%e6%8c%81%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "設立單一窗口，協助青農媒合閒置土地與溫網室。",
+          "sourceUrl": "https://chiao.tw/policies/%e5%9b%9b%e5%a4%a7%e9%9d%92%e5%b9%b4%e6%94%af%e6%8c%81%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建立在地農漁民與中小學營養午餐的穩定契作平台",
+          "sourceUrl": "https://chiao.tw/policies/%e7%94%a2%e6%a5%ad%e5%8d%87%e7%b4%9a%e5%9b%9b%e5%a4%a7%e6%94%af%e6%9f%b1%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "輔導推動溫室氣候智慧控制、微型智慧感測器、無人機植保、自動化採收及 AI 大數據海象漁場預測等科技農漁業升級",
+          "sourceUrl": "https://chiao.tw/policies/%e7%94%a2%e6%a5%ad%e5%8d%87%e7%b4%9a%e5%9b%9b%e5%a4%a7%e6%94%af%e6%9f%b1%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "設置漁港服務站、全齡無障礙動線改善。",
+          "sourceUrl": "https://chiao.tw/policies/%e6%96%b0%e7%9a%87%e5%86%a0%e6%b5%b7%e5%b2%b8%e8%a8%88%e7%95%ab",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將 28 個漁港的特色與觀光深度結合",
+          "sourceUrl": "https://chiao.tw/policies/%e6%96%b0%e7%9a%87%e5%86%a0%e6%b5%b7%e5%b2%b8%e8%a8%88%e7%95%ab",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-03-welfare",
+      "candidateId": "new-taipei-03",
+      "domainId": "welfare",
+      "points": [
+        "主張未婚者一夫二妻或一妻二夫合法化，因應少子化"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "所以他的第一條政見就是力挺新北市未婚者",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5563372",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-03-education",
+      "candidateId": "new-taipei-03",
+      "domainId": "education",
+      "points": [
+        "教育以台灣文與英文為主"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "台灣教育應以台灣文及英文為主",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5563372",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-03-safety",
+      "candidateId": "new-taipei-03",
+      "domainId": "safety",
+      "points": [
+        "增加學校周邊與重要路口監視器",
+        "爭取加入國際刑警組織",
+        "警察分局與派出所提供免費飲食、洗澡、住宿和喪葬協助"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "增加學校週邊及重要交通路口監視器，保障學生及民眾交通安全",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5563372",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "爭取新北市加入國際刑警組織，強化治安",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5563372",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "各警察分局派出所提供免費飲食、洗澡、住宿和喪葬協助",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5563372",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-03-transport",
+      "candidateId": "new-taipei-03",
+      "domainId": "transport",
+      "points": [
+        "限制大型車輛行駛市區道路",
+        "劃設自行車專用道"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "限制大型車輛行駛市區道路，並劃設自行車專用道",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5563372",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-03-governance",
+      "candidateId": "new-taipei-03",
+      "domainId": "governance",
+      "points": [
+        "市府與中央定期開會，合力處理市政",
+        "不分黨派聘請社會賢達與歷任市長為市政顧問"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "新北市政府應與中央定期會議，合力處理新北市政",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5563372",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "聘請社會賢達、歷任新北市長為市政顧問",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5563372",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "new-taipei-03-culture",
+      "candidateId": "new-taipei-03",
+      "domainId": "culture",
+      "points": [
+        "爭取國際賽事與國際會議在本市舉辦"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "爭取各項國際賽事、國際會議在新北市舉辦",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5563372",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

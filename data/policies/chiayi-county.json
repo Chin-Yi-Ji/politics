@@ -1,0 +1,454 @@
+{
+  "countyId": "chiayi-county",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "chiayi-county-01-welfare",
+      "candidateId": "chiayi-county-01",
+      "domainId": "welfare",
+      "points": [
+        "重陽敬老金 2027 年起 80 歲以上各級加 3,000 元，百歲以上領 1 萬 2,000 元",
+        "敬老卡每月 1,200 點（大埔、阿里山 1,500 點），三節各加 300 點，可搭計程車與 YouBike",
+        "生育補助 2027 年起第一胎 3 萬、第二胎 6 萬、第三胎 9 萬、第四胎以上 12 萬元，不排富",
+        "65 歲以上健保費全額補助現階段不做，待稅收增加再評估"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "65至79歲3000元、80至89歲6000元、90至99歲9000元、100歲以上1萬2000元",
+          "sourceUrl": "https://udn.com/news/story/124652/9788719",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每月點數提高至1200點，大埔、阿里山提高至1500點；春節、端午、中秋每節另外加碼300點",
+          "sourceUrl": "https://udn.com/news/story/124652/9788719",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "擴大可搭乘計程車及YouBike，計程車單趟上限100點、每月上限400點",
+          "sourceUrl": "https://udn.com/news/story/124652/9788719",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "第一胎3萬元、第二胎6萬元、第三胎9萬元、第四胎以上12萬元，並延續設籍6個月、不排富方向",
+          "sourceUrl": "https://udn.com/news/story/124652/9788719",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "目前沒有考慮提出全額補助65歲以上長者健保費的政見",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5584863",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-county-01-health",
+      "candidateId": "chiayi-county-01",
+      "domainId": "health",
+      "points": [
+        "全口活動假牙補助由 4 萬元提高到 4 萬 4,000 元",
+        "40 歲以下、設籍滿 1 年女性，補助最長 3 年凍卵保存費，最高 2 萬 2,000 元",
+        "設籍與護理年資各滿 10 年的護理人員加發獎勵金",
+        "擴大骨鬆肌少運動營養班，用篩檢資料聯繫高風險長者"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "全口活動假牙補助由4萬元提高至4萬4000元",
+          "sourceUrl": "https://udn.com/news/story/124652/9788719",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "補助最長3年凍卵保存費，40歲以下、設籍嘉縣滿1年育齡女性，不限醫療性需求，合計最高補助2萬2000元",
+          "sourceUrl": "https://udn.com/news/story/124652/9788719",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "另也針對設籍嘉義縣滿10年、工作年資滿10年護理人員，加發資深護理獎勵金",
+          "sourceUrl": "https://udn.com/news/story/124652/9788719",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "同時擴大骨鬆肌少運動營養班，運用篩檢資料聯繫高風險長者",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5592132",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-county-01-education",
+      "candidateId": "chiayi-county-01",
+      "domainId": "education",
+      "points": [
+        "4 年投入 100 億元教育預算（含中央經費），改善校舍、無障礙空間與雙語環境",
+        "各校建雙語教室，導入智慧型黑板與 AI 英語對話系統",
+        "國小三年級起每人一台平板，列學校財產、放學後集中保管",
+        "每個鄉鎮至少一處公托",
+        "向中央爭取偏鄉教師共同宿舍"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "他未來將推動4年百億教育預算，包括中央經費及縣府預算，推動無障礙空間、校舍環境改善，以及雙語教育環境",
+          "sourceUrl": "https://udn.com/news/story/124652/9746276",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "編列預算協助各校建置雙語教室空間，導入智慧型黑板與AI英語對話系統",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5524230",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "國小三年級起一人一台，列為學校財產，放學後由學校集中保管",
+          "sourceUrl": "https://udn.com/news/story/124652/9746276",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "讓每個鄉鎮至少有一處公托",
+          "sourceUrl": "https://udn.com/news/story/124652/9788719",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將向中央爭取共同宿舍空間與經費，減少通勤留住老師",
+          "sourceUrl": "https://udn.com/news/story/124652/9746276",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-county-01-economy",
+      "candidateId": "chiayi-county-01",
+      "domainId": "economy",
+      "points": [
+        "爭取加速嘉義科學園區三期籌設，縣府先備妥土地、水電、交通與防洪資料",
+        "爭取設新港科技產業園區，引進先進封裝所需的材料、設備與零組件廠商",
+        "推動馬稠後園區半導體供應鏈，民雄發展航太與無人機產業",
+        "與中正大學合作設矽光子半導體學院，選址高鐵嘉義站旁約 13 公頃",
+        "依建廠期程安排水源與管線，持續推動再生水廠"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "他將爭取加速嘉科三期籌設，由縣府先彙整廠商需求，配合完成土地、水電、交通及防洪資料",
+          "sourceUrl": "https://news.ltn.com.tw/news/life/paper/1772071",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將供應鏈需求延伸到新港，引進先進封裝所需的材料、設備及零組件廠商",
+          "sourceUrl": "https://news.ltn.com.tw/news/life/paper/1772071",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "規畫新港新能源產業園區、民雄航太及無人機產業、馬稠後二期半導體供應鏈",
+          "sourceUrl": "https://udn.com/news/story/124652/9780376",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "學院選址規劃在高鐵嘉義站旁約13公頃的用地",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5524230",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "依各期建廠需求安排水源、管線與供水期程，持續推動再生水廠",
+          "sourceUrl": "https://news.ltn.com.tw/news/life/paper/1772071",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-county-01-agriculture",
+      "candidateId": "chiayi-county-01",
+      "domainId": "agriculture",
+      "points": [
+        "升級縣農產品牌：跨品項組合禮盒、山海產品結盟、分級與分眾行銷",
+        "冷鏈物流中心契約明訂營運廠商在農產滯銷時須協助產銷調節",
+        "肉品市場改建為分切屠宰場，規劃讓在地養豬農入股參與營運",
+        "阿里山茶推冷泡茶等新商品，吸引年輕客群"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "透過農特產品跨品項結盟、擴大通路及分級分眾策略",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5521945",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "在契約中明訂OT廠商於農產品滯銷時有義務協助產銷調節",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5521945",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來將規劃讓在地養豬農以入股方式參與肉品市場營運",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5521945",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "必須推動年輕化，嘗試冷泡茶或新風味商品",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5521945",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-county-01-safety",
+      "candidateId": "chiayi-county-01",
+      "domainId": "safety",
+      "points": [
+        "提高防洪標準，朝 100 年防洪計畫規劃",
+        "國中先行實施出入口管理、身分辨識、校園巡查與異常通報",
+        "改善朴子荷包嶼、貴舍、鴨母寮、雙溪口、新埤排水系統"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來嘉義應朝「100年防洪計畫」規畫",
+          "sourceUrl": "https://udn.com/news/story/124652/9780376",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "以夜間使用頻繁、門禁壓力大的國中先行，實施出入口管理、身分辨識、校園巡查與異常通報",
+          "sourceUrl": "https://udn.com/news/story/124652/9746276",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並改善荷包嶼、貴舍、鴨母寮、雙溪口、新埤等排水系統",
+          "sourceUrl": "https://udn.com/news/story/124652/9780376",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-county-01-housing",
+      "candidateId": "chiayi-county-01",
+      "domainId": "housing",
+      "points": [
+        "重新檢視社會住宅政策，增加供給",
+        "縣治周邊市地重劃，規劃污水處理並把管線全面地下化"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "應重新檢視社會住宅政策，增加社會住宅供給量",
+          "sourceUrl": "https://udn.com/news/story/124652/9678524",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來重劃區將規畫完善的汙水處理並落實管線全面地下化",
+          "sourceUrl": "https://udn.com/news/story/124652/9798468",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-county-01-youth",
+      "candidateId": "chiayi-county-01",
+      "domainId": "youth",
+      "points": [
+        "青年職訓一站式服務，整合就業、職訓、實習與創業窗口，建職涯線上地圖",
+        "青年創業與接班提供進階導師、品牌檢核、共同電商與通路媒合"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "並推動青年職訓一站式服務，整合就業、職訓、實習與",
+          "sourceUrl": "https://udn.com/news/story/124652/9746276",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建立嘉義青年職涯線上地圖，同時也鼓勵青年創業與接班，推動進階導師、品牌檢核、共同電商與通路媒合",
+          "sourceUrl": "https://udn.com/news/story/124652/9746276",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-county-01-culture",
+      "candidateId": "chiayi-county-01",
+      "domainId": "culture",
+      "points": [
+        "爭取在朴子設總圖書館、運動中心、藝文中心與立體停車場"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "包括爭取總圖書館、運動中心、藝文中心及立體停車場",
+          "sourceUrl": "https://udn.com/news/story/124652/9780376",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-county-02-welfare",
+      "candidateId": "chiayi-county-02",
+      "domainId": "welfare",
+      "points": [
+        "65 歲以上長者健保費自付額由縣府負擔，一年約 12 億元",
+        "敬老卡提高到每月 1,500 點，擴大用於幸福巴士、計程車、臺鐵、醫療院所、藥局與運動場館",
+        "長者餐券首年服務 3 萬人、每月 8 餐，可共餐、到合作店家用餐或送餐到家",
+        "生育補助第一胎 1 萬 5,000 元、第二胎 3 萬、第三胎 4 萬 5,000、第四胎以上 10 萬元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動設籍嘉義縣65歲以上長者健保費自付額補助",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5574063",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "補助65歲以上長者健保費每年約12億元",
+          "sourceUrl": "https://udn.com/news/story/124652/9788785",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將敬老卡提高至每月1500點，並逐步擴大至幸福巴士、幸福小黃、簽約計程車、臺鐵、合作醫療院所、藥局及公立運動場館",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5574063",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "首年規劃服務3萬名長者，每月提供8餐，優先照顧獨居、弱勢、75歲以上及偏鄉長者",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5574063",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "第一胎提高至一萬五千元、第二胎三萬元、第三胎四萬五千元、第四胎以上十萬元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1765214",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-county-02-transport",
+      "candidateId": "chiayi-county-02",
+      "domainId": "transport",
+      "points": [
+        "公車路線少的偏鄉增加預約式交通與統一叫車服務"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "針對公車路線較少的偏鄉，同步增加預約式交通與統一叫車服務",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5574063",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-county-02-education",
+      "candidateId": "chiayi-county-02",
+      "domainId": "education",
+      "points": [
+        "4 年內新增 30 處公托、1,000 個以上名額，18 鄉鎮市都有公共托育",
+        "設 10 處夜間與彈性托育據點",
+        "成立縣級 AI 教育中心與國際教育交流委員會，引進外籍教師",
+        "改善老舊校舍與耐震設施，深化技職教育、產學合作與企業實習"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "4年內在縣內新增30處公共托育據點、1000個以上公共托育名額，18鄉鎮市都有公共托育服務，並設置10處夜間及彈性托育據點",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5525733",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "成立縣級AI教育中心及嘉義縣國際教育交流委員會，持續改善老舊校舍與耐震設施",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5525733",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "引進外籍教師、推動雙語及國際交流課程",
+          "sourceUrl": "https://udn.com/news/story/124652/9746518",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "同時深化技職教育、產學合作及企業實習",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5525733",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-county-02-youth",
+      "candidateId": "chiayi-county-02",
+      "domainId": "youth",
+      "points": [
+        "8 年 50 億元青年創業融資與投資支持計畫，前 4 年先建立 20 至 25 億元規模",
+        "最高 500 萬元低利貸款",
+        "在產業園區設青創孵化基地"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "8年50億元青年創業融資及投資支持計畫",
+          "sourceUrl": "https://udn.com/news/story/124652/9746518",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提供最高500萬元低利貸款，並於產業園區設置青創孵化基地，前4年先建置制度與第一階段執行，建立20至25億元支持規模",
+          "sourceUrl": "https://udn.com/news/story/124652/9746518",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-county-02-housing",
+      "candidateId": "chiayi-county-02",
+      "domainId": "housing",
+      "points": [
+        "結合閒置土地、公共設施與都市更新，盤點適合興建青年住宅的基地",
+        "興建社會住宅，搭配交通、生活機能與公共服務"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來住宅政策除興建社會住宅，也應結合閒置土地、公共設施及都市更新等方式，盤點適合興建青年住宅的基地，並搭配交通、生活機能及公共服務",
+          "sourceUrl": "https://udn.com/news/story/124652/9678524",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

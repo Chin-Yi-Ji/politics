@@ -1,0 +1,652 @@
+{
+  "countyId": "changhua",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "changhua-01-welfare",
+      "candidateId": "changhua-01",
+      "domainId": "welfare",
+      "points": [
+        "第一胎生育津貼加碼到 5 萬元；育兒點數卡適用年齡延到 6 歲",
+        "65 歲以上（原住民 55 歲）與 6 歲以下免健保費，長者部分縣府估約 24 億元",
+        "向中央爭取老農津貼提高到每月 1.2 萬元",
+        "擴大村村送餐，把熱食送到獨居長者家"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "第一胎生育津貼加碼到5萬元、「童萌卡」適用年限向上延伸到6歲、推動65歲以上長者和6歲以下孩童免健保",
+          "sourceUrl": "https://udn.com/news/story/124652/9767614",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "首先是縣內65歲以上及原住民55歲以上的長者健保費免負擔",
+          "sourceUrl": "https://udn.com/news/story/124652/9781165",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "縣政府粗估這方面經費24億元",
+          "sourceUrl": "https://udn.com/news/story/124652/9781165",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "魏平政將向中央爭取提高老農津貼到每月1.2萬元",
+          "sourceUrl": "https://udn.com/news/story/124652/9781165",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "日常生活方面持續深化「村村有送餐」",
+          "sourceUrl": "https://udn.com/news/story/124652/9781165",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "changhua-01-health",
+      "candidateId": "changhua-01",
+      "domainId": "health",
+      "points": [
+        "盤點公有閒置空間，每個鄉鎮設一處公立失智日照中心，並規劃接送動線",
+        "敬老卡強化就醫交通功能，媒合預約制計程車接送"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "若他當選縣長將盤點公有閒置空間，結合專業照護量能，做到一鄉鎮一公立優質失智日照中心，一併考量接送交通動線",
+          "sourceUrl": "https://udn.com/news/story/124652/9781165",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "強化就醫交通功能，並媒合「預約制幸福小黃」",
+          "sourceUrl": "https://udn.com/news/story/124652/9781165",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "changhua-01-education",
+      "candidateId": "changhua-01",
+      "domainId": "education",
+      "points": [
+        "幼兒園到國中的教科書費、家長會費、團保費由縣府補助，分三階段、最快 2027 年 8 月上路",
+        "營養午餐預算只增不減，建食材溯源系統供家長查產地與檢驗報告",
+        "減授教師鐘點，縣府提供法務、心理輔導與社工資源",
+        "校園保全改由學校依需要申請"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "也就是教科書費、家長會費與團保費，在魏平政當選後，通通由縣府來補助",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5521877",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "最快在2027年8月，也就是116學年度實施第一階段",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5521877",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "營養午餐預算只增不減",
+          "sourceUrl": "https://udn.com/news/story/7325/9617824",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動數位化溯源系統，讓家長隨時線上查詢午餐食材來源、產地與檢驗報告",
+          "sourceUrl": "https://udn.com/news/story/7325/9617824",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並主張減授教師鐘點、導入智慧工具，以及提供法務支援、心理輔導與社工資源",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5572433",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "應採申請制，由學校依實際狀況申請專業人力",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5572433",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "changhua-01-economy",
+      "candidateId": "changhua-01",
+      "domainId": "economy",
+      "points": [
+        "成立 AI 智慧園區，爭取台積電先進封裝廠進駐中科二林園區",
+        "引進無人機產業鏈；補助縣民與各行業使用 AI 工具",
+        "盤點全縣土地，找地讓好市多設店"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "成立AI智慧園區並全力爭取台積電先進封裝廠進駐中科二林園區、無人機產業鏈千億商機帶進彰化、補助縣民及百工百業使用AI工具",
+          "sourceUrl": "https://udn.com/news/story/124652/9767614",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "我會盤點縣內所有的土地，我一定找到一塊土地，讓Costco來咱彰化設店",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5598172",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "changhua-01-transport",
+      "candidateId": "changhua-01",
+      "domainId": "transport",
+      "points": [
+        "配合台中捷運綠線南延；彰化市鐵路高架如期完成並做好交通配套",
+        "車站周邊高密度開發，並引進托老、托幼設施",
+        "通勤月票比照台中降到 699 元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來若擔任縣長，將全力配合台中捷運綠線南延",
+          "sourceUrl": "https://udn.com/news/story/124652/9664638",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "應如期如質落地做好交通配套、車站TOD 開發導入托老托幼機能",
+          "sourceUrl": "https://udn.com/news/story/124652/9664638",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動大眾運輸並結合TOD站點打造高密度開發的車站生活圈",
+          "sourceUrl": "https://udn.com/news/story/124652/9767614",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "對於六百九十九的加碼政見，他「一定跟進」",
+          "sourceUrl": "https://udn.com/news/story/124652/9636481",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "changhua-01-safety",
+      "candidateId": "changhua-01",
+      "domainId": "safety",
+      "points": [
+        "縣府編預算全面升級第一線員警的毒品快篩儀器",
+        "衛生局與警察局建立毒品列管人口追蹤機制"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "縣府應主動編列預算，全面升級第一線員警的毒品快篩儀器",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5463693",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "彰化縣衛生局與警察局建立毒品列管人口追蹤機制",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5463693",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "changhua-02-welfare",
+      "candidateId": "changhua-02",
+      "domainId": "welfare",
+      "points": [
+        "65 歲以上長者健保費全額補助，每年約需 20 億元",
+        "坐月子補助 2 萬元，取代月嫂鐘點費核銷制",
+        "民政處設新住民服務單一窗口"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "「六十五歲以上長者健保費全額補助」政策",
+          "sourceUrl": "https://udn.com/news/story/124652/9564932",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "估計每年約需二十億元經費",
+          "sourceUrl": "https://udn.com/news/story/124652/9564932",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "首創「補助坐月子2萬元」的政策，取代現行繁瑣、造成基層公務員行政負擔的月嫂鐘點費核銷制",
+          "sourceUrl": "https://udn.com/news/story/124652/9585691",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "縣府民政處成立新住民服務單一窗口",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5587015",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "changhua-02-education",
+      "candidateId": "changhua-02",
+      "domainId": "education",
+      "points": [
+        "恢復每校一名保全，建智慧監控並與警方連線",
+        "公托、準公托每年 60 小時延托券，弱勢與身心障礙兒 100 小時；普設公辦民營托嬰中心",
+        "增設第二、第三所公辦國際雙語學校",
+        "成立教育法律支援平台處理親師爭議、霸凌與濫訴，並檢討校務評鑑",
+        "免費營養午餐每週至少加 1 次水果，優先採購在地雞蛋、鮮乳與水果"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "她當選後將推動「一校一保全」，並透過科技產品來建置電子安全網絡",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5522999",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "就可以獲得每年60個小時的「延托券」，弱勢家庭或是身心障礙兒的「延托券」則延長到100個小時",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5522999",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並承諾普設公辦民營托嬰中心",
+          "sourceUrl": "https://udn.com/news/story/124652/9585691",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推出第二所、第三所的國際雙語學校",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5522999",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "她當選要成立「教育法律專業支援平台」，無論是親師爭議、霸凌或是濫訴，都由專業團隊依法提供協助",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5588737",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "額外再多出每週至少增加1次水果",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5499658",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "食材採購以彰化生產的雞蛋、鮮乳及當季水果為優先",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5499658",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "changhua-02-transport",
+      "candidateId": "changhua-02",
+      "domainId": "transport",
+      "points": [
+        "計程車開進沒有公車的聚落，乘客只付公車票價，可用電話、LINE 或 App 預約",
+        "通勤月票由 999 元降到 699 元，縣府一年約多支出 2,500 萬元",
+        "台中捷運綠線延伸彰化 4 年內動工"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "民眾只要支付平價的「公車票價」，就能有專車彈性接送",
+          "sourceUrl": "https://udn.com/news/story/124652/9788479",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "會以「電話專線、LINE官方帳號、APP軟體」三軌預約模式",
+          "sourceUrl": "https://udn.com/news/story/124652/9788479",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "她當選彰化縣長後，將推動彰化縣民專屬優惠六百九十九元",
+          "sourceUrl": "https://udn.com/news/story/124652/9636481",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "預估增二千五百萬元補貼支出",
+          "sourceUrl": "https://udn.com/news/story/124652/9636481",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "若當選彰化縣長後，一定加速中捷延伸彰化四年內動工",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1766615",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "changhua-02-youth",
+      "candidateId": "changhua-02",
+      "domainId": "youth",
+      "points": [
+        "青年首購房貸與創業貸款最高各 200 萬元，前 2 年利息由縣府全額負擔"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "讓青年首購房貸最高200萬元、青年創業貸款最高200萬元，同時，前2年的利息由縣府全額負擔",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5566180",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "changhua-02-economy",
+      "candidateId": "changhua-02",
+      "domainId": "economy",
+      "points": [
+        "設縣長直屬的產業加速辦公室，提供招商與土地單一窗口",
+        "串聯水五金精密園區、AI 運算中心、智慧物流園區、無人機聚落等產業據點",
+        "設國際花卉展覽中心與花果觀光經濟特區"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "她也提出「設立縣長直屬產業加速辦公室」政見，提供招商與土地單一窗口",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5566180",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "包括「國際水五金精密園區」、「AI科技運算中心」、「智慧物流產業園區」及「無人機載具聚落」",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5270848",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "農業與花卉產業則以「國際花卉展覽中心」、「花果及觀光經濟特區」推動升級",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5270848",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "changhua-02-agriculture",
+      "candidateId": "changhua-02",
+      "domainId": "agriculture",
+      "points": [
+        "農民職業災害保險保費由縣府全額補助，每年約增 1,076 萬元",
+        "公糧運費補助由每公斤 0.35 元提高到 1 元，每年約增 2,679 萬元",
+        "以品牌行銷、跨縣市展售、企業契作與電商推廣在地稻米"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將由縣府全額補助農民職業災害保險保費，並把公糧運費補助提高至每公斤1元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5501082",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "預估每年縣府增加預算約1076萬元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5501082",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "由現行每公斤0.35元提高至1元後，縣府每年約增加2679萬元支出",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5501082",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並透過品牌行銷、跨縣市展售、企業契作及電商通路，提升彰化好米競爭力",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5501082",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "changhua-02-safety",
+      "candidateId": "changhua-02",
+      "domainId": "safety",
+      "points": [
+        "消防人員滿 2 年仍休不完的超勤時數，編常態預算結算加班費",
+        "各消防大隊增設第 2 名副大隊長"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "編列常態預算，凡滿2年因勤務調配無法休畢的超時時數，依法結算發給加班費",
+          "sourceUrl": "https://udn.com/news/story/124652/9768662",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "於各消防大隊全面增設第2名副大隊長",
+          "sourceUrl": "https://udn.com/news/story/124652/9768662",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "changhua-02-culture",
+      "candidateId": "changhua-02",
+      "domainId": "culture",
+      "points": [
+        "爭取台灣燈會、國慶煙火等國家級活動與國際運動賽事",
+        "評估並推動設立台語文化園區",
+        "找地興建縣史館；推動設置鹿港美術館",
+        "規劃職棒訓練基地，爭取亞洲職棒球隊春訓"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來將向中央爭取舉辦「台灣燈會」、「國慶燈火」等國家級盛會，以及國際級運動賽事",
+          "sourceUrl": "https://udn.com/news/story/124652/9794104",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "積極評估並努力推動打造一座「台語文化園區」",
+          "sourceUrl": "https://udn.com/news/story/124652/9794104",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "希望找大一點的土地來打造彰化縣史館",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5595446",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "她將推動設置「鹿港美術館」",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5270848",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "規劃打造「職棒訓練基地」，爭取成為亞洲多國職棒春訓首選",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5270848",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "changhua-02-housing",
+      "candidateId": "changhua-02",
+      "domainId": "housing",
+      "points": [
+        "優先檢討並推動彰化市東區擴大都市計畫，搭配捷運延伸",
+        "持續向中央爭取資源，擴大社會住宅戶數"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "當選縣長後會優先檢討並推動東區擴大都市計畫案，搭配台中捷運綠線彰化延伸段",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5565129",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將持續向中央爭取資源，逐步擴大社宅量能",
+          "sourceUrl": "https://udn.com/news/story/7325/9207159",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "changhua-03-welfare",
+      "candidateId": "changhua-03",
+      "domainId": "welfare",
+      "points": [
+        "65 歲以上長輩健保免費",
+        "中央生育補助 10 萬元之外，縣府再加碼 10 萬元",
+        "育兒點數卡擴大到 0 至 6 歲，點數提高到 1 萬 2,000 點",
+        "托育補助每月再加 1,000 元，增加臨時托育並延長托育時間"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "自己早在去年12月就提出65歲以上長輩健保免費",
+          "sourceUrl": "https://udn.com/news/story/124652/9731835",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "他提出中央生育補助10萬元、彰化再加碼10萬元；童萌卡擴大至0至6歲，點數提高至1萬2000點；友善托育每月再加碼1000元，並增加臨時托育、延長托育時間",
+          "sourceUrl": "https://udn.com/news/story/124652/9781081",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "changhua-03-education",
+      "candidateId": "changhua-03",
+      "domainId": "education",
+      "points": [
+        "教師節禮金提高到 1,000 元",
+        "校園行政 AI 化；成立校事會議支援平台，提供法律、心理與經費支援",
+        "增加助理員、心理師、社工師與特教人力，逐步降低班級人數",
+        "營養午餐免費延伸到高中"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "主張將教師節禮金提高至1000元",
+          "sourceUrl": "https://udn.com/news/story/124652/9781081",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "透過校園行政AI化減少重複性工作，並成立校事會議支援平台，提供法律、心理、教育專業及必要經費支援",
+          "sourceUrl": "https://udn.com/news/story/124652/9781081",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "他也提出增加助理員、心理師、社工師及特殊教育支持人力，逐步降低班級人數",
+          "sourceUrl": "https://udn.com/news/story/124652/9781081",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "主張推動12年國教營養午餐免費",
+          "sourceUrl": "https://udn.com/news/story/124652/9781081",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "changhua-03-governance",
+      "candidateId": "changhua-03",
+      "domainId": "governance",
+      "points": [
+        "里鄰建設經費由每里 10 萬元提高到基本 20 萬元，依人口最高 30 萬元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將把里鄰建設經費從目前每里10萬元，提高至基本20萬元，並參考台北市依人口規模調整的做法，讓最高每里每年可提高到30萬元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5529296",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "changhua-03-economy",
+      "candidateId": "changhua-03",
+      "domainId": "economy",
+      "points": [
+        "營造吸引高科技產業進駐的投資環境，目標 2030 年讓台積電進駐"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來將全力營造能吸引高科技產業進駐的投資環境",
+          "sourceUrl": "https://udn.com/news/story/124652/9570739",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "喊出「二○三○台積電進彰化」的具體目標",
+          "sourceUrl": "https://udn.com/news/story/124652/9570739",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "changhua-03-transport",
+      "candidateId": "changhua-03",
+      "domainId": "transport",
+      "points": [
+        "全力推動捷運動工",
+        "縣府財政許可下，通勤月票比照台中降到 699 元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "只要能讓他入主縣府，他全力推動彰化蓋捷運",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5275985",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "只要縣府財政許可，他們如果順利當選縣長，也會比照辦理",
+          "sourceUrl": "https://udn.com/news/story/124652/9636018",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

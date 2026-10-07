@@ -1,0 +1,794 @@
+{
+  "countyId": "hualien",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "hualien-01-education",
+      "candidateId": "hualien-01",
+      "domainId": "education",
+      "points": [
+        "高中職學生每學期 1 萬元就學補助，免費營養午餐延伸到高中職",
+        "提供就學準備金，強化課後照顧與幼兒園延長照顧",
+        "推動一校一特色、一生一才藝，結合 AI、雙語與山海實驗教育",
+        "增聘校務專責人力、檢討不必要的行政表單，教師有法律諮詢與心理支持",
+        "偏鄉教師提供交通、住宿與職涯支持；改善校園廁所與師生宿舍"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "每人每學期提供1萬元就學補助，並將免費營養午餐政策延伸至高中職階段",
+          "sourceUrl": "https://udn.com/news/story/124652/9758725",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "她主張提供就學準備金、優化課後照顧服務，並強化幼兒園延長照顧機制",
+          "sourceUrl": "https://udn.com/news/story/124652/9758725",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動「一校一特色、一生一才藝」，結合AI教育、雙語學習及山海特色實驗教育",
+          "sourceUrl": "https://udn.com/news/story/124652/9758725",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將爭取增聘校務專責人力，減輕教師行政負擔，並提供法律諮詢協助及午餐指導補貼",
+          "sourceUrl": "https://udn.com/news/story/124652/9758725",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "檢討不必要的行政表單及重複業務",
+          "sourceUrl": "https://udn.com/news/story/124652/9781202",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提供交通、住宿及職涯發展等支持",
+          "sourceUrl": "https://udn.com/news/story/124652/9781202",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "則規畫推動校園廁所改善、師生宿舍整建",
+          "sourceUrl": "https://udn.com/news/story/124652/9758725",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-01-transport",
+      "candidateId": "hualien-01",
+      "domainId": "transport",
+      "points": [
+        "短期提升台鐵運能與安全",
+        "中期加速東部鐵路提速與瓶頸改善，優先讓東部快鐵完成",
+        "長期對高鐵延伸保持開放，中央啟動可行性研究時地方積極參與",
+        "以 AI 打造智慧交通導引"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "眼前提升台鐵運能與安全，中期加速東部鐵路提速及瓶頸改善，長期則對高鐵延伸花蓮保持開放",
+          "sourceUrl": "https://udn.com/news/story/124652/9776289",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "但現在讓東部快鐵盡早完成才是更務實做法",
+          "sourceUrl": "https://udn.com/news/story/124652/9776289",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來中央若正式啟動高鐵延伸花蓮的可行性研究，地方當然應積極參與",
+          "sourceUrl": "https://udn.com/news/story/124652/9776289",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "以ＡＩ打造智慧交通導引",
+          "sourceUrl": "https://udn.com/news/story/124652/9550318",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-01-safety",
+      "candidateId": "hualien-01",
+      "domainId": "safety",
+      "points": [
+        "河川從單點工程改為全流域治理：上游監測、中游疏濬、下游堤防與橋梁",
+        "部落導入科技監測、衛星通訊與族語防災通報，培訓自主防災隊伍",
+        "易淹水地下道與重要路口設 AI 通訊與監測系統",
+        "建立保全戶名單，災時精準撤離"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "從上游監測、中游疏濬到下游堤防、橋梁等，建立完整風險管理機制",
+          "sourceUrl": "https://udn.com/news/story/124652/9763920",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "導入科技監測、衛星通訊及族語防災通報，培訓部落自主防災隊伍等",
+          "sourceUrl": "https://udn.com/news/story/124652/9763920",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "包括在易淹水地下道、重要路口等設AI通訊與監測系統",
+          "sourceUrl": "https://udn.com/news/story/124652/9550318",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "還有建立詳盡的保全戶名單，能精準撤離等",
+          "sourceUrl": "https://udn.com/news/story/124652/9550318",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-01-agriculture",
+      "candidateId": "hualien-01",
+      "domainId": "agriculture",
+      "points": [
+        "文旦、鳳梨、鮮乳、茶葉與咖啡接上加工、冷鏈與品牌",
+        "推動農產加工、產地行銷與科技農業"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將文旦、鳳梨、鮮乳、茶葉與咖啡接上加工、冷鏈及品牌",
+          "sourceUrl": "https://udn.com/news/story/124652/9786303",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動農產加工及產地行銷",
+          "sourceUrl": "https://udn.com/news/story/124652/9763271",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "還要推動智慧醫療與科技農業",
+          "sourceUrl": "https://udn.com/news/story/124652/9550318",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-01-culture",
+      "candidateId": "hualien-01",
+      "domainId": "culture",
+      "points": [
+        "串聯溫泉、泛舟、客庄、部落與自行車，形成四季觀光廊帶",
+        "持續辦南島樂舞節，深化與太平洋原住民族的交流"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "觀光部分則串聯溫泉、泛舟、客庄、部落與自行車旅遊，形成四季觀光廊帶",
+          "sourceUrl": "https://udn.com/news/story/124652/9786303",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並持續推動南島樂舞節，深化與太平洋各原民族群交流",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1765066",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-01-economy",
+      "candidateId": "hualien-01",
+      "domainId": "economy",
+      "points": [
+        "協助受災鄉鎮的市場與店家數位轉型、品牌升級",
+        "建設數位遊牧基地"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "協助光復市場與店家數位轉型、品牌升級",
+          "sourceUrl": "https://udn.com/news/story/124652/9763271",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建設花蓮成為「數位遊牧基地」",
+          "sourceUrl": "https://udn.com/news/story/124652/9550318",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-01-health",
+      "candidateId": "hualien-01",
+      "domainId": "health",
+      "points": [
+        "整合醫療、社福、原民與文化健康站資源，建立符合部落需求的照顧體系",
+        "強化長照、巡迴醫療與幸福巴士",
+        "推動智慧醫療，拉近南北區域落差"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "整合醫療、社福、原民及文化健康站資源，打造符合花蓮城鄉及部落需求的照顧體系",
+          "sourceUrl": "https://udn.com/news/story/124652/9751627",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "同時強化長照、巡迴醫療、幸福巴士與部落防災",
+          "sourceUrl": "https://udn.com/news/story/124652/9786303",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "還要推動智慧醫療與科技農業，拉近南北區域落差",
+          "sourceUrl": "https://udn.com/news/story/124652/9550318",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-01-governance",
+      "candidateId": "hualien-01",
+      "domainId": "governance",
+      "points": [
+        "反對把大筆預算改為普發現金，主張優先用在地方建設、震後重建與社福"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "若將大量預算轉為現金發放，恐影響地方建設、震後重建及社福支出",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5445017",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-02-welfare",
+      "candidateId": "hualien-02",
+      "domainId": "welfare",
+      "points": [
+        "普發每人現金 1 萬元",
+        "0 至 18 歲健保自付額由縣府補助，每月最高 826 元，免申請",
+        "敬老愛心卡每月由 1,500 點提高到 2,000 點，點數不歸零",
+        "檢討敬老卡多元使用方式與計程車司機獎勵金上限"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "當選縣長普發現金1萬元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5445017",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每人每月最高補助八二六元，民眾免申請",
+          "sourceUrl": "https://news.ltn.com.tw/news/life/paper/1765907",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "主張敬老愛心卡由每月1500點提高至2000點，點數每月不歸零",
+          "sourceUrl": "https://udn.com/news/story/124652/9786303",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "多元使用方案及獎勵金上限等配套都會納入檢討調整",
+          "sourceUrl": "https://udn.com/news/story/124652/9786303",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-02-transport",
+      "candidateId": "hualien-02",
+      "domainId": "transport",
+      "points": [
+        "主要幹道車流密集路段導入 AI 車流偵測，依尖離峰與平假日調整號誌",
+        "低流量支線採感應式放行，幹道規劃連續綠燈",
+        "主張中央優先盤點北迴線風險並提出改善期程，檢討連假購票安排",
+        "中期如期完成花東鐵路雙軌化，長期請中央評估高鐵延伸"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "導入AI影像或車流偵測，依尖峰、離峰、平假日設定不同時制",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5584968",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "低流量支線採感應式放行",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5584968",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "讓幹道可以連續綠燈減少不必要停等",
+          "sourceUrl": "https://udn.com/news/story/124652/9758351",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "主張中央優先盤點風險，提出明確改善期程，同時檢討連假及熱門時段的購票安排",
+          "sourceUrl": "https://udn.com/news/story/124652/9776289",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "中期是如期做好花東鐵路雙軌化、增加列車調度彈性",
+          "sourceUrl": "https://udn.com/news/story/124652/9776289",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-02-safety",
+      "candidateId": "hualien-02",
+      "domainId": "safety",
+      "points": [
+        "縣府為設籍縣民投保最高 100 萬元意外險",
+        "易受災山區建低軌衛星通訊，設可自給 14 天的防護庫房與儲能微電網",
+        "重要道路布設 AI 監測設備與地滑計，災後用無人機掌握災情",
+        "規模 5.5 以上地震後立即空拍河道並緊急疏濬",
+        "整合民間搜救團體、急難倉儲與行動廚房，建立災防協調平台"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將由縣府為設籍的縣民投保最高100萬元意外險",
+          "sourceUrl": "https://udn.com/news/story/124652/9763271",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建置全雙工低軌衛星通訊系統，並設置14天自給自足微型防護庫房與防爆儲能微電網",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5462639",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "在中橫、蘇花及重要道路布設AI監測設備與地滑計",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5462639",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "發生規模5.5以上地震立即啟動震後河道空拍與緊急疏濬作業",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5462639",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建立災防協調平台",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5462639",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-02-health",
+      "candidateId": "hualien-02",
+      "domainId": "health",
+      "points": [
+        "建立智慧行動急診與遠距醫療，強化南區醫療，災害期間醫療不中斷"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "建立智慧行動急診系統與遠距醫療機制，強化玉里、富里等南區醫療韌性",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5462639",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-02-education",
+      "candidateId": "hualien-02",
+      "domainId": "education",
+      "points": [
+        "改善偏鄉教師宿舍與留任條件",
+        "以學區聯盟共享專長教師、心理師與巡迴課程",
+        "擴大偏鄉課後照顧，推動數位平權與營養午餐升級",
+        "簽署教師團體十大訴求：改善班級規模與員額、補足特教與輔導人力"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "規畫改善偏鄉教師宿舍及留任條件，透過學區聯盟共享專長教師、心理師及巡迴課程，並擴大偏鄉課後照顧、推動數位平權與營養午餐升級",
+          "sourceUrl": "https://udn.com/news/story/124652/9781202",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "改善班級規模及教師員額、補足特教及輔導專業人力",
+          "sourceUrl": "https://udn.com/news/story/124652/9781202",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-02-governance",
+      "candidateId": "hualien-02",
+      "domainId": "governance",
+      "points": [
+        "籌組改革治理聯盟，由產官學研專家檢視政策白皮書並形成行動方案"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將共同檢視政策白皮書，形成具體行動方案",
+          "sourceUrl": "https://udn.com/news/story/124652/9751627",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-02-youth",
+      "candidateId": "hualien-02",
+      "domainId": "youth",
+      "points": [
+        "推動部落自主發展基金與部落發展經理人制度",
+        "成立原住民保留地行動服務隊，縮短申請時間",
+        "推動原民返鄉人才計畫，建立部落產業共益的收益機制"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "他將推動部落自主發展基金、部落發展經理人制度",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1765066",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將成立原住民保留地行動服務隊，以及原民返鄉人才一百計畫、部落產業共益的收益機制",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1765066",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-02-culture",
+      "candidateId": "hualien-02",
+      "domainId": "culture",
+      "points": [
+        "觀光升級，發展海洋活動、戶外運動與運動觀光"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "發展海洋活動、戶外運動與運動觀光，讓花蓮成為亞洲重要的戶外休閒城市",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5366685",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-02-agriculture",
+      "candidateId": "hualien-02",
+      "domainId": "agriculture",
+      "points": [
+        "推動精緻農業與農產加工，做品牌化並拓展市場"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "也要推動精緻農業與農產加工產業，透過品牌化、加工與市場拓展",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5366685",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-02-economy",
+      "candidateId": "hualien-02",
+      "domainId": "economy",
+      "points": [
+        "13 鄉鎮市各自發展特色，北、中、南區各有產業定位"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來要讓13個鄉鎮市都有自己的特色發展，讓北區、中區、南區都能找到適合自己的產業定位",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5366685",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-03-welfare",
+      "candidateId": "hualien-03",
+      "domainId": "welfare",
+      "points": [
+        "每人每年 3,600 元縣內旅遊金、3,600 元交通行動金，不影響既有補助",
+        "生育補助加碼到每胎 5 萬元，月子金再加 3 萬元",
+        "照顧者每年 1.2 萬元家庭喘息金",
+        "額度記在存摺、不發現金，用現有票證與店家系統核銷"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "縣內旅遊金每人每年3600 元用在縣內觀光旅宿",
+          "sourceUrl": "https://udn.com/news/story/124652/9758344",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "交通行動金同樣每年3600元",
+          "sourceUrl": "https://udn.com/news/story/124652/9758344",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "例如生育補助加碼到每胎五萬元、月子金再加三萬元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5561727",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "照顧者每年一萬二千元家庭喘息金",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5561727",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "存摺記的是額度，並非領現金，核銷一開始使用現有票證與店家系統",
+          "sourceUrl": "https://udn.com/news/story/124652/9758344",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-03-health",
+      "candidateId": "hualien-03",
+      "domainId": "health",
+      "points": [
+        "未滿 25 歲每年 3,600 元、25 歲以上每年 6,000 元健檢金，補中央免費健檢沒有的項目",
+        "慢性病照護設三項績效指標，要求三高控制率達 80%"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "身心檢健金未滿25歲每年3600 元",
+          "sourceUrl": "https://udn.com/news/story/124652/9758344",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "25 歲以上每年 6000 元，補中央免費檢健沒有的項目",
+          "sourceUrl": "https://udn.com/news/story/124652/9758344",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "三高控制率80%",
+          "sourceUrl": "https://udn.com/news/story/124652/9516997",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-03-education",
+      "candidateId": "hualien-03",
+      "domainId": "education",
+      "points": [
+        "6 至 18 歲每月 1,000 元未來教育金，用於課後才藝與探索興趣",
+        "降低師生比、增加專業輔導人力、檢討學力測驗制度",
+        "保障導師離線權，教師免費營養午餐，特教助理員改月薪制",
+        "與教育界建立定期對話機制"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "六至十八歲每月一千元未來教育金，讓孩子課後學才藝、探索興趣",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5561727",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "降低師生比、檢討學力測驗制度、增加專業輔導人力、保障導師離線權、推動教師免費營養午餐及特教助理員月薪制等改革",
+          "sourceUrl": "https://udn.com/news/story/124652/9781202",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將與教育界建立定期對話機制",
+          "sourceUrl": "https://udn.com/news/story/124652/9781202",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-03-youth",
+      "candidateId": "hualien-03",
+      "domainId": "youth",
+      "points": [
+        "留在縣內的青年第一年每月補助 5,000 元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "留花青年第一年每月補助五千元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5561727",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-03-safety",
+      "candidateId": "hualien-03",
+      "domainId": "safety",
+      "points": [
+        "成立跨局處防災專責單位，平時統籌教育訓練與兵棋推演",
+        "建置智慧防災數位儀表板，整合水位、淹水感測與避難據點，導入 AI 判讀災情",
+        "各鄉鎮盤點災害型態；南區備妥可立即支援的救災設備與醫療資源"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "他主張成立跨局處的專責防災單位，平時統籌防災政策、教育訓練、兵棋推演及跨局處協調",
+          "sourceUrl": "https://udn.com/news/story/124652/9763271",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將監視攝影機、水位、淹水感測、災害圖資、避難據點",
+          "sourceUrl": "https://udn.com/news/story/124652/9763271",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "規畫導入AI技術，協助進行災情判讀、風險預測、資源調度等",
+          "sourceUrl": "https://udn.com/news/story/124652/9763271",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "他將推動各鄉鎮盤點災害型態，建構完整防災體系",
+          "sourceUrl": "https://udn.com/news/story/124652/9551673",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "一旦南區發生災害，救災設備、醫療資源等能立刻支援",
+          "sourceUrl": "https://udn.com/news/story/124652/9551673",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-03-transport",
+      "candidateId": "hualien-03",
+      "domainId": "transport",
+      "points": [
+        "爭取高鐵從宜蘭延伸到花蓮，呼籲在宜蘭端預留尾軌",
+        "建議評估把高鐵站設在吉安鄉",
+        "縣府先做好土地盤點與都市計畫變更的準備"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "在高鐵宜蘭端預留尾軌，保留高鐵延伸花蓮的可能性",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5584968",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "評估將高鐵站設在吉安鄉",
+          "sourceUrl": "https://udn.com/news/story/124652/9776289",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並及早做好土地、都市計畫等地方端的準備",
+          "sourceUrl": "https://udn.com/news/story/124652/9776289",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-03-culture",
+      "candidateId": "hualien-03",
+      "domainId": "culture",
+      "points": [
+        "成立體育局，整合體育行政、場館管理與運動產業",
+        "發展水域、山域特色運動，結合觀光打造運動品牌",
+        "協助被不當挖掘的部落先人遺骨歸鄉",
+        "推動東遷平埔族群的文化、歷史與語言復振",
+        "以鐵路文化與地方產業史為核心，建立東部客家的文化論述"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "研議整合體育行政、場館管理及運動產業等業務，成立體育專責單位",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5560816",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "發展水域、山域等特色運動，結合觀光與地方產業",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5560816",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將由縣府積極協助七十年前被國立台灣大學不當起掘的萬榮鄉馬遠部落先人遺骨早日歸鄉",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1765066",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來將積極推動文化及歷史、語言復振",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1765066",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來應以鐵路文化及地方產業發展史為核心，建構屬於東部客家的歷史論述",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5565931",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hualien-04-safety",
+      "candidateId": "hualien-04",
+      "domainId": "safety",
+      "points": [
+        "主張嚴懲重大犯罪，毒駕故意致死處死刑並加鞭刑",
+        "組專業法律團隊，協助堰塞湖災民向政府求償"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "毒駕故意致死者處唯一死刑並加鞭刑",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5467216",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並承諾組成專業法律團隊，全力協助光復鄉堰塞湖災民向政府打官司討公道",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5467216",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

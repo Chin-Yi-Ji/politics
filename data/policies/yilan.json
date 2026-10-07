@@ -1,0 +1,1086 @@
+{
+  "countyId": "yilan",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "yilan-01-welfare",
+      "candidateId": "yilan-01",
+      "domainId": "welfare",
+      "points": [
+        "0 到 3 歲每月 1,000 元嬰幼兒用品消費券",
+        "重陽敬老金 65 歲起發，依年齡 600 到 2,000 元，百歲以上 2 萬元",
+        "敬老卡每月 600 點，可用於台鐵、雙北捷運、計程車、藥局、超商，點數可累積",
+        "55 歲以上原住民假牙補助最高 5 萬元、免費帶狀皰疹疫苗",
+        "擴大補助長青食堂餐費，並改採中央廚房供餐"
+      ],
+      "strictPoints": [
+        "0 到 3 歲每月 1,000 元嬰幼兒用品消費券",
+        "65 歲以上擴大發放重陽敬老金"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "嬰幼兒用品消費券",
+          "sourceUrl": "https://www.yilan2026.tw/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "65 歲以上擴大發放",
+          "sourceUrl": "https://www.yilan2026.tw/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "重陽敬老金",
+          "sourceUrl": "https://www.yilan2026.tw/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "65至69歲每人600元、70至79歲800元、80至89歲1000元",
+          "sourceUrl": "https://udn.com/news/story/124652/9655844",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "百歲以上2萬元",
+          "sourceUrl": "https://udn.com/news/story/124652/9655844",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每月600點敬老卡點數擴大使用範圍，包括台鐵、雙北捷運、計程車，以及藥局、農會超市、便利商店等生活消費場所",
+          "sourceUrl": "https://udn.com/news/story/124652/9655844",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "免費帶狀皰疹疫苗、敬老卡每年7200點、假牙補助最高5萬元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5535886",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "擴大補助社區協會開課、長青食堂餐費，且長青食堂朝中央廚房模式升級",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5483813",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yilan-01-education",
+      "candidateId": "yilan-01",
+      "domainId": "education",
+      "points": [
+        "一鄉鎮一公托，優先補上還沒有公托的大同、南澳兩鄉",
+        "設托育站提供臨托、延托、夜托、假日托，另聘專責人員，照顧比最高 1 比 3",
+        "親子館人員留任加給：滿 1 年每月加 2,000 元，依年資最高加到 1 萬元",
+        "教職員午餐全免，補助學校專責行政人力與 AI 備課工具，第一年編 5,000 萬元"
+      ],
+      "strictPoints": [
+        "一鄉鎮一公托，擴大公托量能"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "一鄉鎮一公托",
+          "sourceUrl": "https://www.yilan2026.tw/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "擴大公托量能",
+          "sourceUrl": "https://www.yilan2026.tw/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "他希望優先補足這2個原鄉的公共托育據點",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5535886",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "逐步增設臨時托育、延長托育、夜間托育及假日托育服務",
+          "sourceUrl": "https://udn.com/news/story/124652/9724674",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "照顧比例最高為1名托育人員照顧3名幼兒",
+          "sourceUrl": "https://udn.com/news/story/124652/9724674",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "服務滿1年者每月加給2000元，之後依年資逐步調升，最高每月可增加1萬元",
+          "sourceUrl": "https://udn.com/news/story/124652/9724674",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "第一年5000萬元打底，教職員午餐全免、縣府補助專責行政人力、引進正版AI備課工具",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5588242",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yilan-01-health",
+      "candidateId": "yilan-01",
+      "domainId": "health",
+      "points": [
+        "65 歲以上免健保費（原住民 55 歲起），每人每年約省 1 萬元",
+        "急診醫院周邊路口設感應系統，救護車接近時沿線號誌自動轉綠燈",
+        "產前篩檢補助不限年齡；每年 2,000 名肺癌篩檢全額補助",
+        "產後 3 次免費心理諮商與到宅關懷",
+        "原鄉設跨鄉醫療調度平台並串接遠距醫療，整合巴士與巡迴醫療車接送就醫"
+      ],
+      "strictPoints": [
+        "免健保費的年齡門檻下調到 65 歲"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "免健保費門檻",
+          "sourceUrl": "https://www.yilan2026.tw/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "下調至 65 歲",
+          "sourceUrl": "https://www.yilan2026.tw/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "長者免健保費每年可省近1萬元；原住民族長者依相關社福標準，55歲起免健保費",
+          "sourceUrl": "https://udn.com/news/story/124652/9655844",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "規劃在有急診能力的醫院周邊建置電子圍籬系統，當救護車進入特定範圍後，系統將自動串聯交通號誌",
+          "sourceUrl": "https://udn.com/news/story/124652/9565626",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "主張未來縣府將加碼推動「全齡補助」羊膜穿刺與非侵入性染色體篩檢",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5428484",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "也提出每年2千名全額補助名額",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5428484",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "首推「3次免費心理諮商」與新手媽媽陪伴員到宅關懷服務",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5428484",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "日後由宜蘭縣政府建立跨鄉調度平台與單一窗口，再串接遠距醫療",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5535886",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "整合幸福巴士、醫療巡迴車及在地計程車",
+          "sourceUrl": "https://udn.com/news/story/124652/9751554",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yilan-01-transport",
+      "candidateId": "yilan-01",
+      "domainId": "transport",
+      "points": [
+        "爭取頭城到蘇澳鐵路全線高架，分 4 標同時開工、5 年內完工，之後推動捷運化",
+        "力促台 62 線延伸到宜蘭並分段招標，再南延蘇澳，串連龍德、利澤工業區與蘇澳港",
+        "沿蘭陽溪堤岸共構東西向高快速道路，推動台 2 庚延伸線與冬山交流道",
+        "成立智慧交通治理中心，整合車流、事故熱點、停車與號誌資料",
+        "9 人座小巴以火車站為起訖點開進各村落；通勤月票延伸到宜蘭"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將力推頭城到蘇澳鐵路高架化，採取4個標同時開工，一定會在5年內完工",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5557469",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "力促台62延伸至宜蘭，並分段招標施工來加速，並爭取繼續南延至蘇澳（含龍德與利澤工業區）",
+          "sourceUrl": "https://udn.com/news/story/124652/9659278",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動「蘭陽溪堤岸共構興建東西向高快速道路」、台2庚延伸線、冬山交流道及鐵路高架化",
+          "sourceUrl": "https://udn.com/news/story/124652/9659278",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "成立智慧交通治理中心，整合車流、事故熱點、停車資訊、觀光人流與號誌系統",
+          "sourceUrl": "https://udn.com/news/story/124652/9659278",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "同步推出宜蘭小巴，以火車站為起訖點，用9人座小巴深入各村落",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5561124",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "讓通勤月票制度延伸至宜蘭",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5391995",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yilan-01-economy",
+      "candidateId": "yilan-01",
+      "domainId": "economy",
+      "points": [
+        "勞資爭議補助從只補訴訟費，擴大到訴訟期間的生活費與扶養費",
+        "職災死亡慰助金由 10 萬元提高到 30 萬元",
+        "設勞工權益基金專戶，財源含縣府撥款與勞動法規罰鍰的 50%",
+        "科學園區招商列為首要工作，引進矽光子元件封裝測試等半導體與 AI 產業",
+        "每半年辦雇主座談協助了解法規，並向中央爭取擴大勞動檢查"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "除律師費與訴訟費外，進一步納入生活費及扶養費補助",
+          "sourceUrl": "https://udn.com/news/story/124652/9471662",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "現行職災死亡慰助金10萬元",
+          "sourceUrl": "https://udn.com/news/story/124652/9471662",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提高職業災害慰助金最高30萬元",
+          "sourceUrl": "https://udn.com/news/story/124652/9471662",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來會設置「勞工權益基金專戶」，一部分由縣府撥款",
+          "sourceUrl": "https://udn.com/news/story/124652/9471662",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "罰鍰50%挹注基金",
+          "sourceUrl": "https://udn.com/news/story/124652/9471662",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "導入半導體、大數據、AI產業，讓「矽光子元件測試封裝」等高價值、低污染的潛力產業在宜蘭落地生根",
+          "sourceUrl": "https://udn.com/news/story/124652/9773877",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每半年召集中小企業及微型雇主，協助理解法規",
+          "sourceUrl": "https://udn.com/news/story/124652/9471662",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yilan-01-safety",
+      "candidateId": "yilan-01",
+      "domainId": "safety",
+      "points": [
+        "20 個高風險路口上下學時段派義交協勤，每小時 200 元，預算約 160 萬元",
+        "專責校安人員先在 30 所高風險學校試辦，全縣 115 校全面實施約需 4,215 萬元",
+        "校園圍牆、屋頂、游泳池等處加裝有影像辨識的 AI 電子圍籬",
+        "上下學時段學校周邊禁行大型車輛"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "第一階段將針對全縣20個高風險路口實施，以每小時200元協勤費計算，預算約需160萬元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5465824",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "全縣115所學校若全面實施，經費約需4215萬元，初期會先由30所高風險學校試辦",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5465824",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來縣府將主動盤點各校通勤熱區，於上下學時段嚴格禁止大型車輛通行",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5465824",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "政策最後一環為裝設「AI電子圍籬」",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5465824",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yilan-01-culture",
+      "candidateId": "yilan-01",
+      "domainId": "culture",
+      "points": [
+        "升級體育館等場館，做成不分晴雨都能用的運動與展演空間",
+        "升級安農溪輕艇激流訓練基地，結合觀光發展水域運動",
+        "由縣府協助休閒農業區異業結盟，包成套裝遊程向北部縣市行銷",
+        "培養會講在地文史的導覽人員，推夜間生態與夜市遊程，讓遊客多住一晚",
+        "擴大辦理蘭陽媽祖文化節"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "升級宜蘭運動公園體育館等場館",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5568420",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "升級輕艇激流標桿訓練基地",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5568420",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "主動協助休閒農業區異業結盟，組合包裝有趣好玩的套裝遊程",
+          "sourceUrl": "https://udn.com/news/story/124652/9788688",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "培養熟悉鄉土文史、會講故事的人，透過專業導覽解說豐富遊程景點",
+          "sourceUrl": "https://udn.com/news/story/124652/9788688",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "他將持續舉辦，並擴大辦理蘭陽媽祖文化節",
+          "sourceUrl": "https://udn.com/news/story/124652/9783521",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yilan-01-governance",
+      "candidateId": "yilan-01",
+      "domainId": "governance",
+      "points": [
+        "每兩個月至少到原鄉住一次，和居民面對面",
+        "設高鐵建設資訊平台，重大交通建設進度即時公開",
+        "高鐵事務由副秘書長以上層級統籌跨局處、跨鄉鎮決策",
+        "倡議與雙北、基隆、桃園成立跨縣市共治平台，整合交通、環境與生活圈"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "承諾每兩個月至少到原鄉住一次，與鄉親面對面交流",
+          "sourceUrl": "https://udn.com/news/story/124652/9751554",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建立常態性的高鐵專屬資訊平台，追蹤所有重大交通建設進度即時公開",
+          "sourceUrl": "https://udn.com/news/story/124652/9667746",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "指派一名副秘書長以上層級親自統籌跨局處、跨鄉鎮直接聯繫與決策",
+          "sourceUrl": "https://udn.com/news/story/124652/9667746",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "倡議成立「北北基桃宜縣市共享共治平台」",
+          "sourceUrl": "https://udn.com/news/story/124652/9390566",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yilan-01-housing",
+      "candidateId": "yilan-01",
+      "domainId": "housing",
+      "points": [
+        "調查原住民居住需求後擇地興建原住民社會住宅，供符合資格的家庭申請",
+        "車站、轉運站與高鐵站周邊以都更和法規鬆綁，引進醫療、長照、托育與商場"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "由宜蘭縣政府調查居住需求，依照族人就業、就學、生活需要，評估適當地點興建原民社會住宅",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5535886",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "以車站、轉運站、未來高鐵站為節點，透過都更及法規鬆綁，導入醫療、長照、托育、商場",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5561124",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yilan-01-agriculture",
+      "candidateId": "yilan-01",
+      "domainId": "agriculture",
+      "points": [
+        "學校營養午餐與長青食堂優先採購在地農產品",
+        "協助五結花生建立品牌、拓展通路",
+        "與雲嘉南高屏成立農業策略聯盟，交流農漁業資源",
+        "高經濟農作與在地品牌米優先行銷到結盟的北部縣市"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動學校營養午餐、長青食堂優先採購在地農產品，同時協助五結花生建立品牌、拓展行銷通路",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5483813",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "串聯雲嘉南高屏，成立「農業策略聯盟陣線」",
+          "sourceUrl": "https://udn.com/news/story/124652/9390566",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來宜蘭高經濟農作與宜蘭嚴選米，將會優先行銷結盟的北區各縣市",
+          "sourceUrl": "https://udn.com/news/story/124652/9773877",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yilan-02-welfare",
+      "candidateId": "yilan-02",
+      "domainId": "welfare",
+      "points": [
+        "65 歲以上敬老卡每月 1,000 點、可跨月累積，可用於公車、計程車、台鐵、看診與合作店家",
+        "第一胎生育津貼由 2 萬元提高到 3 萬元，另提供 3 萬元凍卵補助",
+        "65 歲以上帶狀皰疹疫苗補助 3,000 元；弱勢族群健保費全額補助",
+        "55 歲以上原住民健保費全額補助"
+      ],
+      "strictPoints": [
+        "幼童掛號費補助",
+        "提高生育津貼",
+        "疫苗與健保補助"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "國漳提出幼童掛號費補助、生育津貼提高、營養午餐精進、疫苗補助、健保補助與新住民關懷。",
+          "sourceUrl": "https://2026openchang.tw/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每月固定匯入1000點，採「當月未用完可跨月累積、年度結算」彈性",
+          "sourceUrl": "https://udn.com/news/story/124652/9632311",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "縣級第一胎生育津貼從2萬元加碼到3萬元，並提供3萬元凍卵補助與孕婦高風險疾病篩檢",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5480252",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "同時提供65歲以上長者3000元帶狀皰疹（皮蛇）疫苗補助、全額補助弱勢族群的健保費",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5529500",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並推動55歲以上原住民健保費全額補助",
+          "sourceUrl": "https://udn.com/news/story/7328/9493517",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yilan-02-health",
+      "candidateId": "yilan-02",
+      "domainId": "health",
+      "points": [
+        "0 到 6 歲掛號費補助每年 10 次：門診每次上限 100 元、急診 200 元，年預算約 2,400 萬元",
+        "社區據點增設長者運動器材與師資，做防跌、增肌訓練",
+        "落實長照 3.0，強化原鄉文化健康站"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "每年補助10次，每次門診補助上限100元、急診200元",
+          "sourceUrl": "https://udn.com/news/story/124652/9267570",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "預算約為每年2400萬元",
+          "sourceUrl": "https://udn.com/news/story/124652/9267570",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "在縣內社區據點增設專屬運動器材與師資，帶領長輩作防跌、增肌訓練",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5529500",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "主張落實長照3.0，強化文化健康站功能",
+          "sourceUrl": "https://udn.com/news/story/7328/9493517",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yilan-02-education",
+      "candidateId": "yilan-02",
+      "domainId": "education",
+      "points": [
+        "延續免費營養午餐，成立縣級精進委員會，每校補助 15 萬元更新保溫設備",
+        "設教師法律與輔導管教支持系統；成立行政減量小組並導入 AI",
+        "分年補足國小平板缺口，成立 AI 與 STEAM 教育中心",
+        "把在地特色編進教材；推動六大特色技職學群銜接在地就業",
+        "社會住宅一律附設公托，延長 12 鄉鎮市親子館收托時間"
+      ],
+      "strictPoints": [
+        "精進營養午餐",
+        "升級校園環境，打造兒童探索空間"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "國漳提出幼童掛號費補助、生育津貼提高、營養午餐精進、疫苗補助、健保補助與新住民關懷。",
+          "sourceUrl": "https://2026openchang.tw/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "打造探索空間、升級校園環境、提供安心照護",
+          "sourceUrl": "https://2026openchang.tw/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "成立「縣級營養午餐精進委員會」",
+          "sourceUrl": "https://udn.com/news/story/124652/9584149",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "祭出每校補助15萬元更新保溫設備、優先選用有機食材",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5569422",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來會創立「教師法律與輔導管教支持系統」，提供校安事件諮詢，並成立行政減量小組，導入AI系統減輕負擔",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5569422",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "他承諾分年補足國小平板缺口，成立AI與STEAM教育中心",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5569422",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並推動六大特色技職學群",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5569422",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "主張社宅強制標配公托、延長全縣12鄉鎮市親子館收托時間",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5480252",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yilan-02-housing",
+      "candidateId": "yilan-02",
+      "domainId": "housing",
+      "points": [
+        "興建 400 戶社會住宅，供青年婚育家庭入住",
+        "推動大羅東區段徵收，並整體規劃羅東鎮公所前方空間",
+        "原鄉結合農村再生與土地重劃，完善公共設施與住宅"
+      ],
+      "strictPoints": [
+        "興建 400 戶社會住宅"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "因此我們承諾400戶社會住宅",
+          "sourceUrl": "https://2026openchang.tw/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "另搭配4百戶青年婚育宅、托育及長照福利",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5560811",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "要推動大羅東區段徵收",
+          "sourceUrl": "https://news.ltn.com.tw/news/life/paper/1773590",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "結合農村再生與土地重劃工程，完善公共設施與住宅空間",
+          "sourceUrl": "https://udn.com/news/story/7328/9493517",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yilan-02-youth",
+      "candidateId": "yilan-02",
+      "domainId": "youth",
+      "points": [
+        "打造創業創意基地",
+        "青年就業加碼補助",
+        "提升青年參與決策的機制"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "打造創業創意基地、青年就業加碼補助以及提升青年決策機制",
+          "sourceUrl": "https://2026openchang.tw/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yilan-02-culture",
+      "candidateId": "yilan-02",
+      "domainId": "culture",
+      "points": [
+        "4 年內完成淺山長程步道踏查定線，建山屋、營地與補給系統，爭取列為國家級綠道",
+        "爭取符合職棒規格的球場，落實績優選手與教練獎勵",
+        "研議一日文化假讓學生參與祭典；歌仔戲進校園",
+        "爭取主辦台灣設計展、創辦國際底片影展；以丸山遺址爭取設東部考古研究中心",
+        "推動蘇澳到日本石垣島的海上航線，串聯頭城到南澳海岸發展海洋觀光"
+      ],
+      "strictPoints": [
+        "完善室內運動場館，精進選手培育制度",
+        "推動客家文化、產業與科技再生"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "完善室內場館、精進培育選手制度、提升健康競爭力",
+          "sourceUrl": "https://2026openchang.tw/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "全面推動宜蘭客家底蘊再生",
+          "sourceUrl": "https://2026openchang.tw/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "承諾上任4年內成立縣府專案辦公室，完成全線踏查定線",
+          "sourceUrl": "https://udn.com/news/story/124652/9610203",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "爭取納入全台第八條國家級綠道",
+          "sourceUrl": "https://udn.com/news/story/124652/9610203",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "爭取符合中職規格的球場",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5568420",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "承諾落實績優運動選手與教練獎勵制度",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5568420",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "他更研議實施一日文化假",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5555231",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "爭取主辦台灣設計展，並創辦蘭陽國際底片影展暨電影節",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5555231",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "以丸山遺址為核心，爭取設立東部考古研究中心",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5555231",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並推動蘇澳與日本石垣島之間的國際藍色公路",
+          "sourceUrl": "https://udn.com/news/story/124652/9553109",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yilan-02-agriculture",
+      "candidateId": "yilan-02",
+      "domainId": "agriculture",
+      "points": [
+        "農業保險與天然災害救助並行，最高補助 95%，首次投保者加碼補助",
+        "有機農地面積倍增到 2,000 公頃，農藥減半",
+        "專案收購老舊漁船讓高齡漁民退休；編預算升級漁港冷鏈與產銷設備",
+        "找交通便利的地點興建農產展售與交流平台"
+      ],
+      "strictPoints": [
+        "農業保險與天然災害救助並行，最高補助 95%",
+        "農藥減半、擴大有機耕作"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動農業保險與天然災害救助雙軌並行，最高補助95%。",
+          "sourceUrl": "https://2026openchang.tw/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "農藥減半、擴大有機耕作、建立品牌信任",
+          "sourceUrl": "https://2026openchang.tw/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "針對首辦農保戶加碼補助，同時力拚有機農地面積翻倍至2000公頃",
+          "sourceUrl": "https://udn.com/news/story/124652/9565925",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "拋出「老舊漁船專案收購」等政見",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5556107",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "承諾會編列預算改善漁港硬體，升級產銷與冷鏈設備",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5556107",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "全力打造一座具規模、便利且兼具現代化行銷功能的「宜蘭農產展售與交流平台」",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5545724",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yilan-02-environment",
+      "candidateId": "yilan-02",
+      "domainId": "environment",
+      "points": [
+        "8 年投入 20 億元，打造 300 座微型森林、種 100 萬棵樹",
+        "8 年內污水接管率由 34% 提高到 75%、新增 8 萬戶接管",
+        "新增頭城、礁溪、三星、蘇澳、南澳 5 處水資源處理系統，河川污染指標降到 2 以下",
+        "五十二甲濕地核心私有地分年徵收，其餘推友善農業生態補貼並檢討保護區範圍",
+        "成立綠政小組，修訂城市綠化規範"
+      ],
+      "strictPoints": [
+        "打造 300 座微型森林",
+        "成立綠政小組，修訂城市綠化規範"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "打造300座微型森林",
+          "sourceUrl": "https://2026openchang.tw/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "修訂城市綠化規範",
+          "sourceUrl": "https://2026openchang.tw/",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "主打8年投入20億元打造300座微型森林與百萬植樹",
+          "sourceUrl": "https://udn.com/news/story/124652/9368400",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "承諾8年內將全縣汙水接管率從現行34%提升至75%",
+          "sourceUrl": "https://udn.com/news/story/124652/9480985",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來8年將新增8萬戶",
+          "sourceUrl": "https://udn.com/news/story/124652/9480985",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將新增頭城、礁溪、三星、蘇澳及南澳系統",
+          "sourceUrl": "https://udn.com/news/story/124652/9480985",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "其汙染指標降至2以下",
+          "sourceUrl": "https://udn.com/news/story/124652/9480985",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "拋出「分年徵收核心私有地」等3大解方",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5570687",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "包括推動友善農業爭取生態補貼保障農民經濟，以及重新檢討保護區範圍",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5570687",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yilan-02-safety",
+      "candidateId": "yilan-02",
+      "domainId": "safety",
+      "points": [
+        "8 年內在溪洲、武淵、大閘門等地新增 10 座抽水站",
+        "300 座微型森林兼作社區滯洪；補助農民加高田埂做田間滯洪",
+        "配合中央推進蘇澳溪分洪工程，加速新馬地區抽水站與市區雨水下水道",
+        "羅東防洪標準提高到 50 年",
+        "研議補助汰換老舊電線，降低火災風險"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "下游則承諾8年內在溪洲、武淵及大閘門等關鍵地區新增10座抽水站",
+          "sourceUrl": "https://udn.com/news/story/124652/9480985",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "規劃300座「微型森林」作為社區水撲滿，並補助農民增高田埂以達成「田間滯洪」",
+          "sourceUrl": "https://udn.com/news/story/124652/9480985",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "上任後將配合中央推進「蘇澳溪分洪工程」，並加速新馬地區抽水站設置與市區雨水下水道系統的全面優化",
+          "sourceUrl": "https://udn.com/news/story/124652/9585947",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將防洪提升至五十年標準",
+          "sourceUrl": "https://news.ltn.com.tw/news/life/paper/1773590",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "研議由政府補助老舊電線汰換，降低火災風險",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5595092",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yilan-02-transport",
+      "candidateId": "yilan-02",
+      "domainId": "transport",
+      "points": [
+        "爭取台 62 線由瑞芳經頭城、礁溪延伸到冬山、蘇澳，讓大貨車有路可走",
+        "完備頭城、礁溪、宜蘭、羅東、蘇澳 5 大轉運站，整合公車、小黃公車與公共自行車",
+        "爭取增設國道 5 號冬山交流道",
+        "羅東推鐵路高架捷運化、新闢直通傳藝路的高鐵聯絡幹道、國華國中地下停車場",
+        "優化公車系統並加碼月票補貼"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "爭取台62線從瑞芳延伸，跨越頭城、礁溪，他更主張應進一步拉長至冬山與蘇澳，串聯在地工業區",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5543355",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "另全面優化頭城、礁溪、宜蘭、羅東、蘇澳等5大轉運站接駁路網，整合大眾運輸、小黃公車與YouBike",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5590362",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "他承諾全力爭取增設國道五號冬山交流道",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1763740",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "新闢直通傳藝路的高鐵快幹道、增設國華國中地下停車場",
+          "sourceUrl": "https://news.ltn.com.tw/news/life/paper/1773590",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "另透過優化公車系統與加碼月票補貼",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5560811",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yilan-02-economy",
+      "candidateId": "yilan-02",
+      "domainId": "economy",
+      "points": [
+        "建平台協助農林漁牧與旅宿業導入 AI、解決缺工；升級縣內 18 個工業區",
+        "發展無人機等載具的商業測試與驗證場域",
+        "爭取中研院進駐高鐵特區，承接南港生技園區外溢的產業",
+        "公共採購評分獎勵願意加薪或育兒友善的企業",
+        "輪班、夜間與長工時勞工加碼補助 3,000 元健檢費；興建勞工活動中心"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "解決農林漁牧與旅宿業缺工問題，協助在地產業AI數位轉型，同步升級境內18個工業區",
+          "sourceUrl": "https://udn.com/news/story/124652/9773877",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "打造無人機等載具的商業測試、驗證重鎮",
+          "sourceUrl": "https://udn.com/news/story/124652/9773877",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將爭取中研院進駐高鐵特區，串聯宜大與宜科研發能量，承接南港生技園區的外溢效應",
+          "sourceUrl": "https://udn.com/news/story/124652/9773877",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來縣府將透過公共採購評分機制，實質獎勵願意加薪或具備育兒友善環境的企業",
+          "sourceUrl": "https://udn.com/news/story/124652/9565925",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "針對輪班、夜間及長工時勞工加碼補助3000元健檢費用",
+          "sourceUrl": "https://udn.com/news/story/124652/9565925",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "更承諾興建專屬的勞工活動中心",
+          "sourceUrl": "https://udn.com/news/story/124652/9565925",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "yilan-02-governance",
+      "candidateId": "yilan-02",
+      "domainId": "governance",
+      "points": [
+        "定期在縣府面見民眾，聽陳情與地方需求",
+        "高鐵特定區設統一公開資訊平台，確保徵收補償合理分配",
+        "礦業、地熱、觀光開發須落實原住民族的參與和知情同意",
+        "縣府團隊增加女性入閣比例"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將定期安排時間在縣府面見鄉親，傾聽急難陳情與地方需求",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5590362",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "允諾未來設立統一公開資訊平台，確保徵收補償合理分配",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5526958",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "皆須建立並落實族人的參與及「知情同意」機制",
+          "sourceUrl": "https://udn.com/news/story/7328/9493517",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "縣府團隊增加女性入閣比例",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5480252",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "countyId": "demo",
+  "asOf": "2026-10-07",
+  "note": "虛構示範資料，候選人與政見皆非真實。",
+  "cards": [
+    {
+      "id": "demo-01-transport",
+      "candidateId": "demo-01",
+      "domainId": "transport",
+      "points": [
+        "尖峰時段公車班距縮短到 8 分鐘內",
+        "四年新增 20 公里人行道",
+        "學區周邊全面降速到時速 30 公里"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "我承諾四年內讓尖峰公車班距縮到八分鐘以內，並新增二十公里人行道，學區周邊一律降速三十。",
+          "sourceUrl": "https://example.org/demo/demo-01",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "demo-01-housing",
+      "candidateId": "demo-01",
+      "domainId": "housing",
+      "points": [
+        "四年興建 3,000 戶社會住宅",
+        "租金補貼擴大到單身青年"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "當選後四年興建三千戶社會住宅，租金補貼也會擴大到單身青年。",
+          "sourceUrl": "https://example.org/demo/demo-01",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "demo-01-education",
+      "candidateId": "demo-01",
+      "domainId": "education",
+      "points": [
+        "每個行政區至少一座公共托育中心",
+        "國小課後照顧延長到晚上七點"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "每一個行政區至少要有一座公共托育中心，國小課後照顧延長到晚上七點。",
+          "sourceUrl": "https://example.org/demo/demo-01",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "demo-01-health",
+      "candidateId": "demo-01",
+      "domainId": "health",
+      "points": [
+        "日照中心增加到每個里都走得到",
+        "獨居長輩每週一次到宅關懷"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "我要讓日照中心多到每個里都走得到，獨居長輩每週有人到家裡關心。",
+          "sourceUrl": "https://example.org/demo/demo-01",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "demo-01-environment",
+      "candidateId": "demo-01",
+      "domainId": "environment",
+      "points": [
+        "垃圾車改為定點定時加夜間收運",
+        "每年種 1 萬棵行道樹"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "垃圾收運增加夜間定點，每年種一萬棵行道樹。",
+          "sourceUrl": "https://example.org/demo/demo-01",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "demo-01-safety",
+      "candidateId": "demo-01",
+      "domainId": "safety",
+      "points": [
+        "易淹水路段兩年內完成排水改善",
+        "路口監視器全面汰換"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "易淹水路段兩年內完成排水改善，路口監視器全面汰換。",
+          "sourceUrl": "https://example.org/demo/demo-01",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "demo-01-governance",
+      "candidateId": "demo-01",
+      "domainId": "governance",
+      "points": [
+        "市府預算逐筆上網公開",
+        "陳情案件七天內回覆"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "市府預算逐筆上網公開，陳情案件七天內一定回覆。",
+          "sourceUrl": "https://example.org/demo/demo-01",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "demo-01-youth",
+      "candidateId": "demo-01",
+      "domainId": "youth",
+      "points": [
+        "青年創業第一年免租金進駐",
+        "市府實習名額加倍"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "青年創業第一年免租金進駐市有空間，市府實習名額加倍。",
+          "sourceUrl": "https://example.org/demo/demo-01",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "demo-02-transport",
+      "candidateId": "demo-02",
+      "domainId": "transport",
+      "points": [
+        "規劃第一條輕軌並於任內動工",
+        "增設 5,000 格路外停車位"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "任內一定讓第一條輕軌動工，並增設五千格路外停車位。",
+          "sourceUrl": "https://example.org/demo/demo-02",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "demo-02-housing",
+      "candidateId": "demo-02",
+      "domainId": "housing",
+      "points": [
+        "推動老屋重建，容積獎勵加碼",
+        "市有地優先釋出給青年宅"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "老屋重建的容積獎勵要加碼，市有地優先釋出蓋青年宅。",
+          "sourceUrl": "https://example.org/demo/demo-02",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "demo-02-economy",
+      "candidateId": "demo-02",
+      "domainId": "economy",
+      "points": [
+        "成立招商單一窗口，三十天內核准",
+        "爭取設立科技產業園區"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "成立招商單一窗口，三十天內核准，並爭取設立科技產業園區。",
+          "sourceUrl": "https://example.org/demo/demo-02",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "demo-02-culture",
+      "candidateId": "demo-02",
+      "domainId": "culture",
+      "points": [
+        "興建可容納一萬人的室內展演場館",
+        "每季舉辦一場城市節慶"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "我會興建一座一萬人的室內展演場館，每季辦一場城市節慶。",
+          "sourceUrl": "https://example.org/demo/demo-02",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "demo-02-safety",
+      "candidateId": "demo-02",
+      "domainId": "safety",
+      "points": [
+        "成立打詐專責隊",
+        "防災公園每區一座"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "成立打詐專責隊，防災公園每區一座。",
+          "sourceUrl": "https://example.org/demo/demo-02",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "demo-02-welfare",
+      "candidateId": "demo-02",
+      "domainId": "welfare",
+      "points": [
+        "身心障礙者交通補助加倍",
+        "增聘 100 名社工"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "身心障礙者交通補助加倍，社工增聘一百名。",
+          "sourceUrl": "https://example.org/demo/demo-02",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "demo-02-education",
+      "candidateId": "demo-02",
+      "domainId": "education",
+      "points": [
+        "國中小全面裝設空氣清淨設備",
+        "營養午餐食材在地採購"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "國中小全面裝設空氣清淨設備，營養午餐食材在地採購。",
+          "sourceUrl": "https://example.org/demo/demo-02",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "demo-03-transport",
+      "candidateId": "demo-03",
+      "domainId": "transport",
+      "points": [
+        "市區公車全面免費"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "我只有一個主張：市區公車全面免費。",
+          "sourceUrl": "https://example.org/demo/demo-03",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "demo-03-environment",
+      "candidateId": "demo-03",
+      "domainId": "environment",
+      "points": [
+        "全市禁用一次性塑膠餐具",
+        "河岸全面開放親水"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "全市禁用一次性塑膠餐具，河岸全面開放親水。",
+          "sourceUrl": "https://example.org/demo/demo-03",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "demo-03-agriculture",
+      "candidateId": "demo-03",
+      "domainId": "agriculture",
+      "points": [
+        "成立在地農產直銷平台",
+        "天災補助七天內發放"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "成立在地農產直銷平台，天災補助七天內發放。",
+          "sourceUrl": "https://example.org/demo/demo-03",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

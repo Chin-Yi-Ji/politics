@@ -1,0 +1,142 @@
+[
+  {
+    "id": "taipei",
+    "name": "臺北市",
+    "type": "直轄市",
+    "status": "ready-extended"
+  },
+  {
+    "id": "new-taipei",
+    "name": "新北市",
+    "type": "直轄市",
+    "status": "ready"
+  },
+  {
+    "id": "taoyuan",
+    "name": "桃園市",
+    "type": "直轄市",
+    "status": "ready-extended"
+  },
+  {
+    "id": "taichung",
+    "name": "臺中市",
+    "type": "直轄市",
+    "status": "ready"
+  },
+  {
+    "id": "tainan",
+    "name": "臺南市",
+    "type": "直轄市",
+    "status": "ready-extended"
+  },
+  {
+    "id": "kaohsiung",
+    "name": "高雄市",
+    "type": "直轄市",
+    "status": "ready"
+  },
+  {
+    "id": "keelung",
+    "name": "基隆市",
+    "type": "市",
+    "status": "ready-extended"
+  },
+  {
+    "id": "hsinchu-city",
+    "name": "新竹市",
+    "type": "市",
+    "status": "ready-extended"
+  },
+  {
+    "id": "hsinchu-county",
+    "name": "新竹縣",
+    "type": "縣",
+    "status": "ready-extended"
+  },
+  {
+    "id": "miaoli",
+    "name": "苗栗縣",
+    "type": "縣",
+    "status": "ready-extended"
+  },
+  {
+    "id": "changhua",
+    "name": "彰化縣",
+    "type": "縣",
+    "status": "ready-extended"
+  },
+  {
+    "id": "nantou",
+    "name": "南投縣",
+    "type": "縣",
+    "status": "ready-extended"
+  },
+  {
+    "id": "yunlin",
+    "name": "雲林縣",
+    "type": "縣",
+    "status": "ready-extended"
+  },
+  {
+    "id": "chiayi-county",
+    "name": "嘉義縣",
+    "type": "縣",
+    "status": "ready-extended"
+  },
+  {
+    "id": "chiayi-city",
+    "name": "嘉義市",
+    "type": "市",
+    "status": "ready-extended"
+  },
+  {
+    "id": "pingtung",
+    "name": "屏東縣",
+    "type": "縣",
+    "status": "ready-extended"
+  },
+  {
+    "id": "yilan",
+    "name": "宜蘭縣",
+    "type": "縣",
+    "status": "ready"
+  },
+  {
+    "id": "hualien",
+    "name": "花蓮縣",
+    "type": "縣",
+    "status": "ready-extended"
+  },
+  {
+    "id": "taitung",
+    "name": "臺東縣",
+    "type": "縣",
+    "status": "ready-extended"
+  },
+  {
+    "id": "penghu",
+    "name": "澎湖縣",
+    "type": "縣",
+    "status": "ready-extended"
+  },
+  {
+    "id": "kinmen",
+    "name": "金門縣",
+    "type": "縣",
+    "status": "ready-extended"
+  },
+  {
+    "id": "lienchiang",
+    "name": "連江縣",
+    "type": "縣",
+    "status": "collecting",
+    "pendingNote": "兩位候選人目前都只提出方向性的主張，具體政見待選舉公報公布後補上。"
+  },
+  {
+    "id": "demo",
+    "name": "示範市",
+    "type": "示範",
+    "status": "ready",
+    "demo": true
+  }
+]

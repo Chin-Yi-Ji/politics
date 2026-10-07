@@ -1,0 +1,922 @@
+[
+  {
+    "id": "taipei-01",
+    "countyId": "taipei",
+    "name": "蔣萬安",
+    "party": "中國國民黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "taipei-02",
+    "countyId": "taipei",
+    "name": "沈伯洋",
+    "party": "民主進步黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "taipei-03",
+    "countyId": "taipei",
+    "name": "郭璽",
+    "party": "台灣麻將最大黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "taipei-04",
+    "countyId": "taipei",
+    "name": "蕭文乾",
+    "party": "臺灣SoR無法黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "taipei-05",
+    "countyId": "taipei",
+    "name": "唐新民",
+    "party": "三勢團結促進聯盟",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ],
+    "note": "公視名單有列、TVBS 名單未列，待中選會公告核對"
+  },
+  {
+    "id": "taipei-06",
+    "countyId": "taipei",
+    "name": "林志成",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "new-taipei-01",
+    "countyId": "new-taipei",
+    "name": "李四川",
+    "party": "中國國民黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "new-taipei-02",
+    "countyId": "new-taipei",
+    "name": "蘇巧慧",
+    "party": "民主進步黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "new-taipei-03",
+    "countyId": "new-taipei",
+    "name": "蘇輝湟",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "taoyuan-01",
+    "countyId": "taoyuan",
+    "name": "張善政",
+    "party": "中國國民黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "taoyuan-02",
+    "countyId": "taoyuan",
+    "name": "黃世杰",
+    "party": "民主進步黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "taichung-01",
+    "countyId": "taichung",
+    "name": "江啓臣",
+    "party": "中國國民黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ],
+    "note": "TVBS 寫作「江啟臣」"
+  },
+  {
+    "id": "taichung-02",
+    "countyId": "taichung",
+    "name": "何欣純",
+    "party": "民主進步黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "taichung-03",
+    "countyId": "taichung",
+    "name": "洪麗華",
+    "party": "司法正義黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "tainan-01",
+    "countyId": "tainan",
+    "name": "謝龍介",
+    "party": "中國國民黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "tainan-02",
+    "countyId": "tainan",
+    "name": "陳亭妃",
+    "party": "民主進步黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "tainan-03",
+    "countyId": "tainan",
+    "name": "葉人文",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "tainan-04",
+    "countyId": "tainan",
+    "name": "蕭燐洪",
+    "party": "臺灣SoR無法黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "kaohsiung-01",
+    "countyId": "kaohsiung",
+    "name": "柯志恩",
+    "party": "中國國民黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "kaohsiung-02",
+    "countyId": "kaohsiung",
+    "name": "賴瑞隆",
+    "party": "民主進步黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "kaohsiung-03",
+    "countyId": "kaohsiung",
+    "name": "張靜",
+    "party": "司法改革黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "kaohsiung-04",
+    "countyId": "kaohsiung",
+    "name": "王肇民",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "kaohsiung-05",
+    "countyId": "kaohsiung",
+    "name": "洪方隆",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "keelung-01",
+    "countyId": "keelung",
+    "name": "謝國樑",
+    "party": "中國國民黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "keelung-02",
+    "countyId": "keelung",
+    "name": "童子瑋",
+    "party": "民主進步黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "keelung-03",
+    "countyId": "keelung",
+    "name": "魏造文",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "hsinchu-city-01",
+    "countyId": "hsinchu-city",
+    "name": "高虹安",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "hsinchu-city-02",
+    "countyId": "hsinchu-city",
+    "name": "莊競程",
+    "party": "民主進步黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "hsinchu-city-03",
+    "countyId": "hsinchu-city",
+    "name": "何志勇",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "hsinchu-county-01",
+    "countyId": "hsinchu-county",
+    "name": "徐欣瑩",
+    "party": "中國國民黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "hsinchu-county-02",
+    "countyId": "hsinchu-county",
+    "name": "鄭朝方",
+    "party": "民主進步黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "hsinchu-county-03",
+    "countyId": "hsinchu-county",
+    "name": "朱定瑀",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "miaoli-01",
+    "countyId": "miaoli",
+    "name": "鍾東錦",
+    "party": "中國國民黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "miaoli-02",
+    "countyId": "miaoli",
+    "name": "陳品安",
+    "party": "民主進步黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "changhua-01",
+    "countyId": "changhua",
+    "name": "魏平政",
+    "party": "中國國民黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "changhua-02",
+    "countyId": "changhua",
+    "name": "陳素月",
+    "party": "民主進步黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "changhua-03",
+    "countyId": "changhua",
+    "name": "邱建富",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "changhua-04",
+    "countyId": "changhua",
+    "name": "陳重嘉",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "nantou-01",
+    "countyId": "nantou",
+    "name": "許淑華",
+    "party": "中國國民黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "nantou-02",
+    "countyId": "nantou",
+    "name": "溫世政",
+    "party": "民主進步黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ],
+    "note": "TVBS 寫作「温世政」"
+  },
+  {
+    "id": "yunlin-01",
+    "countyId": "yunlin",
+    "name": "張嘉郡",
+    "party": "中國國民黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "yunlin-02",
+    "countyId": "yunlin",
+    "name": "劉建國",
+    "party": "民主進步黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "yunlin-03",
+    "countyId": "yunlin",
+    "name": "吳炳輝",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "yunlin-04",
+    "countyId": "yunlin",
+    "name": "林佳瑜",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "chiayi-county-01",
+    "countyId": "chiayi-county",
+    "name": "蔡易餘",
+    "party": "民主進步黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "chiayi-county-02",
+    "countyId": "chiayi-county",
+    "name": "吳品叡",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "chiayi-city-01",
+    "countyId": "chiayi-city",
+    "name": "王美惠",
+    "party": "民主進步黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "chiayi-city-02",
+    "countyId": "chiayi-city",
+    "name": "張啓楷",
+    "party": "台灣民眾黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "chiayi-city-03",
+    "countyId": "chiayi-city",
+    "name": "黃宏成台灣阿成世界偉人財神總統",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ],
+    "note": "此為兩家媒體名單所載全名"
+  },
+  {
+    "id": "chiayi-city-04",
+    "countyId": "chiayi-city",
+    "name": "陳愷璜",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "chiayi-city-05",
+    "countyId": "chiayi-city",
+    "name": "王義成",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "pingtung-01",
+    "countyId": "pingtung",
+    "name": "蘇清泉",
+    "party": "中國國民黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "pingtung-02",
+    "countyId": "pingtung",
+    "name": "周春米",
+    "party": "民主進步黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "yilan-01",
+    "countyId": "yilan",
+    "name": "吳宗憲",
+    "party": "中國國民黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "yilan-02",
+    "countyId": "yilan",
+    "name": "林國漳",
+    "party": "民主進步黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "yilan-03",
+    "countyId": "yilan",
+    "name": "陳宏毅",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "yilan-04",
+    "countyId": "yilan",
+    "name": "劉燦輝",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "yilan-05",
+    "countyId": "yilan",
+    "name": "楊鉯婷",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "hualien-01",
+    "countyId": "hualien",
+    "name": "游淑貞",
+    "party": "中國國民黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "hualien-02",
+    "countyId": "hualien",
+    "name": "張峻",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "hualien-03",
+    "countyId": "hualien",
+    "name": "魏嘉賢",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "hualien-04",
+    "countyId": "hualien",
+    "name": "羅佩秦",
+    "party": "台灣工黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "taitung-01",
+    "countyId": "taitung",
+    "name": "吳秀華",
+    "party": "中國國民黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "taitung-02",
+    "countyId": "taitung",
+    "name": "陳瑩",
+    "party": "民主進步黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "taitung-03",
+    "countyId": "taitung",
+    "name": "王志偉",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "taitung-04",
+    "countyId": "taitung",
+    "name": "李吳穎智",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "penghu-01",
+    "countyId": "penghu",
+    "name": "陳振中",
+    "party": "中國國民黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "penghu-02",
+    "countyId": "penghu",
+    "name": "吳淑瑾",
+    "party": "民主進步黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "penghu-03",
+    "countyId": "penghu",
+    "name": "周倪安",
+    "party": "台灣團結聯盟",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ],
+    "note": "媒體名單寫作「台聯黨」"
+  },
+  {
+    "id": "penghu-04",
+    "countyId": "penghu",
+    "name": "許智富",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "penghu-05",
+    "countyId": "penghu",
+    "name": "陳盡川",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "penghu-06",
+    "countyId": "penghu",
+    "name": "葉竹林",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "kinmen-01",
+    "countyId": "kinmen",
+    "name": "陳玉珍",
+    "party": "中國國民黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "kinmen-02",
+    "countyId": "kinmen",
+    "name": "張火木",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "kinmen-03",
+    "countyId": "kinmen",
+    "name": "李文良",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "kinmen-04",
+    "countyId": "kinmen",
+    "name": "梁文韜",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "kinmen-05",
+    "countyId": "kinmen",
+    "name": "洪和成",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "kinmen-06",
+    "countyId": "kinmen",
+    "name": "黃世團",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "kinmen-07",
+    "countyId": "kinmen",
+    "name": "張國威",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "lienchiang-01",
+    "countyId": "lienchiang",
+    "name": "王忠銘",
+    "party": "中國國民黨",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "lienchiang-02",
+    "countyId": "lienchiang",
+    "name": "曹爾元",
+    "party": "無黨籍",
+    "ballotNumber": null,
+    "rosterSources": [
+      "https://news.pts.org.tw/article/801606",
+      "https://news.tvbs.com.tw/politics/4017384"
+    ]
+  },
+  {
+    "id": "demo-01",
+    "countyId": "demo",
+    "name": "候選人甲",
+    "party": "示範黨",
+    "ballotNumber": 1,
+    "rosterSources": []
+  },
+  {
+    "id": "demo-02",
+    "countyId": "demo",
+    "name": "候選人乙",
+    "party": "範例黨",
+    "ballotNumber": 2,
+    "rosterSources": []
+  },
+  {
+    "id": "demo-03",
+    "countyId": "demo",
+    "name": "候選人丙",
+    "party": "無黨籍",
+    "ballotNumber": 3,
+    "rosterSources": []
+  }
+]

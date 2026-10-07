@@ -1,0 +1,622 @@
+{
+  "countyId": "taitung",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "taitung-01-health",
+      "candidateId": "taitung-01",
+      "domainId": "health",
+      "points": [
+        "加速開發樂齡健康長照園區，公私協力活化國有土地",
+        "護理人員留任補助與獎勵，興建醫護宿舍並改善托育",
+        "離島強化衛生所，用 5G 遠距醫療搭配專科醫師巡迴，完善急重症後送",
+        "建立整合醫療網與遠距醫療平台，健康 App 導入 AI 風險預測",
+        "擴充長照與文化健康站據點並落實服務抽查，建立時間銀行互助人力"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "開發計畫，公私協力活化國有土地",
+          "sourceUrl": "https://udn.com/news/story/124652/9739873",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動臨床護理人員留任補助與獎勵機制，興建醫護宿舍、改善工作環境與托育問題",
+          "sourceUrl": "https://udn.com/news/story/124652/9740201",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "短期可優先強化離島衛生所功能，運用5G及遠距視訊醫療，搭配專科醫師巡迴服務，同時完善急重症後送機制",
+          "sourceUrl": "https://udn.com/news/story/124652/9743998",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "與遠距醫療服務平台，提升偏鄉醫療可近性與跨院協作",
+          "sourceUrl": "https://udn.com/news/story/124652/9740201",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "導入ＡＩ風險預測與健康提醒",
+          "sourceUrl": "https://udn.com/news/story/124652/9740201",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "擴充長照3.0與文化健康站據點網絡，落實服務抽查與品質監督機制",
+          "sourceUrl": "https://udn.com/news/story/124652/9739873",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建立時間銀行社區互助人力池",
+          "sourceUrl": "https://udn.com/news/story/124652/9740201",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taitung-01-education",
+      "candidateId": "taitung-01",
+      "domainId": "education",
+      "points": [
+        "英語學習向下延伸到幼兒教育，建構 AI 智慧教育示範縣",
+        "偏鄉師資招募、留任、培育三軌並行，逐年降低師生比",
+        "校園行政專業化並補強人力，減輕教師行政負擔",
+        "提高學校午餐在地食材比例，增加有機食材頻次並公開食材來源",
+        "技職教育與在地企業合作，建立產學與就業銜接機制"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "包括英語向下延伸至幼兒教育、建構AI智慧教育示範縣",
+          "sourceUrl": "https://udn.com/news/story/124652/9772660",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "偏鄉師資則提出「招募、留任、培育」三軌方案",
+          "sourceUrl": "https://udn.com/news/story/124652/9772660",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並承諾逐年降低師生比",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5583580",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "同時推動校園行政專業化並補強人力，減輕教師行政負擔",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5583580",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來將提高學校午餐採購在地食材比例",
+          "sourceUrl": "https://udn.com/news/story/124652/9772660",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並逐步增加有機及友善食材供餐頻次，強化食材來源及供餐資訊公開",
+          "sourceUrl": "https://udn.com/news/story/124652/9772660",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並主張深化技職教育與企業合作，建立產學及就業銜接機制",
+          "sourceUrl": "https://udn.com/news/story/124652/9772660",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taitung-01-safety",
+      "candidateId": "taitung-01",
+      "domainId": "safety",
+      "points": [
+        "建置智慧防災預警體系，整合氣象、雨量、水位、道路與災情資訊",
+        "長期淹水地區列為優先治水區，完整盤點排水系統與雨水下水道",
+        "研議補助民眾設置防水閘門、擋水板",
+        "增補消防人力，汰換老舊車輛與裝備，強化山域、水域搜救訓練",
+        "推動社區自主防災組織與防災教育"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "規畫建置智慧防災預警體系，整合氣象、雨量、水位、道路及災情資訊",
+          "sourceUrl": "https://udn.com/news/story/124652/9761157",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將列為優先處理的治水區域",
+          "sourceUrl": "https://udn.com/news/story/124652/9715566",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "針對排水系統、雨水下水道及易淹水區域進行完整盤點",
+          "sourceUrl": "https://udn.com/news/story/124652/9715566",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建議縣府研議補助民眾設置防水閘門、擋水板等防災設備",
+          "sourceUrl": "https://udn.com/news/story/124652/9715566",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "則提出增補消防人力、汰換老舊車輛及救災救護裝備，並強化山域、水域及特種搜救訓練",
+          "sourceUrl": "https://udn.com/news/story/124652/9761157",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來將推動自主防災組織及防災教育",
+          "sourceUrl": "https://udn.com/news/story/124652/9761157",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taitung-01-youth",
+      "candidateId": "taitung-01",
+      "domainId": "youth",
+      "points": [
+        "成立青年事務專責單位，整合就業、創業、住宅、育兒與人才培育資源"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來規畫成立青年事務專責單位，整合就業、創業、住宅、育兒及人才培育資源",
+          "sourceUrl": "https://udn.com/news/story/124652/9758524",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taitung-01-economy",
+      "candidateId": "taitung-01",
+      "domainId": "economy",
+      "points": [
+        "在既有觀光品牌與慢經濟基礎上升級，以觀光、農業、文化與地方創生串聯產業鏈"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將在既有觀光品牌、慢經濟及產業基礎上持續升級",
+          "sourceUrl": "https://udn.com/news/story/124652/9758524",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並透過觀光、農業、文化及地方創生串聯產業鏈",
+          "sourceUrl": "https://udn.com/news/story/124652/9758524",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taitung-02-health",
+      "candidateId": "taitung-02",
+      "domainId": "health",
+      "points": [
+        "離島設置醫院，南迴的緊急醫療照護中心升格為地區醫院",
+        "老舊衛生所全面翻修",
+        "外地就醫提供後送與交通補助，以及病友與家屬的諮詢支持",
+        "協助來服務的醫事人員安排交通、住宿與家屬生活，鼓勵退休醫事人員淡季來服務",
+        "推廣中醫與中草藥"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "主張蘭嶼設置醫院、大武緊急醫療照護中心升格南迴地區醫院",
+          "sourceUrl": "https://udn.com/news/story/124652/9740201",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "老舊衛生所全面翻修",
+          "sourceUrl": "https://udn.com/news/story/124652/9739873",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將提供後送及交通補助，以及病友與家屬所需的諮詢與支持服務",
+          "sourceUrl": "https://udn.com/news/story/124652/9740201",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "主張提供交通訂票、住宿安排、家屬生活與教育等資源資訊協助，鼓勵退休醫事人員",
+          "sourceUrl": "https://udn.com/news/story/124652/9740201",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推廣中醫、中草藥創造醫療與產業雙贏",
+          "sourceUrl": "https://udn.com/news/story/124652/9739873",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taitung-02-welfare",
+      "candidateId": "taitung-02",
+      "domainId": "welfare",
+      "points": [
+        "65 歲以上假牙補助最高 4 萬元，不排富，並派巡迴服務車到偏鄉",
+        "補助長者助聽器",
+        "全面推行具定位與健康偵測功能的智慧手環緊急通報",
+        "擴大坐月子補助，含月子餐與鄉村、部落到宅月子服務",
+        "主張設社區型共生之家：政府租用住宅、公辦民營，每處照顧 5 至 6 位長者"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將把現行假牙補助擴大至全縣65歲以上長者，最高補助4萬元",
+          "sourceUrl": "https://udn.com/news/story/124652/9607076",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "規劃巡迴服務車主動出擊",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5557835",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "三大福利補助方案，且全面擴及非原住民長者並實施不排富政策",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5557835",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "手環具備GPS定位與心跳、呼吸等健康偵測功能",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5557835",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來會在台東全面推行",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5557835",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提出擴大坐月子補助，包含月子餐及鄉村、部落到宅月子服務",
+          "sourceUrl": "https://udn.com/news/story/124652/9778996",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "由政府租用住宅、公辦民營方式，在社區住宅內照顧五至六位長者",
+          "sourceUrl": "https://news.ltn.com.tw/news/life/paper/1756443",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taitung-02-education",
+      "candidateId": "taitung-02",
+      "domainId": "education",
+      "points": [
+        "一鄉鎮一公托；利用國小附設幼兒園閒置空間設小型托嬰據點",
+        "重建偏鄉教職員宿舍，補助初任教師搬家與租屋，偏鄉服務滿 3 年給獎勵",
+        "建置 AI 行政平台、跨校共聘行政人員；補助教師 AI 工具與進修費用",
+        "推動跨縣市遊學團，縣府補助培訓母語師資",
+        "營養午餐增加在地農產與有機食材、增加營養師並公開午餐資訊"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "則以「一鄉鎮一公托」為基本目標",
+          "sourceUrl": "https://udn.com/news/story/124652/9778996",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "小型托嬰據點",
+          "sourceUrl": "https://news.ltn.com.tw/news/life/paper/1756443",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "除了盤點並重建偏鄉教職員宿舍、提供初任教師安居津貼外",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5583566",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "補助初任教師搬家、租屋費用，並對服務偏鄉滿3年的教師提供獎勵",
+          "sourceUrl": "https://udn.com/news/story/124652/9772660",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "行政方面則主張推動行政專業化、跨校共聘行政人員及AI行政平台",
+          "sourceUrl": "https://udn.com/news/story/124652/9772660",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並補助教師AI工具及進修費用",
+          "sourceUrl": "https://udn.com/news/story/124652/9772660",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "由縣府補助培訓母語師資",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5583566",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並支持提高有機及友善食材供餐頻次、增加營養師人數及公開午餐資訊",
+          "sourceUrl": "https://udn.com/news/story/124652/9772660",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taitung-02-culture",
+      "candidateId": "taitung-02",
+      "domainId": "culture",
+      "points": [
+        "爭取成為職棒春訓、國家隊移地訓練與水上、戶外運動基地",
+        "縣長召集跨局處運動發展委員會，整合、升級或新建各區運動場館",
+        "成立基金或寬列預算，提高選手參賽獎勵與補助",
+        "中央地方合作建音樂場館與人才基地，由縣府成立行政法人營運",
+        "提供錄音、混音到發行的設備與資源，舉辦原創音樂賽事"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將積極爭取讓台東成為職棒春訓、國家隊移地訓練、水上運動與戶外運動的勝地",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5568326",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "成立「運動發展委員會」",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5568326",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "縣府將全面整合、升級或新建運動場館設施",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5568326",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "透過成立基金或寬列預算，提升各級選手參加國內外賽事的獎勵與補助",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5568326",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "接著再由縣政府成立行政法人來營運",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5572305",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "從詞曲創作、編曲、錄音、混音到發行，提供音樂產業人才所需的設施設備及資源支持",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5572305",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taitung-02-housing",
+      "candidateId": "taitung-02",
+      "domainId": "housing",
+      "points": [
+        "提出青年購屋補助並加碼租金補貼"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來將提出購屋補助及加碼租金補貼構想，減輕青年居住負擔",
+          "sourceUrl": "https://udn.com/news/story/124652/9758524",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taitung-02-environment",
+      "candidateId": "taitung-02",
+      "domainId": "environment",
+      "points": [
+        "普查平地樹冠覆蓋率",
+        "打造遮蔭降溫、阻擋焚風的林蔭廊道",
+        "訂定耐風植栽標準，建立樹木戶口名簿",
+        "成立果園防風林服務隊，降低強風與颱風造成的農損"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "五項都市林政策包括平地樹冠覆蓋普查、打造「焚風涼廊」、建立「韌性植栽標準」、推動「果園防風林服務隊」及部落共管、建立「樹木戶口名簿」",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5595343",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "如何透過防風林降低農損",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5595343",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taitung-02-agriculture",
+      "candidateId": "taitung-02",
+      "domainId": "agriculture",
+      "points": [
+        "加強水利建設與農特產品電商行銷"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "並強調水利建設與農特產品電商行銷",
+          "sourceUrl": "https://udn.com/news/story/124652/9758524",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taitung-03-agriculture",
+      "candidateId": "taitung-03",
+      "domainId": "agriculture",
+      "points": [
+        "成立 100 架無人機隊代噴藥、撒肥，政府補助一半作業成本",
+        "成立農機合作社，結合中央與縣府補助，降低大型農機使用負擔",
+        "縣府購買熱帶水果新品種，免費授權縣民栽種"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "提出成立100架無人機隊，提供噴藥、撒肥代工作業，並由政府補助一半作業成本",
+          "sourceUrl": "https://udn.com/news/story/124652/9749859",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "另規畫成立農機合作社，結合農業部及縣府補助，降低農民使用大型農機的負擔",
+          "sourceUrl": "https://udn.com/news/story/124652/9749859",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "同時由縣府購買熱帶水果新品種，免費授權縣民栽種",
+          "sourceUrl": "https://udn.com/news/story/124652/9749859",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taitung-03-education",
+      "candidateId": "taitung-03",
+      "domainId": "education",
+      "points": [
+        "依學生性向引導投入理工、軍警、護理與農業領域",
+        "鼓勵就讀農校、投入在地農業"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "依學生不同性向與志向，引導投入理工、軍警、護理及農業等領域",
+          "sourceUrl": "https://udn.com/news/story/124652/9749859",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "其中並鼓勵就讀農校、投入在地農業",
+          "sourceUrl": "https://udn.com/news/story/124652/9749859",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taitung-04-governance",
+      "candidateId": "taitung-04",
+      "domainId": "governance",
+      "points": [
+        "簽廉政契約，承諾不買票、不賄選、不貪污",
+        "重大工程、會議與公共資產資訊公開",
+        "家人與關係人落實利益迴避"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "承諾不買票、不賄選、不貪污，重大工程、會議及公共資產資訊公開，家人及關係人也落實利益迴避",
+          "sourceUrl": "https://udn.com/news/story/124652/9749859",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taitung-04-welfare",
+      "candidateId": "taitung-04",
+      "domainId": "welfare",
+      "points": [
+        "長者假牙補助",
+        "學童免費鮮乳",
+        "偏鄉就醫交通補助"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "提出縣地自建、長者假牙補助、學童免費鮮乳、偏鄉就醫交通補助及弱勢照護等構想",
+          "sourceUrl": "https://udn.com/news/story/124652/9749859",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taitung-04-transport",
+      "candidateId": "taitung-04",
+      "domainId": "transport",
+      "points": [
+        "推動台 9 線拓寬與快速道路",
+        "主張高速公路延伸與環東部高鐵等長期建設"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "交通建設則主張推動台9線拓寬、快速道路、高速公路延伸及「宜花東屏高鐵」等長期建設",
+          "sourceUrl": "https://udn.com/news/story/124652/9749859",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taitung-04-economy",
+      "candidateId": "taitung-04",
+      "domainId": "economy",
+      "points": [
+        "發展農漁產加值、運動休閒、影視文化基地與觀光特區",
+        "依產業需求開辦職業訓練，以訓練代替救濟並銜接創業"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "提出農漁產加值、運動休閒、影視文化基地及觀光特區等方向",
+          "sourceUrl": "https://udn.com/news/story/124652/9749859",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "「以需定訓、以訓代賑、以賑興創」職訓政策",
+          "sourceUrl": "https://udn.com/news/story/124652/9749859",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,574 @@
+{
+  "countyId": "miaoli",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "miaoli-01-economy",
+      "candidateId": "miaoli-01",
+      "domainId": "economy",
+      "points": [
+        "配合桃竹苗大矽谷方案，推動後龍產業園區與竹南、頭份科學園區擴大",
+        "推動氫能產業示範園區與泰安地熱發電",
+        "規劃推動核心醫療產業園區",
+        "通霄公有零售市場改建"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動後龍產業園區及竹南、頭份科學園區擴大發展",
+          "sourceUrl": "https://udn.com/news/story/7324/9634520",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動氫能產業示範園區及泰安地熱發電計畫",
+          "sourceUrl": "https://udn.com/news/story/7324/9634520",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "同時規畫推動核心醫療產業園區",
+          "sourceUrl": "https://udn.com/news/story/7324/9634520",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "也規畫苑裡農產品冷鏈加工物流中心及通霄公有零售市場改建工程",
+          "sourceUrl": "https://udn.com/news/story/7324/9634520",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "miaoli-01-transport",
+      "candidateId": "miaoli-01",
+      "domainId": "transport",
+      "points": [
+        "台 61 線竹南至後龍段平交路口高架化、房裡交流道改善",
+        "台 72 線快速公路延伸銜接台 61 線",
+        "國道 1 號頭份交流道改善、增設造橋交流道",
+        "改善泰安、南庄道路與雪見聯外道路",
+        "爭取高鐵苗栗站常態增班、尖峰時段增加停靠"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "要推動台61線竹南至後龍段平交路口高架化、房裡交流道改善、台72線快速公路延伸銜接台61線等重大交通建設",
+          "sourceUrl": "https://udn.com/news/story/7324/9634520",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "辦理國道1號頭份交流道改善及增設造橋交流道工程",
+          "sourceUrl": "https://udn.com/news/story/7324/9634520",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "投入改善泰安鄉及南庄鄉道路、雪霸國家公園至雪見道路及泰安鄉中興村長橋等工程",
+          "sourceUrl": "https://udn.com/news/story/7324/9634520",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "爭取常態增班，尖峰增加停靠",
+          "sourceUrl": "https://udn.com/news/story/7324/9784788",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "miaoli-01-health",
+      "candidateId": "miaoli-01",
+      "domainId": "health",
+      "points": [
+        "促成大千醫院竹南分院、白沙屯媽祖醫院與部立苗栗醫院急重症大樓、放療中心興建",
+        "興建縣立長照醫養家園，以及苑裡、造橋衛政社政合署辦公大樓",
+        "用 AI 規劃復康巴士與長照接送的路線和派車"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "促成大千醫院竹南分院、白沙屯媽祖醫院及衛福部苗栗醫院急重症醫療大樓與放療中心興建",
+          "sourceUrl": "https://udn.com/news/story/7324/9634520",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "興建縣立長照醫養家園及苑裡鎮、造橋鄉衛社政合署辦公大樓",
+          "sourceUrl": "https://udn.com/news/story/7324/9634520",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "透過AI進行路線規劃與派車調度",
+          "sourceUrl": "https://udn.com/news/story/7324/9585613",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "miaoli-01-education",
+      "candidateId": "miaoli-01",
+      "domainId": "education",
+      "points": [
+        "與陽明交大合作設苗栗校區附設實驗高中，目標 117 學年度招生",
+        "學生免費午餐升級，研議每餐由 60 元再加 10 元、由縣府負擔",
+        "設立學生教育與職訓中心",
+        "頭份建置旗艦親子館，推動雙語科技教育"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "縣府將加速與陽明交大合作籌設苗栗校區附設實驗高中案，目標是117學年度可招生",
+          "sourceUrl": "https://udn.com/news/story/6898/9699115",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "以及學生免費營養午餐升級等",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5594549",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "加碼10元原則今年11月可以研議上路，因鄉鎮市公所已經負擔30元，10元會由縣府吸收",
+          "sourceUrl": "https://udn.com/news/story/6898/9726571",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "爭取竹南科學園區實驗高中設校及設立學生教育與職訓中心",
+          "sourceUrl": "https://udn.com/news/story/7324/9634520",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動園區聯外路網拓寬、旗艦親子館建置及雙語科技教育",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5594549",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "miaoli-01-welfare",
+      "candidateId": "miaoli-01",
+      "domainId": "welfare",
+      "points": [
+        "65 歲以上長輩每年 5,000 元三節敬老禮金",
+        "第二胎以上生育津貼提高到 5 萬元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "包括65歲以上長輩每年5000元三節敬老禮金、第二胎（含）以上生育津貼增至5萬元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5594549",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "miaoli-01-agriculture",
+      "candidateId": "miaoli-01",
+      "domainId": "agriculture",
+      "points": [
+        "規劃苑裡農產品冷鏈加工物流中心，升級農漁產業冷鏈",
+        "通霄推動海水養殖專區與冷鏈物流"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "也規畫苑裡農產品冷鏈加工物流中心及通霄公有零售市場改建工程",
+          "sourceUrl": "https://udn.com/news/story/7324/9634520",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動農漁產業冷鏈升級與偏鄉交通平權",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5594549",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動海水養殖專區與冷鏈物流",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5594549",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "miaoli-01-culture",
+      "candidateId": "miaoli-01",
+      "domainId": "culture",
+      "points": [
+        "推動明湖水岸遊憩廊帶、苗北雙城慢行綠網、白沙屯至好望角濱海廊帶",
+        "活化出磺坑觀光遊憩園區，延伸舊山線鐵道自行車路線",
+        "興建縣立總圖書館、藝文特區與竹南樂活運動館",
+        "通霄沙雕藝術節國際化"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動明湖水岸遊憩廊帶、苗北雙城慢行綠網、白沙屯至好望角濱海重要廊帶等建設",
+          "sourceUrl": "https://udn.com/news/story/7324/9634520",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "規畫活化公館出磺坑觀光遊憩園區、舊山線鐵道自行車路線延伸、原住民族特色遊憩公園及通霄沙雕藝術節國際化",
+          "sourceUrl": "https://udn.com/news/story/7324/9634520",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "同時也推動苗栗縣立總圖書館、苗栗藝文特區與竹南鎮樂活運動館等建設",
+          "sourceUrl": "https://udn.com/news/story/7324/9634520",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "miaoli-01-housing",
+      "candidateId": "miaoli-01",
+      "domainId": "housing",
+      "points": [
+        "推動公共設施保留地解編，再盤點合適土地與中央合作興建社會住宅"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "縣府目前推動公設保留地解編、還地於民，面積相當大，希望內政部支持，屆時再盤點適當土地，與中央合作興建社宅",
+          "sourceUrl": "https://udn.com/news/story/7324/9758327",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "miaoli-02-welfare",
+      "candidateId": "miaoli-02",
+      "domainId": "welfare",
+      "points": [
+        "生育津貼第一胎 6 萬、第二胎 8 萬、第三胎以上 10 萬元，其中 3 萬為分 6 年發的育兒點數",
+        "0 到 18 歲兒少專戶每月由縣府提撥 1,000 元，成年後一次領回",
+        "65 歲以上長者與 55 歲以上原住民免自付健保費",
+        "敬老卡每月額度由 700 元提高到 1,000 元，可用於就醫接駁",
+        "坐月子調理、孕產婦心理健康每胎各補助 1 萬元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "第一胎補助6萬（含現金3萬元及栗寶卡3萬點）、第二胎8萬（含現金5萬元及栗寶卡3萬點）、第三胎以上10萬元（含現金7萬元及栗寶卡3萬點）",
+          "sourceUrl": "https://udn.com/news/story/124652/9418678",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每胎每年存入5000點且每點可折抵1元，連續6年共計3萬元",
+          "sourceUrl": "https://udn.com/news/story/124652/9418678",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每月提撥1000元，給0到18歲的苗栗縣兒少，成年後由本人一次領回",
+          "sourceUrl": "https://udn.com/news/story/124652/9743658",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "第一項承諾為補助65歲以上長者及55歲以上原住民健保費",
+          "sourceUrl": "https://udn.com/news/story/124652/9540761",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "由現行每月700元提高至1000元並擴大使用範圍，納入醫療接駁等服務",
+          "sourceUrl": "https://udn.com/news/story/124652/9540761",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "包括坐月子調理每胎補助1萬元、孕產婦心理健康促進每胎補助1萬元等",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5429815",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "miaoli-02-health",
+      "candidateId": "miaoli-02",
+      "domainId": "health",
+      "points": [
+        "65 歲以上假牙補助 5 年內最高 5 萬元",
+        "65 歲以上免費接種帶狀皰疹疫苗",
+        "人工生殖、醫療性凍卵最高各補助 8 萬元，醫療性凍精 1 萬元",
+        "產前篩檢每胎最高補助 6,000 元；孕婦乘車金每胎 8,000 元"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "五年內最高補助5萬元",
+          "sourceUrl": "https://udn.com/news/story/124652/9540761",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "第四項承諾則是推動帶狀皰疹疫苗免費施打，提供65歲以上長者及55歲以上原住民接種",
+          "sourceUrl": "https://udn.com/news/story/124652/9540761",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動人工生殖最高補助8萬元、醫療性凍卵最高補助8萬元、醫療性凍精最高補助1萬元",
+          "sourceUrl": "https://udn.com/news/story/124652/9775495",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每胎最高補助6000元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5429815",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "不論身分別，每胎補助8000元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5429815",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "miaoli-02-education",
+      "candidateId": "miaoli-02",
+      "domainId": "education",
+      "points": [
+        "4 年內公托名額翻倍，一鄉鎮一公托、一親子館",
+        "臨時托育由每月 10 小時提高到每年 240 小時，增加夜間臨托",
+        "公立與非營利幼兒園延長照顧到至少晚間 6 點",
+        "外縣市初任教師前 3 年每月 3,000 元租屋津貼；導師依年資加發 1,500 至 5,000 元",
+        "偏鄉小校改採跨校合作、衛星學校或結合長照轉型"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "4年內公托名額翻倍，並推動「一鄉鎮一公托、一親子館」",
+          "sourceUrl": "https://udn.com/news/story/124652/9762943",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將臨時托育服務從目前每月10小時大幅提高至每年240小時，並增加夜間臨托",
+          "sourceUrl": "https://udn.com/news/story/124652/9762943",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "也將推動公立幼兒園及非營利幼兒園延長照顧服務至少到晚間6點",
+          "sourceUrl": "https://udn.com/news/story/124652/9762943",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "外縣市初任教師前三年，每月提供3000元租屋津貼；導師依年資加發1500至5000元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5588505",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "應推動跨校合作、衛星學校或多元轉型，並可結合社區長照、活動等需求",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5588505",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "miaoli-02-youth",
+      "candidateId": "miaoli-02",
+      "domainId": "youth",
+      "points": [
+        "老屋修繕最高補助 50 萬元，縣府協助代租代管",
+        "青年創業與留學貸款利息補貼",
+        "成立天使基金投資在地新創團隊",
+        "推動參與式預算，青年可提案並參與預算決定"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "包括老屋修繕最高補助50萬元，並由縣府協助代租代管",
+          "sourceUrl": "https://udn.com/news/story/124652/9781166",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提供青年創業及留學貸款利息補貼",
+          "sourceUrl": "https://udn.com/news/story/124652/9781166",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "成立「苗栗天使基金」，投資在地具潛力的新創團隊",
+          "sourceUrl": "https://udn.com/news/story/124652/9781166",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "同時推動參與式預算，青年能實際提出提案、參與預算決定",
+          "sourceUrl": "https://udn.com/news/story/124652/9781166",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "miaoli-02-transport",
+      "candidateId": "miaoli-02",
+      "domainId": "transport",
+      "points": [
+        "規劃環市公車，並以彈性小巴、幸福巴士開進社區，銜接台鐵與高鐵",
+        "主張國道 1 號在頭份增設第二交流道，楊梅至頭份段拓寬並延伸到銅鑼",
+        "改善學校周邊通學環境、公車候車空間與無障礙設施"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "她提出規劃「環市公車」及「彈性小巴、幸福巴士」，深入社區巷弄，補足台鐵、高鐵與地方交通之間的最後一哩路",
+          "sourceUrl": "https://udn.com/news/story/124652/9781166",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "陳品安主張國道一號在頭份增設第二交流道",
+          "sourceUrl": "https://udn.com/news/story/124652/9635125",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "而國道一號楊梅至頭份也應拓寬並延伸至銅鑼",
+          "sourceUrl": "https://udn.com/news/story/124652/9635125",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來也必須逐步改善學校周邊通學環境、公車候車空間、無障礙設施等等",
+          "sourceUrl": "https://udn.com/news/story/124652/9562234",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "miaoli-02-governance",
+      "candidateId": "miaoli-02",
+      "domainId": "governance",
+      "points": [
+        "成立 10 億元未來基金，本金留存，收益支應偏鄉教育、長照、青年留才與農業抗災",
+        "基金由外部專家過半的獨立委員會監督，公開招標委託投信代操",
+        "推動零基預算改革與財政透明"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "苗栗未來基金規劃本金10億元，且本金永續留存",
+          "sourceUrl": "https://udn.com/news/story/124652/9743658",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將可支應偏鄉教育、銀髮長照、青年留才、農業抗災等公共政策",
+          "sourceUrl": "https://udn.com/news/story/124652/9743658",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "包括成立外部專家過半監督的獨立管理委員會、基金資產由公庫專戶集中保管，公開招標委託優質投信機構辦理全權委託代操",
+          "sourceUrl": "https://udn.com/news/story/124652/9743658",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動零基預算改革與財政透明",
+          "sourceUrl": "https://udn.com/news/story/124652/9781166",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "miaoli-02-environment",
+      "candidateId": "miaoli-02",
+      "domainId": "environment",
+      "points": [
+        "盤點 18 鄉鎮市公園綠地，讓孩子步行 10 分鐘內有遊戲空間",
+        "公園增加植栽遮蔭、隔熱材質與親水設施，並規劃滑板、極限運動空間",
+        "通霄苑裡、頭份竹南各增設寵物運動公園",
+        "爭取中央提供行動監測車追查異味來源、重要路段增設聲音照相取締噪音"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "全面盤點18鄉鎮市公園與綠地，調整城市及村里空間配置，讓孩子步行十分鐘內就能找到安全、有趣且具挑戰性的遊戲空間",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5582658",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "增加植栽遮蔭、隔熱材質及親水設施",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5582658",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "規劃滑板、極限運動及戶外交流等多元遊憩空間",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5582658",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "她規劃於通霄苑裡（南區）及頭份竹南（北區）增設寵物專屬運動公園",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5552763",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建請中央挹注「行動監測車」等科技工具",
+          "sourceUrl": "https://udn.com/news/story/124652/9711221",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "陳品安也爭取在重要路段增設「移動式聲音照相設備」",
+          "sourceUrl": "https://udn.com/news/story/124652/9711221",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "miaoli-02-safety",
+      "candidateId": "miaoli-02",
+      "domainId": "safety",
+      "points": [
+        "要求八大行業與學校保持 200 公尺以上距離，並強化稽查與輔導"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "要求八大行業與學校保持200公尺以上距離，並強化實質稽查與輔導",
+          "sourceUrl": "https://udn.com/news/story/124652/9781166",
+          "sourceType": "media",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

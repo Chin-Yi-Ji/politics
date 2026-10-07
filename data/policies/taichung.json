@@ -1,0 +1,1203 @@
+{
+  "countyId": "taichung",
+  "asOf": "2026-10-07",
+  "cards": [
+    {
+      "id": "taichung-01-transport",
+      "candidateId": "taichung-01",
+      "domainId": "transport",
+      "points": [
+        "市民搭公車全程免費，含幹線、市區與捷運接駁",
+        "市府編預算補貼公車駕駛薪資缺口，以加薪解決駕駛荒",
+        "加速捷運藍線；豐原、水湳、臺中車站、烏日高鐵四大轉運站間開快捷公車",
+        "主要瓶頸路口升級全動態 AI 號誌；平面停車場改建立體停車場",
+        "向中央爭取擴建臺中國際機場航廈，增加直飛航班"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "（含幹線、市區與捷運接駁）",
+          "sourceUrl": "https://taichungway.tw/smart-transport-public-transit",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "同時由市府帶頭編列預算補貼，實質補足公車駕駛的薪資缺口，透過加薪解決駕駛荒",
+          "sourceUrl": "https://taichungway.tw/smart-transport-public-transit",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "加速捷運藍線通車與多線齊發。在過渡期，結合豐原、水湳、臺中車站、烏日高鐵等四大轉運站",
+          "sourceUrl": "https://taichungway.tw/smart-transport-public-transit",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "覆蓋主要交通瓶頸路口，依據即時車流無縫調節紅綠燈",
+          "sourceUrl": "https://taichungway.tw/smart-transport-smart-roads",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "加速將低效率的平面停車場改建為高容納率的立體停車場",
+          "sourceUrl": "https://taichungway.tw/smart-transport-smart-roads",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "市府將全力向中央爭取擴大臺中國際機場航廈與既有設施的實質擴建",
+          "sourceUrl": "https://taichungway.tw/central-taiwan-airport-gateway",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-01-housing",
+      "candidateId": "taichung-01",
+      "domainId": "housing",
+      "points": [
+        "鎖定老舊住宅與人口密集社區，擴大老屋健檢",
+        "補助高齡長輩住家的機能延壽診斷與無障礙改善",
+        "輔導民間住宅、公辦都更與社宅取得銀髮住宅標章",
+        "推動多元社會住宅"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "市府將鎖定老舊住宅與人口密集社區，擴大推動老屋健檢，構築耐災安全的居住環境。",
+          "sourceUrl": "https://taichungway.tw/senior-care-age-friendly-housing",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "的診斷與補助，從無障礙空間改善做起",
+          "sourceUrl": "https://taichungway.tw/senior-care-age-friendly-housing",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "全面鼓勵並輔導民間住宅、公辦都更與社宅取得符合國內外標準的",
+          "sourceUrl": "https://taichungway.tw/senior-care-age-friendly-housing",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "落實居住正義，推動臺中多元社會住宅",
+          "sourceUrl": "https://taichungway.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-01-education",
+      "candidateId": "taichung-01",
+      "domainId": "education",
+      "points": [
+        "成立科技教育發展中心，統一編組科技教材與師資",
+        "程式邏輯、微型機器人與生成式 AI 基礎應用融入幼兒園到高中課程",
+        "教育局內成立技職教育專責單位，增設職業探索中心",
+        "各區布建社區科學探索據點，擴大 STEAM 示範學校",
+        "營養午餐免費並提升營養；國中小導入 AI 智慧助教"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "由專責中心統一編組科技教材與師資，確保教學品質與內容的一致性，消弭城鄉數位落差。",
+          "sourceUrl": "https://taichungway.tw/robot-manufacturing-city-tech-education",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "把程式邏輯、微型機器人與生成式 AI 的基礎應用，用好玩、活潑的情境式體驗，深度融入從幼兒園到高中的課程裡",
+          "sourceUrl": "https://taichungway.tw/robot-manufacturing-city-tech-education",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "在教育局內大刀闊斧成立技職教育專責單位，統籌資源，補足長期缺乏專責統籌的現況。",
+          "sourceUrl": "https://taichungway.tw/robot-manufacturing-city-vocational-training",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "在山、海、屯、城各區廣泛布建社區科學探索據點，讓科技教育走入基層。",
+          "sourceUrl": "https://taichungway.tw/robot-manufacturing-city-steam-education",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "營養午餐免費再升級，吃飽更要吃健康",
+          "sourceUrl": "https://taichungway.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "國中小導入AI智慧助教系統",
+          "sourceUrl": "https://taichungway.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-01-health",
+      "candidateId": "taichung-01",
+      "domainId": "health",
+      "points": [
+        "整合衛生局與社會局業務成立長照處，一通電話或臨櫃辦完評估到喘息服務",
+        "重症弱勢與 65 歲以上長輩補助施打帶狀皰疹疫苗",
+        "孕婦施打 RSV 疫苗補助；6 歲以下免費施打腸病毒疫苗",
+        "產後到宅月嫂補助時數提高到 40 小時",
+        "舊衛生局大樓改建為豐原中興健康園區"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將衛生局的醫事照護與社會局的社福體系縫合，成立專責的",
+          "sourceUrl": "https://taichungway.tw/senior-care-long-term-care-office",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來民眾只要一通電話或臨櫃，就能從失能評估、居家照顧到喘息服務一條龍搞定",
+          "sourceUrl": "https://taichungway.tw/senior-care-long-term-care-office",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "針對設籍臺中的重症弱勢族群與 65 歲以上長輩，在接受必要性的公衛檢查後，提供免預約、定額或全額的帶狀皰疹疫苗施打補助",
+          "sourceUrl": "https://taichungway.tw/senior-care-long-term-care-office",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推出設籍臺中孕婦施打 RSV（呼吸道融合病毒）疫苗補助",
+          "sourceUrl": "https://taichungway.tw/parenting-friendly-city-maternal-care",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "6 歲以下免費施打幼兒腸病毒疫苗以降低停課危機",
+          "sourceUrl": "https://taichungway.tw/parenting-friendly-city-childcare-support",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提升產後到宅月嫂補助時數至 40 小時",
+          "sourceUrl": "https://taichungway.tw/parenting-friendly-city-maternal-care",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將舊衛生局大樓改建升級為",
+          "sourceUrl": "https://taichungway.tw/taichung-20-minute-city",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-01-economy",
+      "candidateId": "taichung-01",
+      "domainId": "economy",
+      "points": [
+        "成立會展經濟推動辦公室，一站式協助會展籌辦與招商",
+        "市府在國際大展組織城市主題館，取代個別企業定額補助",
+        "與大學及機器人產業聯盟合作，設機器人實驗示範園區",
+        "吸引外商研發總部進駐，擴大臺美機器人產業合作",
+        "成立 AI 賦能學院提升勞工技能；擴大挹注勞工權益基金"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "專責推廣城市品牌並協助會展籌辦。",
+          "sourceUrl": "https://taichungway.tw/exhibition-economy-taichung-hub",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "捨棄過去個別企業單打獨鬥的定額補助模式",
+          "sourceUrl": "https://taichungway.tw/exhibition-economy-city-pavilion",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "由市府單位主導，在國際指標型大展中組織專屬的",
+          "sourceUrl": "https://taichungway.tw/exhibition-economy-city-pavilion",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "在臺中打造專屬的機器人實驗示範園區。",
+          "sourceUrl": "https://taichungway.tw/robot-manufacturing-city-ai-industry",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "攜手 AIT 整合臺灣廠商與美國市場，吸引外商研發總部進駐",
+          "sourceUrl": "https://taichungway.tw/robot-manufacturing-city-ai-industry",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "成立AI賦能學院，加值勞工競爭力",
+          "sourceUrl": "https://taichungway.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "擴大挹注勞工權益基金",
+          "sourceUrl": "https://taichungway.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-01-environment",
+      "candidateId": "taichung-01",
+      "domainId": "environment",
+      "points": [
+        "搭免費公車累積綠色里程點數，可折抵公共自行車費用",
+        "設筏子溪自行車道、大甲溪高灘地水岸親水公園",
+        "建設大安親海自然步道，濱海樂園增設運動區",
+        "推動多元廚餘去化模式與智慧噪音監測系統"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "市民搭乘免費公車後可累積綠色里程點數，點數可直接實質折抵 iBike 的騎乘費用",
+          "sourceUrl": "https://taichungway.tw/smart-transport-walkable-streets",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "設置筏子溪自行車道、大甲溪高灘地水岸親水公園",
+          "sourceUrl": "https://taichungway.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建設大安親海自然步道、濱海樂園增設濱海運動區",
+          "sourceUrl": "https://taichungway.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動多元廚餘去化模式",
+          "sourceUrl": "https://taichungway.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動智慧噪音監測系統",
+          "sourceUrl": "https://taichungway.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-01-safety",
+      "candidateId": "taichung-01",
+      "domainId": "safety",
+      "points": [
+        "警消健檢補助：40 歲以上每年 4,500 元，未滿 40 歲每年 3,500 元",
+        "成立消防職業安全衛生室，推動風險評估與心理輔導",
+        "添購輕量化高防護消防衣與生命體徵監控手錶",
+        "導入高精準度毒品快篩與夜間科技執法儀器，熱點跨局處聯合稽查",
+        "整合家暴、兒少、治安、長照等八個通報網，用 AI 比對高風險個案預警"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "40 歲以上每年補助 4,500 元，未滿 40 歲提高至每年 3,500 元。",
+          "sourceUrl": "https://taichungway.tw/city-safety-first-responders",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "編制專人推動風險評估與心理輔導，接住第一線人員的創傷壓力。",
+          "sourceUrl": "https://taichungway.tw/city-safety-first-responders",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並增購高防護科技執勤裝備",
+          "sourceUrl": "https://taichungway.tw/city-safety-first-responders",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "與夜間科技執法儀器，提升攔查效率與員警安全。",
+          "sourceUrl": "https://taichungway.tw/city-safety-tech-enforcement",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "利用大數據分析出易肇事與毒酒駕熱點，展開常態性的跨局處聯合稽查",
+          "sourceUrl": "https://taichungway.tw/city-safety-tech-enforcement",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將現行家福、兒少、性平、治安、心衛、長照、食藥、就業等八個獨立的安全通報網資訊進行匯流整合。",
+          "sourceUrl": "https://taichungway.tw/city-safety-smart-safety-net",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "利用大數據與 AI 交叉比對高風險家庭、校園安全與精神衛生等邊緣信號",
+          "sourceUrl": "https://taichungway.tw/city-safety-smart-safety-net",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-01-culture",
+      "candidateId": "taichung-01",
+      "domainId": "culture",
+      "points": [
+        "以火車站為中心串聯新民街倉庫群到干城、台糖生態園，打造文創聚落與展演空間",
+        "成立文化創投媒合中心，提供文創團隊低利融資與版權媒合",
+        "企業認養古蹟或贊助藝文，給獎勵與稅費減免",
+        "藝文表演定期進到各里的廟口、活動中心與公園",
+        "公有市場裝冷氣；增設、升級國民運動中心"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "至干城、台糖生態園，打造兼具歷史美感與前瞻性的全新文創聚落與 Live House 展演空間。",
+          "sourceUrl": "https://taichungway.tw/old-town-revival-night-economy",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "為文創團隊提供低利融資、版權媒合與海外市場拓銷。",
+          "sourceUrl": "https://taichungway.tw/old-town-revival-culture-investment",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "舉凡企業實質出資認養古蹟或是贊助藝文演出，市府將給予相應獎勵、稅費減免與城市榮譽表揚",
+          "sourceUrl": "https://taichungway.tw/old-town-revival-culture-investment",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "把舞台直接搬到阿公阿嬤熟悉的廟口、社區活動中心與公園樹下",
+          "sourceUrl": "https://taichungway.tw/old-town-revival-community-arts",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "公有市場裝冷氣，打造特色市場",
+          "sourceUrl": "https://taichungway.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "增設、升級國民運動中心",
+          "sourceUrl": "https://taichungway.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-01-welfare",
+      "candidateId": "taichung-01",
+      "domainId": "welfare",
+      "points": [
+        "敬老愛心卡維持每月 1,000 點，當年度內不歸零",
+        "敬老卡計程車單趟扣抵提高到 200 點，可折抵掛號費、農會與藥局採買",
+        "育嬰留停期間市府補足 20% 薪資差額，領滿 100%",
+        "準公共托嬰補助由每月 1,400 元提高到 3,000 元；未送托育兒津貼每月加 1,000 元",
+        "孕婦接送專車延長到產後一年；產後心理諮商父母各 3 次"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "承諾維持每月 1000 點不跳票，並首創點數當年度內不歸零",
+          "sourceUrl": "https://taichungway.tw/senior-care-community-hubs",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "計程車單趟扣抵翻倍至 200 點",
+          "sourceUrl": "https://taichungway.tw/senior-care-community-hubs",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每月可用部分點數至農會與特約藥局採買保健品，看病更是不限額折抵掛號費。",
+          "sourceUrl": "https://taichungway.tw/senior-care-community-hubs",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "補足勞保給付餘下的 20% 平均月投保薪資差額，讓勞工在育嬰留停期間領滿 100% 薪資",
+          "sourceUrl": "https://taichungway.tw/parenting-friendly-city-parental-leave",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "準公共托嬰補助加碼，從每月 1,400 元提高到 3,000 元，並逐步朝向第二胎以上零月費；同時針對未送托家庭的育兒津貼，每個月再加碼 1,000 元。",
+          "sourceUrl": "https://taichungway.tw/parenting-friendly-city-childcare-support",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "的使用期限貼心延長至",
+          "sourceUrl": "https://taichungway.tw/parenting-friendly-city-maternal-care",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "的額度，打破只有媽媽能申請的限制，把新手爸爸也納入專業諮商的安全網中。",
+          "sourceUrl": "https://taichungway.tw/parenting-friendly-city-parental-leave",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-01-governance",
+      "candidateId": "taichung-01",
+      "domainId": "governance",
+      "points": [
+        "成立智慧城市發展委員會與國際合作發展委員會",
+        "建置市級主權 AI 與數據中心",
+        "成立府級婦幼發展委員會，統籌少子化對策、托育與孕產照顧",
+        "擴大市政空間導入 AI 智慧沙盒"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "成立「智慧城市發展委員會」",
+          "sourceUrl": "https://taichungway.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "成立「國際合作發展委員會」",
+          "sourceUrl": "https://taichungway.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建置「臺中市主權AI與數據中心」",
+          "sourceUrl": "https://taichungway.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "由府級親自召集，將少子化對策、婦女權益、幼兒托育與孕產婦照顧等散落的業務一權統籌",
+          "sourceUrl": "https://taichungway.tw/parenting-friendly-city-parental-leave",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "擴大市政空間導入AI智慧沙盒",
+          "sourceUrl": "https://taichungway.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-01-youth",
+      "candidateId": "taichung-01",
+      "domainId": "youth",
+      "points": [
+        "引進具全球市場能力的指標性加速器進駐",
+        "辦青創、新創嘉年華，由國際導師一對一帶路、媒合海外資金",
+        "舊縣議會改造為新創孵化基地",
+        "提供數位設計、流行音樂等人才低門檻共同工作室與啟動資源"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "市府將主動協助，引進具備全球市場能力的指標性加速器進駐臺中。",
+          "sourceUrl": "https://taichungway.tw/exhibition-economy-startup-accelerator",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "辦理青創、新創嘉年華，由國際導師一對一帶路，實質媒合海外資金。",
+          "sourceUrl": "https://taichungway.tw/exhibition-economy-startup-accelerator",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "改造成新創孵化基地，協助創業團隊在聚落內形成互助生態系",
+          "sourceUrl": "https://taichungway.tw/exhibition-economy-startup-accelerator",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "為數位設計、流行音樂等跨域人才提供低障礙的共同工作室與啟動資源。",
+          "sourceUrl": "https://taichungway.tw/old-town-revival-culture-investment",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-01-agriculture",
+      "candidateId": "taichung-01",
+      "domainId": "agriculture",
+      "points": [
+        "針對特定產區與作物發送農業災害預警簡訊",
+        "農業 APP 整合氣象預警、即時菜價與線上補助申請，內建 AI 病害診斷",
+        "擴大智慧農業產學合作補助，降低農民導入科技設備的門檻",
+        "與設計團隊重塑農產品牌，聯名餐飲打入高端通路",
+        "新設農漁牧加值平台開拓通路，帶農民參加海內外展覽"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "一旦預測到天災，系統會精準鎖定該區農民手機主動發送指引，提醒啟動防護措施，將農損降至最低。",
+          "sourceUrl": "https://taichungway.tw/smart-agriculture-disaster-alert",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將農民最關心的氣象預警、即時菜價與線上補助申請全面整合，方便農民隨時查詢。",
+          "sourceUrl": "https://taichungway.tw/smart-agriculture-disaster-alert",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "農民只要拍下作物生病的照片上傳，AI 就能即時辨識並給出建議",
+          "sourceUrl": "https://taichungway.tw/smart-agriculture-disaster-alert",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "市府將大幅擴大智慧農業產學合作的專案補助，降低基層農民導入科技設備的財務門檻與風險。",
+          "sourceUrl": "https://taichungway.tw/smart-agriculture-university-partnership",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "市府將與在地頂尖設計師和青年創意團隊合作，翻新視覺識別",
+          "sourceUrl": "https://taichungway.tw/smart-agriculture-brand-upgrade",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "跨界聯名星級餐廳與風格餐飲，將臺中優質農產推向高端消費通路",
+          "sourceUrl": "https://taichungway.tw/smart-agriculture-brand-upgrade",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "開拓新通路，點亮青農返鄉之路。",
+          "sourceUrl": "https://taichungway.tw/smart-agriculture-brand-upgrade",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-02-transport",
+      "candidateId": "taichung-02",
+      "domainId": "transport",
+      "points": [
+        "捷運藍線儘速動工，加速機場捷運橘線核定；綠線延伸大坑 4 年內動工",
+        "加速海線鐵路高架雙軌化、大慶至烏日段鐵路高架化",
+        "增設海線轉運中心；捷運完工前先規劃區域快捷公車",
+        "盤點公有土地增設停車場，制定騎樓停車管理自治條例",
+        "優先改善危險路口、行穿線退縮、庇護島與通學步道"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "捷運藍線儘速動工，加速機場捷運橘線核定及規劃設計。",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動捷運綠線延伸大坑 4 年內動工",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "加速推動海線鐵路高架雙軌化",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "加速推動大慶至烏日站鐵路高架化",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "在既有轉運中心規劃基礎上，增設海區轉運中心",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "在捷運路網尚未全面完工前，優先檢討並規劃區域快捷公車路線",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並制定《台中市騎樓停車管理自治條例》",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "優先處理危險路口、行穿線退縮、庇護島與通學動線安全",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-02-housing",
+      "candidateId": "taichung-02",
+      "domainId": "housing",
+      "points": [
+        "4 年推動 2,000 戶婚育宅，供新婚與育兒家庭申請",
+        "加速社會住宅多元興辦；推動梧棲社會住宅二期",
+        "配合中央擴大補助老宅健檢、耐震補強、消防改善與增設電梯"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "加速社會住宅多元興辦，推動 4 年 2,000 戶婚育宅，提供新婚與育兒家庭申請",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並推動梧棲社會住宅二期建設",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "配合中央政策擴大補助，推動老宅健檢、耐震補強、消防改善及電梯增設",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-02-education",
+      "candidateId": "taichung-02",
+      "domainId": "education",
+      "points": [
+        "不分公私立學校午餐全面免費，每週至少一天用有機蔬果與在地食材",
+        "公托、準公共托育與 2 歲專班名額倍增；擴大假日臨托、延長夜間托育",
+        "代理教師控留比例逐年降到 8% 以下；兼行政教師加碼獎金",
+        "一師一載具、一生一平板；國中小逐步開設程式設計課",
+        "每年編列 1 億元以上支持中小學國際交流"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動不分公私立學校午餐全面免費",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每週至少一天使用有機蔬果及在地食材",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "公托、準公共托育及 2 歲專班名額倍增；擴大假日臨托服務、延長夜間托育時段，並鼓勵企業設置托育服務。",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "逐年降低代理教師員額控留比例，回歸法規要求的 8% 以下",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "針對教師兼任行政職務，將加碼工作獎金",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "完善校園數位教學環境，提升教師教學效率與學生自主學習能力。國中小階段將逐步開設程式設計課程",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每年編列 1 億元以上預算，支持中小學推動國際交流與合作",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-02-health",
+      "candidateId": "taichung-02",
+      "domainId": "health",
+      "points": [
+        "0 至 6 歲幼兒免門診負擔、疫苗免費接種",
+        "65 歲以上長者假牙補助最高 5 萬元",
+        "高風險與弱勢長者免費接種帶狀皰疹疫苗",
+        "乳癌免費篩檢擴大納入 30 至 39 歲女性；提高女性勞工健檢補助",
+        "增加日照中心與社區照顧據點，並延長服務時段"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動 0 至 6 歲幼兒免門診負擔、疫苗免費接種",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提供 65 歲以上長者假牙補助最高 5 萬元",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "針對高風險及弱勢長者，提供免費接種帶狀皰疹疫苗服務",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "乳癌篩檢免費服務擴大納入 30 至 39 歲女性",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提高女性勞工健康檢查補助",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "增加日間照顧中心與社區照顧據點服務量能，並延長服務時段",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-02-economy",
+      "candidateId": "taichung-02",
+      "domainId": "economy",
+      "points": [
+        "商圈輔導獎勵補助經費提高 3 倍",
+        "加速大里夏田、塗城產業園區與豐洲科技工業園區二期開發",
+        "加速國際會展中心二期工程",
+        "成立 AI 創新人才培訓平台與產業創新中心，輔導中小微企業智慧升級",
+        "成立樂齡人才服務中心，協助中高齡再培訓與再就業"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "商圈輔導獎勵補助經費提高 3 倍",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "加速推動大里夏田、塗城產業園區開發",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "加速豐洲科技工業園區二期開發",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "加速推動台中國際會展中心二期工程",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "成立 AI 創新人才培訓平台",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "鼓勵傳統產業及中小微企業智慧升級，成立產業創新中心",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "成立樂齡人才服務中心，協助中高齡勞工進行職涯轉銜、技能再培訓與再就業媒合",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-02-environment",
+      "candidateId": "taichung-02",
+      "domainId": "environment",
+      "points": [
+        "加速文山焚化爐設備汰舊換新",
+        "加速處理大里垃圾掩埋場既有垃圾",
+        "推動汙水下水道建設與老舊自來水管線汰換",
+        "潭雅神公園綠地倍增，升級兒童遊具與遮蔭步道",
+        "增闢綠蔭自行車道與環河自行車路網"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "加速文山焚化爐設備汰舊換新，提升垃圾處理量能",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "要求加速處理大里垃圾掩埋場既有垃圾",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "加速推動老舊自來水管線汰換、汙水下水道建設",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動潭雅神公園綠地倍增，串聯潭雅神綠園道，全面升級兒童遊具、體健設施及遮蔭步道",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "持續增闢綠蔭休閒自行車道與環河自行車路網",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-02-safety",
+      "candidateId": "taichung-02",
+      "domainId": "safety",
+      "points": [
+        "掃蕩黑幫、暴力討債與組織犯罪，建立跨單位聯防機制",
+        "建置科技阻詐預警系統，串聯金融機構、地政與檢警調",
+        "用 AI 分析治安熱點與高風險時段，調整巡邏調度",
+        "加強校園反毒，協助中輟與高風險學生重返校園",
+        "停車場、公園設夜間安全停車區，加強照明與監視"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "嚴厲掃蕩黑幫、暴力討債及組織犯罪，對街頭暴力零容忍。建立快速應變與跨單位聯防機制",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "建置科技阻詐預警系統，串聯金融機構、地政、檢警調等單位",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "運用 AI 數據分析，掌握治安熱點、犯罪樣態與高風險時段，強化警網布建與巡邏調度",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "協助中輟及高風險學生重返校園與社會",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "要求停車場、公園等公共場所設置夜間安全停車區，強化照明、監視與警示設施",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-02-culture",
+      "candidateId": "taichung-02",
+      "domainId": "culture",
+      "points": [
+        "串聯台中車站、綠川、柳川、州廳、國漫館成舊城文化觀光廊帶",
+        "台中港支線打造為觀光鐵道",
+        "興建山城、大甲全民運動館，規劃大雅、神岡全民運動館",
+        "整合后豐鐵馬道、后里馬場、月眉糖廠等，打造后豐觀光廊帶",
+        "東勢河濱公園景觀再造；大安溪南北 15 公里海岸發展海域休閒"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "串聯台中車站、綠川、柳川、台中州廳、國漫館及周邊景點，打造中城文化觀光廊帶",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "打造台中港支線成為全台首條觀光鐵道。",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "興建山城全民運動館",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "興建大甲全民運動中心",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "規劃興建大雅、神岡全民運動館",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "整合后豐鐵馬道、后里馬場、中社花市、月眉糖廠及麗寶樂園等觀光資源",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動東勢河濱公園景觀再造",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "打造大安溪南北兩側 15 公里黃金海岸",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-02-welfare",
+      "candidateId": "taichung-02",
+      "domainId": "welfare",
+      "points": [
+        "敬老愛心卡擴大用於運動、藝文、文教、休閒場域，點數累積不歸零",
+        "生育津貼第一胎 4 萬、第二胎 6 萬、第三胎 8 萬",
+        "加碼 2 至 6 歲育兒與幼教津貼；提高教保人員待遇",
+        "推動一里一活動中心，增加日間托老與社區關懷據點",
+        "發放 500 元寵物券；補助動物醫院夜間急診"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "擴大敬老愛心卡使用範圍，涵蓋運動、藝文、文教及休閒場域，並推動點數可累積、不歸零",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "加碼生育津貼，第一胎 4 萬元、第二胎 6 萬元、第三胎 8 萬元",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並加碼補助 2 至 6 歲幼教津貼",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提高教保人員待遇，穩定托育與幼教人力",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "持續推動一里一活動中心，打造老少共融的複合型多功能空間，增加日間托老服務及社區關懷據點",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "500 元台中版寵物券",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "補助動物醫院增加夜間急診服務",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-02-governance",
+      "candidateId": "taichung-02",
+      "domainId": "governance",
+      "points": [
+        "市府女性局處首長比例不少於四分之一",
+        "主張台中港回饋金提撥一定比例，用於海線地方建設"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "市府女性局處首長任命比例不少於 1/4",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "主張台中港回饋金提撥一定比例，用於海線地方建設",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-02-youth",
+      "candidateId": "taichung-02",
+      "domainId": "youth",
+      "points": [
+        "成立青年局，專責就業、創業、國際交流與公共參與",
+        "州廳部分空間與豐原台鐵 3 號倉庫轉為青創基地，提供租金補助與培力課程",
+        "設立區域創客中心，提供共享辦公、孵化器與試驗場域",
+        "從高中職、大學階段強化職涯輔導與產業銜接",
+        "支持青年投入地方創生，建立在地品牌"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "成立青年局，專責推動青年就業、創業、國際交流及公共參與等政策",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將台中州廳部分空間轉型為青創基地",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動豐原台鐵 3 號倉庫轉型為青創基地，提供租金補助及培力課程",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並設立區域創客中心（Makerspace）",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "從高中職、大學階段開始強化職涯輔導與產業銜接",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "支持青年投入地方創生，結合農業、文化、觀光與地方特色，協助建立在地品牌與創新商業模式",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-02-agriculture",
+      "candidateId": "taichung-02",
+      "domainId": "agriculture",
+      "points": [
+        "補助導入智慧農業科技，支持農會與農民建立品牌",
+        "成立太平枇杷食農教育中心；推動枇杷專區保安林地解編",
+        "結合農會建山城農產產銷平台，協助水果、花卉、香菇外銷",
+        "升級大雅小麥、神岡荔枝、潭子馬鈴薯等特色品牌，發展農遊",
+        "持續升級漁港與碼頭設施"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "補助導入智慧農業科技，支持地方農會與農民建立品牌、拓展行銷",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "成立太平區枇杷食農教育中心",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "推動太平枇杷專區保安林地解編",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "結合地區農會推動精緻農產品產銷平台，協助水果、花卉、香菇等特色產業拓展國際市場",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "升級大雅小麥、神岡荔枝、潭子馬鈴薯等農業特色品牌，結合休閒農業發展在地農遊",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "持續升級漁港及碼頭設施",
+          "sourceUrl": "https://a-chun.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}
