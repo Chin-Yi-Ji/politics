@@ -72,7 +72,7 @@ export default function MethodPage() {
       <ol>
         <li>你在每個領域選一張卡，或選「都不滿意」。</li>
         <li>
-          你寫的期待所對應的領域，選中的卡算 {MATCHED_WEIGHT} 票；其他領域算 {NORMAL_WEIGHT} 票。
+          你一開始選的領域，選中的卡算 {MATCHED_WEIGHT} 票；其他領域算 {NORMAL_WEIGHT} 票。
         </li>
         <li>票數最高的候選人就是推薦對象。最高票不只一位時並列顯示，不硬選一位。</li>
         <li>選了政見卡的領域少於 {MIN_VALID_PICKS} 個時，只揭曉、不推薦。</li>

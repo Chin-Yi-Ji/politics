@@ -1,10 +1,13 @@
-import { classify, MAX_TEXT_LENGTH } from "@/lib/classify";
+import { classify, FREE_TEXT_ENABLED, MAX_TEXT_LENGTH } from "@/lib/classify";
 import { getCounty, getDomains } from "@/lib/data";
 import { currentTime, phaseAt } from "@/lib/phase";
 import { allow, clientKey } from "@/lib/ratelimit";
 import { getStore } from "@/lib/store";
 
 export async function POST(req: Request) {
+  if (!FREE_TEXT_ENABLED) {
+    return Response.json({ error: "這個功能目前關閉。" }, { status: 404 });
+  }
   if (!phaseAt(currentTime()).blindOpen) {
     return Response.json({ error: "盲選已經關閉。" }, { status: 403 });
   }

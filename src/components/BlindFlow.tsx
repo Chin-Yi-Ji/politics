@@ -2,15 +2,19 @@
 
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
+import type { ShareCardData } from "@/lib/sharecard";
 import type { HeatView } from "@/lib/types";
+import { DomainBallot } from "./DomainBallot";
 import { HeatAbove, HeatList, HeatNote } from "./HeatList";
 import { usePhase } from "./PhaseNotice";
+import { ShareCard } from "./ShareCard";
 import { Stamp } from "./Stamp";
 
-const MAX_TEXT = 500;
 const MAX_MATCHED = 4;
+/** 選完領域後，討論度清單列出前幾名 */
+const HEAT_TOP = 5;
 
-type DomainInfo = { id: string; name: string; hint: string };
+type DomainInfo = { id: string; name: string };
 type DeckCard = { empty: true } | { empty: false; token: string; points: string[] };
 type DeckDomain = { id: string; name: string; matched: boolean; cards: DeckCard[] };
 /** token：選了某張卡；null：都不滿意 */
@@ -64,9 +68,7 @@ export function BlindFlow({
   heat: HeatView | null;
 }) {
   const phase = usePhase();
-  const [step, setStep] = useState<"expect" | "confirm" | "pick" | "reveal">("expect");
-  const [text, setText] = useState("");
-  const [mode, setMode] = useState<"ai" | "keyword" | "manual">("manual");
+  const [step, setStep] = useState<"choose" | "heat" | "pick" | "reveal">("choose");
   const [matched, setMatched] = useState<string[]>([]);
   const [session, setSession] = useState("");
   const [deck, setDeck] = useState<DeckDomain[]>([]);
@@ -95,30 +97,13 @@ export function BlindFlow({
     }
   }
 
-  const findRelated = () =>
-    run(async () => {
-      const trimmed = text.trim();
-      if (!trimmed) {
-        setMatched([]);
-        setMode("manual");
-      } else {
-        const r = await post<{ domainIds: string[]; mode: "ai" | "keyword" }>("/api/classify", {
-          countyId,
-          text: trimmed,
-        });
-        setMatched(r.domainIds);
-        setMode(r.mode);
-      }
-      setStep("confirm");
-    });
-
   const startBlind = () =>
     run(async () => {
       const r = await post<{ session: string; deck: DeckDomain[] }>("/api/blind/start", {
         countyId,
-        text: text.trim(),
+        text: "",
         domainIds: matched,
-        mode,
+        mode: "manual",
       });
       setSession(r.session);
       setDeck(r.deck);
@@ -137,8 +122,10 @@ export function BlindFlow({
       setStep("reveal");
     });
 
+  /** 選完領域：有討論度資料就先給使用者看，沒有就直接發牌 */
+  const afterChoose = () => (heat ? setStep("heat") : startBlind());
+
   function toggleDomain(id: string) {
-    setMode("manual");
     setMatched((cur) =>
       cur.includes(id) ? cur.filter((x) => x !== id) : cur.length >= MAX_MATCHED ? cur : [...cur, id],
     );
@@ -180,6 +167,30 @@ export function BlindFlow({
 
   const current = deck[index];
   const answered = Object.keys(picks).length;
+  const heatRanks = heat ? heat.items.map((item, i) => ({ id: item.id, name: item.name, rank: i + 1 })) : [];
+  const pickedRanks = heatRanks.filter((x) => matched.includes(x.id));
+  const pickedInTop = pickedRanks.filter((x) => x.rank <= HEAT_TOP).length;
+  const pickedOutside = pickedRanks.filter((x) => x.rank > HEAT_TOP);
+
+  // 有推薦對象（單一或平手）才做分享圖；推薦關閉或資料太少時不做
+  const rec = reveal?.recommendation;
+  const shareData: ShareCardData | null =
+    reveal && rec && rec.kind !== "insufficient"
+      ? {
+          countyName,
+          winners: rec.candidateIds
+            .map((id) => reveal.tally.find((t) => t.candidateId === id))
+            .filter((t) => t !== undefined)
+            .map((t) => ({ name: t.name, party: t.party })),
+          tally: [...reveal.tally]
+            .sort((a, b) => b.weighted - a.weighted)
+            .map((t) => ({ name: t.name, weighted: t.weighted })),
+          domains: matched.map((id) => domains.find((d) => d.id === id)?.name ?? "").filter(Boolean),
+          host: typeof window === "undefined" ? "" : window.location.host,
+        }
+      : null;
+  const shareLine =
+    "先看政見，再看是誰。來盲選你的縣市長政見：" + (typeof window === "undefined" ? "" : window.location.origin);
 
   return (
     <div ref={top} tabIndex={-1} className="mx-auto max-w-3xl scroll-mt-4 px-4 pt-10 outline-none">
@@ -191,104 +202,50 @@ export function BlindFlow({
         </p>
       )}
 
-      {step === "expect" && (
+      {step === "choose" && (
         <section>
-          <h1 className="mt-2 text-4xl">你希望{countyName}改善什麼？</h1>
-          <p className="mt-3">
-            寫得越具體越好，例如「我家巷口每天早上塞車，公車又等不到」。相關的政見會排在前面先給你看。
-          </p>
-          <label htmlFor="expectation" className="mt-6 block font-bold">
-            你的期待
-          </label>
-          <textarea
-            id="expectation"
-            value={text}
-            onChange={(e) => setText(e.target.value.slice(0, MAX_TEXT))}
-            rows={6}
-            className="mt-2 w-full rounded-lg border-2 border-ink bg-card p-4 text-lg"
-            aria-describedby="expectation-help"
-          />
-          <p id="expectation-help" className="mt-1 flex justify-between gap-4 text-sm text-muted">
-            <span>請不要寫姓名、電話、地址等能認出你的資訊。這段文字會匿名儲存，不記錄 IP。</span>
-            <span className="shrink-0 tabular-nums">
-              {text.length} / {MAX_TEXT}
-            </span>
-          </p>
-          <details className="mt-4">
-            <summary className="cursor-pointer font-bold">不知道從哪裡寫起？看看可以談的方向</summary>
-            <ul className="mt-3 grid gap-x-6 gap-y-1 sm:grid-cols-2">
-              {domains.map((d) => (
-                <li key={d.id}>
-                  <span className="font-bold">{d.name}</span>
-                  <span className="text-muted">：{d.hint}</span>
-                </li>
-              ))}
-            </ul>
-          </details>
-          {heat && (
-            <aside aria-labelledby="heat-title" className="mt-6 rounded-lg border-2 border-ink bg-card px-4 py-4">
-              <h2 id="heat-title" className="text-xl">
-                {countyName}最近常被談到的事
-              </h2>
-              <p className="mt-1 text-sm text-muted">給你參考，不用照著寫。你自己在意的事才是重點。</p>
-              <div className="mt-4">
-                <HeatList heat={heat} limit={5} compact />
-              </div>
-              <HeatAbove heat={heat} limit={5} />
-              <HeatNote heat={heat} />
-            </aside>
-          )}
+          <h1 className="mt-2 text-balance text-4xl">你希望{countyName}哪裡做出改變？</h1>
+          <DomainBallot domains={domains} selected={matched} max={MAX_MATCHED} onToggle={toggleDomain} />
+          <p className="mt-3 text-sm text-muted">你選的領域會先出現，最後計票時算兩票。</p>
           <div className="mt-8 flex flex-wrap gap-3">
-            <button className="btn" onClick={findRelated} disabled={busy}>
-              {busy ? "整理中…" : text.trim() ? "找出相關的領域" : "跳過，自己選領域"}
+            <button className="btn" onClick={afterChoose} disabled={busy || matched.length === 0}>
+              {busy ? "發牌中…" : "選好了"}
             </button>
+            {matched.length === 0 && (
+              <button className="btn btn-quiet" onClick={afterChoose} disabled={busy}>
+                沒有特別在意的，直接開始
+              </button>
+            )}
           </div>
         </section>
       )}
 
-      {step === "confirm" && (
+      {step === "heat" && heat && (
         <section>
-          <h1 className="mt-2 text-4xl">這些領域會排在前面</h1>
-          <p className="mt-3">
-            {matched.length > 0
-              ? "我們把你寫的內容歸到下面打勾的領域。不對的話可以自己改，最多選 4 個。"
-              : "沒有找到明確對應的領域。你可以自己挑，最多選 4 個，也可以不選、直接開始。"}
-            這些領域在最後計票時會算兩票。
-          </p>
-          <ul className="mt-6 flex flex-wrap gap-2" aria-label="領域">
-            {domains.map((d) => {
-              const on = matched.includes(d.id);
-              return (
-                <li key={d.id}>
-                  <button
-                    type="button"
-                    aria-pressed={on}
-                    onClick={() => toggleDomain(d.id)}
-                    className={`min-h-11 rounded-full border-2 border-ink px-4 py-1.5 font-bold ${on ? "bg-ink text-white" : "bg-card"}`}
-                  >
-                    {on ? "✓ " : ""}
-                    {d.name}
-                  </button>
-                </li>
-              );
-            })}
-          </ul>
-          {heat && (
-            <p className="mt-4 text-sm text-muted">
-              參考：{countyName}最近討論較多的領域是
-              {heat.items
-                .slice(0, 3)
-                .map((i) => i.name)
-                .join("、")}
-              。
+          <h1 className="mt-2 text-balance text-4xl">{countyName}最近常被談到的事</h1>
+          {matched.length > 0 && (
+            <p className="mt-3 text-lg">
+              你選的 {matched.length} 個領域裡，有 {pickedInTop} 個在討論度前 {HEAT_TOP} 名。
             </p>
           )}
+          <div className="mt-6 rounded-lg border-2 border-ink bg-card px-4 py-4">
+            <HeatList heat={heat} limit={HEAT_TOP} compact picked={matched} />
+            {pickedOutside.length > 0 && (
+              <p className="mt-4 border-t border-line pt-3 text-sm">
+                <span className="font-bold">你選的其他領域：</span>
+                {pickedOutside.map((x) => `${x.name}（第 ${x.rank} 名）`).join("、")}
+              </p>
+            )}
+            <HeatAbove heat={heat} limit={HEAT_TOP} />
+            <HeatNote heat={heat} />
+          </div>
+          <p className="mt-3 text-sm text-muted">討論度不會改變卡片順序，也不會影響推薦。</p>
           <div className="mt-8 flex flex-wrap gap-3">
             <button className="btn" onClick={startBlind} disabled={busy}>
               {busy ? "發牌中…" : "開始盲選"}
             </button>
-            <button className="btn btn-quiet" onClick={() => setStep("expect")} disabled={busy}>
-              回去改期待
+            <button className="btn btn-quiet" onClick={() => setStep("choose")} disabled={busy}>
+              回去重選
             </button>
           </div>
         </section>
@@ -303,7 +260,7 @@ export function BlindFlow({
             <span className={current.matched ? "marked" : ""}>{current.name}</span>
           </h1>
           <p className="mt-3">
-            {current.matched ? "這是你提到的領域。" : ""}
+            {current.matched ? "這是你一開始選的領域。" : ""}
             每張卡來自一位候選人，順序是隨機的。選一張你最認同的。
           </p>
 
@@ -396,13 +353,15 @@ export function BlindFlow({
             <div className="mt-6 rounded-lg border-2 border-ink bg-card p-5">
               {reveal.recommendation.kind === "single" && (
                 <p className="font-serif text-2xl font-black">
-                  依照你喜歡的政見，推薦你投
-                  {reveal.tally.find((t) => t.candidateId === reveal.recommendation!.candidateIds[0])?.name}。
+                  依照政見，{countyName}你會投：
+                  <span className="marked">
+                    {reveal.tally.find((t) => t.candidateId === reveal.recommendation!.candidateIds[0])?.name}
+                  </span>
                 </p>
               )}
               {reveal.recommendation.kind === "tie" && (
                 <p className="font-serif text-2xl font-black">
-                  依照你喜歡的政見，
+                  依照政見，
                   {reveal.recommendation.candidateIds
                     .map((id) => reveal.tally.find((t) => t.candidateId === id)?.name)
                     .join("、")}
@@ -413,12 +372,14 @@ export function BlindFlow({
                 <p className="font-bold">你選了不到 3 個領域的政見，資料太少，這次不做推薦。</p>
               )}
               <p className="mt-2 text-sm text-muted">
-                推薦只根據你剛才選的卡片計算：你提到的領域一張算兩票，其他領域一張算一票。完整算法在
+                這個結果只根據你剛才選的卡片計算：你一開始選的領域一張算兩票，其他領域一張算一票。完整算法在
                 <Link href="/method" className="link">資料與計分方法</Link>
                 。政見摘要由 AI 整理，請對照下面的原文。
               </p>
             </div>
           )}
+
+          {shareData && <ShareCard data={shareData} shareText={shareLine} />}
 
           <h2 className="mt-10 text-2xl">你在每個領域選了什麼</h2>
           <div className="mt-4 space-y-8">
@@ -485,10 +446,12 @@ export function BlindFlow({
             <Link href={`/county/${countyId}`} className="btn">
               看{countyName}完整政見對照表
             </Link>
-            <button className="btn btn-quiet" onClick={share}>
-              {shared ? "已複製分享文字" : "分享我在意的領域"}
-            </button>
-            <button className="btn btn-quiet" onClick={() => setStep("expect")}>
+            {!shareData && (
+              <button className="btn btn-quiet" onClick={share}>
+                {shared ? "已複製分享文字" : "分享我在意的領域"}
+              </button>
+            )}
+            <button className="btn btn-quiet" onClick={() => setStep("choose")}>
               重新盲選
             </button>
           </div>

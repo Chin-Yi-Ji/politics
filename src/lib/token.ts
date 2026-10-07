@@ -20,6 +20,11 @@ function key(): Buffer {
   return createHash("sha256").update(secret).digest();
 }
 
+/** 正式環境沒設 CARD_SECRET 時回傳 false；開發環境會自動產生暫時金鑰，所以永遠是 true。 */
+export function cardSecretReady(): boolean {
+  return Boolean(process.env.CARD_SECRET) || process.env.NODE_ENV !== "production";
+}
+
 export function seal(payload: unknown): string {
   const iv = randomBytes(12);
   const cipher = createCipheriv("aes-256-gcm", key(), iv);

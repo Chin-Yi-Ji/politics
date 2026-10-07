@@ -1,13 +1,24 @@
 import { buildDeck, sealSession } from "@/lib/blind";
-import { MAX_MATCHED, MAX_TEXT_LENGTH } from "@/lib/classify";
+import { FREE_TEXT_ENABLED, MAX_MATCHED, MAX_TEXT_LENGTH } from "@/lib/classify";
 import { getCounty, getDomains } from "@/lib/data";
 import { currentTime, phaseAt } from "@/lib/phase";
 import { allow, clientKey } from "@/lib/ratelimit";
 import { getStore } from "@/lib/store";
+import { cardSecretReady } from "@/lib/token";
+import { failure, notConfigured } from "@/lib/apierror";
 
 type Body = { countyId?: unknown; text?: unknown; domainIds?: unknown; mode?: unknown };
 
 export async function POST(req: Request) {
+  if (!cardSecretReady()) return notConfigured("blind/start");
+  try {
+    return await handle(req);
+  } catch (err) {
+    return failure("blind/start", err);
+  }
+}
+
+async function handle(req: Request) {
   if (!phaseAt(currentTime()).blindOpen) {
     return Response.json({ error: "盲選已經關閉。" }, { status: 403 });
   }
@@ -22,7 +33,10 @@ export async function POST(req: Request) {
     return Response.json({ error: "這個縣市的政見還在整理中。" }, { status: 409 });
   }
 
-  const text = (typeof body?.text === "string" ? body.text.trim() : "").slice(0, MAX_TEXT_LENGTH);
+  // 自由填寫關閉時，就算有人自己送文字過來也不收
+  const text = FREE_TEXT_ENABLED
+    ? (typeof body?.text === "string" ? body.text.trim() : "").slice(0, MAX_TEXT_LENGTH)
+    : "";
   const valid = new Set(getDomains().map((d) => d.id));
   const matched = (Array.isArray(body?.domainIds) ? body.domainIds : [])
     .filter((id): id is string => typeof id === "string" && valid.has(id))

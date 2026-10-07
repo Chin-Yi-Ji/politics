@@ -46,8 +46,8 @@ export default function Home() {
         </p>
         <ol className="mt-8 grid max-w-3xl gap-3 sm:grid-cols-3">
           {[
-            ["寫下期待", "你希望這個縣市改善什麼，寫得越具體越好。"],
-            ["盲選政見", "相關的領域排在前面，每張卡都不知道是誰的。"],
+            ["選你在意的", "你希望這個縣市哪裡做出改變，最多選 4 個領域。"],
+            ["盲選政見", "你選的領域排在前面，每張卡都不知道是誰的。"],
             ["揭曉", "看看你挑的政見來自誰，再對照所有候選人。"],
           ].map(([title, body], i) => (
             <li key={title} className="border-t-2 border-ink pt-2">

@@ -1,6 +1,11 @@
 import type { Domain } from "./types";
 import type { Store } from "./store";
 
+/**
+ * 自由填寫期待的開關。站長 2026-10-08 決定先拿掉，改成直接選領域。
+ * 關閉時伺服器不接受、也不儲存任何使用者輸入的文字。
+ */
+export const FREE_TEXT_ENABLED = false;
 export const MAX_TEXT_LENGTH = 500;
 export const MAX_MATCHED = 4;
 

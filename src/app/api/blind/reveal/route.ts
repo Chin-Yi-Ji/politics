@@ -4,10 +4,21 @@ import { currentTime, effectivePhase } from "@/lib/phase";
 import { computeResult, type Pick } from "@/lib/recommend";
 import { allow, clientKey } from "@/lib/ratelimit";
 import { getStore } from "@/lib/store";
+import { cardSecretReady } from "@/lib/token";
+import { failure, notConfigured } from "@/lib/apierror";
 
 type Body = { session?: unknown; picks?: unknown };
 
 export async function POST(req: Request) {
+  if (!cardSecretReady()) return notConfigured("blind/reveal");
+  try {
+    return await handle(req);
+  } catch (err) {
+    return failure("blind/reveal", err);
+  }
+}
+
+async function handle(req: Request) {
   if (!allow(`reveal:${clientKey(req)}`, 20, 60_000)) {
     return Response.json({ error: "操作太頻繁，請一分鐘後再試。" }, { status: 429 });
   }

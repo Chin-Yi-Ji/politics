@@ -61,8 +61,12 @@ npm run dev
 | `CARD_SECRET` | 是 | 盲選卡片代碼的加密金鑰。沒設定時盲選會直接失敗。用 `openssl rand -hex 32` 產生 |
 | `ADMIN_PASSWORD` | 建議 | 後台 `/admin` 的登入密碼。沒設定就無法登入後台 |
 | `SUPABASE_URL`、`SUPABASE_SERVICE_ROLE_KEY` | 正式上線前 | 沒設定時作答、回報、後台開關只存在記憶體，服務重啟就清空 |
-| `GEMINI_API_KEY` | 選填 | 沒設定時期待分類改用關鍵字比對 |
+| `GEMINI_API_KEY` | 選填 | 目前用不到：自由填寫期待已先關閉（`FREE_TEXT_ENABLED`），使用者直接選領域 |
 | `SOURCE_MODE` | 選填 | 預設 `extended`。這個值在建置時決定，改了要重新部署 |
+
+部署完打開 `https://你的網址/api/health`，會列出哪個設定還沒到位（只顯示有沒有設，不顯示設定值）。`"ok": true` 才代表盲選可以用。
+
+常見狀況：按「開始盲選」出現「網站還沒設定完成（缺少 CARD_SECRET）」，代表 Variables 裡沒有這個變數、名稱打錯，或是加了之後沒有重新啟動服務。本機開發不會遇到，因為開發模式會自動產生暫時金鑰。
 
 ## 上線前要準備的
 

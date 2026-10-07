@@ -1,11 +1,23 @@
 import Link from "next/link";
 import type { HeatView } from "@/lib/types";
+import { Stamp } from "./Stamp";
 
 /**
  * 討論熱度的橫條清單：一個領域一列，長度代表占比。
  * 名稱、百分比和關鍵字都是文字，不靠顏色辨識；「比其他縣市更常談」也用文字標示。
  */
-export function HeatList({ heat, limit, compact = false }: { heat: HeatView; limit?: number; compact?: boolean }) {
+export function HeatList({
+  heat,
+  limit,
+  compact = false,
+  picked,
+}: {
+  heat: HeatView;
+  limit?: number;
+  compact?: boolean;
+  /** 使用者自己選的領域，在清單上標出來 */
+  picked?: string[];
+}) {
   const items = limit ? heat.items.slice(0, limit) : heat.items;
   const max = Math.max(...items.map((i) => i.share));
   return (
@@ -17,6 +29,12 @@ export function HeatList({ heat, limit, compact = false }: { heat: HeatView; lim
               {item.name}
               {item.above && (
                 <span className="ml-2 rounded-full border border-ink px-2 py-0.5 text-xs font-bold">比其他縣市常談</span>
+              )}
+              {picked?.includes(item.id) && (
+                <span className="ml-2 inline-flex items-center gap-1 align-middle text-sm text-stamp">
+                  <Stamp size={16} />
+                  你也選了
+                </span>
               )}
             </span>
             <span className="shrink-0 text-sm tabular-nums text-muted">{Math.round(item.share * 100)}%</span>

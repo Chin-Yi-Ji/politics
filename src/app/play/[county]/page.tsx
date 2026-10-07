@@ -26,6 +26,6 @@ async function Play({ params }: { params: Promise<{ county: string }> }) {
   if (!county) notFound();
   if (county.status !== "ready") redirect(`/county/${county.id}`);
 
-  const domains = getDomains().map(({ id, name, hint }) => ({ id, name, hint }));
+  const domains = getDomains().map(({ id, name }) => ({ id, name }));
   return <BlindFlow countyId={county.id} countyName={county.name} domains={domains} heat={getHeat(county.id)} />;
 }

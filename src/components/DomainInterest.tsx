@@ -30,7 +30,7 @@ export function DomainInterest({ countyId, countyName }: { countyId: string; cou
         {countyName}的使用者最在意什麼
       </h2>
       <p className="mt-1 text-sm text-muted">
-        來自 {stats.total} 份作答裡提到的領域。這是自願填寫的結果，不是民意調查，不代表{countyName}全體選民。
+        來自 {stats.total} 份作答裡選的領域。這是自願作答的結果，不是民意調查，不代表{countyName}全體選民。
       </p>
       <ul className="mt-4 max-w-2xl space-y-2">
         {stats.rows.map((row) => (
