@@ -1,6 +1,6 @@
 {
   "countyId": "chiayi-city",
-  "asOf": "2026-10-07",
+  "asOf": "2026-10-11",
   "cards": [
     {
       "id": "chiayi-city-01-housing",
@@ -225,7 +225,8 @@
       "domainId": "health",
       "points": [
         "65 歲以上長者健保費由政府全額負擔，不排富",
-        "整合工務、社政、衛政做老宅無障礙改善：評估加裝電梯、扶手防滑、浴廁改造，並簡化補助流程"
+        "整合工務、社政、衛政做老宅無障礙改善：評估加裝電梯、扶手防滑、浴廁改造，並簡化補助流程",
+        "65 歲以上、設籍滿 5 年，補助假牙 4.4 萬元加篩檢 1,000 元，合計 4.5 萬元"
       ],
       "strictPoints": [
         "65 歲以上長者健保免費",
@@ -256,6 +257,12 @@
           "sourceUrl": "https://udn.com/news/story/124652/9265332",
           "sourceType": "media",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "凡是設籍嘉義市65歲以上民眾，且設籍本市滿５年者，補助假牙裝置費４.4萬元，加上篩檢費1000元，合計４.5萬元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5599843",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     },
@@ -336,7 +343,8 @@
       "candidateId": "chiayi-city-02",
       "domainId": "housing",
       "points": [
-        "興建更多可負擔住宅，優先提供新婚與育兒家庭"
+        "興建更多可負擔住宅，優先提供新婚與育兒家庭",
+        "利用北港路、嘉北車站開發區 3% 土地興建全齡友善社宅"
       ],
       "status": "published",
       "originals": [
@@ -345,6 +353,12 @@
           "sourceUrl": "https://udn.com/news/story/124652/9525052",
           "sourceType": "media",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "利用北港路、嘉北車站開發3％土地興蓋社宅",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5599843",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     },
@@ -354,7 +368,8 @@
       "domainId": "economy",
       "points": [
         "加速北港路兩側開發，設結合高科技、物流與智慧醫療的產業園區",
-        "在既有 2 個商圈之外再增設 4 個特色商圈，振興市場與夜市"
+        "在既有 2 個商圈之外再增設 4 個特色商圈，振興市場與夜市",
+        "中高齡就業補助由市府對中央 1 比 1 加碼：部分工時獎勵最高 6 萬、續僱高齡者最高 50 萬元"
       ],
       "strictPoints": [
         "打造產業廊帶，創造就業與財源",
@@ -385,6 +400,18 @@
           "sourceUrl": "https://udn.com/news/story/124652/9525052",
           "sourceType": "media",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "補助企業壯世代部分工時就業獎勵金最高6萬元、繼續僱用高齡者補助最高50萬元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5599843",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "未來由嘉市府採取1：1對等加碼",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5599843",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     },

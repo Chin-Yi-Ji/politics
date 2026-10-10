@@ -1,6 +1,6 @@
 {
   "countyId": "taichung",
-  "asOf": "2026-10-07",
+  "asOf": "2026-10-11",
   "cards": [
     {
       "id": "taichung-01-transport",
@@ -365,7 +365,7 @@
         "以火車站為中心串聯新民街倉庫群到干城、台糖生態園，打造文創聚落與展演空間",
         "成立文化創投媒合中心，提供文創團隊低利融資與版權媒合",
         "企業認養古蹟或贊助藝文，給獎勵與稅費減免",
-        "藝文表演定期進到各里的廟口、活動中心與公園",
+        "藝文表演定期進各里廟口與公園；創辦 Hakka Sound 及梨山、谷關山和谷音樂祭",
         "公有市場裝冷氣；增設、升級國民運動中心"
       ],
       "status": "published",
@@ -405,6 +405,18 @@
           "sourceUrl": "https://taichungway.tw/future",
           "sourceType": "official",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "創辦「Hakka Sound音樂祭」",
+          "sourceUrl": "https://taichungway.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "創辦（和平）梨山、谷關「山和谷音樂祭」",
+          "sourceUrl": "https://taichungway.tw/future",
+          "sourceType": "official",
+          "capturedAt": "2026-10-11"
         }
       ]
     },
@@ -1022,6 +1034,13 @@
       "domainId": "welfare",
       "points": [
         "敬老愛心卡擴大用於運動、藝文、文教、休閒場域，點數累積不歸零",
+        "生育津貼第一胎 4 萬、第二胎 6 萬、第三胎 8 萬；每胎坐月子補助 5 萬元",
+        "加碼 2 至 6 歲育兒與幼教津貼；提高教保人員待遇",
+        "推動一里一活動中心，增加日間托老與社區關懷據點",
+        "發放 500 元寵物券；補助動物醫院夜間急診"
+      ],
+      "strictPoints": [
+        "敬老愛心卡擴大用於運動、藝文、文教、休閒場域，點數累積不歸零",
         "生育津貼第一胎 4 萬、第二胎 6 萬、第三胎 8 萬",
         "加碼 2 至 6 歲育兒與幼教津貼；提高教保人員待遇",
         "推動一里一活動中心，增加日間托老與社區關懷據點",
@@ -1070,6 +1089,12 @@
           "sourceUrl": "https://a-chun.tw/future",
           "sourceType": "official",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "每胎坐月子補助5萬元，產後心理諮商最高補助1萬元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5600916",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     },
@@ -1106,7 +1131,13 @@
         "州廳部分空間與豐原台鐵 3 號倉庫轉為青創基地，提供租金補助與培力課程",
         "設立區域創客中心，提供共享辦公、孵化器與試驗場域",
         "從高中職、大學階段強化職涯輔導與產業銜接",
-        "支持青年投入地方創生，建立在地品牌"
+        "15 至 40 歲出國逐夢補助個人最高 10 萬、團體最高 50 萬元；女性創業最高補助 60 萬元"
+      ],
+      "strictPoints": [
+        "成立青年局，專責就業、創業、國際交流與公共參與",
+        "州廳部分空間與豐原台鐵 3 號倉庫轉為青創基地，提供租金補助與培力課程",
+        "設立區域創客中心，提供共享辦公、孵化器與試驗場域",
+        "從高中職、大學階段強化職涯輔導與產業銜接"
       ],
       "status": "published",
       "originals": [
@@ -1145,6 +1176,18 @@
           "sourceUrl": "https://a-chun.tw/future",
           "sourceType": "official",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "提供15至40歲青年個人最高10萬元、團體最高50萬元補助",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5600916",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "提供女性創業最高60萬元補助",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5600916",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     },
@@ -1196,6 +1239,98 @@
           "sourceUrl": "https://a-chun.tw/future",
           "sourceType": "official",
           "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "taichung-03-economy",
+      "candidateId": "taichung-03",
+      "domainId": "economy",
+      "points": [
+        "加強國際經濟合作，目標經濟與市民生活水準各提高三成",
+        "獎勵投資，創造就業機會"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "加強國際經濟合作、提高經濟百分之三十。提高人民生活水平百分之三十。",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5599336",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "獎勵投資增加經濟、就業創造工作",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5599336",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        }
+      ]
+    },
+    {
+      "id": "taichung-03-environment",
+      "candidateId": "taichung-03",
+      "domainId": "environment",
+      "points": [
+        "強化水資源的保留與開發"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "強化水資源之保留及開發",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5599336",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        }
+      ]
+    },
+    {
+      "id": "taichung-03-welfare",
+      "candidateId": "taichung-03",
+      "domainId": "welfare",
+      "points": [
+        "增加老人福利"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "增加老人福利、青年就業率",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5599336",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        }
+      ]
+    },
+    {
+      "id": "taichung-03-youth",
+      "candidateId": "taichung-03",
+      "domainId": "youth",
+      "points": [
+        "提高青年就業率"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "增加老人福利、青年就業率",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5599336",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        }
+      ]
+    },
+    {
+      "id": "taichung-03-agriculture",
+      "candidateId": "taichung-03",
+      "domainId": "agriculture",
+      "points": [
+        "協助增加農漁業產能"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "推動協助農漁業產能增加",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5599336",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     }

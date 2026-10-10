@@ -1,6 +1,6 @@
 {
   "countyId": "miaoli",
-  "asOf": "2026-10-07",
+  "asOf": "2026-10-11",
   "cards": [
     {
       "id": "miaoli-01-economy",
@@ -567,6 +567,50 @@
           "sourceUrl": "https://udn.com/news/story/124652/9781166",
           "sourceType": "media",
           "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "miaoli-02-culture",
+      "candidateId": "miaoli-02",
+      "domainId": "culture",
+      "points": [
+        "以台 3 線推動森林療癒旅遊廊帶，協助露營區改善安全設施並合法經營",
+        "爭取設立苗東縱谷國家風景區，整合獅頭山、鯉魚潭水庫等景點",
+        "串聯鐵道、木雕與文學地景，培育導覽、文化策展與數位行銷人才",
+        "改善泰安、南庄、獅潭山區網路訊號；建置苗栗觀光大數據平台"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將以台3線為主軸推動「森林療癒」旅遊廊帶，協助既有露營區改善安全設施並依法申請合法經營",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5601137",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "設置「苗東縱谷國家風景區」，爭取中央評估整合獅頭山、鯉魚潭水庫等山城景點",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5601137",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "串聯在地鐵道、木雕及文學地景，培育導覽、文化策展與數位行銷人才",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5601137",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "協調改善泰安、南庄、獅潭等山區網路訊號",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5601137",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "規劃建置「苗栗觀光大數據平台」",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5601137",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     }

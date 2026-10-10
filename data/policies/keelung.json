@@ -1,6 +1,6 @@
 {
   "countyId": "keelung",
-  "asOf": "2026-10-07",
+  "asOf": "2026-10-11",
   "cards": [
     {
       "id": "keelung-02-transport",
@@ -268,6 +268,13 @@
         "每區一座風雨球場；安樂區增建運動中心",
         "評估古蹟夜間開放，發展港邊酒吧區、Live House 與夜間展演空間",
         "崁仔頂深夜導覽常態化；港區發展夜宿遊艇與特色住宿",
+        "活化虎仔山轉型青年旅館，中長期引進精品飯店",
+        "市府每年舉辦國慶升旗典禮"
+      ],
+      "strictPoints": [
+        "每區一座風雨球場；安樂區增建運動中心",
+        "評估古蹟夜間開放，發展港邊酒吧區、Live House 與夜間展演空間",
+        "崁仔頂深夜導覽常態化；港區發展夜宿遊艇與特色住宿",
         "活化虎仔山轉型青年旅館，中長期引進精品飯店"
       ],
       "status": "published",
@@ -319,6 +326,12 @@
           "sourceUrl": "https://t-ziwei.com/",
           "sourceType": "official",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "他所領導的市政府將每年舉辦國慶升旗典禮",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5601685",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     },
@@ -497,7 +510,8 @@
       "points": [
         "推動 50 萬坪樓地板的智慧科技園區，目標 8 萬個就業機會，配合捷運辦理都市計畫變更",
         "評估引進 AI 運算中心",
-        "發展郵輪、遊艇與海洋相關產業"
+        "發展郵輪、遊艇與海洋相關產業",
+        "與台電協調科技園區與 AI 資料中心的產業用電，提前替進駐企業培訓與媒合在地人才"
       ],
       "status": "published",
       "originals": [
@@ -524,6 +538,12 @@
           "sourceUrl": "https://udn.com/news/story/7328/9729656",
           "sourceType": "media",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來將與台電協調爭取充足產業電力，並規畫提前協助企業進行人才培訓、媒合在地就業人口",
+          "sourceUrl": "https://udn.com/news/story/124652/9803728",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     },
@@ -556,7 +576,8 @@
       "candidateId": "keelung-01",
       "domainId": "housing",
       "points": [
-        "推動新市政大樓公辦都更與東岸商場、威海營區舊址開發，設社區都更工作站"
+        "推動新市政大樓公辦都更與東岸商場、威海營區舊址開發，設社區都更工作站",
+        "推動市區老舊建築與商圈都更、大型街廓與商業設施開發；加速電線桿地下化"
       ],
       "status": "published",
       "originals": [
@@ -571,6 +592,12 @@
           "sourceUrl": "https://udn.com/news/story/7328/9498235",
           "sourceType": "media",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來市府團隊將持續推動市區老舊建築與商圈的都市更新、推動大型街廓與商業設施發展，並加速電線桿地下化等基礎建設",
+          "sourceUrl": "https://udn.com/news/story/124652/9805340",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     },
@@ -618,6 +645,30 @@
           "sourceUrl": "https://udn.com/news/story/124652/9737383",
           "sourceType": "media",
           "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "keelung-02-economy",
+      "candidateId": "keelung-02",
+      "domainId": "economy",
+      "points": [
+        "東岸整合郵輪旅運設施與威海營區 BOT，讓郵輪旅客走進市區商圈消費",
+        "西岸規劃北台灣海洋生態館與大型購物中心，串聯基隆車站"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "未來將進一步整合東岸旅運設施、威海營區BOT開發與完整的郵輪服務機能，讓郵輪旅客抵達基隆後，不要只是下船搭車就離開，而是願意真正走進市區與商圈消費",
+          "sourceUrl": "https://udn.com/news/story/124652/9803027",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "規劃北台灣海洋生態館作為重要觀光亮點，搭配「基港時代」大型購物中心，再串聯基隆車站與市區交通節點",
+          "sourceUrl": "https://udn.com/news/story/124652/9803027",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     }

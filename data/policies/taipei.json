@@ -1,6 +1,6 @@
 {
   "countyId": "taipei",
-  "asOf": "2026-10-07",
+  "asOf": "2026-10-11",
   "cards": [
     {
       "id": "taipei-01-transport",
@@ -10,7 +10,8 @@
         "2027 年上半年在北士科設無人自駕示範區，先從載貨、灑水車開始",
         "2027 年 10 月在北士科與信義路公車專用道投入 4 輛自駕公車實測",
         "2028 年初投入 12 輛自駕公車，目標推展到 15 條公車專用道",
-        "已編列約 11 億元連續性預算，用於自駕系統、車聯網與後台監控"
+        "已編列約 11 億元連續性預算，用於自駕系統、車聯網與後台監控",
+        "松山機場遷移後，捷運中和光復線直接往北貫通"
       ],
       "status": "published",
       "originals": [
@@ -43,6 +44,12 @@
           "sourceUrl": "https://udn.com/news/story/7323/9719821",
           "sourceType": "media",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "包括規畫捷運的中和光復線，未來希望當松山機場遷移後，可以直接貫通往北",
+          "sourceUrl": "https://udn.com/news/story/124652/9804825",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     },
@@ -92,7 +99,8 @@
         "社宅保留 20% 婚育配額，未來提供 1 萬戶給新婚 2 年內或育有未成年子女的家庭",
         "新婚與育兒家庭的住宅，地價稅與房屋稅以減至 0 元為目標",
         "育兒家庭續租社宅時放寬就學條件，不限原社宅所屬學區",
-        "持續盤點潛力基地興建社會住宅"
+        "持續盤點潛力基地興建社會住宅",
+        "松山機場遷移後解除航高限制，釋出 570 公頃都市更新劃定地區"
       ],
       "status": "published",
       "originals": [
@@ -119,6 +127,12 @@
           "sourceUrl": "https://udn.com/news/story/124652/9799155",
           "sourceType": "media",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "以及打開570公頃，受限於航高限制相關的都市更新劃定地區",
+          "sourceUrl": "https://udn.com/news/story/124652/9802666",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     },
@@ -188,7 +202,9 @@
       "candidateId": "taipei-01",
       "domainId": "economy",
       "points": [
-        "育兒家庭減工時不減薪計畫 2027 年擴大辦理，並彙整企業意見給中央"
+        "育兒家庭減工時不減薪計畫 2027 年擴大辦理，並彙整企業意見給中央",
+        "松山機場遷移，300 公頃規劃為 AI 產業聚落 100 公頃、住宅 90 公頃、綠地公園 110 公頃",
+        "以松南營區與機場南側和中央合作規劃台北 AI 園區"
       ],
       "status": "published",
       "originals": [
@@ -197,6 +213,18 @@
           "sourceUrl": "https://udn.com/news/story/124652/9749499",
           "sourceType": "media",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "整體300公頃的腹地，包含100 公頃AI產業聚落、包含90公頃國際永續的生活聚落，以及包括110公頃台北中央綠地公園",
+          "sourceUrl": "https://udn.com/news/story/124652/9802666",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "很願意以松南營區、松機南側，來和中央攜手整合規畫，打造全新的台北AI園區",
+          "sourceUrl": "https://udn.com/news/story/124652/9802666",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     },

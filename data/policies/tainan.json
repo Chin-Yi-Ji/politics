@@ -1,6 +1,6 @@
 {
   "countyId": "tainan",
-  "asOf": "2026-10-07",
+  "asOf": "2026-10-11",
   "cards": [
     {
       "id": "tainan-01-welfare",
@@ -408,7 +408,8 @@
         "規劃大新營、曾文南科、濱海藍帶、大目降、府城新豐五條觀光軸",
         "不新蓋景點，把既有資源依各區特色串成多日遊程",
         "同步改善公共空間、交通接駁與步行環境",
-        "後壁花卉產業園區辦常態性花卉市集，結合烏樹林、關子嶺"
+        "後壁花卉產業園區辦常態性花卉市集，結合烏樹林、關子嶺",
+        "與泰迪熊 IP 合作打造兒童主題特色公園"
       ],
       "status": "published",
       "originals": [
@@ -435,6 +436,12 @@
           "sourceUrl": "https://udn.com/news/story/124652/9653886",
           "sourceType": "media",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將攜手泰迪熊打造主題特色公園，這是我對小朋友的承諾",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5601838",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     },

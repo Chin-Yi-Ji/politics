@@ -1,6 +1,6 @@
 {
   "countyId": "changhua",
-  "asOf": "2026-10-07",
+  "asOf": "2026-10-11",
   "cards": [
     {
       "id": "changhua-01-welfare",
@@ -348,7 +348,9 @@
       "candidateId": "changhua-02",
       "domainId": "youth",
       "points": [
-        "青年首購房貸與創業貸款最高各 200 萬元，前 2 年利息由縣府全額負擔"
+        "青年首購房貸與創業貸款最高各 200 萬元，前 2 年利息由縣府全額負擔",
+        "建置青年創業基地與共學平台",
+        "升級職涯發展中心並成立 N 型未來學院，推動海外實習與姊妹市交流"
       ],
       "status": "published",
       "originals": [
@@ -357,6 +359,24 @@
           "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5566180",
           "sourceType": "media",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "並建置青年創業基地及共學平台",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5601932",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "陳素月同時提出升級職涯發展中心及「N型未來學院」",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5601932",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "並推動海外實習、國際競賽及姊妹市交流計畫",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5601932",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     },
@@ -398,7 +418,8 @@
       "points": [
         "農民職業災害保險保費由縣府全額補助，每年約增 1,076 萬元",
         "公糧運費補助由每公斤 0.35 元提高到 1 元，每年約增 2,679 萬元",
-        "以品牌行銷、跨縣市展售、企業契作與電商推廣在地稻米"
+        "以品牌行銷、跨縣市展售、企業契作與電商推廣在地稻米",
+        "成立農創學院與農地租賃資訊平台，與農業信用保證基金合作協助青農貸款"
       ],
       "status": "published",
       "originals": [
@@ -425,6 +446,24 @@
           "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5501082",
           "sourceType": "media",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "未來她打算成立類似「農創學院」的人才培育平台",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5601932",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "同時構思成立農地租賃資訊平台",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5601932",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "縣府也會與農業信用保證基金專案合作，協助青農向農會貸款",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5601932",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     },
@@ -645,6 +684,23 @@
           "sourceUrl": "https://udn.com/news/story/124652/9636018",
           "sourceType": "media",
           "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "changhua-02-health",
+      "candidateId": "changhua-02",
+      "domainId": "health",
+      "points": [
+        "與彰基合作，加速興建高鐵彰化站特定區的田中分院，補強南彰化急重症醫療"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "將積極促成彰化基督教醫院加速推動高鐵彰化站特定區的田中分院建設，補強南彰化急重症與緊急醫療量能",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5599846",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     }

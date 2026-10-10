@@ -1,6 +1,6 @@
 {
   "countyId": "hsinchu-county",
-  "asOf": "2026-10-07",
+  "asOf": "2026-10-11",
   "cards": [
     {
       "id": "hsinchu-county-01-welfare",
@@ -649,6 +649,23 @@
           "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5564007",
           "sourceType": "media",
           "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "hsinchu-county-01-environment",
+      "candidateId": "hsinchu-county-01",
+      "domainId": "environment",
+      "points": [
+        "清潔隊員每人發風扇衣；提高垃圾車、資源回收車補助與隊員健檢補助"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "提供隊員抗熱、降溫的「風扇衣」，提高垃圾車回收車等補助經費，增加清潔隊員健康檢查補助",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5599930",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     }

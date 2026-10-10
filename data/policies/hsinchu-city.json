@@ -1,6 +1,6 @@
 {
   "countyId": "hsinchu-city",
-  "asOf": "2026-10-07",
+  "asOf": "2026-10-11",
   "cards": [
     {
       "id": "hsinchu-city-01-education",
@@ -457,7 +457,8 @@
       "candidateId": "hsinchu-city-02",
       "domainId": "housing",
       "points": [
-        "重啟大車站計畫，串連前後站、復甦舊城區，並評估鐵路立體化"
+        "重啟大車站計畫，串連前後站、復甦舊城區，並評估鐵路立體化",
+        "增加社會住宅；青年租屋補助放寬資格，不只看戶籍"
       ],
       "status": "published",
       "originals": [
@@ -466,6 +467,18 @@
           "sourceUrl": "https://udn.com/news/story/124652/9771651",
           "sourceType": "media",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "除增加社會住宅",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1773715",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "青年租屋資格應該放寬",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/paper/1773715",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     },
@@ -556,7 +569,8 @@
       "domainId": "welfare",
       "points": [
         "每位設籍市民每年 16,800 元生活支持金，連發 4 年",
-        "以電子支付或市民卡發放，限市內超商、傳統市場與在地店家使用"
+        "以電子支付或市民卡發放，限市內超商、傳統市場與在地店家使用",
+        "戶籍在外縣市、在新竹就學就業的青年，可依居住期間認定補助資格"
       ],
       "status": "published",
       "originals": [
@@ -571,6 +585,12 @@
           "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5590732",
           "sourceType": "media",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "戶籍在外縣市、在新竹就學就業的青年，可依居住期間認定補助資格",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5598552",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     },
@@ -580,7 +600,9 @@
       "domainId": "transport",
       "points": [
         "主張市區鐵路立體化，串聯前後站步行空間，興建新轉運站",
-        "考慮對尖峰時段由新竹縣進入竹科的通勤車輛收通行費，並增加免費接駁"
+        "考慮對尖峰時段由新竹縣進入竹科的通勤車輛收通行費，並增加免費接駁",
+        "做 BRT 雙節公車專用道，9 人小巴接駁最後一哩路",
+        "車道由 3.2 公尺縮為 2.7 公尺，多出的空間給人行道與自行車道"
       ],
       "status": "published",
       "originals": [
@@ -595,6 +617,18 @@
           "sourceUrl": "https://udn.com/news/story/7324/9137650",
           "sourceType": "media",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "新竹市應做BRT雙節公車專用道、優先道，再用9人小巴接駁最後一哩路",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5598552",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "把車道寬度從3.2公尺縮到2.7公尺，減少2成車流量，多出來的空間還給人行道和自行車道",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5598552",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     }

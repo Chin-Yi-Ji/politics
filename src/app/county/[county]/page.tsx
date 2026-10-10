@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Suspense } from "react";
+import { DomainIcon } from "@/components/DomainIcon";
 import { DomainInterest } from "@/components/DomainInterest";
 import { getOverridesCached } from "@/lib/cached";
 import { HeatList, HeatNote } from "@/components/HeatList";
@@ -63,7 +64,7 @@ async function CountyContent({ params }: { params: Promise<{ county: string }> }
       <div className="mt-6 flex flex-wrap gap-3">
         {ready && (
           <Link href={`/play/${county.id}`} className="btn">
-            先不看名字，盲選政見
+            先不看名字，闖關盲選
           </Link>
         )}
         <Link href={`/report?county=${county.id}`} className="btn btn-quiet">
@@ -79,7 +80,7 @@ async function CountyContent({ params }: { params: Promise<{ county: string }> }
           {candidates.map((c) => {
             const src = getSources(c.id);
             return (
-              <li key={c.id} className="rounded-lg border border-line bg-card px-4 py-3">
+              <li key={c.id} className="rounded-2xl bg-card px-4 py-3 shadow-[0_1px_0_rgb(42_41_38/0.08)]">
                 <span className="font-bold">{c.name}</span>
                 <span className="ml-2 text-sm text-muted">{c.party}</span>
                 {c.note && <p className="mt-1 text-sm text-muted">{c.note}</p>}
@@ -118,11 +119,16 @@ async function CountyContent({ params }: { params: Promise<{ county: string }> }
           <h2 id="compare" className="text-2xl">
             各領域政見
           </h2>
-          <div className="mt-4 space-y-8">
+          <div className="mt-4 space-y-5">
             {domains.map((domain) => (
-              <div key={domain.id}>
-                <h3 className="border-b-2 border-ink pb-1 text-xl">{domain.name}</h3>
-                <div className="-mx-4 overflow-x-auto px-4">
+              <div key={domain.id} className={`world world-${domain.id} -mx-4 bg-[var(--w-bg)] px-4 py-5 sm:mx-0 sm:rounded-[24px] sm:px-6`}>
+                <h3 className="flex items-center gap-3 text-xl">
+                  <span className="grid h-10 w-10 place-items-center rounded-xl bg-card text-[var(--w-ink)]">
+                    <DomainIcon id={domain.id} size={26} />
+                  </span>
+                  {domain.name}
+                </h3>
+                <div className="-mx-4 overflow-x-auto px-4 sm:-mx-6 sm:px-6">
                   <ul
                     className="mt-3 grid gap-3"
                     style={{ gridTemplateColumns: `repeat(${candidates.length}, minmax(15rem, 1fr))` }}
@@ -130,16 +136,19 @@ async function CountyContent({ params }: { params: Promise<{ county: string }> }
                     {candidates.map((cand) => {
                       const card = cards.find((c) => c.domainId === domain.id && c.candidateId === cand.id);
                       return (
-                        <li key={cand.id} className="rounded-lg border border-line bg-card p-4">
+                        <li key={cand.id} className="rounded-2xl bg-card p-4">
                           <p className="font-bold">
                             {cand.name}
                             <span className="ml-2 text-sm font-normal text-muted">{cand.party}</span>
                           </p>
                           {card ? (
                             <>
-                              <ul className="mt-2 list-disc space-y-1 pl-5">
+                              <ul className="mt-2 space-y-1.5 leading-relaxed">
                                 {card.points.map((p) => (
-                                  <li key={p}>{p}</li>
+                                  <li key={p} className="flex gap-2.5">
+                                    <span aria-hidden="true" className="mt-[0.65em] h-1.5 w-1.5 shrink-0 rotate-45 bg-[var(--w-ink)]" />
+                                    <span>{p}</span>
+                                  </li>
                                 ))}
                               </ul>
                               <details className="mt-3 text-sm">

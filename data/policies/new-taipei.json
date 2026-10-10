@@ -1,6 +1,6 @@
 {
   "countyId": "new-taipei",
-  "asOf": "2026-10-07",
+  "asOf": "2026-10-11",
   "cards": [
     {
       "id": "new-taipei-01-transport",
@@ -339,6 +339,13 @@
         "在瑞芳車站旁興建九份觀光纜車；水金九舊坑道台車復駛",
         "打造深澳到貢寮的濱海自行車專用道，往西串到八里、淡水",
         "每年 15 萬份文化幣 600 元（抽籤）、15 萬份運動幣 500 元",
+        "8 年內蓋好新北大巨蛋，爭取世界棒球經典賽、大聯盟海外賽",
+        "公有空間讓在地表演團隊免費進駐排練；辦國際藝術節"
+      ],
+      "strictPoints": [
+        "在瑞芳車站旁興建九份觀光纜車；水金九舊坑道台車復駛",
+        "打造深澳到貢寮的濱海自行車專用道，往西串到八里、淡水",
+        "每年 15 萬份文化幣 600 元（抽籤）、15 萬份運動幣 500 元",
         "加速興建巨蛋，爭取世界棒球經典賽、大聯盟海外賽",
         "公有空間讓在地表演團隊免費進駐排練；辦國際藝術節"
       ],
@@ -385,6 +392,12 @@
           "sourceUrl": "https://portaly.cc/hammerlee/page/culture",
           "sourceType": "official",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "將新北大巨蛋在8年內蓋好",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5602016",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     },
@@ -396,7 +409,13 @@
         "敬老卡每月 600 點中的 300 點可用於超商、超市、藥局、計程車、診所",
         "新建原住民社會住宅並擴大租金補貼；原住民國內賽事獎金提高到 18 萬",
         "興建市立動保醫院，認養動物基本照護免費；設公有寵物生命紀念園區",
-        "國民運動中心設身障運動專區，海岸設無障礙木棧道",
+        "客家社團補助每班最高 10 萬元，客家館舍增設到 15 館",
+        "65 歲以上可申請到宅做用電、防火、防跌等 6 項安全檢查，符合標準者改善最高補助 3 萬元"
+      ],
+      "strictPoints": [
+        "敬老卡每月 600 點中的 300 點可用於超商、超市、藥局、計程車、診所",
+        "新建原住民社會住宅並擴大租金補貼；原住民國內賽事獎金提高到 18 萬",
+        "興建市立動保醫院，認養動物基本照護免費；設公有寵物生命紀念園區",
         "客家社團補助每班最高 10 萬元，客家館舍增設到 15 館"
       ],
       "status": "published",
@@ -454,6 +473,18 @@
           "sourceUrl": "https://portaly.cc/hammerlee/page/culture",
           "sourceType": "official",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "由專人到宅檢查用電安全、防火安全、防災安全、防跌安全、無障礙安全，以及急難安全。65歲以上長者皆可申請",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5600925",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "符合改善標準者每戶最高補助3萬元",
+          "sourceUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5600925",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     },
@@ -643,7 +674,7 @@
         "開辦夜間托育、擴大臨時托育，設即時查詢平台",
         "媒合企業合設托育，前三年虧損補助 50%",
         "教保員、保母等加發夜間、緊急及困難照顧津貼，並補助進修",
-        "補助技職學校學生辦畢業成果展與產學合作發表會"
+        "教師節禮金由 1,000 元提高到 2,000 元；教師假日奉派出勤可選加班費或補休"
       ],
       "status": "published",
       "originals": [
@@ -682,6 +713,18 @@
           "sourceUrl": "https://chiao.tw/policies/%e7%94%a2%e6%a5%ad%e5%8d%87%e7%b4%9a%e5%9b%9b%e5%a4%a7%e6%94%af%e6%9f%b1%e6%94%bf%e8%a6%8b",
           "sourceType": "official",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "由現行的 1,000 元調升至 2,000 元",
+          "sourceUrl": "https://chiao.tw/policies/%e4%b8%83%e5%a4%a7%e6%95%99%e8%82%b2%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "凡教師於假日因公帶隊參賽或參加研習 ，都能自由選擇請領加班費或補休。",
+          "sourceUrl": "https://chiao.tw/policies/%e4%b8%83%e5%a4%a7%e6%95%99%e8%82%b2%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-11"
         }
       ]
     },
@@ -738,8 +781,8 @@
         "新建國際會展中心，擴大補貼企業參加海內外商展",
         "開發泰山楓江、樹林大柑園科技園區，輔導未登記工廠合法進駐",
         "淡海科學城引進綠能、機器人產業與無人載具測試基地",
-        "鼓勵老舊廠房立體化改建為現代化廠辦",
-        "公私協力興建 AI 算力中心，供新創與中小企業使用"
+        "公私協力興建 AI 算力中心，供新創與中小企業使用",
+        "調升職災慰問金與勞資爭議涉訟補助金；退休煤礦工慰問金每年由 2,000 元提高到 6,000 元"
       ],
       "status": "published",
       "originals": [
@@ -784,6 +827,18 @@
           "sourceUrl": "https://chiao.tw/policies/%e7%94%a2%e6%a5%ad%e5%8d%87%e7%b4%9a%e5%9b%9b%e5%a4%a7%e6%94%af%e6%9f%b1%e6%94%bf%e8%a6%8b",
           "sourceType": "official",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "調升職災慰問金、勞資爭議涉訟補助金",
+          "sourceUrl": "https://chiao.tw/policies/%e5%8b%9e%e5%b7%a5%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "調升退休煤礦工慰問金，從每年 2000 元提高為每年 6000 元",
+          "sourceUrl": "https://chiao.tw/policies/%e5%8b%9e%e5%b7%a5%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-11"
         }
       ]
     },
@@ -793,7 +848,9 @@
       "domainId": "environment",
       "points": [
         "整頓行人環境，增加兒童避暑設施，降低部分公共設施高度",
-        "產業聚落升級公共污水與廢棄物處理設施，布建智慧環境偵測與防災系統"
+        "產業聚落升級公共污水與廢棄物處理設施，布建智慧環境偵測與防災系統",
+        "擴大寵物疫苗與健檢補助，認養毛孩終身全額補助；補貼夜間開診的動物醫院",
+        "增設寵物公園並加強遮陰；提高動物之家預算，導入行為訓練"
       ],
       "status": "published",
       "originals": [
@@ -814,6 +871,36 @@
           "sourceUrl": "https://chiao.tw/policies/%e7%94%a2%e6%a5%ad%e5%8d%87%e7%b4%9a%e5%9b%9b%e5%a4%a7%e6%94%af%e6%9f%b1%e6%94%bf%e8%a6%8b",
           "sourceType": "official",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "擴大人畜共通傳染病疫苗和健檢補助，認養毛孩更享終身全額補助。",
+          "sourceUrl": "https://chiao.tw/policies/%e4%b8%89%e5%a4%a7%e7%85%a7%e9%a1%a7%e5%af%b5%e7%89%a9%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "補貼夜間開診動物醫院",
+          "sourceUrl": "https://chiao.tw/policies/%e4%b8%89%e5%a4%a7%e7%85%a7%e9%a1%a7%e5%af%b5%e7%89%a9%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "增設寵物公園並強化遮陰防熱設施",
+          "sourceUrl": "https://chiao.tw/policies/%e4%b8%89%e5%a4%a7%e7%85%a7%e9%a1%a7%e5%af%b5%e7%89%a9%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "提升動物之家預算，強化救援量能",
+          "sourceUrl": "https://chiao.tw/policies/%e4%b8%89%e5%a4%a7%e7%85%a7%e9%a1%a7%e5%af%b5%e7%89%a9%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "導入行為訓練等專業服務",
+          "sourceUrl": "https://chiao.tw/policies/%e4%b8%89%e5%a4%a7%e7%85%a7%e9%a1%a7%e5%af%b5%e7%89%a9%e6%94%bf%e8%a6%8b",
+          "sourceType": "official",
+          "capturedAt": "2026-10-11"
         }
       ]
     },

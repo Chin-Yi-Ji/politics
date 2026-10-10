@@ -55,22 +55,24 @@ export function DomainBallot({
         </span>
       </p>
 
-      <ul className="mt-5 grid grid-cols-3 gap-px overflow-hidden rounded-lg border-2 border-ink bg-line sm:grid-cols-4">
+      <ul className="mt-5 grid grid-cols-3 gap-px overflow-hidden rounded-3xl border-2 border-ink bg-line shadow-[0_10px_24px_rgb(42_41_38/0.08)] sm:grid-cols-4">
         {domains.map((d) => {
           const on = selected.includes(d.id);
           const locked = !on && left === 0;
           return (
-            <li key={d.id} className="bg-card">
+            <li key={d.id} className={`world world-${d.id} ${on ? "bg-[var(--w-bg)]" : "bg-card"}`}>
               <button
                 type="button"
                 aria-pressed={on}
                 aria-disabled={locked}
                 onClick={() => !locked && onToggle(d.id)}
                 className={`relative flex h-full min-h-28 w-full flex-col focus-visible:-outline-offset-4 items-center justify-center gap-2 px-2 py-4 text-center sm:min-h-32 ${
-                  locked ? "cursor-not-allowed opacity-40" : "cursor-pointer hover:bg-stamp-soft"
+                  locked ? "cursor-not-allowed opacity-40" : "cursor-pointer hover:bg-[var(--w-bg)]"
                 }`}
               >
-                <DomainIcon id={d.id} size={40} />
+                <span className={on ? "text-[var(--w-ink)]" : ""}>
+                  <DomainIcon id={d.id} size={40} />
+                </span>
                 <span className="break-keep text-[0.95rem] font-bold leading-snug sm:text-base">
                   <span className={on ? "marked" : ""}>
                     <BreakableName name={d.name} />

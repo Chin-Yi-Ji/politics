@@ -1,6 +1,6 @@
 {
   "countyId": "chiayi-county",
-  "asOf": "2026-10-07",
+  "asOf": "2026-10-11",
   "cards": [
     {
       "id": "chiayi-county-01-welfare",
@@ -219,7 +219,8 @@
       "points": [
         "提高防洪標準，朝 100 年防洪計畫規劃",
         "國中先行實施出入口管理、身分辨識、校園巡查與異常通報",
-        "改善朴子荷包嶼、貴舍、鴨母寮、雙溪口、新埤排水系統"
+        "改善朴子荷包嶼、貴舍、鴨母寮、雙溪口、新埤排水系統",
+        "擴大新埤滯洪池、增設後溝尾滯洪池；嘉科防洪計畫投入 29 億元埋設大型涵管引水入朴子溪"
       ],
       "status": "published",
       "originals": [
@@ -240,6 +241,12 @@
           "sourceUrl": "https://udn.com/news/story/124652/9780376",
           "sourceType": "media",
           "capturedAt": "2026-10-07"
+        },
+        {
+          "quote": "須加高既有堤防、擴大新埤滯洪池，增設後溝尾滯洪池，嘉科百年防洪計畫投入29億元，在嘉科一、二期間埋設兩條超大型涵管，引水入朴子溪",
+          "sourceUrl": "https://udn.com/news/story/124652/9805021",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     },
@@ -447,6 +454,50 @@
           "sourceUrl": "https://udn.com/news/story/124652/9678524",
           "sourceType": "media",
           "capturedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "chiayi-county-01-transport",
+      "candidateId": "chiayi-county-01",
+      "domainId": "transport",
+      "points": [
+        "爭取台 82 線水上到朴子拓寬為三車道，鹿草端設高架分流道沿高鐵大道直通嘉科",
+        "水上機場以貨運為主，在西側台糖土地開闢新民航站與貨運集散中心",
+        "爭取改善國道 1 號嘉義交流道與鹿草交流道",
+        "尖峰加開高鐵嘉義站往返市區 BRT 區間車；拓寬縣道 169、162 甲線彎道"
+      ],
+      "status": "published",
+      "originals": [
+        {
+          "quote": "他將爭取台82快速道路水上至朴子路段拓寬為三車道，並在鹿草端設置高架分流道，沿高鐵大道直通園區",
+          "sourceUrl": "https://udn.com/news/story/124652/9805021",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "他主張推動水上機場以「貨運為主、客運為輔」發展，在機場西側台糖土地開闢新民航站，共用既有跑道，規畫停機坪與倉儲空間，打造貨運集散中心",
+          "sourceUrl": "https://udn.com/news/story/124652/9805021",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "北側將爭取改善國道1號嘉義交流道，南側改善鹿草交流道及周邊道路銜接",
+          "sourceUrl": "https://udn.com/news/story/124652/9805021",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "在上下班尖峰時段加開高鐵嘉義站往返嘉義市區的區間車",
+          "sourceUrl": "https://udn.com/news/story/124652/9805021",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
+        },
+        {
+          "quote": "另爭取拓寬縣道169線、162甲線重要彎道，讓中型巴士可以通行",
+          "sourceUrl": "https://udn.com/news/story/124652/9805021",
+          "sourceType": "media",
+          "capturedAt": "2026-10-11"
         }
       ]
     }
