@@ -45,15 +45,15 @@ function TicketStack() {
           <div className="space-y-3 px-5 pb-5 pt-4">
             <p className="flex items-center gap-2 text-[0.95rem]">
               <span className="h-2 w-2 rotate-45 bg-ink" />
-              公車班次<span className="num">加倍</span>
+              公車班次加倍
             </p>
             <p className="flex items-center gap-2 text-[0.95rem]">
               <span className="h-2 w-2 rotate-45 bg-ink" />
-              公托名額<span className="num">翻倍</span>
+              公托名額翻倍
             </p>
             <p className="flex items-center gap-2 text-[0.95rem]">
               <span className="h-2 w-2 rotate-45 bg-ink" />
-              國中小午餐<span className="num">免費</span>
+              國中小午餐免費
             </p>
             <p className="flex items-center gap-2 border-t border-line pt-3 text-sm text-muted">
               提出者

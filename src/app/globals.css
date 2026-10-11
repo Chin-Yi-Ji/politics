@@ -219,13 +219,6 @@
   margin: 0 18px;
 }
 
-/* 政見重點裡的數字、金額、時程加粗，掃一眼就抓得到 */
-.num {
-  font-weight: 700;
-  color: var(--ink);
-  background: linear-gradient(transparent 68%, var(--mark) 68%);
-}
-
 /* 過關時集章卡上蓋下的新章 */
 @keyframes trail-in {
   0% {
